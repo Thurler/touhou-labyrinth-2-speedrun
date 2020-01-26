@@ -200,7 +200,7 @@ This section talks about speedrun data and information. If you want game-specifi
 
 ## <a id="special-runs"></a>Featured Runs
 
-| Real Time | Game Time | Runner | Category | Video | Date | Description |
+| Time | IGT | Runner | Category | Video | Date | Description |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 9h56m38s | 9h03m20s | Thurler | (NG) Ame-no-Murakumo | n/a | Jan. 25 2020 | First single segment run for category
 | 9h55m00s | 9h16m15s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/playlist?list=PL3eHe2wxlYthwfDU034a04rrQhHcN_bQ5) | Jan. 24 2020 | Segmented run used as a proof of concept for the route
