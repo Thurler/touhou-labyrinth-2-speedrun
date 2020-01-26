@@ -3,6 +3,14 @@
 
 @import "";
 
+header {
+  display: none;
+}
+
+a {
+  text-decoration: underline;
+}
+
 a:link a:visited {
   color: black;
 }
