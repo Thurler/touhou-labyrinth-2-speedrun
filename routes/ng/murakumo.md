@@ -1,6 +1,7 @@
 # Beat Ame-no-Murakumo (NG)
 
 **Timer starts on** selecting New Game on title screen
+
 **Timer ends on** fade to black after Murakumo fight battle results screen
 
 [Back to index page](../../index.md)
