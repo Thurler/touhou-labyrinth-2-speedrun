@@ -12,7 +12,7 @@
 These are links to the routes for each category. Runs that haven't been routed are crossed out. It will be a loooong time until everything is available.
 
 ### New Game
-* Ame-no-Murakumo
+* [Ame-no-Murakumo](routes/ng/murakumo.md)
 * ~~Enhanced Ame-no-Murakumo~~
 * ~~All Achievements~~
 * ~~Yamata-no-Orochi~~
@@ -32,63 +32,64 @@ These are links to the routes for each category. Runs that haven't been routed a
 
 This section talks about speedrun data and information. If you want game-specific data and information, please refer to the [English Wiki](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/Characters).
 
+
 #### Starting Characters
-* Reimu Hakurei
-* Marisa Kirisame
-* Rinnosuke Morichika
-* Keine Kamishirasawa
+* [Reimu Hakurei](chara/reimu.md)
+* [Marisa Kirisame](chara/marisa.md)
+* [Rinnosuke Morichika](chara/kourin.md)
+* [Keine Kamishirasawa](chara/keine.md)
 
 #### First Stratum Characters
-* Momiji Inubashiri
-* Youmu Konpaku
-* Kogasa Tatara
-* Rumia
-* Cirno
-* Minoriko Aki
-* Komachi Onozuka
-* Chen
-* Nitori Kawashiro
-* Parsee Mizuhashi
+* [Momiji Inubashiri](chara/momiji.md)
+* [Youmu Konpaku](chara/youmu.md)
+* [Kogasa Tatara](chara/kogasa.md)
+* [Rumia](chara/rumia.md)
+* [Cirno](chara/cirno.md)
+* [Minoriko Aki](chara/minoriko.md)
+* [Komachi Onozuka](chara/komachi.md)
+* [Chen](chara/chen.md)
+* [Nitori Kawashiro](chara/nitori.md)
+* [Parsee Mizuhashi](chara/parsee.md)
 
 #### Second Stratum Characters
-* Wriggle Nightbug
-* Kaguya Houraisan
-* Fujiwara no Mokou
-* Aya Shameimaru
-* Mystia Lorelei
-* Kasen Ibaraki
-* Nazrin
-* Hina Kagiyama
-* Rin Kaenbyou
-* Utsuho Reiuji
-* Satori Komeiji
-* Yuugi Hoshiguma
+* [Wriggle Nightbug](chara/wriggle.md)
+* [Kaguya Houraisan](chara/kaguya.md)
+* [Fujiwara no Mokou](chara/mokou.md)
+* [Aya Shameimaru](chara/aya.md)
+* [Mystia Lorelei](chara/mystia.md)
+* [Kasen Ibaraki](chara/kasen.md)
+* [Nazrin](chara/nazrin.md)
+* [Hina Kagiyama](chara/hina.md)
+* [Rin Kaenbyou](chara/rin.md)
+* [Utsuho Reiuji](chara/utsuho.md)
+* [Satori Komeiji](chara/satori.md)
+* [Yuugi Hoshiguma](chara/yuugi.md)
 
 #### Third Stratum Characters
-* Hong Meiling
-* Alice Margatroid
-* Patchouli Knowledge
-* Eirin Yagokoro
-* Reisen Udongein Inaba
-* Sanae Kochiya
-* Iku Nagae
-* Suika Ibuki
-* Ran Yakumo
+* [Hong Meiling](chara/meiling.md)
+* [Alice Margatroid](chara/alice.md)
+* [Patchouli Knowledge](chara/patchy.md)
+* [Eirin Yagokoro](chara/eirin.md)
+* [Reisen Udongein Inaba](chara/reisen.md)
+* [Sanae Kochiya](chara/sanae.md)
+* [Iku Nagae](chara/iku.md)
+* [Suika Ibuki](chara/suika.md)
+* [Ran Yakumo](chara/ran.md)
 
 #### Fourth Stratum Characters
-* Remilia Scarlet
-* Sakuya Izayoi
-* Kanako Yasaka
-* Suwako Moriya
-* Tenshi Hinanawi
-* Flandre Scarlet
+* [Remilia Scarlet](chara/remilia.md)
+* [Sakuya Izayoi](chara/sakuya.md)
+* [Kanako Yasaka](chara/kanako.md)
+* [Suwako Moriya](chara/suwako.md)
+* [Tenshi Hinanawi](chara/tenshi.md)
+* [Flandre Scarlet](chara/flandre.md)
 
 #### Fifth Stratum Characters
-* Yuyuko Saigyouji
-* Yuuka Kazami
-* Yukari Yakumo
-* Byakuren Hijiri
-* Shikieiki Yamaxanadu
+* [Yuyuko Saigyouji](chara/yuyuko.md)
+* [Yuuka Kazami](chara/yuuka.md)
+* [Yukari Yakumo](chara/yukari.md)
+* [Byakuren Hijiri](chara/byakuren.md)
+* [Shikieiki Yamaxanadu](chara/eiki.md)
 
 #### Post-game Characters
 * ~~Renko Usami~~
@@ -108,91 +109,92 @@ This section talks about speedrun data and information. If you want game-specifi
 
 This section talks about speedrun data and information. If you want game-specific data and information, please refer to the English Wiki [dungeon section](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/Dungeons) and [bestiary](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/Bestiary).
 
+
 #### First Stratum Enemies
-* Random Encounters
+* [Random Encounters](enemy/trash1.md)
 * ~~Malignut Eater~~
-* Youmu Konpaku
-* Chrysomallos
+* [Youmu Konpaku](enemy/youmu.md)
+* [Chrysomallos](enemy/chrysomallos.md)
 * ~~Alice's Doll~~
-* Kaguya Houraisan
-* Lesser Golem
-* Alaya-Vijnana
-* Great Tree's Poisonous Wasp
-* Komachi Onozuka
+* [Kaguya Houraisan](enemy/kaguya.md)
+* [Lesser Golem](enemy/lessergolem.md)
+* [Alaya-Vijnana](enemy/alayavijnana.md)
+* [Great Tree's Poisonous Wasp](enemy/poisonwasp.md)
+* [Komachi Onozuka](enemy/komachi.md)
 
 #### Second Stratum Enemies
-* Random Encounters
+* [Random Encounters](enemy/trash2.md)
 * ~~Lamprey Serpent~~
 * ~~Alice's Remote Doll~~
-* Great Tree's Paralysing Wasp
-* Fujiwara no Mokou
+* [Great Tree's Paralysing Wasp](enemy/parawasp.md)
+* [Fujiwara no Mokou](enemy/mokou.md)
 * ~~Siren of Silence~~
 * ~~Philosopher's Stone - Fire~~
-* Kraken
-* Hina Kagiyama
+* [Kraken](enemy/kraken.md)
+* [Hina Kagiyama](enemy/hina.md)
 * ~~Yuugi Hoshiguma~~
 * ~~Philosopher's Stone - Water~~
 * ~~Philosopher's Stone - Wind~~
-* Blue Orchid
-* Tenshi Hinanawi
+* [Blue Orchid](enemy/orchid.md)
+* [Tenshi Hinanawi](enemy/tenshi.md)
 
 #### Third Stratum Enemies
-* Random Encounters
+* [Random Encounters](enemy/trash3.md)
 * ~~Philosopher’s Stone - Earth~~
 * ~~Philosopher’s Stone - Mystic~~
 * ~~Jungle’s Demonic Eye~~
 * ~~Alice Margatroid~~
 * ~~Violet Ada-Bana~~
-* Iku Nagae
+* [Iku Nagae](enemy/iku.md)
 * ~~Ran Yakumo~~
-* Tenshi Hinanawi
+* [Tenshi Hinanawi](enemy/tenshi2.md)
 
 #### Fourth Stratum Enemies
-* Random Encounters
-* Desert Weapon - Gold Hymn
+* [Random Encounters](enemy/trash4.md)
+* [Desert Weapon - Gold Hymn](enemy/goldhymn.md)
 * ~~Desert Weapon – Silver Mail~~
-* Sakuya Izayoi and Remilia Scarlet
-* Divine Beasts' Golden Mirror
-* Magatama of Amber Fangs
-* Tenshi Hinanawi
+* [Sakuya Izayoi and Remilia Scarlet](enemy/sakuremi.md)
+* [Divine Beasts' Golden Mirror](enemy/mirror.md)
+* [Magatama of Amber Fangs](enemy/magatama.md)
+* [Tenshi Hinanawi](enemy/tenshi3.md)
 * ~~Flandre Scarlet~~
 
 #### Fifth Stratum Enemies
-* Random Encounters
-* Memorized Knowledge
-* Yuyuko Saigyouji
+* [Random Encounters](enemy/trash5.md)
+* [Memorized Knowledge](enemy/knowledge.md)
+* [Yuyuko Saigyouji](enemy/yuyuko.md)
 * ~~Burning Hell's Lava Dragon~~
-* Glowing Azure Giant
-* Yukari Yakumo
-* Yuuka Kazami
+* [Glowing Azure Giant](enemy/azuregiant.md)
+* [Yukari Yakumo](enemy/yukari.md)
+* [Yuuka Kazami](enemy/yuuka.md)
 * ~~Shikieiki Yamaxanadu~~
 
 #### Sixth Stratum Enemies
-* Random Encounters
-* Black Goddess of Fertility
+* [Random Encounters](enemy/trash6.md)
+* [Black Goddess of Fertility](enemy/goddess.md)
 * ~~Taur Magician~~
-* Golden Orb Trio
+* [Golden Orb Trio](enemy/goldenorbs.md)
 
 #### Final Stratum Enemies
-* Random Encounters
-* Mirror of the High God
-* Magatama of the High God
-* Ame-no-Murakumo
+* [Random Encounters](enemy/trash7.md)
+* [Mirror of the High God](enemy/highmirror.md)
+* [Magatama of the High God](enemy/highmagatama.md)
+* [Ame-no-Murakumo](enemy/murakumo.md)
 
 ## <a id="item-info"></a>Item Data and Information
 
 #### Special Items
-* Treasure Chest Keys
-* Stones of Awakening
+* [Treasure Chest Keys](item/keys.md)
+* [Stones of Awakening](item/subclass.md)
 
 #### Equipment
-* Main Equipments
-* Sub Equipments
-* Materials
+* [Main Equipments](item/main.md)
+* [Sub Equipments](item/sub.md)
+* [Materials](item/material.md)
 
 #### Miscellaneous
-* Enemy Drop Rates
-* Neglected Treasure Chests
+* [Enemy Drop Rates](item/drop.md)
+* [Treasure Chest Listing](item/chests.md)
 
 ## <a id="special-runs"></a>Featured Runs
 
