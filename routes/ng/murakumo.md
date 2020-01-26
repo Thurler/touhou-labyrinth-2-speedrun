@@ -135,7 +135,7 @@
 	* Keine spams 3ST - Sword
 	* Momiji does Attack -> Switch Reimu for Marisa -> Rabies Bite
 	* Marisa uses Buff -> Buff -> MP Heal -> Master Spark
-	* For finer details see Youmu's Boss Info (3.1.1)
+	* For finer details see Youmu's [Boss Info](../../enemy/youmu.md)
 * Exit the dungeon when you beat Youmu
 
 ## <a id="Header-1-3"></a>Explore 2F (Part 1)
@@ -187,7 +187,7 @@
 	* Marisa uses Buff -> Buff -> MP Heal -> Master Spark
 		* If Marisa gets TRR just spam Magic Missile
 	* Reimu and Rumia can also deal reliable damage
-	* For finer details see Chrysomallos' Boss Info (3.3.1)
+	* For finer details see Chrysomallos' [Boss Info](../../enemy/chrysomallos.md)
 * Keep going up and take the north treasure in 1F, then exit the dungeon
 
 ## <a id="Header-1-5"></a>Explore 2F (Part 2)
@@ -318,7 +318,7 @@
 		* Rumia's Moonlight Ray
 		* Youmu's Slash Clearing the Six Senses
 	* Kourin and Momiji can combo switch to spam moves
-	* For finer details see Komachi' Boss Info (3.1.2)
+	* For finer details see Komachi' [Boss Info](../../enemy/komachi.md)
 * Take the stairs to 4F, get the relay point and exit the dungeon
 
 # <a id="Header-2"></a>Ocean Stratum (4F ~ 6F)
@@ -404,7 +404,7 @@
 	* Kasen spams Higekiri's Cursed Arm
 	* Keine spams 3ST - Sword
 	* Nitori buff x3 -> Super Scope
-	* For finer details see Para Wasp's Boss Info (3.2.3)
+	* For finer details see Para Wasp's [Boss Info](../../enemy/parawasp.md)
 * Head back to Gensokyo and enter the dungeon on (3F)
 * Go talk to Eirin on 2F
 * Head back to Gensokyo and enter the dungeon on (3F Center)
@@ -455,7 +455,7 @@
 		* Kasen must Concentrate before 3rd one to sync up with Parsee delay
 	* Nitori can nuke the boss with Super Scope when Parsee has no MP
 	* Marisa and Rumia can deal some damage by the end
-	* For finer details see Kraken's Boss Info (3.1.3)
+	* For finer details see Kraken's [Boss Info](../../enemy/kraken.md)
 * Exit the dungeon and go back to Gensokyo
 
 ## <a id="Header-2-5"></a>Hina Fight
@@ -480,7 +480,7 @@
 		* Reimu can also buff/heal and tank a hit
 	* On Biorhythm of Misfortune God, cast Midnight Anathema Ritual
 	* On second cast of biorhythm, damage race
-	* For finer details see Hina's Boss Info (3.1.4)
+	* For finer details see Hina's [Boss Info](../../enemy/hina.md)
 * Go up and take the 6F relay, then go back to Gensokyo
 
 ## <a id="Header-2-6"></a>Explore 6F
@@ -576,7 +576,7 @@
 	* Aya buffs Keine and then Parsee's SPD
 	* Keine uses 3ST - Mirror then spams 3ST - Sword
 	* Rumia spams Dark Side of the Moon
-	* For finer details see Blue Orchid's Boss Info (3.1.5)
+	* For finer details see Blue Orchid's [Boss Info](../../enemy/orchid.md)
 * Go back to Gensokyo
 
 ## <a id="Header-2-8"></a>Mokou Side Quest
@@ -594,7 +594,7 @@
 	* Nitori spams Kappa's Waterfall
 	* Keine spams 3ST - Sword
 	* After Mokou resurrects, switch in Marisa for Master Spark
-	* For finer details see Mokou's Boss Info (3.2.4)
+	* For finer details see Mokou's [Boss Info](../../enemy/mokou.md)
 * Go back to Gensokyo and re-enter through (5F)
 * Go down and see the event with Mokou and Kaguya
 * **CHOOSE MOKOU** (Just hold A)
@@ -752,7 +752,7 @@
 	* For damage rush, you want Parsee/Kourin/Aya/Nitori
 		* Aya DGAs Nitori, Parsee and Kourin combo switch
 	* After LDS clean up asap with Kasen/Nitori/Chen
-	* For finer details see Iku's Boss Info (3.1.7)
+	* For finer details see Iku's [Boss Info](../../enemy/iku.md)
 * Go back to Gensokyo to heal
 
 ## <a id="Header-3-4"></a>Explore 8F (Part 2)
@@ -876,7 +876,7 @@
 		* After self buff MAG and Tenshi's MND is debuffed, spam EDP
 	* After she concentrates, begin swapping out for beefy characters
 		* Nitori / Sanae / Reimu / Komachi is a good lineup
-	* For finer details see Tenshi's Boss Info (3.1.8)
+	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi2.md)
 * Take the stairs to 10F and get the relay point
 * Go back to Gensokyo to heal
 
@@ -957,7 +957,7 @@
 	* Kasen spams Divine Waltz of Raijuu to keep PAR
 	* Nitori spams Kappa's Watterfall
 	* Keine spams 3ST - Sword
-	* For finer details see Gold Hymn' Boss Info (3.3.3)
+	* For finer details see Gold Hymn' [Boss Info](../../enemy/goldhymn.md)
 * Get the treasure behind FOE, then exit the dungeon
 * Re-enter to talk to Kanako and then again for Suwako
 
@@ -999,7 +999,7 @@
 	* Chen can really hurt Remilia with Kimontonkou + PSW
 	* Iku can attack with EDP if MND debuff present
 	* Reimu is a good source of quick damage with Yin-Yang, if buffed
-	* For finer details see RemiSaku's Boss Info (3.1.9)
+	* For finer details see RemiSaku's [Boss Info](../../enemy/sakuremi.md)
 * Take the stairs to 11F and get the relay circle, then retreat to Gensokyo
 
 ## <a id="Header-4-4"></a>Explore 11F
@@ -1119,7 +1119,7 @@
 		* DGA again for try #3
 	* Reisen spams Grand Patriot's Elixir so she lives
 	* Komachi spams Ferriage in Deep Fog for DTH
-	* For finer details see Golden Mirror's Boss Info (3.1.10)
+	* For finer details see Golden Mirror's [Boss Info](../../enemy/mirror.md)
 * When you're done, retreat to Gensokyo
 
 ## <a id="Header-4-7"></a>Magatama Fight
@@ -1133,7 +1133,7 @@
 		* DGA again for try #3
 	* Reisen spams Grand Patriot's Elixir so she lives
 	* Komachi spams Ferriage in Deep Fog for DTH
-	* For finer details see Magatama's Boss Info (3.1.11)
+	* For finer details see Magatama's [Boss Info](../../enemy/magatama.md)
 * When you're done, retreat to Gensokyo
 
 ## <a id="Header-4-8"></a>Tenshi 3 Fight
@@ -1191,7 +1191,7 @@
 	* Iku spams Normal Attack
 	* After she concentrates, begin swapping out for beefy characters
 		* Nitori / Sanae / Reimu / Komachi is a good lineup
-	* For finer details see Tenshi's Boss Info (3.1.12)
+	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi3.md)
 * When you're done, move to 13F and take the relay circle
 
 # <a id="Header-5"></a>Fire Stratum (13F ~ 15F)
@@ -1285,7 +1285,7 @@
 		* Rin self switches for Sanae for Miracle Fruit
 	* Reisen stays for Intense Vertigo and Discarder
 	* Chen + Parsee is the way to victory
-	* For finer details see Memorized Knowledge's Boss Info (3.1.13)
+	* For finer details see Memorized Knowledge's [Boss Info](../../enemy/knowledge.md)
 * When you're done, simply go back to Gensokyo
 
 ## <a id="Header-5-4"></a>Explore 13F (Part 2)
@@ -1380,7 +1380,7 @@
 		* DGA again for try #3
 	* Reisen spams Grand Patriot's Elixir so she lives
 	* Komachi spams Ferriage in Deep Fog for DTH
-	* For finer details see Azure Giant's Boss Info (3.1.14)
+	* For finer details see Azure Giant's [Boss Info](../../enemy/azuregiant.md)
 * When you're done, go back to Gensokyo
 
 ## <a id="Header-5-8"></a>Yuuka Side Quest
@@ -1461,7 +1461,7 @@
 		* Kappa Waterfall and Kimontonkou+PSW
 	* When she reached 40% and Concentrates, swap Rin in
 	* Damage race until her Master Spark, can SHK her
-	* For finer details see Yuuka's Boss Info (3.2.5)
+	* For finer details see Yuuka's [Boss Info](../../enemy/yuuka.md)
 * When you're done, go back to Gensokyo
 
 ## <a id="Header-5-9"></a>Yuyuko  Fight
@@ -1506,7 +1506,7 @@
 	* Yuuka and Satori spam Beauty of Nature to increase TRR
 		* Chen can help with delay
 	* When TRR reaches 3.5~4 million, swap in Parsee to JotKaL OHKO
-	* For finer details see Yuyuko's Boss Info (3.1.15)
+	* For finer details see Yuyuko's [Boss Info](../../enemy/yuyuko.md)
 * When you're done, go back to Gensokyo
 
 ## <a id="Header-5-10"></a> Yukari Fight
@@ -1554,7 +1554,7 @@
 	* When TRR reaches 3.5~4 million, swap in Parsee to JotKaL OHKO
 		* Can do it from 2.5~3 million if you can still buff to 50%+
 		* Sanae is the only reliable buff
-	* For finer details see Yukari's Boss Info (3.1.16)
+	* For finer details see Yukari's [Boss Info](../../enemy/yukari.md)
 * After defeating her, get the 16F relay point and go back to Gensokyo
 
 # <a id="Header-6"></a>Dark Stratum (16F ~ 18F)
@@ -1635,7 +1635,7 @@
 	* Nitori swaps in to nuke with Super Scope
 		* Try to have Satori out when she's about to strike
 		* Satori increases damage by 24% with Trauma Recollection
-	* For finer details see Goddess of Fertility's Boss Info (3.1.17)
+	* For finer details see Goddess of Fertility's [Boss Info](../../enemy/goddess.md)
 * Go back to Gensokyo to heal after the fight
 
 ## <a id="Header-6-4"></a>Explore 17F (Part 2)
@@ -1694,7 +1694,7 @@
 		* Try to have Satori out when she's about to strike
 		* Satori increases damage by 24% with Trauma Recollection
 		* Use Extending Arm for Canopy
-	* For finer details see Golden Orb Trio's Boss Info (3.1.18)
+	* For finer details see Golden Orb Trio's [Boss Info](../../enemy/goldenorbs.md)
 * Go back to Gensokyo to heal after the fight
 
 # <a id="Header-7"></a>Heaven Stratum (19F ~ 20F)
@@ -1784,7 +1784,7 @@
 	* Satori comes in when Iku has no MP
 		* She Sarutahiko's Aya to keep her SPD
 	* Iku spams EDP when fully buffed
-	* For finer details see High Mirror's Boss Info (3.1.19)
+	* For finer details see High Mirror's [Boss Info](../../enemy/highmirror.md)
 * Go back to Gensokyo to heal after the fight
 
 ## <a id="Header-7-4"></a>High Magatama Fight
@@ -1810,7 +1810,7 @@
 	* Reisen comes in only to debuff Mirror MND
 	* Sanae buffs Iku, can buff Aya in a pinch
 	* Iku spams regular attack
-	* For finer details see High Magatama's Boss Info (3.1.20)
+	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
 * Go back to Gensokyo to heal after the fight
 
 ## <a id="Header-7-5"></a>Explore 20F Depths
@@ -1914,7 +1914,7 @@
 			* She can also buff Parsee, but risks PAR
 		* Whenever you're ready sacrifice Yuuka
 		* Make sure Satori is out when Parsee JotKaL
-	* For finer details see Ame-no-Murakumo's Boss Info (3.1.21)
+	* For finer details see Ame-no-Murakumo's [Boss Info](../../enemy/murakumo.md)
 * GG !!!
 
 [Back to index page](../../index.md)
