@@ -7,6 +7,8 @@
 * [Item Data and Information](#item-info)
 * [Featured Runs](#special-runs)
 
+Huge shoutouts to the [japanese wiki](https://www54.atwiki.jp/thlabyroth2/) for providing maps for all the floors, and the [english wiki](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/) for providing bestiary information, as well as being a great source of general information regarding the game.
+
 ## <a id="speedrun-routes"></a>The Speedrun Routes
 
 These are links to the routes for each category. Runs that haven't been routed are crossed out. It will be a loooong time until everything is available.
