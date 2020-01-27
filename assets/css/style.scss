@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+  color: #40aae3;
+}
+
+#runs-table + table {
+  width: 1000px;
+  margin-left: -180px;
+}
