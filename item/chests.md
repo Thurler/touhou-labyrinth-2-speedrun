@@ -1,0 +1,576 @@
+# Treasure Chest Master List
+
+This page lists every treasure chest in the game, their contents and whether they are collected on each route. This allows you to easily track down which treasure chests are ignored for each route. At the end there is also a list of neglected items for each route.
+
+[Back to index page](../index.md)
+
+## Quick Links
+* [Treasure Chest List](#chest-list)
+	* [Floor 1](#floor-1)
+	* [Floor 2](#floor-2)
+	* [Floor 3](#floor-3)
+	* [Floor 4](#floor-4)
+	* [Floor 5](#floor-5)
+	* [Floor 6](#floor-6)
+	* [Floor 7](#floor-7)
+	* [Floor 8](#floor-8)
+	* [Floor 9](#floor-9)
+	* [Floor 10](#floor-10)
+	* [Floor 11](#floor-11)
+	* [Floor 12](#floor-12)
+	* [Floor 13](#floor-13)
+	* [Floor 14](#floor-14)
+	* [Floor 15](#floor-15)
+	* [Floor 16](#floor-16)
+	* [Floor 17](#floor-17)
+	* [Floor 18](#floor-18)
+	* [Floor 19](#floor-19)
+	* [Floor 20](#floor-20)
+* [Neglected Treasures List](#neglected-list)
+	* [Ame-no-Murakumo (NG)](#ng-murakumo)
+
+## <a id="chest-list"></a>Treasure Chest List
+
+Any treasure located in floor A that can only be obtained after reaching floor B will be listed as a treasure from floor B. Collected treasure is represented with an `O`. Neglected treasure is represented with an `X`. Route names are shortened to reduce table space. Legend:
+
+* Ame-no-Murakumo (NG) = AnM
+* Ame-no-Murakumo (NG+) = AnM+
+
+#### <a id="floor-1"></a>Floor 1
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Biggest Sword Ever<br>Purple Metallic Armor<br>Mana Flower<br>Symbol of Faith | O |
+| Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly | X
+| Magic Gem x2<br>Energy Gem x2 | X |
+| Bludgeon | O |
+| Bulletproof Armor | O |
+| Cantrip Book | O |
+| Cypress Stick | O |
+| Great Tree's Leaf | O |
+| Insect's Exoskeleton | O |
+| Items Discovery Weekly | X |
+| Lucky Horseshoe | O |
+| Manga Meat | O |
+| Miko Board | O |
+| Piece of Heart | O |
+| Power Bracer | O |
+| Steadfast Ring | O |
+
+#### <a id="floor-2"></a>Floor 2
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Bludgeon | O |
+| Concept of Attributes | O |
+| Crepe Mariette | O |
+| Crepe Mariette | O |
+| Energy Gem | O |
+| Eyetrack Orbitars | O |
+| Fairy's Soul | O |
+| Goriki's Charm | O |
+| Light Crystal | O |
+| Oni's Panties x2 | O |
+| Piche's Bauble | O |
+| Poison Resistance Ring | O |
+| Rosebush Robe | O |
+| Sirloin | O |
+| Training Manual | O |
+| Two Face's Coin | O |
+
+#### <a id="floor-3"></a>Floor 3
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Colorful Rainbow Flower x2 | O |
+| Concept of Attributes | O |
+| Courtesan's Sorrow | O |
+| Fine Metal Piece x2 | O |
+| Glow Crystal | O |
+| Great Tree's Leaf x2 | O |
+| Heater Muffler | O |
+| Magic Gem x3 | X |
+| Miko Board | O |
+| Nitroglycerin | O |
+| Scarlet Light | O |
+| Shining Sprout | O |
+| Super-Hard Rye Bread | O |
+| Swiftness Gem | O |
+| Tome of Reincarnation | O |
+
+#### <a id="floor-4"></a>Floor 4
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Tome of Insight - ATK<br>Tome of Insight - DEF<br>Tome of Insight - MAG<br>Tome of Insight - MND | X |
+| Tin Watering Can x2<br>Source of Magic x2<br>Strange Meat Pie | X |
+| 1000 Money | X |
+| Bone Stake | O |
+| Chargin' Targe | O |
+| Choice Scarf | X |
+| Getitup V | O |
+| Heater Muffler | O |
+| Kazu's Amulet | O |
+| Light Staff | O |
+| LOVE Machine 3322 | O |
+| Magic Bird's Crest x4 | O |
+| Midnight Oil Set | X |
+| Nitroglycerin | O |
+| Steadfast Ring | O |
+| Strange Mechanical Part x2 | O |
+| Sword of Singing Delusion | O |
+| Ultrafast Granite Keystone | O |
+| Violet Green Rupee | O |
+
+#### <a id="floor-5"></a>Floor 5
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training Manual x2 | O |
+| Biggest Sword Ever | O |
+| Concept of Everything x2 | O |
+| Eternal Ice x2 | O |
+| Flipskirt Dagger | O |
+| Heater Muffler | O |
+| Kazu's Amulet | O |
+| Magic Gem x2 | X |
+| Misterepulsion | O |
+| Piece of Magic Armor x2 | O |
+| Purifying Amulet x2 | O |
+| Shoes of Happiness | O |
+| Water Cutting Sword | X |
+| Yamabiko Necklace | O |
+
+#### <a id="floor-6"></a>Floor 6
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly<br>Tome of Reincarnation x2 | X |
+| Blade Cuisinart | O |
+| Bone Stake | O |
+| Bottle of Hyperspace | O |
+| Concept of Everything x2 | O |
+| Energy Gem | O |
+| Fighter's Soul x2 | O |
+| First Aid Kit | O |
+| Goriki's Charm | O |
+| Intama | O |
+| Lapis Lazuli Light x2 | O |
+| Lv70 Lover Snapper's Scale | O |
+| Pale Wing Thruster | O |
+| Purple Dragon Crystal | O |
+| Stone of Awakening | O |
+
+#### <a id="floor-7"></a>Floor 7
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Elixir of Mages<br>Asura Blade<br>Tome of Insight - AFF<br>Tome of Insight - RES | O |
+| 1000 Money | O |
+| Booster v0.8 | O |
+| Card [Ruler of Heavens] | O |
+| Energy Tank | O |
+| Glow Crystal | O |
+| Great Tree's Sap x2 | O |
+| Green Dream | O |
+| Light Staff | O |
+| Luster Candy | O |
+| Nitroglycerin | O |
+| Piece of Alexandrite x2 | O |
+| Shoes of Happiness | O |
+| Stone of Awakening | O |
+| Stormy Selenite x2 | O |
+| Strong Rugged Horns x2 | O |
+| Strong Rugged Horns x2 | O |
+| Super-Hard Rye Bread | O |
+| Symbol of Faith | O |
+| Treasure Chest Key | X |
+
+#### <a id="floor-8"></a>Floor 8
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Items Discovery Weekly x3<br>Growth Egg<br>Violent Green Rupee<br>Glaive of Pain | O |
+| 720 Money | O |
+| 788 Money | O |
+| 880 Money | O |
+| Big Bang Waganizer | O |
+| Biggest Sword Ever | O |
+| Chario Boots | O |
+| Chitin Shell x5 | O |
+| Damascus Shield | O |
+| Flipskirt Dagger | O |
+| Hero's Medal | O |
+| Lambda Driver | O |
+| Lapis Lazuli Light | O |
+| Magic Iron Shield | O |
+| Magician's Proof | O |
+| Mana Flower | O |
+| Piche's Bauble x2 | O |
+| Recovery Armband | O |
+| Spellbook - High Hurricane | O |
+| Stone of Awakening | O |
+| Symbol of Faith | O |
+| Treasure Chest Key | O |
+| Ultrafast Granite Keystone | O |
+
+#### <a id="floor-9"></a>Floor 9
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Youkai Medal Shattering Axe<br>Tome of Insight - SPD x2<br>Swiftness Gem<br>Star of Elendil | O |
+| 900 Money | O |
+| 1000 Money | O |
+| Card [Ruler of Heavens] | O |
+| Century's Jacket | O |
+| Diva's Apron | O |
+| Happy Hat | O |
+| Luster Candy | O |
+| Pale Wing Thruster | O |
+| Purifying Amulet x2 | O |
+| Purple Metallic Armor | O |
+| Scouter | O |
+| Stone of Awakening | O |
+| T-45d Power Armor | O |
+| The Arch | O |
+| Treasure Chest Key | O |
+| Water Cutting Sword | O |
+| Youkai's Fire Blowgun x2 | O |
+
+#### <a id="floor-10"></a>Floor 10
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Midnight Oil Set x3<br>Purple Orb x3<br>Fighting Gem x3<br>Forbidden Tablet | O |
+| 960 Money | O |
+| Button of Aegis | O |
+| Demon Core | O |
+| Elixir of Mages | O |
+| Frozen Eyes | O |
+| Getitup V | O |
+| Glittering Jewel x2 | O |
+| Grand Dragon Medal | O |
+| Herbalist's Proof | X |
+| Lv70 Lover Snapper's Scale | O |
+| Midgard's Tooth | O |
+| Portable Oscillation Cannon | O |
+| Pure Sake Wild Boar | X |
+| Reinforced Leather Armor | O |
+| Stone of Awakening | O |
+| Tisiphone Edge | O |
+| Treasure Chest Key | O |
+
+#### <a id="floor-11"></a>Floor 11
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Midnight Oil Set x3<br>Swiftness Gem x3<br>Tome of Reincarnation x3<br>Meteor Drive | O |
+| 1200 Money | O |
+| 1280 Money | O |
+| Century's Jacket | O |
+| Chargin' Targe | O |
+| Fighter's Soul x3 | O |
+| Forbidden Tablt | O |
+| Glaive of Pain | O |
+| Great Hammer | O |
+| HQ Sake Deer | X |
+| Lapis Lazuli Light x2 | O |
+| Pride | O |
+| Purple Orb | O |
+| Scouter | O |
+| Shining Black Stone x2 | O |
+| Stone of Awakening | O |
+| Strange Meat Pie | O |
+| The Arch | O |
+| Treasure Chest Key | O |
+| Yggdrasil Dew | O |
+
+#### <a id="floor-12"></a>Floor 12
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Tome of Insight - EVA x2<br>Tome of Insight - ACC x2<br>Tome of Insight - AFF x2<br>Olzhas Shamshir x2 | O |
+| 1500 Money | O |
+| Blade Cuisinart | O |
+| Damascus Shield | O |
+| Energy Pack | O |
+| Grand Dragon Medal | O |
+| Growth Egg | O |
+| Lambda Driver | O |
+| Love Machine 3322 | O |
+| Priest's Crystal Ball x3 | O |
+| Pure HQ Sake Butterfly | X |
+| Reflex Booster Augment | O |
+| Shinai of Spirits | O |
+| Stone of Awakening | O |
+| Strategist's Proof | O |
+| Tisiphone Edge | O |
+| Training Manual | O |
+| Treasure Chest Key | O |
+| Wallbreaker Armband | O |
+
+#### <a id="floor-13"></a>Floor 13
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Wash Basin Set<br>Master's Emblem<br>Life Gem x4 | O |
+| Azure Light x2 | O |
+| Big Bang Waganizer | O |
+| Button of Aegis | O |
+| Button of Aegis | O |
+| Courtesan's Sorrow | O |
+| Drum | O |
+| Eternal Ice x3 | O |
+| Jogurt Doll | O |
+| Love Machine 3322 | O |
+| Pale Wing Thruster | O |
+| Pride | O |
+| T-45d Power Armor | O |
+| Training Manual | O |
+
+#### <a id="floor-14"></a>Floor 14
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| War Mask of the Butcher<br>Divine Barrier<br>Fighting Gem x3<br>Protection Gem x3 | O |
+| Choice Scarf | O |
+| Courtesan's Sorrow | O |
+| Dark Magic Grimoire | O |
+| Demon Core | O |
+| Excorising Staff | O |
+| First Aid Kit | O |
+| Forbidden Tablet | O |
+| Insect's Rainbow Wings x2 | O |
+| Intama | O |
+| Kalar's Crystal | O |
+| Micron's Magic Book | O |
+| Mysterious Structure x2 | O |
+| Nosferatu Tome | O |
+| Reinforced Leather Armor | O |
+| The Bee | O |
+| Treasure Chest Key | O |
+| Wallbreaker Armband | O |
+| Wisdom Gem | O |
+
+#### <a id="floor-15"></a>Floor 15
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| 1800 Money | O |
+| 1880 Money | O |
+| Asura Blade | O |
+| Chario Boots | O |
+| Dark Magic Grimoire | O |
+| Dark Will | O |
+| Energy Pack | O |
+| First Aid Kit | O |
+| Fragment of Mithril x2 | O |
+| Gambler's Proof | O |
+| Hero's Soul x2 | X |
+| Master's Emblem | O |
+| Meteor D | O |
+| Modified Taser | X |
+| Portable Oscillation Cannon | O |
+| Purple Orb | O |
+| Ribbon | X |
+| Star of Elendil | X |
+| Star World Bracelet | O |
+| Stone of Awakening | O |
+| Stone of Awakening | O |
+| Stone of Awakening | X |
+| Tokyo Metronome | O |
+| Training Manual | O |
+| Training Manual | O |
+| Ultrafast Granite | O |
+| Youkai Medal Shattering Axe | O |
+
+#### <a id="floor-16"></a>Floor 16
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Astral Dominae<br>Tome of Reincarnation x4<br>Magic Gem x3<br>Wisdom Gem x3 | O |
+| 2000 Money | O |
+| 2140 Money | O |
+| Asura Blade | O |
+| Celestial's Hagoromo x2 | O |
+| Diva's Proof | O |
+| Divine Barrier | O |
+| Drum | O |
+| Elixir of Mages | O |
+| Getitup V | O |
+| Glaive of Pain | O |
+| Kalar's Crystal | O |
+| Pride | O |
+| Primal Armor | X |
+| Star World Bracelet | O |
+| Tome of Insight - MP | O |
+| Tome of Reincarnation | O |
+| Treasure Chest Key | O |
+| Wash Basin Set | O |
+
+#### <a id="floor-17"></a>Floor 17
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| 2250 Money | O |
+| 2500 Money | X |
+| Big Bang Waganizer | X |
+| Dark Magic Grimoire | X |
+| Excorising Staff | O |
+| Experimental MIRV | X |
+| Glaive of Pain | O |
+| Growth Egg | X |
+| Luster Candy | X |
+| Meteor Drive | O |
+| Olzhas Shamshir | O |
+| Tome of Insight - HP | X |
+| Training Manual | X |
+| Wallbreaker Armband | O |
+| War Mask of the Butcher | X |
+| Water Cutting Sword | X |
+
+#### <a id="floor-18"></a>Floor 18
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Orb of Earithin<br>Training Manual x5<br>Swiftness Gem x5 | X |
+| 3200 Money | X |
+| Asura Blade | X |
+| Demon Core | X |
+| Divine Barrier | O |
+| Full Custom | X |
+| Intama | O |
+| Jogurt Doll | X |
+| Lilium's Panties | O |
+| Megasphere | O |
+| Olzhas Shamshir | X |
+| Orb of Earithin | X |
+| Tokyo Metronome | X |
+| Transcendent's Proof | X |
+| Treasure Chest Key | X |
+
+#### <a id="floor-19"></a>Floor 19
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| 3600 Money | X |
+| 4000 Money | X |
+| Astral Dominae | O |
+| Energy Pack | O |
+| Grand Master Breaker Title | O |
+| Intama | O |
+| Life Gem x2 | X |
+| Master's Emblem | X |
+| Micron's Magic Book | X |
+| Nosferatu Tome | X |
+| Portable Oscillation Cannon | O |
+| Rainbow Light x2 | X |
+| Ribbon | X |
+| Shining Dragon's Soul x2 | X |
+| Tome of Insight - DEF | X |
+| Tome of Reincarnation | X |
+| Training Manual | X |
+| Treasure Chest Key | X |
+| Violent Green Rupee | X |
+| War Mask of the Butcher | X |
+| Youkai Medal Shattering Axe | X |
+
+#### <a id="floor-20"></a>Floor 20
+
+| Contents | AnM | AnM+ |
+| :---: | :---: | :---: |
+| Megasphere<br>Grand Master Breaker Title<br>Tome of Insight - AFF x2<br>Tome of Insight - RES x2 | O |
+| 6000 Money | O |
+| 6500 Money | O |
+| Cinderforge Sword | X |
+| Energy Gem | X |
+| Experimental MIRV | X |
+| Fighting Gem | X |
+| Fragment of Scarlet Gold x2 | X |
+| Holy Sword Gran Centurio | O |
+| Magic Gem | X |
+| Megasphere | X |
+| Primal Armor | X |
+| Protection Gem | X |
+| Scouter | X |
+| Star of Elendil | O |
+| The Bee | X |
+| Tome of Reincarnation | X |
+| Training Manual | X |
+| Treasure Chest Key | X |
+| Wash Basin Set | O |
+| Wisdom Gem | X |
+
+## <a id="neglected-list"></a>Neglected Treasures List
+
+#### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
+
+| Item Name | Floors Available | Reason |
+| :---: | :---: | :---: |
+| 1000 Money | 4F | Needs FOE kill |
+| 2500 Money | 17F | Out of way |
+| 3200 Money | 18F | Out of way |
+| 3600 Money | 19F | Out of way |
+| 4000 Money | 19F | Out of way |
+| **Main Equip** | - | - |
+| Tin Watering Can x2 | 4F | Needs key |
+| Tokyo Metronome x1 | 18F | Useless, out of way |
+| Source of Magic x2 | 4F | Needs key |
+| Master's Emblem | 19F | Out of way |
+| Pure Sake Wild Boar x1 | 10F | Needs Suika |
+| HQ Sake Deer x1 | 11F | Needs Suika |
+| Pure HQ Sake Butterfly x1 | 12F | Needs Suika |
+| Orb of Earithin x2 | 18F | Useless, out of way |
+| Modified Taser x1 | 15F | Needs FOE kill, useless |
+| Strange Meat Pie x1 | 4F | Needs key, useless |
+| Micron's Magic Book | 19F | Useless, out of way |
+| Choice Scarf x1 | 4F | Needs FOE kill, useless |
+| Primal Armor x2 | 16F/20F | Useless, out of way |
+| Youkai Medal Shattering Axe | 19F | Useless, out of way |
+| Jogurt Doll x1 | 18F | Useless, out of way |
+| Experimental MIRV x2 | 17F/20F | Useless, out of way |
+| Nosferatu Tome | 19F | Useless, out of way |
+| Ribbon x2 | 15F/19F | Needs 88 crafts |
+| Growth Egg x1 | 17F | Useless, out of way |
+| Violent Green Rupee | 19F | Useless, out of way |
+| Scouter x1 | 20F | Useless, out of way |
+| **Sub Equip** | - | - |
+| Full Custom x1 | 18F | Useless, out of way |
+| Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
+| Luster Candy x1 | 17F | Needs FOE kill, useless |
+| Big Bang Waganizer x1 | 17F | Useless, out of way |
+| Asura Blade x1 | 18F | Useless, out of way |
+| Demon Core x1 | 18F | Useless, out of way |
+| Star of Elendil x1 | 15F | Needs FOE kill |
+| Olzhas Shamshir x1 | 18F | Out of way |
+| Megasphere x1 | 20F | Needs 88 achievements |
+| War Mask of the Butcher x2 | 17F<br>19F | Needs FOE kill<br>Out of way |
+| Cinderforge Sword x1 | 20F | Needs 244k money on hand |
+| The Bee x1 | 20F | Useless, out of way |
+| Dark Magic Grimoire x1 | 17F | Useless, out of way |
+| **Others** | - | - |
+| Hero's Soul x2 | 15F | Needs FOE kill, useless |
+| Shining Dragon's Soul x2 | 19F | Useless, out of way |
+| Rainbow Light x2 | 19F | Useless, out of way |
+| Fragment of Scarlet Gold x2 | 20F | Useless, out of way |
+| Life Gem x2 | 19F | Out of way |
+| Magic Gem x8 | 1F/3F<br>5F<br>20F | Needs key<br>Needs FOE kill<br>Out of way |
+| Energy Gem x3 | 1F<br>20F | Needs key<br>Out of way |
+| Fighting Gem x1 | 20F | Out of way |
+| Protection Gem x1 | 20F | Out of way |
+| Wisdom Gem x1 | 20F | Out of way |
+| Swiftness Gem x5 | 18F | Needs key |
+| Tome of Insight - HP x1 | 17F | Out of way |
+| Tome of Insight - ATK x1 | 4F | Needs key |
+| Tome of Insight - DEF x2 | 4F<br>19F | Needs key<br>Out of way |
+| Tome of Insight - MAG x1 | 4F | Needs key |
+| Tome of Insight - MND x1 | 4F | Needs key |
+| Tome of Reincarnation x4 | 6F<br>19F/20F | Needs key<br>Out of way |
+| Training Manual x8 | 17F/19F/20F<br>18F | Useless, out of way<br>Needs key |
+| Money-Growing Tree x2 | 1F/6F | Needs key |
+| Midnight Oil Set x3 | 1F/6F<br>4F | Needs key<br>Needs FOE kill |
+| Items Discovery Weekly x3 | 1F<br>1F/6F | Out of way<br>Needs key |
+| Treasure Chest Key x4 | 7F<br>18F/19F/20F | Needs FOE kill<br>Useless, out of way |
+| Stone of Awakening x1 | 15F | Out of way |
+| Herbalist's Proof | 10F | Needs FOE kill |
+| Transcendent's Proof | 18F | Useless, out of way |
