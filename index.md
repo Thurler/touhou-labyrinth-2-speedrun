@@ -1,5 +1,7 @@
 # Touhou Labyrinth 2 Speedrunning
 
+![](logo.png)
+
 ## Quick Links
 * [The Speedrun Routes](#speedrun-routes)
 * [Character Data and Information](#character-info)
