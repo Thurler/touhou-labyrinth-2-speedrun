@@ -574,3 +574,5 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Stone of Awakening x1 | 15F | Out of way |
 | Herbalist's Proof | 10F | Needs FOE kill |
 | Transcendent's Proof | 18F | Useless, out of way |
+
+[Back to index page](../index.md)
