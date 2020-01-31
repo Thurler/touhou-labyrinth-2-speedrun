@@ -1,5 +1,7 @@
 # Treasure Chest Master List
 
+![](img/treasure.png)
+
 This page lists every treasure chest in the game, their contents and whether they are collected on each route. This allows you to easily track down which treasure chests are ignored for each route. At the end there is also a list of neglected items for each route.
 
 [Back to index page](../index.md)
