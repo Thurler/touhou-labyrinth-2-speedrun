@@ -20,7 +20,9 @@ td {
   vertical-align: middle;
 }
 
-#runs-table + table {
-  width: 1000px;
-  margin-left: -180px;
+@media only screen and (min-width: 960px) {
+  #runs-table+table {
+   width:150%;
+   margin-left:-25%;
+  }
 }
