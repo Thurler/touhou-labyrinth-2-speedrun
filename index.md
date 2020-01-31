@@ -146,6 +146,7 @@ This section talks about speedrun data and information. If you want game-specifi
 * [Random Encounters](enemy/trash3.md)
 * ~~Philosopher’s Stone - Earth~~
 * ~~Philosopher’s Stone - Mystic~~
+* ~~Giant Tree~~
 * ~~Jungle’s Demonic Eye~~
 * ~~Alice Margatroid~~
 * ~~Violet Ada-Bana~~
