@@ -56,10 +56,8 @@ Back: Marisa / Rumia / Cirno
 * Marisa uses Master Spark
 	* If Marisa got TRR'd, spam Magic Missile instead
 	* If Marisa dies:
-		* Swap in Cirno and use Icicle Fall
 		* Swap in Rumia and spam Moonlight Ray
-* If Kasen runs out of MP or dies, she can either:
-	* Concentrate and use Higekiri's Cursed Arm
+* If Kasen/Keine run out of MP:
 	* Swap for Reimu, who uses Fantasy Seal
 
 This should kill Chrysomallos very fast and reliably. Marisa avoiding the TRR from Great Roar allows for a quick and easy fight with Master Spark, otherwise it will take a few more turns but it's still very manageable. Reimu and Rumia can deal big damage to finish the boss off if needed, thanks to SPI and MYS weaknesses. It's unlikely, but the boss can target slot 4 with regular attack and kill Marisa, which will slow down the fight but is generally fine. Kasen may also die during the fight if the boss targets her multiple times with regular attack, but Reimu can come in to replace her, even though the fight will slow down considerably.

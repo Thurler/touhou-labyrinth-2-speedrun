@@ -180,6 +180,7 @@
 		* **Kourin**: Shopkeeper Lv6 -> Lv7
 		* **Rumia**: Piercing Attack Lv0 -> Lv1
 		* **Cirno**: Icicle Fall Lv1 -> Lv2
+* Level reference: Reimu 6
 * Enter the dungeon (2F)
 * **FOE Boss Fight - Chrysomallos (Lv9)**
 	* **If Kasen dies, reset**
