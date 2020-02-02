@@ -611,7 +611,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Training Manual x8 | 17F/19F/20F<br>18F | Useless, out of way<br>Needs key |
 | Money-Growing Tree x2 | 1F/6F | Needs key |
 | Midnight Oil Set x3 | 1F/6F<br>4F | Needs key<br>Needs FOE kill |
-| Items Discovery Weekly x3 | 1F<br>1F/6F | Out of way<br>Needs key |
+| Items Discovery Weekly x2 | 1F/6F | Needs key |
 | Treasure Chest Key x4 | 7F<br>18F/19F/20F | Needs FOE kill<br>Useless, out of way |
 | Stone of Awakening x1 | 15F | Out of way |
 | Herbalist's Proof | 10F | Needs FOE kill |
