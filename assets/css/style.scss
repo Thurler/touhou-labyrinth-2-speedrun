@@ -24,6 +24,10 @@ h1 {
   text-align: center;
 }
 
+ul {
+  margin-bottom: 0px;
+}
+
 @media only screen and (min-width: 960px) {
   #runs-table+table {
    width:150%;
