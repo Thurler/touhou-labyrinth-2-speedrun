@@ -100,6 +100,7 @@
 		* **Keine**: MP Boost Lv0 -> Lv2
 		* **Marisa**: MP Boost Lv0 -> Lv2
 		* **Kourin**: Shopkeeper Lv3 -> Lv4
+* Level reference: Reimu 2
 * Enter the dungeon (1F)
 
 ![](img/01-02-cirnochen.png)
@@ -127,6 +128,7 @@
 	* Learn Skills:
 		* **Reimu**: Yin-Yang Orb Lv1 -> Lv2
 		* **Kourin**: Shopkeeper Lv4 -> Lv5
+* Level reference: Reimu 3
 * Enter the dungeon (1F)
 * Move up to Youmu's boss icon and fight her
 * **Boss Fight - Youmu Konpaku (Lv5)**
@@ -155,6 +157,7 @@
 		* **Kourin**: Shopkeeper Lv5 -> Lv6
 		* **Kasen**: Guts Lv0 -> Lv1
 		* **Youmu**: Netherworld Dweller Lv0 -> Lv1
+* Level reference: Reimu 4
 * Enter the dungeon (1F)
 
 ![](img/01-03-rumiacirno.png)
