@@ -49,6 +49,7 @@ Youmu is the first real boss of the game, and she can be quite hard if you don't
 Since we grind Kasen for this fight, she completely trivializes this by spamming Higekiri's Cursed Arm. Marisa can also buff up and unleash a Master Spark to finish her off. If done correctly, she will either die before getting to Concentrate, or soon after, before she can unleash God's Slash of Karma Wind. The party composition is as follows, with the ideal actions to win:
 
 Front: Momiji / Kasen / Keine / Reimu
+
 Back: Kourin / Marisa
 
 * Momiji attacks to delay her turn
