@@ -80,7 +80,7 @@
 		* **Kourin**: Shopkeeper Lv0 -> Lv3
 * Enter the dungeon (1F)
 
-![](https://i.imgur.com/XKdfdxG.png)
+![](img/01-01-firstwalk.png)
 
 * Right after you open the locked treasure chest, do this menu:
 	* **Keine** equips **Piece of Heart** / **Purple Metallic Armor**
@@ -102,7 +102,7 @@
 		* **Kourin**: Shopkeeper Lv3 -> Lv4
 * Enter the dungeon (1F)
 
-![](https://i.imgur.com/xj2M5b3.png)
+![](img/01-02-cirnochen.png)
 
 * **Boss Fight - Chen Encounter (Lv4)**
 	* Momiji spams Expellee's Canaan
@@ -157,7 +157,7 @@
 		* **Youmu**: Netherworld Dweller Lv0 -> Lv1
 * Enter the dungeon (1F)
 
-![](https://i.imgur.com/JbKjCen.png)
+![](img/01-03-rumiacirno.png)
 
 * When you reach the destination, farm until wipe
 
