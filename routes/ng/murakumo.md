@@ -236,7 +236,7 @@
 	* Just beat it with what you have
 * Exit the dungeon back to Gensokyo
 
-## <a id="Header-1-7"></a>Alaya-Vijana Fight
+## <a id="Header-1-7"></a>Alaya-Vijnana Fight
 
 * Back at Gensokyo, visit the following facilities:
 	* **Hakurei Shrine**: Level All Characters, apply new bonus
@@ -248,13 +248,13 @@
 * Level reference: Reimu 9
 * Enter the dungeon (3F)
 
-![](https://i.imgur.com/fNl4NRd.png)
+![](img/03-02-switchon.png)
 
 * **Boss Fight - Chen Encounter (Lv10)**
 	* Just beat it with what you have
 * Before entering the fight with Alaya-Vijana, do the following menu:
 * Form Change: **Momiji / Kasen**
-* **Boss Fight - Alaya-Vijana (Lv11)**
+* **Boss Fight - Alaya-Vijnana (Lv11)**
 	* Yukari spams Shikigami: Ran Yakumo+
 	* Yuyuko spams Ghostly Dream's Butterfly, ends with Saigyouji Flawless Nirvana
 * Exit the dungeon back to Gensokyo
@@ -269,6 +269,7 @@
 		* **Rumia** equips **Piche's Bauble**
 		* **Youmu** equips **DX Mechamonkey Model** / **Piece of Heart** / **Bulletproof Armor**
 		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
+* Level reference: Reimu 10
 * Enter the dungeon (3F)
 
 ![](https://i.imgur.com/x6ZwhIB.png)
