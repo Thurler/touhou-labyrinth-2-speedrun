@@ -136,7 +136,7 @@
 	* Reimu uses Great Hakurei Barrier once
 	* Keine spams 3ST - Sword
 	* Momiji does Attack -> Switch Reimu for Marisa -> Rabies Bite
-	* Marisa uses Buff -> Buff -> MP Heal -> Master Spark
+	* Marisa spams Magic Missile
 	* For finer details see Youmu's [Boss Info](../../enemy/youmu.md)
 * Exit the dungeon when you beat Youmu
 
