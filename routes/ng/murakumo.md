@@ -205,9 +205,10 @@
 		* **Marisa** equips **Crepe Mariette**
 	* Learn Skills:
 		* **Kourin**: Shopkeeper Lv7 -> Lv8
+* Level reference: Reimu 6
 * Enter the dungeon (2F)
 
-![](https://i.imgur.com/XUZisT2.png)
+![](img/02-01-upperpart.png)
 
 * When you reach 3F, take the relay point and farm on rare spot until wipe
 * When you're done grinding, go back to Gensokyo
@@ -226,9 +227,10 @@
 		* **Kourin**: Shopkeeper Lv8 -> Lv10
 		* **Rumia**: Piercing Attack Lv1 -> Lv2
 		* **Cirno**: Icicle Fall Lv2 -> Lv3
+* Level reference: Reimu 7
 * Enter the dungeon (3F)
 
-![](https://i.imgur.com/359Tf4s.png)
+![](img/03-01-switchoff.png)
 
 * **Boss Fight - Chen Encounter (Lv6)**
 	* Just beat it with what you have
@@ -243,6 +245,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Marisa** equips **Glow Crystal** over Cantrip Book
+* Level reference: Reimu 9
 * Enter the dungeon (3F)
 
 ![](https://i.imgur.com/fNl4NRd.png)
