@@ -80,7 +80,7 @@
 		* **Kourin**: Shopkeeper Lv0 -> Lv3
 * Enter the dungeon (1F)
 
-![](https://i.imgur.com/XKdfdxG.png)
+![](img/01-01-firstwalk.png)
 
 * Right after you open the locked treasure chest, do this menu:
 	* **Keine** equips **Piece of Heart** / **Purple Metallic Armor**
@@ -100,9 +100,10 @@
 		* **Keine**: MP Boost Lv0 -> Lv2
 		* **Marisa**: MP Boost Lv0 -> Lv2
 		* **Kourin**: Shopkeeper Lv3 -> Lv4
+* Level reference: Reimu 2
 * Enter the dungeon (1F)
 
-![](https://i.imgur.com/xj2M5b3.png)
+![](img/01-02-cirnochen.png)
 
 * **Boss Fight - Chen Encounter (Lv4)**
 	* Momiji spams Expellee's Canaan
@@ -127,6 +128,7 @@
 	* Learn Skills:
 		* **Reimu**: Yin-Yang Orb Lv1 -> Lv2
 		* **Kourin**: Shopkeeper Lv4 -> Lv5
+* Level reference: Reimu 3
 * Enter the dungeon (1F)
 * Move up to Youmu's boss icon and fight her
 * **Boss Fight - Youmu Konpaku (Lv5)**
@@ -155,9 +157,10 @@
 		* **Kourin**: Shopkeeper Lv5 -> Lv6
 		* **Kasen**: Guts Lv0 -> Lv1
 		* **Youmu**: Netherworld Dweller Lv0 -> Lv1
+* Level reference: Reimu 4
 * Enter the dungeon (1F)
 
-![](https://i.imgur.com/JbKjCen.png)
+![](img/01-03-rumiacirno.png)
 
 * When you reach the destination, farm until wipe
 
@@ -177,6 +180,7 @@
 		* **Kourin**: Shopkeeper Lv6 -> Lv7
 		* **Rumia**: Piercing Attack Lv0 -> Lv1
 		* **Cirno**: Icicle Fall Lv1 -> Lv2
+* Level reference: Reimu 6
 * Enter the dungeon (2F)
 * **FOE Boss Fight - Chrysomallos (Lv9)**
 	* **If Kasen dies, reset**
@@ -201,9 +205,10 @@
 		* **Marisa** equips **Crepe Mariette**
 	* Learn Skills:
 		* **Kourin**: Shopkeeper Lv7 -> Lv8
+* Level reference: Reimu 6
 * Enter the dungeon (2F)
 
-![](https://i.imgur.com/XUZisT2.png)
+![](img/02-01-upperpart.png)
 
 * When you reach 3F, take the relay point and farm on rare spot until wipe
 * When you're done grinding, go back to Gensokyo
@@ -219,18 +224,20 @@
 		* **Kasen** equips **Bludgeon** over Bulletproof Armor
 		* **Reimu** equips **Light Crystal** over Crepe Mariette
 	* Learn Skills:
+		* **Momiji**: Accelerate Lv0 -> Lv1
 		* **Kourin**: Shopkeeper Lv8 -> Lv10
 		* **Rumia**: Piercing Attack Lv1 -> Lv2
 		* **Cirno**: Icicle Fall Lv2 -> Lv3
+* Level reference: Reimu 7
 * Enter the dungeon (3F)
 
-![](https://i.imgur.com/359Tf4s.png)
+![](img/03-01-switchoff.png)
 
 * **Boss Fight - Chen Encounter (Lv6)**
 	* Just beat it with what you have
 * Exit the dungeon back to Gensokyo
 
-## <a id="Header-1-7"></a>Alaya-Vijana Fight
+## <a id="Header-1-7"></a>Alaya-Vijnana Fight
 
 * Back at Gensokyo, visit the following facilities:
 	* **Hakurei Shrine**: Level All Characters, apply new bonus
@@ -239,15 +246,16 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Marisa** equips **Glow Crystal** over Cantrip Book
+* Level reference: Reimu 9
 * Enter the dungeon (3F)
 
-![](https://i.imgur.com/fNl4NRd.png)
+![](img/03-02-switchon.png)
 
 * **Boss Fight - Chen Encounter (Lv10)**
 	* Just beat it with what you have
 * Before entering the fight with Alaya-Vijana, do the following menu:
 * Form Change: **Momiji / Kasen**
-* **Boss Fight - Alaya-Vijana (Lv11)**
+* **Boss Fight - Alaya-Vijnana (Lv11)**
 	* Yukari spams Shikigami: Ran Yakumo+
 	* Yuyuko spams Ghostly Dream's Butterfly, ends with Saigyouji Flawless Nirvana
 * Exit the dungeon back to Gensokyo
@@ -262,6 +270,7 @@
 		* **Rumia** equips **Piche's Bauble**
 		* **Youmu** equips **DX Mechamonkey Model** / **Piece of Heart** / **Bulletproof Armor**
 		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
+* Level reference: Reimu 10
 * Enter the dungeon (3F)
 
 ![](https://i.imgur.com/x6ZwhIB.png)
@@ -294,7 +303,6 @@
 		* **Nitori** equips **Cypress Stick** / **Wash Basin Set** / **DX Mechamonkey Model** / **Power Bracer**
 		* Whatever else was randomly dropped and forged
 	* Learn Skills:
-		* **Momiji**: Instant Attack Lv0 -> Lv1
 		* **Keine**: 3ST - Sword Lv1 -> Lv2
 		* **Kasen**: Guts Lv1 -> Lv2
 		* **Reimu**: MP Boost Lv0 -> Lv3

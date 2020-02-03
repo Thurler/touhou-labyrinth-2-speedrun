@@ -43,7 +43,7 @@ Reimu is part of your starting party, and thus plays a very important role in th
 	* Reimu herself does not need boosts to play her support role, and early on you don't want characters dying, so this is kind of useless
 * **Grand Incantation**
 	* Multiplies next damage/heal by 2/2.4
-	* Reimu does not have the power or speed to make this skill worth it
+	* Reimu does not have the power or speed to make this skill worth it, but can greatly increase her heal potential
 * **Hakurei's Divine Protection**
 	* 33/66% Chance to restore 1 MP after battle
 	* Can help a lot with grinding, but skill points are limited and better spent elsewhere first

@@ -46,7 +46,7 @@ Youmu is the first real boss of the game, and she can be quite hard if you don't
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Since we grind Kasen for this fight, she completely trivializes this by spamming Higekiri's Cursed Arm. Marisa can also buff up and unleash a Master Spark to finish her off. If done correctly, she will either die before getting to Concentrate, or soon after, before she can unleash God's Slash of Karma Wind. The party composition is as follows, with the ideal actions to win:
+Since we grind Kasen for this fight, she completely trivializes this by spamming Higekiri's Cursed Arm. Marisa helps a lot by spamming Magic Missile. If done correctly, she will either die before getting to Concentrate, or soon after, before she can unleash God's Slash of Karma Wind. The party composition is as follows, with the ideal actions to win:
 
 Front: Momiji / Kasen / Keine / Reimu
 
@@ -57,9 +57,7 @@ Back: Kourin / Marisa
 * Keine spams Three Sacred Treasures - Sword
 * Reimu uses Great Hakurei Barrier once
 * Momiji swaps Reimu for Marisa then spams Rabies Bite
-* Marisa uses her self MAG buff twice
-* Marisa concentrates to refill the exact 6MP used for buffing
-* Marisa uses Master Spark
+* Marisa spams Magic Missile
 
 This should kill Youmu before she even has a chance to attack after Slash Clearing the Six Senses. Speaking of, this attack does not OHKO Marisa, even with no DEF buff, so it is safe to have her out before it is used. It is possible, but very unlikely, that Youmu targets slot 4 with her attacks when the battle starts or right after you switch Reimu with Marisa. Reimu might survive the hit, but Marisa will die to a direct hit, so you'll have to play around her death. If she does die, do this:
 
