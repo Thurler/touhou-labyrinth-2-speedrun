@@ -224,6 +224,7 @@
 		* **Kasen** equips **Bludgeon** over Bulletproof Armor
 		* **Reimu** equips **Light Crystal** over Crepe Mariette
 	* Learn Skills:
+		* **Momiji**: Accelerate Lv0 -> Lv1
 		* **Kourin**: Shopkeeper Lv8 -> Lv10
 		* **Rumia**: Piercing Attack Lv1 -> Lv2
 		* **Cirno**: Icicle Fall Lv2 -> Lv3
@@ -302,7 +303,6 @@
 		* **Nitori** equips **Cypress Stick** / **Wash Basin Set** / **DX Mechamonkey Model** / **Power Bracer**
 		* Whatever else was randomly dropped and forged
 	* Learn Skills:
-		* **Momiji**: Instant Attack Lv0 -> Lv1
 		* **Keine**: 3ST - Sword Lv1 -> Lv2
 		* **Kasen**: Guts Lv1 -> Lv2
 		* **Reimu**: MP Boost Lv0 -> Lv3
