@@ -51,7 +51,7 @@ Parsee is optional, but she's so immensely useful that she's worth the short 1F 
 	* Increases damage the more allies and enemies are affected by debuffs
 	* Very useful since you'll be debuffing enemies a lot, but kinda unreliable since it's hard to debuff yourself consistently in big fights.
 * **Flames of Jealousy**
-	* * Increase DRK damage by 15/30%
+	* Increase DRK damage by 15/30%
 	* This further boosts Jealously of the Kind so it's a very important skill.
 * **Emergency Recovery**
 	* Concentrate below 66% HP restores 66% HP at 3 TP cost
