@@ -33,7 +33,7 @@ Rumia is an optional character that focuses on dealing piercing damage and playi
 * **MAG/SPD/AFF Boost**
 	* MAG and SPD Boosts help her clean off some trash early on
 * **Team 9**
-	* Buffs self ATK/DEF/MAG/MND/SPD by 8 for each of Cirno/Wriggle/Mystia also in front
+	* Buffs self ATK/DEF/MAG/MND/SPD by 8/16 for each of Cirno/Wriggle/Mystia also in front
 	* Team 9 isn't all that useful, so this goes unused
 * **Realm of Eternal Darkness**
 	* Reduces DRK damage by 15/30%

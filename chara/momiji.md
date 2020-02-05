@@ -18,9 +18,6 @@ Momiji is guarding the way to the western part of 1F, making her practically a s
 
 ## <a id="spells"></a>Spells List
 
-Rabies Bite 	3 	Enemy (One) 	Physical 	225% ATK - 75% T.DEF 		60% 	
-Expellee's Canaan
-
 * **Rabies Bite**
 	* PHY physical spell that targets DEF
 	* Good to finish weakened trash or just deal chip damage to bosses while waiting for switch opportunities

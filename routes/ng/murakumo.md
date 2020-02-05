@@ -87,6 +87,7 @@
 	* **Reimu** equips **Biggest Sword Ever** / **Symbol of Faith**
 	* **Marisa** equips **Mana Flower**
 * Once you reach the destination on second map, farm until wipe
+<hr>
 * Back to Gensokyo, use these facilities:
 	* **Hakurei Shrine**: Level All Characters
 	* **Human Village**: Include Momiji in party (slot 5)
@@ -117,6 +118,7 @@
 * Do the following menu after re-entering the dungeon:
 	* Form Change: **Marisa**
 * Move up towards Youmu fight and wipe 11/12 times to get Kasen
+<hr>
 * Back at Gensokyo, visit the following facilities:
 	* **Hakurei Shrine**: Level All Characters
 	* **Human Village**: Include Kasen in party (slot 6)
@@ -130,13 +132,14 @@
 		* **Kourin**: Shopkeeper Lv4 -> Lv5
 * Level reference: Reimu 3
 * Enter the dungeon (1F)
+<hr>
 * Move up to Youmu's boss icon and fight her
 * **Boss Fight - Youmu Konpaku (Lv5)**
 	* Kasen spams Higekiri's Cursed Arm
 	* Reimu uses Great Hakurei Barrier once
 	* Keine spams 3ST - Sword
 	* Momiji does Attack -> Switch Reimu for Marisa -> Rabies Bite
-	* Marisa uses Buff -> Buff -> MP Heal -> Master Spark
+	* Marisa spams Magic Missile
 	* For finer details see Youmu's [Boss Info](../../enemy/youmu.md)
 * Exit the dungeon when you beat Youmu
 
@@ -182,6 +185,7 @@
 		* **Cirno**: Icicle Fall Lv1 -> Lv2
 * Level reference: Reimu 6
 * Enter the dungeon (2F)
+<hr>
 * **FOE Boss Fight - Chrysomallos (Lv9)**
 	* **If Kasen dies, reset**
 	* Kasen spams Higekiri's Cursed Arm

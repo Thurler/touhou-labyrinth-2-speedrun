@@ -34,7 +34,7 @@ Kourin is part of your starting party, but doesn't play a big role in early game
 	* Boosts item drop rate by 4-40%
 	* Excellent early on when we're farming materials to craft items and recruit Nitori
 * **Keen-eyed Shop Owner Saga**
-	* Boosts money drop rate by 4-40%
+	* Boosts money drop rate by 2-20%
 	* Not as useful as Shopkeeper since there are better ways to increase money gain.
 * **Effective Formation Change**
 	* Form Change puts switched character's ATB at 8300/9100.

@@ -37,7 +37,7 @@ Kogasa is an optional character, and specializes in afflicting and abusing TRR. 
 	* ATK Boost would be the only really useful one in a speedrun setting
 * **Ability to Surprise Humans**
 	* Increases TRR affliction rate by 25 and duration by 5000
-	* Reimu herself does not need boosts to play her support role, and early on you don't want characters dying, so this is kind of useless
+	* Kogasa's bread and butter skill since she's hreavily dependant on TRR
 * **Easygoing**
 	* Regenerate HP when using Concentrate
 	* Kogasa shouldn't take damage in the first place, so this is very situational

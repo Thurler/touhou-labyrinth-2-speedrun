@@ -40,7 +40,7 @@ Cirno is technically optional, but she's right there on 2F and it's a 10 second 
 * **TP/SPD/AFF Boost**
 	* SPD can help her quickly debuff/PAR bosses or repeatedly try to do so
 * **Team 9**
-	* Buffs self ATK/DEF/MAG/MND/SPD by 8 for each of Rumia/Wriggle/Mystia also in front
+	* Buffs self ATK/DEF/MAG/MND/SPD by 8/16 for each of Rumia/Wriggle/Mystia also in front
 	* Team 9 isn't all that useful, so this goes unused
 * **Always Rising after Falling**
 	* Reduces TP lost after battle
