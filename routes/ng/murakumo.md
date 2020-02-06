@@ -378,8 +378,8 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Nitori** equips **Getitup V** over Power Bracer
-		* **Marisa** equips **Light Staff** over Crepe Mariette
 		* **Reimu** equips **Ultrafast Granite Keystone** over Light Crystal
+		* **Marisa** equips **Light Staff** over Crepe Mariette
 		* **Komachi** equips **Violent Green Rupee** / **Light Crystal**
 	* Learn Skills:
 		* **Komachi**: Ferry Wages Lv2 -> Lv4
@@ -408,23 +408,29 @@
 		* **Reimu** equips **Flipskirt Dagger** over Super-Hard Rye Bread
 		* **Minoriko** equips **Super-Hard Rye Bread** over Cantrip Book
 	* Learn Skills:
+		* **Nitori**: Kappa Ecology Observation Lv0 -> Lv1
 		* **Kourin**: HP High Boost Lv0 -> Lv1
+		* **Reimu**: MP Boost Lv2 -> Lv4
 		* **Komachi**: Ferry Wages Lv4 -> Lv6
-* Level reference: Nitori 15
+* Level reference: Nitori 16
 * Enter the dungeon (2F Center)
 <hr>
 * Go up and fight Kaguya as a boss
 * **Boss Fight - Kaguya Houraisan (Lv8)** 
 	* Spam highest damage spells, you're overlevelled
 * Exit the dungeon and enter back on (3F)
-* Move back to 2F and go south for Eririn event
+<hr>
+* Move back to 2F and go south for Eirin event
 * Exit the dungeon and enter back on (3F)
+<hr>
 * Follow the path south, then head west for Wriggle event
 * Exit the dungeon and enter back on (3F Center)
+<hr>
 * Take the shortcut to the right and fight the Wasp
 * **Boss Fight - Great Tree's Poisonous Wasp (Lv11)**
 	* Spam highest damage spells, you're overlevelled
 * Exit the dungeon and enter back on (4F)
+<hr>
 * Head north then west on upper area, then fight the Wasp
 * **Boss Fight - Great Tree's Paralyzing Wasp (Lv15)**
 	* Momiji just tanks hits and attacks, will probably stay PAR'd
@@ -433,20 +439,22 @@
 	* Nitori buff x3 -> Super Scope
 	* For finer details see Para Wasp's [Boss Info](../../enemy/parawasp.md)
 * Head back to Gensokyo and enter the dungeon on (3F)
+<hr>
 * Go talk to Eirin on 2F
 * Head back to Gensokyo and enter the dungeon on (3F Center)
+<hr>
 * Move southeast to get Reisen event
 * Go talk to Wriggle and finally recruit her
 * Head back to Gensokyo and enter the dungeon on (1F)
+<hr>
 * Recruit Parsee and go back to Gensokyo
 
-## <a id="Header-2-4"></a>Kraken Fight
+## <a id="Header-2-4"></a>Hina Fight
 
-* When you're back to Genokyo, visit the facilities:
-	* **Hakurei Shrine**: Level All Characters, apply bonuses
-		* Wriggle HP
-		* Parsee ATK
-		* All except Youmu and Cirno
+* When you're back at Gensokyo, use these facilities:
+	* **Hakurei shrine**: Level All Characters, apply bonus
+		* Ignore Youmu and Cirno
+		* Parsee to MND
 	* **Magic Library**:
 		* **Parsee**: HP/MND Lv0 -> Lv30
 		* **Kasen**: HP/DEF Lv10 -> Lv20
@@ -456,53 +464,25 @@
 	* **Nitori Shop**:
 		* Buy **Cypress Stick, Mad Milk, Booster v0.8**
 * Open the menu and take the following actions:
-	* Form Change: **Momiji / Kasen / Reimu / Parsee**
-	* Equipment:
-		* **Momiji** equips **Love Machine 3322** / **Heater Muffler**
-		* **Parsee** equips **Cypress Stick** / **DX Mechamonkey Model** / **Symbol of Faith** / **Crepe Mariette**
-		* **Rumia** equips **Glow Crystal** (if dropped by Kaguya) over Piche's Bauble
-		* **Wriggle** equips **Booster v0.8  x2** / **Bone Stake**
-		* **Komachi** equips **Mad Milk**
-	* Learn Skills:
-		* **Parsee**: MP Boost Lv0 -> Lv1 / Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv1
-		* **Wriggle**: Comet on Earth Lv1 -> Lv4
-		* **Komachi**: Ferry Wages Lv6 -> Lv7
-* Enter the dungeon (5F)
-* Take the shortcut and go northwest to fight the Kraken
-* **Boss Fight - Kraken (Lv19)**
-	* **None of Momiji, Kasen, Parsee, Reimu, Nitori can die early**
-	* This fight is a damage race to get the boss to Concentrate
-	* It will use that followed by Octangle Attack at 66% and 30% HP
-	* Momiji will take hits and switch
-		* Komachi can sponge some hits later
-	* Reimu can buff and party heal
-		* Minoriko can swap in to heal/buff just Momiji
-	* Kasen and Parsee will deal TRR damage combo
-		* Komachi can also inflict TRR with Narrow Confines of Avici
-		* Kasen must Concentrate before 3rd one to sync up with Parsee delay
-	* Nitori can nuke the boss with Super Scope when Parsee has no MP
-	* Marisa and Rumia can deal some damage by the end
-	* For finer details see Kraken's [Boss Info](../../enemy/kraken.md)
-* Exit the dungeon and go back to Gensokyo
-
-## <a id="Header-2-5"></a>Hina Fight
-
-* When you're back at Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters
-		* Parsee to MND
-* Open the menu and take the following actions:
 	* Form Change: **Parsee / Rumia / Reimu / Wriggle**
 	* Equipment:
-		* **Momiji** unequips **Love Machine 3322**
-		* **Parsee** equips **Love Machine 3322** over DX Mechamonkey Model
+		* **Parsee** equips **Shoes of Happiness** / **Love Machine 3322** / **Symbol of Faith** / **Crepe Mariette**
+		* **Rumia** equips **Glow Crystal** (if dropped by Kaguya) over Piche's Bauble
+		* **Wriggle** equips **Booster v0.8  x2** / **Bone Stake**
 		* **Kasen** equips **DX Mechamonkey Model** over Bludgeon
-		* **Momiji** equips **Bludgeon**
+		* **Momiji** equips **Bludgeon** / **Heater Muffler**
+		* **Komachi** equips **Mad Milk**
+	* Learn Skills:
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv1
+		* **Komachi**: Ferry Wages Lv6 -> Lv7
+* Level reference: Reimu 16
 * Enter the dungeon (5F South)
+<hr>
 * **Boss Fight - Hina Kagiyama (Lv20)**
 	* **Wriggle cannot die turn 1**
 	* Parsee sponges all the hits and does the switching
 	* Wriggle spams Comet on Earth
-	* Sacrifice Rumia, Marisa and Keine at start
+	* **Sacrifice Rumia, Marisa and Keine at start**
 	* Watch Hina's ATB to switch in Minoriko to buff/heal
 		* Reimu can also buff/heal and tank a hit
 	* On Biorhythm of Misfortune God, cast Midnight Anathema Ritual
@@ -510,7 +490,7 @@
 	* For finer details see Hina's [Boss Info](../../enemy/hina.md)
 * Go up and take the 6F relay, then go back to Gensokyo
 
-## <a id="Header-2-6"></a>Explore 6F
+## <a id="Header-2-5"></a>Explore 6F
 
 * When you're back at Gensokyo, open the menu and take these actions:
 	* Form Change: **Komachi / Kasen / Nitori / Rumia**
@@ -574,7 +554,7 @@
 
 * When you reach the destination, simply go back to Gensokyo
 
-## <a id="Header-2-7"></a>Blue Orchid Fight
+## <a id="Header-2-6"></a>Blue Orchid Fight
 
 * When you're back at Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonus
@@ -605,6 +585,51 @@
 	* Rumia spams Dark Side of the Moon
 	* For finer details see Blue Orchid's [Boss Info](../../enemy/orchid.md)
 * Go back to Gensokyo
+
+## <a id="Header-2-7"></a>Kraken Fight
+
+* When you're back to Genokyo, visit the facilities:
+	* **Hakurei Shrine**: Level All Characters, apply bonuses
+		* Wriggle HP
+		* Parsee ATK
+		* All except Youmu and Cirno
+	* **Magic Library**:
+		* **Parsee**: HP/MND Lv0 -> Lv30
+		* **Kasen**: HP/DEF Lv10 -> Lv20
+	* **Human Village**:
+		* Swap **Youmu -> Wriggle**
+		* Swap **Cirno -> Parsee**
+	* **Nitori Shop**:
+		* Buy **Cypress Stick, Mad Milk, Booster v0.8**
+* Open the menu and take the following actions:
+	* Form Change: **Momiji / Kasen / Reimu / Parsee**
+	* Equipment:
+		* **Momiji** equips **Love Machine 3322** / **Heater Muffler**
+		* **Parsee** equips **Cypress Stick** / **DX Mechamonkey Model** / **Symbol of Faith** / **Crepe Mariette**
+		* **Rumia** equips **Glow Crystal** (if dropped by Kaguya) over Piche's Bauble
+		* **Wriggle** equips **Booster v0.8  x2** / **Bone Stake**
+		* **Komachi** equips **Mad Milk**
+	* Learn Skills:
+		* **Parsee**: MP Boost Lv0 -> Lv1 / Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv1
+		* **Wriggle**: Comet on Earth Lv1 -> Lv4
+		* **Komachi**: Ferry Wages Lv6 -> Lv7
+* Enter the dungeon (5F)
+* Take the shortcut and go northwest to fight the Kraken
+* **Boss Fight - Kraken (Lv19)**
+	* **None of Momiji, Kasen, Parsee, Reimu, Nitori can die early**
+	* This fight is a damage race to get the boss to Concentrate
+	* It will use that followed by Octangle Attack at 66% and 30% HP
+	* Momiji will take hits and switch
+		* Komachi can sponge some hits later
+	* Reimu can buff and party heal
+		* Minoriko can swap in to heal/buff just Momiji
+	* Kasen and Parsee will deal TRR damage combo
+		* Komachi can also inflict TRR with Narrow Confines of Avici
+		* Kasen must Concentrate before 3rd one to sync up with Parsee delay
+	* Nitori can nuke the boss with Super Scope when Parsee has no MP
+	* Marisa and Rumia can deal some damage by the end
+	* For finer details see Kraken's [Boss Info](../../enemy/kraken.md)
+* Exit the dungeon and go back to Gensokyo
 
 ## <a id="Header-2-8"></a>Mokou Side Quest
 
