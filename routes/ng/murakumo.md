@@ -22,8 +22,8 @@
 	* [Wriggle Side Quest](#Header-2-3)
 	* [Hina Fight](#Header-2-4)
 	* [Explore 6F](#Header-2-5)
-	* [Blue Orchid Fight](#Header-2-6)
-	* [Kraken Fight](#Header-2-7)
+	* [Kraken Fight](#Header-2-6)
+	* [Blue Orchid Fight](#Header-2-7)
 	* [Mokou Side Quest](#Header-2-8)
 	* [Tenshi 1 Fight](#Header-2-9)
 * [Jungle Stratum](#Header-3) (7F ~ 9F)
@@ -532,8 +532,7 @@
 * Go back to Gensokyo after farming and visit the facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonus
 		* Reimu, Marisa
-		* Momiji, Rumia
-		* Cirno, Minoriko
+		* Momiji, Rumia, Minoriko
 		* Komachi, Chen
 		* Nitori, Parsee
 		* Wriggle, Aya, Kasen
@@ -546,11 +545,14 @@
 		* **Aya** equips **Pale Wing Thruster** (over Booster if needed)
 		* **Chen** equips **Biggest Sword Ever** / **Bone Stake** over Power Bracer
 	* Learn Skills:
-		* **Komachi**: Ferry Wages Lv8 -> Lv9
+		* **Komachi**: Ferry Wages Lv8 -> Lv10
 		* **Kasen**: Impact Attack Lv0 -> Lv1
-		* **Marisa**: Magic Training Lv1 -> Lv2
-		* **Reimu**: Armored YinYang Orb Lv0 -> Lv1
+		* **Nitori**: Kappa Ecology Observation Lv0 -> Lv1
+		* **Minoriko**: Ability Control Harvests Lv1 -> Lv2
+		* **Reimu**: MP Boost Lv4 -> Lv5
 		* **Rumia**: Darkness Manipulation Lv1 -> Lv2
+		* **Marisa**: Magic Training Lv1 -> Lv2
+		* **Parsee**: MP Boost Lv0 -> Lv1 / Flames of Jealousy Lv1 -> Lv2
 * Level reference: Nitori 20
 * Enter the dungeon (6F Center)
 
@@ -558,90 +560,52 @@
 
 * When you reach the destination, simply go back to Gensokyo
 
-## <a id="Header-2-6"></a>Blue Orchid Fight
-
-* When you're back at Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters, apply bonus
-		* Keine
-	* **Magic Library**: 
-		* **Reset Wriggle**
-		* **Wriggle** learns **Toxicologist** subclass
-	* **Human Village**:
-		* Swap **Rumia -> Keine**
-* Open the menu and take the following actions:
-	* Form Change: **Kasen / Wriggle / Aya / Parsee**
-	* Equipment:
-		* **Chen** unequips **Biggest Sword Ever**
-		* **Parsee** equips **Biggest Sword Ever** over Love Machine 3322
-	* Learn Skills:
-		* **Wriggle**: Enhanced Toxins Lv0 -> 2 / Numbling Incense Lv0 -> Lv3
-		* **Komachi**: Ferry Wages Lv9 -> Lv10
-		* **Keine**: 3ST - Sword Lv3 -> Lv4
-		* **Nitori**: Ability to Manipulate Water Lv0 -> Lv2
-* Enter the dungeon (6F)
-* Take the lower shortcut and fight the Orchid boss
-* **Boss Fight - Blue Orchid (Lv23)**
-	* Aya uses DGA on Wriggle to inflict HVY
-	* Wriggle then switches herself out for Keine
-	* Kasen and Parsee do the TRR combo
-	* Aya buffs Keine and then Parsee's SPD
-	* Keine uses 3ST - Mirror then spams 3ST - Sword
-	* Rumia spams Dark Side of the Moon
-	* For finer details see Blue Orchid's [Boss Info](../../enemy/orchid.md)
-* Go back to Gensokyo
-
-## <a id="Header-2-7"></a>Kraken Fight
+## <a id="Header-2-6"></a>Kraken Fight
 
 * When you're back to Genokyo, visit the facilities:
-	* **Hakurei Shrine**: Level All Characters, apply bonuses
-		* Wriggle HP
-		* Parsee ATK
-		* All except Youmu and Cirno
-	* **Magic Library**:
-		* **Parsee**: HP/MND Lv0 -> Lv30
-		* **Kasen**: HP/DEF Lv10 -> Lv20
-	* **Human Village**:
-		* Swap **Youmu -> Wriggle**
-		* Swap **Cirno -> Parsee**
-	* **Nitori Shop**:
-		* Buy **Cypress Stick, Mad Milk, Booster v0.8**
+	* **Magic Library**: 
+		* **Wriggle** learns **Toxicologist** subclass
 * Open the menu and take the following actions:
-	* Form Change: **Momiji / Kasen / Reimu / Parsee**
+	* Form Change: **Momiji / Kasen / Nitori / Parsee**
 	* Equipment:
-		* **Momiji** equips **Love Machine 3322** / **Heater Muffler**
-		* **Parsee** equips **Cypress Stick** / **DX Mechamonkey Model** / **Symbol of Faith** / **Crepe Mariette**
-		* **Rumia** equips **Glow Crystal** (if dropped by Kaguya) over Piche's Bauble
-		* **Wriggle** equips **Booster v0.8  x2** / **Bone Stake**
-		* **Komachi** equips **Mad Milk**
+		* **Chen** unequips **Biggest Sword Ever**
+		* **Parsee** equips **Cypress Stick** / **Biggest Sword Ever** over Shoes of Happiness / Love Machine 3322
+		* **Momiji** equips **Love Machine 3322** / **Lv70 Lover Snapper's Scale** over Bludgeon / Heater Muffler
 	* Learn Skills:
-		* **Parsee**: MP Boost Lv0 -> Lv1 / Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv1
-		* **Wriggle**: Comet on Earth Lv1 -> Lv4
-		* **Komachi**: Ferry Wages Lv6 -> Lv7
+		* **Wriggle**: Enhanced Toxins Lv0 -> 2 / Numbling Incense Lv0 -> Lv3
 * Enter the dungeon (5F)
+<hr>
 * Take the shortcut and go northwest to fight the Kraken
 * **Boss Fight - Kraken (Lv19)**
-	* **None of Momiji, Kasen, Parsee, Reimu, Nitori can die early**
-	* This fight is a damage race to get the boss to Concentrate
-	* It will use that followed by Octangle Attack at 66% and 30% HP
-	* Momiji will take hits and switch
-		* Komachi can sponge some hits later
-	* Reimu can buff and party heal
-		* Minoriko can swap in to heal/buff just Momiji
-	* Kasen and Parsee will deal TRR damage combo
-		* Komachi can also inflict TRR with Narrow Confines of Avici
-		* Kasen must Concentrate before 3rd one to sync up with Parsee delay
-	* Nitori can nuke the boss with Super Scope when Parsee has no MP
-	* Marisa and Rumia can deal some damage by the end
+	* Kasen spams Higekiri's Cursed Arm
+	* Parsee spams Jealousy of the Kind and Lovely
+	* Nitori self buffs and then uses Super Scope 3D
+	* Momiji swaps Kasen and Parsee with Chen for Instant Attack pivoting
+	* Keine can join to buff if Nitori dies
 	* For finer details see Kraken's [Boss Info](../../enemy/kraken.md)
 * Exit the dungeon and go back to Gensokyo
 
+## <a id="Header-2-7"></a>Blue Orchid Fight
+
+* When you're back at Gensokyo, take the following actions:
+	* Form Change: **Kasen / Wriggle / Aya / Parsee**
+* Enter the dungeon (6F)
+<hr>
+* Take the lower shortcut and fight the Orchid boss
+* **Boss Fight - Blue Orchid (Lv23)**
+	* Aya uses DGA on Wriggle to inflict HVY
+	* Wriggle then switches herself out for Nitori
+	* Kasen and Parsee do the TRR combo
+	* Aya and Nitori swap Kasen/Parsee with Chen for IA pivoting
+	* For finer details see Blue Orchid's [Boss Info](../../enemy/orchid.md)
+* Go back to Gensokyo
+
 ## <a id="Header-2-8"></a>Mokou Side Quest
 
-* When you're back, use these facilities:
-	* **Hakurei shrine**: Level All Characters
 * Open the menu and take the following action:
 	* Form Change: **Komachi / Kasen / Nitori / Keine**
 * Enter the dungeon (4F Northeast)
+<hr>
 * Go up and fight Mokou as a boss
 * **Boss Fight - Mokou Fujiwara (Lv17)**
 	* Switch things in if anyone dies
@@ -652,6 +616,7 @@
 	* After Mokou resurrects, switch in Marisa for Master Spark
 	* For finer details see Mokou's [Boss Info](../../enemy/mokou.md)
 * Go back to Gensokyo and re-enter through (5F)
+<hr>
 * Go down and see the event with Mokou and Kaguya
 * **CHOOSE MOKOU** (Just hold A)
 * Keep going and recruit Satori
