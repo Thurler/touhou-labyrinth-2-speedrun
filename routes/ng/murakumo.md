@@ -449,7 +449,7 @@
 		* **Wriggle** equips **Booster v0.8  x2** / **Bone Stake**
 		* **Komachi** equips **Mad Milk**
 	* Learn Skills:
-		* **Parsee**: MP Boost Lv0 -> Lv1 / Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv1
+		* **Parsee**: MP Boost Lv0 -> Lv1 / Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv1
 		* **Wriggle**: Comet on Earth Lv1 -> Lv4
 		* **Komachi**: Ferry Wages Lv6 -> Lv7
 * Enter the dungeon (5F)
@@ -643,7 +643,7 @@
 		* **Chen**: Enhanced Row Attack Lv0 -> Lv3
 		* **Mokou**: Resurrection Lv0 -> Lv2 / Blazing Lv0 -> Lv2
 		* **Momiji**: Acclerate: Lv0 -> Lv1
-		* **Parsee**: Flames of Jealously Lv1 -> Lv2
+		* **Parsee**: Flames of Jealousy Lv1 -> Lv2
 * Enter the dungeon (6F)
 * Take the northern shortcut and fight Tenshi
 * **Boss Fight - Tenshi Hinanawi (Lv40)**
@@ -1282,7 +1282,7 @@
 		* **Nitori**: MND Boost Lv0 -> Lv5 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1
 		* **Kasen**: SPD Boost Lv0 -> Lv5
 		* **Rin**: SPD Boost Lv0 -> Lv5 / Speedy Formation Lv2
-		* **Parsee**: MP Boost Lv1 -> Lv5 / Jealously of the Kind Lv1 -> Lv4
+		* **Parsee**: MP Boost Lv1 -> Lv5 / Jealousy of the Kind Lv1 -> Lv4
 * Enter the dungeon (14F east) and go fight the boss
 * **Boss Fight - Memorized Knowledge (Lv55)**
 	* **If Nitori dies at all, reset**
@@ -1450,7 +1450,7 @@
 		* **Sanae**: MND Boost Lv0 -> Lv4 / Enhanced Buffing Lv0 -> Lv2
 		* **Kasen**: HP Boost Lv0 -> Lv5
 		* **Rin**: Cat's Walk Lv1 -> Lv7
-		* **Parsee**: MND/RES Boost Lv0 -> Lv5 / Ability Manip Jealously Lv0 -> Lv1 / Emergency Recovery Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
+		* **Parsee**: MND/RES Boost Lv0 -> Lv5 / Ability Manip Jealousy Lv0 -> Lv1 / Emergency Recovery Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
 		* **Iku**: Lightning Fish Lv1 -> Lv2
 		* **Reimu**: HP Boost Lv0 -> Lv5 / MAG Boost Lv0 -> Lv3
 		* **Nitori**: Cooling Down Lv1 -> Lv2
@@ -1505,7 +1505,7 @@
 		* **Reimu** equips **Lambda Driver**
 	* Learn Skills:
 		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5
-		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv2 / Jealously of the Kind Lv1 -> Lv5 / Mind Body as One Lv0 -> Lv2
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Mind Body as One Lv0 -> Lv2
 		* **Yuuka**: HP/MP Boost Lv0 -> Lv5 / Majesty Lv0 -> Lv2 / Gensokyo Eternal Flower Lv0 -> Lv1
 * Enter the dungeon (15F) and go fight Yuyuko
 * **Boss Fight - Yuyuko Saigyouji (Lv60)**
@@ -1543,7 +1543,7 @@
 		* **Kourin** equips **Chario Boots** / **Booster v0.8 x3**
 	* Learn Skills:
 		* **Aya**: HP Boost Lv0 -> Lv4 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Ironclad Strat Lv0 -> Lv10 / Raid Maneuver Lv0 -> Lv1
-		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv2 / Jealously of the Kind Lv1 -> Lv5 / Fast Dash Lv0 -> Lv1
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Fast Dash Lv0 -> Lv1
 		* **Yuuka**: HP/MP Boost Lv0 -> Lv5 / Gensokyo Eternal Flower Lv0 -> Lv1 / Fast Dash Lv0 -> Lv1
 		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5 / Fast Dash Lv0 -> Lv1
 		* **Kourin** HP Boost Lv0 -> Lv5 / MND Boost Lv0 -> Lv2 / Effective Formation Lv0 -> Lv2
@@ -1891,7 +1891,7 @@
 	* Learn Skills:
 		* **Aya**: HP/EVA Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Inspiration Plan Lv0 -> Lv1
 		* **Kourin**: DEF Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Initiative Lv0 -> Lv1
-		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / Mind and Body Lv0 -> Lv2
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / Mind and Body Lv0 -> Lv2
 		* **Kasen**: HP Boost Lv0 -> Lv5 / Guts Lv0 -> Lv2 / Fighting Spirit Lv0 -> Lv2
 		* **Nitori**: DEF/AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / Initiative Lv0 -> Lv1
 		* **Iku**: Supple Hagoromo Lv0 -> Lv2 / Elekiter Dragon Palace Lv1 -> Lv5 / Thundercloud Stickleback Lv1 -> Lv5
