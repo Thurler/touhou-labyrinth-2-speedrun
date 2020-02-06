@@ -326,7 +326,7 @@
 	* **Phase 2 - Kasen**
 		* Keine spams 3ST - Sword
 		* Reimu uses Exorcising Border
-		* Kasen spams Divine Waltz of the Raijuu
+		* Kasen spams Diving Waltz of the Raijuu
 		* Momiji swaps Keine with Kasen
 		* Momiji swaps Reimu with Minoriko
 		* Minoriko juggles buff/heal/damage
@@ -617,7 +617,7 @@
 * **Boss Fight - Mokou Fujiwara (Lv17)**
 	* Switch things in if anyone dies
 	* Komachi spams Narrow Confines of Avici
-	* Kasen spams Divine Waltz of the Raijuu
+	* Kasen spams Diving Waltz of the Raijuu
 	* Nitori spams Kappa's Waterfall
 	* Keine spams 3ST - Sword
 	* After Mokou resurrects, switch in Marisa for Master Spark
@@ -981,7 +981,7 @@
 * Enter the dungeon (10F) and head east for FOE
 * **FOE Boss Fight - Gold Hymn (Lv36)**
 	* Aya DGAs Kasen at start then buffs SPD
-	* Kasen spams Divine Waltz of Raijuu to keep PAR
+	* Kasen spams Diving Waltz of Raijuu to keep PAR
 	* Nitori spams Kappa's Watterfall
 	* Keine spams 3ST - Sword
 	* For finer details see Gold Hymn' [Boss Info](../../enemy/goldhymn.md)
