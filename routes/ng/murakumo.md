@@ -602,8 +602,17 @@
 
 ## <a id="Header-2-8"></a>Mokou Side Quest
 
+* When back at Gensokyo and use these facilities:
+	* **Magic Library**: 
+		* **Reset Nitori, Wriggle**
+		* **Chen** learns **Warrior** subclass
+		* **Chen**: ATK Lv0 -> Lv30
+	* **Human Village**:
+		* Swap **Rumia -> Keine**
 * Open the menu and take the following action:
 	* Form Change: **Komachi / Kasen / Nitori / Keine**
+	* Learn Skills:
+		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability to Manip Water Lv0 -> Lv2
 * Enter the dungeon (4F Northeast)
 <hr>
 * Go up and fight Mokou as a boss
@@ -628,10 +637,6 @@
 	* **Hakurei shrine**: Level All Characters, apply new bonus
 		* Mokou ATK
 		* Utsuho MAG
-	* **Magic Library**: 
-		* **Reset Wriggle**
-		* **Chen** learns **Warrior** subclass
-		* **Chen**: ATK Lv0 -> Lv30
 	* **Human Village**:
 		* Swap **Minoriko -> Rumia**
 		* Swap **Wriggle -> Mokou**
@@ -639,21 +644,21 @@
 		* Unequip non-party characters
 	* **Nitori Shop**:
 		* Buy **Cypress Stick x1**
-* Back at Gensokyo, open the menu and take the following actions:
+* Open the menu and take the following actions:
 	* Form Change: **Komachi / Utsuho / Nitori / Chen**
 	* Equipment:
-		* **Parsee** unequips **Biggest Sword Ever**
+		* **Parsee** equips **Shoes of Happiness** over Cypress Stick and unequips **Biggest Sword Ever**
 		* **Utsuho** equips **Cypress Stick** / **Mana Flower** / **Cantrip Book** / **Symbol of Faith**
 		* **Chen** equips **Biggest Sword Ever**
 		* **Mokou** equips **Cypress Stick** / **Piece of Heart** / **Purple Metallic Armor** / **Super-Hard Rye Bread**
-		* **Rumia** equips **Tin Watering Can**
 	* Learn Skills:
 		* **Utsuho**: MP Boost Lv0 -> Lv5 / Blazing Lv0 -> Lv2
 		* **Chen**: Enhanced Row Attack Lv0 -> Lv3
+		* **Momiji**: Instant Attack: Lv0 -> Lv1
 		* **Mokou**: Resurrection Lv0 -> Lv2 / Blazing Lv0 -> Lv2
-		* **Momiji**: Acclerate: Lv0 -> Lv1
-		* **Parsee**: Flames of Jealousy Lv1 -> Lv2
+* Level reference: Nitori 21
 * Enter the dungeon (6F)
+<hr>
 * Take the northern shortcut and fight Tenshi
 * **Boss Fight - Tenshi Hinanawi (Lv40)**
 	* Simply throw characters at the leftmost spots to die
