@@ -18,14 +18,10 @@ Chrysomallos is the first FOE you will face in the game, but unlike Etrian Odyss
 
 ## <a id="script"></a>AI Script
 
-* Phase 1: 75% to 100% HP
+* Threshold Moves:
+	* Great Roar at 75% and 30%
+* Phase 1: Any HP
 	* 50% chance to Regular Attack or Row Attack
-* Phase 2: 30% to 75% HP
-	* Use Great Roar once
-	* Same pattern as Phase 1
-* Phase 3: Below 30% HP
-	* Use Great Roar once
-	* Same pattern as Phase 1
 
 ## <a id="attacks"></a>Attack List
 
