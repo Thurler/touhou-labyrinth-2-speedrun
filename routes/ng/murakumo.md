@@ -495,11 +495,14 @@
 * When you're back at Gensokyo, open the menu and take these actions:
 	* Form Change: **Komachi / Kasen / Nitori / Rumia**
 * Enter the dungeon (3F Center)
+<hr>
 * **FOE Boss Fight - Lesser Golem (Lv14)**
 	* Spam strongest moves, you're overlevelled
 * Recruit **Chen** and take treasures
 * Go back to Gensokyo and re-enter the dungeon through (4F)
+<hr>
 * Move all the way east to recruit **Aya**
+<hr>
 * Go back to Gensokyo and use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply new bonus
 		* Switch **Parsee** bonus to ATK
@@ -520,10 +523,10 @@
 		* **Komachi**: Ferry Wages Lv7 -> Lv8
 		* **Aya**: ATK Boost Lv0 -> Lv4 / Gensokyo's Fastest Lessons Lv0 -> Lv2
 		* **Chen**: Instant Attack Lv0 -> Lv1
-		* **Minoriko**: Desire to Rest Lv1 -> Lv2
+* Level reference: Nitori 17
 * Enter the dungeon (6F)
 
-![](https://i.imgur.com/gC6iENn.png)
+![](img/06-01-relay.png)
 
 * When you reach the destination, backtrack to 5F part with FOE and farm
 * Go back to Gensokyo after farming and visit the facilities:
@@ -548,9 +551,10 @@
 		* **Marisa**: Magic Training Lv1 -> Lv2
 		* **Reimu**: Armored YinYang Orb Lv0 -> Lv1
 		* **Rumia**: Darkness Manipulation Lv1 -> Lv2
+* Level reference: Nitori 20
 * Enter the dungeon (6F Center)
 
-![](https://i.imgur.com/GPmEIm3.png)
+![](img/06-02-tenshi.png)
 
 * When you reach the destination, simply go back to Gensokyo
 
