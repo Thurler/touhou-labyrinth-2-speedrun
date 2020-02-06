@@ -361,17 +361,15 @@
 		* **Komachi** equips **Sirloin**
 		* **Minoriko** equips **Cypress Stick**
 	* Learn Skills:
-		* **Komachi**: Regeneration Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv2
-		* **Reimu**: MP Boost Lv3 -> Lv4
+		* **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv2
 * Level reference: Nitori 11
 * Enter the dungeon (4F)
 
-![](https://i.imgur.com/RhY7Nzr.png)
+![](img/04-01-explore.png)
 
-* After getting the 2 treasures on northwest side, go back to Gensokyo
-* The blue outline path is done after you reach the blue orb northeast
-* You can also go back to Gensokyo after activating the blue orb - do blue path then
-* After everything is explored, farm until frontline is out of MP
+* After getting the 2 treasures on northwest, do red outline path
+* After reaching 5F, do the blue outline path
+* Before going down to 3F, farm until frontline is out of MP
 
 ## <a id="Header-2-2"></a>Explore 5F
 
