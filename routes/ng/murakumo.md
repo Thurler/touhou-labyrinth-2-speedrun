@@ -20,10 +20,10 @@
 	* [Explore 4F](#Header-2-1)
 	* [Explore 5F](#Header-2-2)
 	* [Wriggle Side Quest](#Header-2-3)
-	* [Kraken Fight](#Header-2-4)
-	* [Hina Fight](#Header-2-5)
-	* [Explore 6F](#Header-2-6)
-	* [Blue Orchid Fight](#Header-2-7)
+	* [Hina Fight](#Header-2-4)
+	* [Explore 6F](#Header-2-5)
+	* [Blue Orchid Fight](#Header-2-6)
+	* [Kraken Fight](#Header-2-7)
 	* [Mokou Side Quest](#Header-2-8)
 	* [Tenshi 1 Fight](#Header-2-9)
 * [Jungle Stratum](#Header-3) (7F ~ 9F)
@@ -382,15 +382,16 @@
 		* **Reimu** equips **Ultrafast Granite Keystone** over Light Crystal
 		* **Komachi** equips **Violent Green Rupee** / **Light Crystal**
 	* Learn Skills:
-		* **Komachi**: Ferry Wages Lv2 -> Lv5
-		* **Minoriko**: Desire to Rest Lv0 -> Lv1
+		* **Komachi**: Ferry Wages Lv2 -> Lv4
+		* **Minoriko**: Ability Control Harvests Lv0 -> Lv1
 		* **Rumia**: Darkness Manipulation Lv0 -> Lv1
 		* **Keine**: 3ST - Sword Lv2 -> Lv3
-		* **Reimu**: MP Boost Lv4 -> Lv5
+		* **Reimu**: MP Boost Lv1 -> Lv2
+		* **Marisa**: Magic Training Lv0 -> Lv1
 * Level reference: Nitori 13
 * Enter the dungeon (5F)
 
-![](https://i.imgur.com/QKqPae5.png)
+![](img/05-01-explore.png)
 
 * When you reach the warp, go back to Gensokyo
 * When you reach the destination, farm as much as you can
@@ -408,9 +409,10 @@
 		* **Minoriko** equips **Super-Hard Rye Bread** over Cantrip Book
 	* Learn Skills:
 		* **Kourin**: HP High Boost Lv0 -> Lv1
-		* **Marisa**: Magic Training Lv0 -> Lv1
-		* **Komachi**: Ferry Wages Lv5 -> Lv6
+		* **Komachi**: Ferry Wages Lv4 -> Lv6
+* Level reference: Nitori 15
 * Enter the dungeon (2F Center)
+<hr>
 * Go up and fight Kaguya as a boss
 * **Boss Fight - Kaguya Houraisan (Lv8)** 
 	* Spam highest damage spells, you're overlevelled

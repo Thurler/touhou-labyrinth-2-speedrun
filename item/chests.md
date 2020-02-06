@@ -138,20 +138,20 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training Manual x2 | O |
 | Biggest Sword Ever | O |
-| Concept of Everything x2 | O |
-| Eternal Ice x2 | O |
+| Concept of Everything x2 | X |
+| Eternal Ice x2 | X |
 | Flipskirt Dagger | O |
 | Heater Muffler | O |
-| Kazu's Amulet | O |
+| Kazu's Amulet | X |
 | Magic Gem x2 | X |
 | Misterepulsion | O |
 | Piece of Magic Armor x2 | O |
-| Purifying Amulet x2 | O |
+| Purifying Amulet x2 | X |
 | Shoes of Happiness | O |
 | Water Cutting Sword | X |
-| Yamabiko Necklace | O |
-| Floor Total | 12 |
-| Combined Total | 62 |
+| Yamabiko Necklace | X |
+| Floor Total | 7 |
+| Combined Total | 57 |
 
 #### <a id="floor-6"></a>Floor 6
 
@@ -173,7 +173,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Purple Dragon Crystal | O |
 | Stone of Awakening | O |
 | Floor Total | 14 |
-| Combined Total | 76 |
+| Combined Total | 71 |
 
 #### <a id="floor-7"></a>Floor 7
 
@@ -200,7 +200,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
 | Floor Total | 19 |
-| Combined Total | 95 |
+| Combined Total | 90 |
 
 #### <a id="floor-8"></a>Floor 8
 
@@ -230,7 +230,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | O |
 | Floor Total | 23 |
-| Combined Total | 118 |
+| Combined Total | 113 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -255,7 +255,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Water Cutting Sword | O |
 | Youkai's Fire Blowgun x2 | O |
 | Floor Total | 18 |
-| Combined Total | 136 |
+| Combined Total | 131 |
 
 #### <a id="floor-10"></a>Floor 10
 
@@ -280,7 +280,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
 | Floor Total | 16 |
-| Combined Total | 152 |
+| Combined Total | 147 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -307,7 +307,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
 | Floor Total | 19 |
-| Combined Total | 171 |
+| Combined Total | 166 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -333,7 +333,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Floor Total | 18 |
-| Combined Total | 189 |
+| Combined Total | 184 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -354,7 +354,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | T-45d Power Armor | O |
 | Training Manual | O |
 | Floor Total | 14 |
-| Combined Total | 203 |
+| Combined Total | 198 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -380,7 +380,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wallbreaker Armband | O |
 | Wisdom Gem | O |
 | Floor Total | 19 |
-| Combined Total | 222 |
+| Combined Total | 217 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -414,7 +414,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Ultrafast Granite | O |
 | Youkai Medal Shattering Axe | O |
 | Floor Total | 22 |
-| Combined Total | 244 |
+| Combined Total | 239 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -440,7 +440,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wash Basin Set | O |
 | Floor Total | 18 |
-| Combined Total | 262 |
+| Combined Total | 257 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -463,7 +463,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 6 |
-| Combined Total | 268 |
+| Combined Total | 263 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -485,7 +485,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 4 |
-| Combined Total | 272 |
+| Combined Total | 267 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -513,7 +513,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 5 |
-| Combined Total | 277 |
+| Combined Total | 272 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -541,7 +541,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wash Basin Set | O |
 | Wisdom Gem | X |
 | Floor Total | 6 |
-| Combined Total | 283 |
+| Combined Total | 278 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
