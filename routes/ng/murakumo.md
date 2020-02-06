@@ -294,41 +294,55 @@
 		* Nitori ATK
 		* Use **Training Manual x3** on **Nitori**
 * Open the menu and take the following actions:
-	* Form Change: **Momiji / Keine / Kasen / Reimu**
+	* Form Change: **Momiji / Keine / Reimu / Nitori**
 	* Equipment:
+		* **Marisa** equips **Miko Board** over Cypress Stick
 		* **Momiji** equips **Courtesan's Sorrow** over Power Bracer
 		* **Keine** equips **Heater Muffler** / **Gokiri's Charm** / **Lucky Horseshoe**
 		* **Reimu** equips **Cypress Stick** / **Super-Hard Rye Bread** over DX Mechamonkey Model
-		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
-		* **Marisa** equips **Miko Board** over Cypress Stick
+		* **Nitori** equips **Cypress Stick** / **Wash Basin Set** / **DX Mechamonkey Model** / **Power Bracer**
 		* **Rumia** equips **Piche's Bauble x2** / **Crepe Mariette**
 		* **Youmu** equips **Piece of Heart x2** / **Bulletproof Armor**
-		* **Nitori** equips **Cypress Stick** / **Wash Basin Set** / **DX Mechamonkey Model** / **Power Bracer**
+		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
 	* Learn Skills:
 		* **Keine**: 3ST - Sword Lv1 -> Lv2
-		* **Kasen**: Guts Lv1 -> Lv2
-		* **Reimu**: MP Boost Lv0 -> Lv3
+		* **Reimu**: MP Boost Lv0 -> Lv1 / Armored Yin-Yang Orb Lv0 -> Lv1
+		* **Nitori**: Maintenance Lv0 -> Lv1
 		* **Kourin**: Effective Formation Change Lv0 -> Lv2
-		* **Marisa**: MP Boost Lv2 -> Lv5
+		* **Kasen**: Guts Lv1 -> Lv2
 		* **Youmu**: Netherworld Dweller Lv1 -> Lv2
 		* **Minoriko**: Rapid Charge Lv0 -> Lv1
-		* **Nitori**: Maintenance Lv0 -> Lv1
+		* **Marisa**: MP Boost Lv2 -> Lv5
+* Level reference: Reimu 10
 * Enter the dungeon (3F Center)
 <hr>
 * **Boss Fight - Komachi Onozuka (Lv12)**
-	* **If Kasen or Minoriko die early, reset**
-	* She will use **Narrow Confines of Avici at 40%**, kill her asap after she uses it
-	* To keep Momiji alive, you'll need DEF buffs and heal:
-		* Reimu can use GHB to buff all and Exorcising Border to heal all
-		* Minoriko can use Owotoshi Harvester to buff and Sweet Potato to heal
-	* In order to deal damage, your options are, in order of preference:
-		* Kasen's Diving Waltz of the Raijuu (also debuffs MND)
-		* Nitori's Extending Arm
-		* Minoriko's Autumn Sky
-		* Marisa's Master Spark
-		* Rumia's Moonlight Ray
-		* Youmu's Slash Clearing the Six Senses
-	* Kourin and Momiji can combo switch to spam moves
+	* **Phase 1 - Buffing**
+		* Momiji attacks to delay turn
+		* Nitori spams Portable Machine
+		* Keine uses 3ST - Sword
+		* Reimu uses Great Hakurei Barrier
+		* Momiji swaps Nitori for Kasen
+	* **Phase 2 - Kasen**
+		* Keine spams 3ST - Sword
+		* Reimu uses Exorcising Border
+		* Kasen spams Divine Waltz of the Raijuu
+		* Momiji swaps Keine with Kasen
+		* Momiji swaps Reimu with Minoriko
+		* Minoriko juggles buff/heal/damage
+	* **Phase 3 - Kourin/Nitori**
+		* Momiji swaps no MP Keine with Cirno
+		* Cirno uses Icicle Fall
+		* Minoriko swaps self with Kourin
+		* Momiji swaps no MP Kasen with Youmu
+		* Kourin swaps Cirno with Nitori
+		* Nitori spams Extending Arm
+		* Momiji/Kourin combo swap Nitori to renew her ATB
+	* **Phase 4 - Narrow Confines of Avici**
+		* Swap Nitori for Reimu when Komachi below 40%
+		* Reimu uses Great Hakurei Barrier
+		* Tank the Confines of Avici
+		* Resume combo swap with Nitori
 	* For finer details see Komachi' [Boss Info](../../enemy/komachi.md)
 * Take the stairs to 4F, get the relay point and exit the dungeon
 
@@ -349,6 +363,7 @@
 	* Learn Skills:
 		* **Komachi**: Regeneration Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv2
 		* **Reimu**: MP Boost Lv3 -> Lv4
+* Level reference: Nitori 11
 * Enter the dungeon (4F)
 
 ![](https://i.imgur.com/RhY7Nzr.png)
@@ -374,6 +389,7 @@
 		* **Rumia**: Darkness Manipulation Lv0 -> Lv1
 		* **Keine**: 3ST - Sword Lv2 -> Lv3
 		* **Reimu**: MP Boost Lv4 -> Lv5
+* Level reference: Nitori 13
 * Enter the dungeon (5F)
 
 ![](https://i.imgur.com/QKqPae5.png)
