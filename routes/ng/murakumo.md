@@ -268,23 +268,21 @@
 
 * Back at Gensokyo, visit the following facilities:
 	* **Hakurei Shrine**: Level All Characters
-* Open the menu and take the following actions:
-	* Equipment:
-		* **Reimu** equips **Super-Hard Rye Bread** over DX Mechamonkey Model
-		* **Rumia** equips **Piche's Bauble**
-		* **Youmu** equips **DX Mechamonkey Model** / **Piece of Heart** / **Bulletproof Armor**
-		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
+	* **Nitori Shop**:
+		* Forge Crepe Mariette, Piche's Bauble, whatever else you can
+		* Count how many forges you have, need 10 total on next trip
 * Level reference: Reimu 10
 * Enter the dungeon (3F)
 
-![](https://i.imgur.com/x6ZwhIB.png)
+![](img/03-03-komachi.png)
 
 * When you reach the relay point, farm 60 battles in 1F
+* Prolong grind if you don't have materials for 10 total crafts
+<hr>
 * Back at Gensokyo, visit the facilities:
 	* **Nitori Shop**:
-		* Forge Crepe Mariette, Piche's Bauble, whatever else you can
+		* Forge until you recruit Nitori
 		* Buy **Cypress Stick x1**
-		* If you can't forge 10 things, farm more on 1F
 	* **Human Village**: Include Nitori in party (slot 11)
 	* **Magic Library**:
 		* ** Reset Kourin**
@@ -300,12 +298,12 @@
 	* Equipment:
 		* **Momiji** equips **Courtesan's Sorrow** over Power Bracer
 		* **Keine** equips **Heater Muffler** / **Gokiri's Charm** / **Lucky Horseshoe**
-		* **Reimu** equips **Cypress Stick**
+		* **Reimu** equips **Cypress Stick** / **Super-Hard Rye Bread** over DX Mechamonkey Model
+		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
 		* **Marisa** equips **Miko Board** over Cypress Stick
-		* **Rumia** equips **Piche's Bauble** / **Crepe Mariette**
-		* **Youmu** unequips **DX Mechamonkey Model**
+		* **Rumia** equips **Piche's Bauble x2** / **Crepe Mariette**
+		* **Youmu** equips **Piece of Heart x2** / **Bulletproof Armor**
 		* **Nitori** equips **Cypress Stick** / **Wash Basin Set** / **DX Mechamonkey Model** / **Power Bracer**
-		* Whatever else was randomly dropped and forged
 	* Learn Skills:
 		* **Keine**: 3ST - Sword Lv1 -> Lv2
 		* **Kasen**: Guts Lv1 -> Lv2
@@ -316,6 +314,7 @@
 		* **Minoriko**: Rapid Charge Lv0 -> Lv1
 		* **Nitori**: Maintenance Lv0 -> Lv1
 * Enter the dungeon (3F Center)
+<hr>
 * **Boss Fight - Komachi Onozuka (Lv12)**
 	* **If Kasen or Minoriko die early, reset**
 	* She will use **Narrow Confines of Avici at 40%**, kill her asap after she uses it
