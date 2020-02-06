@@ -43,7 +43,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Biggest Sword Ever<br>Purple Metallic Armor<br>Mana Flower<br>Symbol of Faith | O |
-| Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly | X
+| Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly | X |
 | Magic Gem x2<br>Energy Gem x2 | X |
 | Bludgeon | O |
 | Bulletproof Armor | O |
@@ -118,19 +118,19 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Choice Scarf | X |
 | Getitup V | O |
 | Heater Muffler | O |
-| Kazu's Amulet | O |
+| Kazu's Amulet | X |
 | Light Staff | O |
 | LOVE Machine 3322 | O |
-| Magic Bird's Crest x4 | O |
+| Magic Bird's Crest x4 | X |
 | Midnight Oil Set | X |
-| Nitroglycerin | O |
-| Steadfast Ring | O |
-| Strange Mechanical Part x2 | O |
+| Nitroglycerin | X |
+| Steadfast Ring | X |
+| Strange Mechanical Part x2 | X |
 | Sword of Singing Delusion | O |
 | Ultrafast Granite Keystone | O |
 | Violet Green Rupee | O |
-| Floor Total | 14 |
-| Combined Total | 55 |
+| Floor Total | 9 |
+| Combined Total | 50 |
 
 #### <a id="floor-5"></a>Floor 5
 
@@ -151,7 +151,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Water Cutting Sword | X |
 | Yamabiko Necklace | O |
 | Floor Total | 12 |
-| Combined Total | 67 |
+| Combined Total | 62 |
 
 #### <a id="floor-6"></a>Floor 6
 
@@ -173,7 +173,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Purple Dragon Crystal | O |
 | Stone of Awakening | O |
 | Floor Total | 14 |
-| Combined Total | 81 |
+| Combined Total | 76 |
 
 #### <a id="floor-7"></a>Floor 7
 
@@ -200,7 +200,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
 | Floor Total | 19 |
-| Combined Total | 100 |
+| Combined Total | 95 |
 
 #### <a id="floor-8"></a>Floor 8
 
@@ -230,7 +230,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | O |
 | Floor Total | 23 |
-| Combined Total | 123 |
+| Combined Total | 118 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -255,7 +255,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Water Cutting Sword | O |
 | Youkai's Fire Blowgun x2 | O |
 | Floor Total | 18 |
-| Combined Total | 141 |
+| Combined Total | 136 |
 
 #### <a id="floor-10"></a>Floor 10
 
@@ -280,7 +280,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
 | Floor Total | 16 |
-| Combined Total | 157 |
+| Combined Total | 152 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -307,7 +307,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
 | Floor Total | 19 |
-| Combined Total | 176 |
+| Combined Total | 171 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -333,7 +333,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Floor Total | 18 |
-| Combined Total | 194 |
+| Combined Total | 189 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -354,7 +354,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | T-45d Power Armor | O |
 | Training Manual | O |
 | Floor Total | 14 |
-| Combined Total | 208 |
+| Combined Total | 203 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -380,7 +380,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wallbreaker Armband | O |
 | Wisdom Gem | O |
 | Floor Total | 19 |
-| Combined Total | 227 |
+| Combined Total | 222 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -414,7 +414,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Ultrafast Granite | O |
 | Youkai Medal Shattering Axe | O |
 | Floor Total | 22 |
-| Combined Total | 249 |
+| Combined Total | 244 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -440,7 +440,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wash Basin Set | O |
 | Floor Total | 18 |
-| Combined Total | 267 |
+| Combined Total | 262 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -463,7 +463,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 6 |
-| Combined Total | 273 |
+| Combined Total | 268 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -485,7 +485,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 4 |
-| Combined Total | 277 |
+| Combined Total | 272 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -513,7 +513,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 5 |
-| Combined Total | 282 |
+| Combined Total | 277 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -541,7 +541,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wash Basin Set | O |
 | Wisdom Gem | X |
 | Floor Total | 6 |
-| Combined Total | 288 |
+| Combined Total | 283 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -579,7 +579,9 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Scouter x1 | 20F | Useless, out of way |
 | **Sub Equip** | - | - |
 | Poison Resistance Ring x1 | 2F | Useless, out of way |
-| Nitroglycerin x1 | 3F | Useless, out of way |
+| Nitroglycerin x2 | 3F/4F | Useless, out of way |
+| Steadfast Ring x1 | 4F | Useless, out of way |
+| Kazu's Amulet x1 | 4F | Useless, out of way |
 | Full Custom x1 | 18F | Useless, out of way |
 | Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
 | Luster Candy x1 | 17F | Needs FOE kill, useless |
@@ -594,6 +596,8 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | The Bee x1 | 20F | Useless, out of way |
 | Dark Magic Grimoire x1 | 17F | Useless, out of way |
 | **Others** | - | - |
+| Magic Bird's Crest x4 | 4F | Useless, out of way |
+| Strange Mechanical Part x2 | 4F | Useless, out of way |
 | Hero's Soul x2 | 15F | Needs FOE kill, useless |
 | Shining Dragon's Soul x2 | 19F | Useless, out of way |
 | Rainbow Light x2 | 19F | Useless, out of way |
