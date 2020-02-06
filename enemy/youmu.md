@@ -18,18 +18,14 @@ Youmu is the first real boss of the game, and she can be quite hard if you don't
 
 ## <a id="script"></a>AI Script
 
-* Phase 1: 80% to 100% HP
+* Threshold Moves:
+	* Slash Clearing the Six Senses at 80%
+	* Concentrate -> God's Slash of Karma Wind at 60% and 20%
+* Phase 1: Over 60% HP
 	* 50% chance to Regular Attack or Present Life Slash
-* Phase 2: 60% to 80% HP
-	* Use Slash Clearing the Six Senses once
-	* Same pattern as Phase 1
-* Phase 3: 20% to 60% HP
-	* Use Concentrate, then God's Slash of Karma Wind once
+* Phase 2: Below 60% HP
 	* 43% chance to Regular Attack or Present Life Slash
 	* 14% chance to Slash Clearing the Six Senses
-* Phase 4: Below 20% HP
-	* Use Concentrate, then God's Slash of Karma Wind once
-	* Same pattern as Phase 3
 
 ## <a id="attacks"></a>Attack List
 

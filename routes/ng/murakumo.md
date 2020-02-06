@@ -268,23 +268,21 @@
 
 * Back at Gensokyo, visit the following facilities:
 	* **Hakurei Shrine**: Level All Characters
-* Open the menu and take the following actions:
-	* Equipment:
-		* **Reimu** equips **Super-Hard Rye Bread** over DX Mechamonkey Model
-		* **Rumia** equips **Piche's Bauble**
-		* **Youmu** equips **DX Mechamonkey Model** / **Piece of Heart** / **Bulletproof Armor**
-		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
+	* **Nitori Shop**:
+		* Forge Crepe Mariette, Piche's Bauble, whatever else you can
+		* Count how many forges you have, need 10 total on next trip
 * Level reference: Reimu 10
 * Enter the dungeon (3F)
 
-![](https://i.imgur.com/x6ZwhIB.png)
+![](img/03-03-komachi.png)
 
 * When you reach the relay point, farm 60 battles in 1F
+* Prolong grind if you don't have materials for 10 total crafts
+<hr>
 * Back at Gensokyo, visit the facilities:
 	* **Nitori Shop**:
-		* Forge Crepe Mariette, Piche's Bauble, whatever else you can
+		* Forge until you recruit Nitori
 		* Buy **Cypress Stick x1**
-		* If you can't forge 10 things, farm more on 1F
 	* **Human Village**: Include Nitori in party (slot 11)
 	* **Magic Library**:
 		* ** Reset Kourin**
@@ -296,40 +294,55 @@
 		* Nitori ATK
 		* Use **Training Manual x3** on **Nitori**
 * Open the menu and take the following actions:
-	* Form Change: **Momiji / Keine / Kasen / Reimu**
+	* Form Change: **Momiji / Keine / Reimu / Nitori**
 	* Equipment:
+		* **Marisa** equips **Miko Board** over Cypress Stick
 		* **Momiji** equips **Courtesan's Sorrow** over Power Bracer
 		* **Keine** equips **Heater Muffler** / **Gokiri's Charm** / **Lucky Horseshoe**
-		* **Reimu** equips **Cypress Stick**
-		* **Marisa** equips **Miko Board** over Cypress Stick
-		* **Rumia** equips **Piche's Bauble** / **Crepe Mariette**
-		* **Youmu** unequips **DX Mechamonkey Model**
+		* **Reimu** equips **Cypress Stick** / **Super-Hard Rye Bread** over DX Mechamonkey Model
 		* **Nitori** equips **Cypress Stick** / **Wash Basin Set** / **DX Mechamonkey Model** / **Power Bracer**
-		* Whatever else was randomly dropped and forged
+		* **Rumia** equips **Piche's Bauble x2** / **Crepe Mariette**
+		* **Youmu** equips **Piece of Heart x2** / **Bulletproof Armor**
+		* **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette**
 	* Learn Skills:
 		* **Keine**: 3ST - Sword Lv1 -> Lv2
-		* **Kasen**: Guts Lv1 -> Lv2
-		* **Reimu**: MP Boost Lv0 -> Lv3
+		* **Reimu**: MP Boost Lv0 -> Lv1 / Armored Yin-Yang Orb Lv0 -> Lv1
+		* **Nitori**: Maintenance Lv0 -> Lv1
 		* **Kourin**: Effective Formation Change Lv0 -> Lv2
-		* **Marisa**: MP Boost Lv2 -> Lv5
+		* **Kasen**: Guts Lv1 -> Lv2
 		* **Youmu**: Netherworld Dweller Lv1 -> Lv2
 		* **Minoriko**: Rapid Charge Lv0 -> Lv1
-		* **Nitori**: Maintenance Lv0 -> Lv1
+		* **Marisa**: MP Boost Lv2 -> Lv5
+* Level reference: Reimu 10
 * Enter the dungeon (3F Center)
+<hr>
 * **Boss Fight - Komachi Onozuka (Lv12)**
-	* **If Kasen or Minoriko die early, reset**
-	* She will use **Narrow Confines of Avici at 40%**, kill her asap after she uses it
-	* To keep Momiji alive, you'll need DEF buffs and heal:
-		* Reimu can use GHB to buff all and Exorcising Border to heal all
-		* Minoriko can use Owotoshi Harvester to buff and Sweet Potato to heal
-	* In order to deal damage, your options are, in order of preference:
-		* Kasen's Diving Waltz of the Raijuu (also debuffs MND)
-		* Nitori's Extending Arm
-		* Minoriko's Autumn Sky
-		* Marisa's Master Spark
-		* Rumia's Moonlight Ray
-		* Youmu's Slash Clearing the Six Senses
-	* Kourin and Momiji can combo switch to spam moves
+	* **Phase 1 - Buffing**
+		* Momiji attacks to delay turn
+		* Nitori spams Portable Machine
+		* Keine uses 3ST - Sword
+		* Reimu uses Great Hakurei Barrier
+		* Momiji swaps Nitori for Kasen
+	* **Phase 2 - Kasen**
+		* Keine spams 3ST - Sword
+		* Reimu uses Exorcising Border
+		* Kasen spams Diving Waltz of the Raijuu
+		* Momiji swaps Keine with Kasen
+		* Momiji swaps Reimu with Minoriko
+		* Minoriko juggles buff/heal/damage
+	* **Phase 3 - Kourin/Nitori**
+		* Momiji swaps no MP Keine with Cirno
+		* Cirno uses Icicle Fall
+		* Minoriko swaps self with Kourin
+		* Momiji swaps no MP Kasen with Youmu
+		* Kourin swaps Cirno with Nitori
+		* Nitori spams Extending Arm
+		* Momiji/Kourin combo swap Nitori to renew her ATB
+	* **Phase 4 - Narrow Confines of Avici**
+		* Swap Nitori for Reimu when Komachi below 40%
+		* Reimu uses Great Hakurei Barrier
+		* Tank the Confines of Avici
+		* Resume combo swap with Nitori
 	* For finer details see Komachi' [Boss Info](../../enemy/komachi.md)
 * Take the stairs to 4F, get the relay point and exit the dungeon
 
@@ -350,6 +363,7 @@
 	* Learn Skills:
 		* **Komachi**: Regeneration Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv2
 		* **Reimu**: MP Boost Lv3 -> Lv4
+* Level reference: Nitori 11
 * Enter the dungeon (4F)
 
 ![](https://i.imgur.com/RhY7Nzr.png)
@@ -375,6 +389,7 @@
 		* **Rumia**: Darkness Manipulation Lv0 -> Lv1
 		* **Keine**: 3ST - Sword Lv2 -> Lv3
 		* **Reimu**: MP Boost Lv4 -> Lv5
+* Level reference: Nitori 13
 * Enter the dungeon (5F)
 
 ![](https://i.imgur.com/QKqPae5.png)
@@ -402,7 +417,7 @@
 * **Boss Fight - Kaguya Houraisan (Lv8)** 
 	* Spam highest damage spells, you're overlevelled
 * Exit the dungeon and enter back on (3F)
-* Move back to 2F and go south for Eririn event and treasure below
+* Move back to 2F and go south for Eririn event
 * Exit the dungeon and enter back on (3F)
 * Follow the path south, then head west for Wriggle event
 * Exit the dungeon and enter back on (3F Center)
@@ -420,7 +435,7 @@
 * Head back to Gensokyo and enter the dungeon on (3F)
 * Go talk to Eirin on 2F
 * Head back to Gensokyo and enter the dungeon on (3F Center)
-* Move southeast to get Reisen event and a treasure (!!!)
+* Move southeast to get Reisen event
 * Go talk to Wriggle and finally recruit her
 * Head back to Gensokyo and enter the dungeon on (1F)
 * Recruit Parsee and go back to Gensokyo
@@ -449,7 +464,7 @@
 		* **Wriggle** equips **Booster v0.8  x2** / **Bone Stake**
 		* **Komachi** equips **Mad Milk**
 	* Learn Skills:
-		* **Parsee**: MP Boost Lv0 -> Lv1 / Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv1
+		* **Parsee**: MP Boost Lv0 -> Lv1 / Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv1
 		* **Wriggle**: Comet on Earth Lv1 -> Lv4
 		* **Komachi**: Ferry Wages Lv6 -> Lv7
 * Enter the dungeon (5F)
@@ -602,7 +617,7 @@
 * **Boss Fight - Mokou Fujiwara (Lv17)**
 	* Switch things in if anyone dies
 	* Komachi spams Narrow Confines of Avici
-	* Kasen spams Divine Waltz of the Raijuu
+	* Kasen spams Diving Waltz of the Raijuu
 	* Nitori spams Kappa's Waterfall
 	* Keine spams 3ST - Sword
 	* After Mokou resurrects, switch in Marisa for Master Spark
@@ -643,7 +658,7 @@
 		* **Chen**: Enhanced Row Attack Lv0 -> Lv3
 		* **Mokou**: Resurrection Lv0 -> Lv2 / Blazing Lv0 -> Lv2
 		* **Momiji**: Acclerate: Lv0 -> Lv1
-		* **Parsee**: Flames of Jealously Lv1 -> Lv2
+		* **Parsee**: Flames of Jealousy Lv1 -> Lv2
 * Enter the dungeon (6F)
 * Take the northern shortcut and fight Tenshi
 * **Boss Fight - Tenshi Hinanawi (Lv40)**
@@ -966,7 +981,7 @@
 * Enter the dungeon (10F) and head east for FOE
 * **FOE Boss Fight - Gold Hymn (Lv36)**
 	* Aya DGAs Kasen at start then buffs SPD
-	* Kasen spams Divine Waltz of Raijuu to keep PAR
+	* Kasen spams Diving Waltz of Raijuu to keep PAR
 	* Nitori spams Kappa's Watterfall
 	* Keine spams 3ST - Sword
 	* For finer details see Gold Hymn' [Boss Info](../../enemy/goldhymn.md)
@@ -1282,7 +1297,7 @@
 		* **Nitori**: MND Boost Lv0 -> Lv5 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1
 		* **Kasen**: SPD Boost Lv0 -> Lv5
 		* **Rin**: SPD Boost Lv0 -> Lv5 / Speedy Formation Lv2
-		* **Parsee**: MP Boost Lv1 -> Lv5 / Jealously of the Kind Lv1 -> Lv4
+		* **Parsee**: MP Boost Lv1 -> Lv5 / Jealousy of the Kind Lv1 -> Lv4
 * Enter the dungeon (14F east) and go fight the boss
 * **Boss Fight - Memorized Knowledge (Lv55)**
 	* **If Nitori dies at all, reset**
@@ -1450,7 +1465,7 @@
 		* **Sanae**: MND Boost Lv0 -> Lv4 / Enhanced Buffing Lv0 -> Lv2
 		* **Kasen**: HP Boost Lv0 -> Lv5
 		* **Rin**: Cat's Walk Lv1 -> Lv7
-		* **Parsee**: MND/RES Boost Lv0 -> Lv5 / Ability Manip Jealously Lv0 -> Lv1 / Emergency Recovery Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
+		* **Parsee**: MND/RES Boost Lv0 -> Lv5 / Ability Manip Jealousy Lv0 -> Lv1 / Emergency Recovery Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
 		* **Iku**: Lightning Fish Lv1 -> Lv2
 		* **Reimu**: HP Boost Lv0 -> Lv5 / MAG Boost Lv0 -> Lv3
 		* **Nitori**: Cooling Down Lv1 -> Lv2
@@ -1505,7 +1520,7 @@
 		* **Reimu** equips **Lambda Driver**
 	* Learn Skills:
 		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5
-		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv2 / Jealously of the Kind Lv1 -> Lv5 / Mind Body as One Lv0 -> Lv2
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Mind Body as One Lv0 -> Lv2
 		* **Yuuka**: HP/MP Boost Lv0 -> Lv5 / Majesty Lv0 -> Lv2 / Gensokyo Eternal Flower Lv0 -> Lv1
 * Enter the dungeon (15F) and go fight Yuyuko
 * **Boss Fight - Yuyuko Saigyouji (Lv60)**
@@ -1543,7 +1558,7 @@
 		* **Kourin** equips **Chario Boots** / **Booster v0.8 x3**
 	* Learn Skills:
 		* **Aya**: HP Boost Lv0 -> Lv4 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Ironclad Strat Lv0 -> Lv10 / Raid Maneuver Lv0 -> Lv1
-		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv2 / Jealously of the Kind Lv1 -> Lv5 / Fast Dash Lv0 -> Lv1
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Fast Dash Lv0 -> Lv1
 		* **Yuuka**: HP/MP Boost Lv0 -> Lv5 / Gensokyo Eternal Flower Lv0 -> Lv1 / Fast Dash Lv0 -> Lv1
 		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5 / Fast Dash Lv0 -> Lv1
 		* **Kourin** HP Boost Lv0 -> Lv5 / MND Boost Lv0 -> Lv2 / Effective Formation Lv0 -> Lv2
@@ -1891,7 +1906,7 @@
 	* Learn Skills:
 		* **Aya**: HP/EVA Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Inspiration Plan Lv0 -> Lv1
 		* **Kourin**: DEF Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Initiative Lv0 -> Lv1
-		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealously Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / Mind and Body Lv0 -> Lv2
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / Mind and Body Lv0 -> Lv2
 		* **Kasen**: HP Boost Lv0 -> Lv5 / Guts Lv0 -> Lv2 / Fighting Spirit Lv0 -> Lv2
 		* **Nitori**: DEF/AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / Initiative Lv0 -> Lv1
 		* **Iku**: Supple Hagoromo Lv0 -> Lv2 / Elekiter Dragon Palace Lv1 -> Lv5 / Thundercloud Stickleback Lv1 -> Lv5

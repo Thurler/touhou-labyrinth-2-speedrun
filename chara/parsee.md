@@ -26,11 +26,11 @@ Parsee is optional, but she's so immensely useful that she's worth the short 1F 
 	* DRK physical spell that targets DEF
 	* Chance to TRR(50000): 66/69/72/75/78
 	* Chance to SIL(40000): 66/69/72/75/78
-	* Excellent for inflicting TRR and SIL, and with a huge duration too. This is particularly important for TRR since it synergizes well with Jealously of the Kind and Lovely.
+	* Excellent for inflicting TRR and SIL, and with a huge duration too. This is particularly important for TRR since it synergizes well with Jealousy of the Kind and Lovely.
 * **Grudge Returning**
 	* AoE DRK physical spell that targets DEF
 	* Chance to TRR(14000): 100/105/110/120/125
-	* More reliable at inflicting TRR, but at a shorter duration and AoE. Very useful for trash or just inflicting TRR for some quick capitalization with Jealously of the Kind and Lovely.
+	* More reliable at inflicting TRR, but at a shorter duration and AoE. Very useful for trash or just inflicting TRR for some quick capitalization with Jealousy of the Kind and Lovely.
 * **Jealousy of the Kind and Lovely**
 	* AoE DRK physical spell that targets DEF
 	* Deals 0 damage if enemy is not TRR'd, removes TRR
@@ -43,16 +43,16 @@ Parsee is optional, but she's so immensely useful that she's worth the short 1F 
 	* MP Boost is vital for increasing her potential power in firing her TRR spells multiple times.
 * **Two-Way Curse**
 	* Increases damage done and reduces damage taken by 12/24% if Parsee has an ailment
-	* Not very reliable since it's hard to inflict ailments on yourself, but this can further boost Jealously of the Kind so can be pretty good.
+	* Not very reliable since it's hard to inflict ailments on yourself, but this can further boost Jealousy of the Kind so can be pretty good.
 * **Final Blow**
 	* Increases damage by 16/32% if enemy has ailment
-	* This skill is amazing when paired with Jealously of the Kind's special effect, and is vital to make the strat work faster.
+	* This skill is amazing when paired with Jealousy of the Kind's special effect, and is vital to make the strat work faster.
 * **Jealousy Manipulation**
 	* Increases damage the more allies and enemies are affected by debuffs
 	* Very useful since you'll be debuffing enemies a lot, but kinda unreliable since it's hard to debuff yourself consistently in big fights.
 * **Flames of Jealousy**
-	* * Increase DRK damage by 15/30%
-	* This further boosts Jealously of the Kind so it's a very important skill.
+	* Increase DRK damage by 15/30%
+	* This further boosts Jealousy of the Kind so it's a very important skill.
 * **Emergency Recovery**
 	* Concentrate below 66% HP restores 66% HP at 3 TP cost
 	* Great for healing in a pinch, specially useful for fights where Parsee needs to be the MND tank
