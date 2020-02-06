@@ -402,7 +402,7 @@
 * **Boss Fight - Kaguya Houraisan (Lv8)** 
 	* Spam highest damage spells, you're overlevelled
 * Exit the dungeon and enter back on (3F)
-* Move back to 2F and go south for Eririn event and treasure below
+* Move back to 2F and go south for Eririn event
 * Exit the dungeon and enter back on (3F)
 * Follow the path south, then head west for Wriggle event
 * Exit the dungeon and enter back on (3F Center)
@@ -420,7 +420,7 @@
 * Head back to Gensokyo and enter the dungeon on (3F)
 * Go talk to Eirin on 2F
 * Head back to Gensokyo and enter the dungeon on (3F Center)
-* Move southeast to get Reisen event and a treasure (!!!)
+* Move southeast to get Reisen event
 * Go talk to Wriggle and finally recruit her
 * Head back to Gensokyo and enter the dungeon on (1F)
 * Recruit Parsee and go back to Gensokyo
