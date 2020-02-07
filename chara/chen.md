@@ -47,7 +47,7 @@ Chen is completely optional, and takes quite some effort to recuit, since you mu
 	* Buffs self SPD by 10% every turn
 	* Can be very good for speeding Chen up on Flight of Idaten spam, but not as useful as you'd think since she's already really fast.
 * **Idaten**
-	* Reduces HVY chance and duration by 40%
+	* Reduces HVY chance and duration by 20/40%
 	* Very situational, HVY isn't that bad of an ailment to be worth keeping Chen on front for all fight
 * **Screw this, I'm outta here**
 	* Rudeces TP penalty for fleeing a battle
