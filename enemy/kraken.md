@@ -29,15 +29,36 @@ Kraken is a mandatory boss fight to recruit Orin. We opt to avoid this fight unt
 ## <a id="attacks"></a>Attack List
 
 * **Regular Attack**
-	* Basic PHY attack targetting DEF, low damage
+	* Basic PHY attack targetting DEF, moderate damage thanks to Kraken's high ATK
 * **Daze**
+	* FIR spell targetting DEF, moderate damage and can inflict SHK
 * **Leg Sweep**
+	* Row NTR spell targetting DEF, moderate damage and can inflict SHK on everyone
 * **Storm of Blue Rain**
 	* AoE CLD spell targetting MND, deals good damage if weak to CLD
 * **Octangle Attack**
+	* CLD spell targetting DEF, about as strong as her other moves, but hits 8 times with no delay. Can randomly target slots 3 and 4 if you're unlucky
 
 ## <a id="strats"></a>Strategies
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
+
+At any given turn, the Kraken has a 65% chance to use a SHK-inducing spell, and the best you can do is pray that it doesn't proc on your attacking characters. We get to this fight at exactly the challenge level, so everyone is kind of prepared to take a few hits before dying. Since we have enough passive damage boosts to nuke the Kraken before it can do anything too harmful, this fight is a very simple damage rush - damage it into the 66% Concentrate range and then spam the strongest moves to kill it before Octangle Attack, or at least leave it at the brink of death so someone can finish it off afterwards with some strong move.
+
+The party composition for the fight is Momiji / Kasen / Nitori / Parsee, with Chen at the back line. Momiji acts as a tank and switcher, with appropriate equipment to boost her low FIR and CLD affinity, guaranteeing she can take enough hits for the duration of the battle. The other 3 simple spam their strongest spells, with Kasen/Parsee doing the TRR combo, described below. Nitori can buff herself to deal over 10k damage with Super Scope, and also gives a passive damage bonus to everyone. Important skills for this fight include:
+
+* Instant Attack on Chen so she can Instant Attack pivot
+* Accelerate on Momiji so she can get more turns to switch Kasen and Parsee for Chen, who IA pivots them back
+* Maintenance on Nitori for obvious reasons
+* Kappa's Ecology Observation on Nitori for 20% damage boost to the entire front line
+* Parsee's Flames of Jealousy for 30% extra damage for her and Kasen
+* Parsee's Final Blow for 32% extra damage on Jealousy of the Kind
+
+If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Cursed Arm, and Parsee a 105.92% boost on Jealousy of the Kind, and since the Traken has 0 TRR resistance, Kasen is guaranteed to TRR every hit, allowing for the easy TRR combo to deal massive damage. Really the only thing that can get in your way in this fight is eternal SHK hell. A basic flowchart to use:
+
+* Kasen spams Higekiri's Cursed Arm
+* Parsee spams Jealousy of the Kind when TRR is in place
+* Nitori self buffs until 2 Higekiri hits, then Super Scopes
+* Momiji swaps Kasen/Parsee with Chen for IA pivot as needed
 
 [Back to index page](../index.md)

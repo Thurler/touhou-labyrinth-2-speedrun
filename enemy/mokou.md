@@ -42,16 +42,30 @@ Mokou is an optional boss fight that continues the Eientei side quest. She has a
 * **Row Attack**
 	* Row version of the regular attack, will hit rightmost slots for barely any damage
 * **Daze**
+	* FIR spell targetting DEF, moderate damage and can inflict SHK
 * **Spark Storm**
 	* AoE FIR spell targetting MND, deals good damage if weak to FIR
 * **Azure Arrow**
+	* CLD spell targetting MND, deals good damage if weak to CLD
 * **Earth Shaker**
+	* AoE NTR spell targetting DEF, moderate damage, can debuff SPD and inflict HVY
 * **Fire Bird -Flying Phoenix-**
+	* FIR spell targetting DEF, moderate damage
 * **Tsuki no Iwakasa's Curse**
+	* AoE WND spell targetting DEF, moderate damage and will debuff ATK/MAG
 * **Fujiyama Volcano**
+	* AoE FIR spell targetting DEF, very high damage unless you heavily resist FIR
 
 ## <a id="strats"></a>Strategies
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
+
+Since we show up overlevelled for this fight, it's very easy to overwhelm Mokou with Nitori and Kasen, all thanks to her CLD and WND weakness. Keine stays around to buff those two, and Komachi to absorb damage and try to spread some debuffs. The only way this fight can go wrong is if no one dodges Fujiyama Volcano and Kasen's Guts doesn't proc, in which case you might full wipe. The fight is kinda fast though so it's not a big time loss. The flowchart is basically:
+
+* Komachi spams Narrow Confines of Avici to get debuffs
+* Kasen spams Diving Waltz of the Raijuu for damage and possible PAR (40%)
+* Nitori spams Kappa's Waterfall for big damage and possible DEF-debuff (40%)
+* Keine spams Three Treasures - Sword to buff everyone
+* After Fujiyama Volcano, Marisa can come in to Master Spark
 
 [Back to index page](../index.md)

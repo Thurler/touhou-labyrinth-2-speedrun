@@ -33,7 +33,7 @@ The Paralyzing Wasp is an optional boss fight that is part of the Eientei side q
 * **Storm of Yellow Drive**
 	* AoE WND spell targetting MND, deals good damage if weak to WND
 * **Paralyzing Fog**
-	* AoE WND spell targetting DEF, low damage but can PAR entire party
+	* AoE WND spell targetting MND, low damage but can PAR entire party
 * **Ultravenomous Needles**
 	* WND spell targetting DEF, high damage and can PAR target. Will always target leftmost target.
 

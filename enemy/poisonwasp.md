@@ -29,7 +29,7 @@ The Poison Wasp is an optional boss fight that is part of the Eientei side quest
 * **Storm of Yellow Drive**
 	* AoE WND spell targetting MND, deals good damage if weak to WND
 * **Venomous Fog**
-	* AoE NTR spell targetting DEF, low damage but can PSN entire party
+	* AoE NTR spell targetting MND, low damage but can PSN entire party
 * **Ultravenomous Needles**
 	* NTR spell targetting DEF, high damage and can PSN target
 

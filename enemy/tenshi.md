@@ -26,9 +26,12 @@ Tenshi is a mandatory boss blocking the stairs to 7F. This fight is one of those
 ## <a id="attacks"></a>Attack List
 
 * **Ame-no-Murakumo Slash**
+	* SPI spell targetting DEF, very high damage that will instakill anyone
 
 ## <a id="strats"></a>Strategies
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
+
+The strategy here is to waste 10 of her turns as fast as possible. Let things die and keep swapping things in so they too can die. Use Concentrate whenever you're not swapping people since it has the highest delay. Surely you can count up to 10 to know when you're safe.
 
 [Back to index page](../index.md)
