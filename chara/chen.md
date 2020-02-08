@@ -38,8 +38,8 @@ Chen is completely optional, and takes quite some effort to recuit, since you mu
 	* Buffs self ATK/DEF/MAG/MND/SPD by 8/16 for each of Ran/Yukari also in front
 	* Vital if using Ran and Yukari in late game, useless otherwise
 * **Instant Attack**
-	* Sets ATB to 10000 when Momiji swaps in
-	* Excellent skill for pivoting character switches. E.g. A uses a high delay move, B swaps A with Momiji, who swaps self for A, that now gets 7500 ATB. Very useful for damage rushes.
+	* Sets ATB to 10000 when Chen swaps in
+	* Excellent skill for pivoting character switches. E.g. A uses a high delay move, B swaps A with Chen, who swaps self for A, that now gets 7500 ATB. Very useful for damage rushes.
 * **Beat Down**
 	* When Chen kills something, restore 1/2 MP and buff ATK/DEF/MAG/MND/SPD by 8/16
 	* This is what makes Chen excel at dealing with trash, since she can easily restore her used MP without wasting a turn on Concentrate.
@@ -47,7 +47,7 @@ Chen is completely optional, and takes quite some effort to recuit, since you mu
 	* Buffs self SPD by 10% every turn
 	* Can be very good for speeding Chen up on Flight of Idaten spam, but not as useful as you'd think since she's already really fast.
 * **Idaten**
-	* Reduces HVY chance and duration by 40%
+	* Reduces HVY chance and duration by 20/40%
 	* Very situational, HVY isn't that bad of an ailment to be worth keeping Chen on front for all fight
 * **Screw this, I'm outta here**
 	* Rudeces TP penalty for fleeing a battle
