@@ -688,6 +688,7 @@
 * Open the menu and take the following actions:
 	* Learn Skills:
 		* **Aya**: Ability to Manipulate Wind Lv0 -> Lv1
+* Level reference: Nitori 22
 * Enter the dungeon (7F)
 
 ![](https://i.imgur.com/5fSIQ28.png)
@@ -716,6 +717,7 @@
 		* **Rumia** equips **Light Staff** over Piche's Bauble
 	* Learn Skills:
 		* **Reimu**: Armored YinYang Orb Lv1 -> Lv2
+* Level reference: Nitori 24
 * Enter the dungeon (8F)
 
 ![](https://i.imgur.com/JJNg2q9.png)
@@ -761,6 +763,7 @@
 		* **Mokou**: Resurrection Lv2 -> Lv3
 		* **Kourin**: HP High Boost Lv1 -> Lv2
 		* **Keine**: 3ST - Sword Lv4 -> Lv5
+* Level reference: Reimu 26
 * Enter the dungeon (8F South)
 * Head right to fight Iku
 * **Boss Fight - Iku Nagae (Lv29)**
@@ -794,6 +797,7 @@
 	* Equipment:
 		* **Chen** equips **Shinai of Spirits** over Biggest Sword Ever (if Iku dropped)
 		* **Parsee** equips **Biggest Sword Ever** over Card Ruler of Heavens
+* Level reference: Nitori 26
 * Enter the dungeon (8F South)
 
 ![](https://i.imgur.com/l0KC1gA.png)
@@ -817,6 +821,7 @@
 		* **Rumia** equips **Mana Flower** over Crepe Mariette
 	* Learn Skills:
 		* **Chen**: Beat Down Lv0 -> Lv1
+* Level reference: Nitori 28
 * Enter the dungeon (9F)
 
 ![](https://i.imgur.com/bn8JCcy.png)
@@ -831,6 +836,7 @@
 		* **Sanae** equips **Century's End Jacket** over Symbol of Faith
 		* **Rumia** equips **Ultrafast Keystone** over Piche's Bauble / Light Staff
 		* **Parsee** equips **Diva's Apron** over Symbol of Faith
+* Level reference: Nitori 29
 * Enter the dungeon (9F)
 
 ![](https://i.imgur.com/VKXMix5.png)
@@ -884,6 +890,7 @@
 		* **Reimu**: Final Prayer Lv0 -> Lv1
 		* **Sanae**: Last Wish Lv1 -> Lv2
 		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Maiden's Blow Lv0 -> Lv1 / Enhanced Attack Lv0 -> Lv1 / Mind Body One Lv0 -> Lv1
+* Level reference: Nitori 29
 * Enter the dungeon (9F)
 * Head north to fight Tenshi
 * **Boss Fight - Tenshi Hinanawi (Lv36)**
@@ -928,6 +935,7 @@
 	* Learn Skills:
 		* **Komachi** Shinigami Work Lv0 -> Lv1
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1
+* Level reference: Nitori 30
 * Enter the dungeon (10F)
 
 ![](https://i.imgur.com/HgtwK6C.png)
