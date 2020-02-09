@@ -54,7 +54,7 @@ The party composition for the fight is Momiji / Kasen / Nitori / Parsee, with Ch
 * Parsee's Flames of Jealousy for 30% extra damage for her and Kasen
 * Parsee's Final Blow for 32% extra damage on Jealousy of the Kind
 
-If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Cursed Arm, and Parsee a 105.92% boost on Jealousy of the Kind, and since the Traken has 0 TRR resistance, Kasen is guaranteed to TRR every hit, allowing for the easy TRR combo to deal massive damage. Really the only thing that can get in your way in this fight is eternal SHK hell. A basic flowchart to use:
+If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Cursed Arm, and Parsee a 105.92% boost on Jealousy of the Kind, and since the Kraken has 0 TRR resistance, Kasen is guaranteed to TRR every hit, allowing for the easy TRR combo to deal massive damage. Really the only thing that can get in your way in this fight is eternal SHK hell. A basic flowchart to use:
 
 * Kasen spams Higekiri's Cursed Arm
 * Parsee spams Jealousy of the Kind when TRR is in place

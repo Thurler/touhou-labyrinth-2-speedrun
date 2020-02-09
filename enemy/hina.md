@@ -57,7 +57,7 @@ Hina is a mandatory boss blocking the stairs to 6F. She is very strong and very 
 * **Spinning More than Usual**
 	* Heals TRR, HVY, SIL and buffs all of Hina's stats by about 35%
 * **Misfortune God's Biorhythm**
-	* Debuffs all of Hina'd stats by about 30%
+	* Debuffs all of Hina's stats by about 30%
 
 ## <a id="strats"></a>Strategies
 

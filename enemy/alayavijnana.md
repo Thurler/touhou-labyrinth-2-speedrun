@@ -34,7 +34,7 @@ Alaya-Vijnana is a mandatory boss fight on 3F that guards the way to Komachi, an
 * **Storm of Wood Leaves**
 	* AoE NTR spell targetting MND, deals good damage if weak to NTR
 * **Storm of Purple Magic**
-	* AoE NTR spell targetting DRK, deals good damage if weak to NTR
+	* AoE DRK spell targetting MND, deals good damage if weak to DRK
 
 ## <a id="strats"></a>Strategies
 

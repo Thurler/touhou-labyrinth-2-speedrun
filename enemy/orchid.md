@@ -59,7 +59,7 @@ The front line consists of Kasen / Wriggle / Aya / Parsee, with Nitori and Chen 
 * Parsee's Flames of Jealousy for 30% extra damage for her and Kasen
 * Parsee's Final Blow for 32% extra damage on Jealousy of the Kind
 
-If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Cursed Arm, and Parsee a 105.92% boost on Jealousy of the Kind, and since the Traken has 0 TRR resistance, Kasen is guaranteed to TRR every hit, allowing for the easy TRR combo to deal massive damage. Very few things can go wrong during this fight, the flowchart is very consistent:
+If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Cursed Arm, and Parsee a 105.92% boost on Jealousy of the Kind, and since the Orchid has 0 TRR resistance, Kasen is guaranteed to TRR every hit, allowing for the easy TRR combo to deal massive damage. Very few things can go wrong during this fight, the flowchart is very consistent:
 
 * Aya uses Divine Grandson's Advent on Wriggle
 * Wriggle uses Numbling Incense and switches herself for Nitori
