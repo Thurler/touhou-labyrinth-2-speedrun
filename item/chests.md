@@ -189,18 +189,18 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Green Dream | O |
 | Light Staff | O |
 | Luster Candy | O |
-| Nitroglycerin | O |
+| Nitroglycerin | X |
 | Piece of Alexandrite x2 | O |
 | Shoes of Happiness | O |
 | Stone of Awakening | O |
-| Stormy Selenite x2 | O |
-| Strong Rugged Horns x2 | O |
-| Strong Rugged Horns x2 | O |
+| Stormy Selenite x2 | X |
+| Strong Rugged Horns x2 | X |
+| Strong Rugged Horns x2 | X |
 | Super-Hard Rye Bread | O |
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
-| Floor Total | 19 |
-| Combined Total | 90 |
+| Floor Total | 15 |
+| Combined Total | 86 |
 
 #### <a id="floor-8"></a>Floor 8
 
@@ -213,7 +213,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Big Bang Waganizer | O |
 | Biggest Sword Ever | O |
 | Chario Boots | O |
-| Chitin Shell x5 | O |
+| Chitin Shell x5 | X |
 | Damascus Shield | O |
 | Flipskirt Dagger | O |
 | Hero's Medal | O |
@@ -223,14 +223,14 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Magician's Proof | O |
 | Mana Flower | O |
 | Piche's Bauble x2 | O |
-| Recovery Armband | O |
+| Recovery Armband | X |
 | Spellbook - High Hurricane | O |
 | Stone of Awakening | O |
 | Symbol of Faith | O |
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | O |
-| Floor Total | 23 |
-| Combined Total | 113 |
+| Floor Total | 21 |
+| Combined Total | 107 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -239,7 +239,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Youkai Medal Shattering Axe<br>Tome of Insight - SPD x2<br>Swiftness Gem<br>Star of Elendil | O |
 | 900 Money | O |
 | 1000 Money | O |
-| Card [Ruler of Heavens] | O |
+| Card [Ruler of Heavens] | X |
 | Century's Jacket | O |
 | Diva's Apron | O |
 | Happy Hat | O |
@@ -253,9 +253,9 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | The Arch | O |
 | Treasure Chest Key | O |
 | Water Cutting Sword | O |
-| Youkai's Fire Blowgun x2 | O |
-| Floor Total | 18 |
-| Combined Total | 131 |
+| Youkai's Fire Blowgun x2 | X |
+| Floor Total | 16 |
+| Combined Total | 123 |
 
 #### <a id="floor-10"></a>Floor 10
 
@@ -280,7 +280,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
 | Floor Total | 16 |
-| Combined Total | 147 |
+| Combined Total | 139 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -307,7 +307,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
 | Floor Total | 19 |
-| Combined Total | 166 |
+| Combined Total | 158 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -333,7 +333,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Floor Total | 18 |
-| Combined Total | 184 |
+| Combined Total | 176 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -354,7 +354,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | T-45d Power Armor | O |
 | Training Manual | O |
 | Floor Total | 14 |
-| Combined Total | 198 |
+| Combined Total | 190 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -380,7 +380,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wallbreaker Armband | O |
 | Wisdom Gem | O |
 | Floor Total | 19 |
-| Combined Total | 217 |
+| Combined Total | 209 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -414,7 +414,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Ultrafast Granite | O |
 | Youkai Medal Shattering Axe | O |
 | Floor Total | 22 |
-| Combined Total | 239 |
+| Combined Total | 231 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -440,7 +440,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wash Basin Set | O |
 | Floor Total | 18 |
-| Combined Total | 257 |
+| Combined Total | 249 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -463,7 +463,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 6 |
-| Combined Total | 263 |
+| Combined Total | 255 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -485,7 +485,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 4 |
-| Combined Total | 267 |
+| Combined Total | 259 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -513,7 +513,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 5 |
-| Combined Total | 272 |
+| Combined Total | 264 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -541,7 +541,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wash Basin Set | O |
 | Wisdom Gem | X |
 | Floor Total | 6 |
-| Combined Total | 278 |
+| Combined Total | 270 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -563,6 +563,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Pure Sake Wild Boar x1 | 10F | Needs Suika |
 | HQ Sake Deer x1 | 11F | Needs Suika |
 | Pure HQ Sake Butterfly x1 | 12F | Needs Suika |
+| Recovery Armband x1 | 8F | Useless, out of way |
 | Orb of Earithin x2 | 18F | Useless, out of way |
 | Modified Taser x1 | 15F | Needs FOE kill, useless |
 | Strange Meat Pie x1 | 4F | Needs key, useless |
@@ -579,10 +580,11 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Scouter x1 | 20F | Useless, out of way |
 | **Sub Equip** | - | - |
 | Poison Resistance Ring x1 | 2F | Useless, out of way |
-| Nitroglycerin x2 | 3F/4F | Useless, out of way |
+| Nitroglycerin x3 | 3F/4F/7F | Useless, out of way |
 | Steadfast Ring x1 | 4F | Useless, out of way |
 | Kazu's Amulet x1 | 4F | Useless, out of way |
 | Full Custom x1 | 18F | Useless, out of way |
+| Card [Ruler of Heavens] x1 | 9F | Useless, out of way |
 | Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
 | Luster Candy x1 | 17F | Needs FOE kill, useless |
 | Big Bang Waganizer x1 | 17F | Useless, out of way |
@@ -598,6 +600,9 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | **Others** | - | - |
 | Magic Bird's Crest x4 | 4F | Useless, out of way |
 | Strange Mechanical Part x2 | 4F | Useless, out of way |
+| Stormy Selenite x2 | 7F | Useless, out of way |
+| Strong Rugged Horns x4 | 7F | Useless, out of way |
+| Chitin Shell x5 | 8F | Useless, out of way |
 | Hero's Soul x2 | 15F | Needs FOE kill, useless |
 | Shining Dragon's Soul x2 | 19F | Useless, out of way |
 | Rainbow Light x2 | 19F | Useless, out of way |
