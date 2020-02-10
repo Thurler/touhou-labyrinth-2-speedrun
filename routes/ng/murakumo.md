@@ -648,7 +648,7 @@
 	* Form Change: **Komachi / Utsuho / Nitori / Chen**
 	* Equipment:
 		* **Parsee** equips **Shoes of Happiness** over Cypress Stick and unequips **Biggest Sword Ever**
-		* **Utsuho** equips **Cypress Stick** / **Mana Flower** / **Cantrip Book** / **Symbol of Faith**
+		* **Utsuho** equips **Cypress Stick** / **Mana Flower** / **Cantrip Book**
 		* **Chen** equips **Biggest Sword Ever**
 		* **Mokou** equips **Cypress Stick** / **Piece of Heart** / **Purple Metallic Armor** / **Super-Hard Rye Bread**
 	* Learn Skills:
@@ -672,7 +672,7 @@
 
 * When you're back, enter the dungeon (7F)
 
-![](https://i.imgur.com/aZRjdbA.png)
+![](img/07-01-east.png)
 
 * When you reach the destination, farm until wipe
 * Go back to Gensokyo and use this facility
@@ -686,12 +686,14 @@
 	* **Magic Library**: 
 		* **Nitori** learns **Warrior** subclass
 * Open the menu and take the following actions:
+	* Equipment:
+		* **Aya** equips **Shoes of Happiness** over Cypress Stick
 	* Learn Skills:
 		* **Aya**: Ability to Manipulate Wind Lv0 -> Lv1
 * Level reference: Nitori 22
 * Enter the dungeon (7F)
 
-![](https://i.imgur.com/5fSIQ28.png)
+![](img/07-02-west.png)
 
 * When you reach the destination, farm until wipe
 
@@ -708,19 +710,18 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Komachi** equips **Energy Tank** over Light Crystal
-		* **Utsuho** equips **Glow Crystal** over Cantrip Book
+		* **Utsuho** equips **Glow Crystal**
 		* **Nitori** equips **Asura Blade** over Blade Cuisinart
 		* **Chen** equips **Blade Cuisinart** over Booster v0.8
 		* **Kasen** equips **Luster Candy** over DX Mechamonkey Model
-		* **Mokou** equips **DX Mechamonkey Model** over Piece of Heart
-		* **Reimu** equips **Pride** over Symbol of Faith
 		* **Rumia** equips **Light Staff** over Piche's Bauble
+		* **Mokou** equips **DX Mechamonkey Model** over Piece of Heart
 	* Learn Skills:
 		* **Reimu**: Armored YinYang Orb Lv1 -> Lv2
 * Level reference: Nitori 24
 * Enter the dungeon (8F)
 
-![](https://i.imgur.com/JJNg2q9.png)
+![](img/08-01-preiku.png)
 
 * When you recruit Sanae, farm until wipe
 
@@ -728,14 +729,15 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonuses
-		* Switch Parsee/Aya/Sanae to HP
 		* Reimu, Marisa
 		* Kourin, Keine
 		* Rumia, Komachi, Chen
-		* Nitori, Parsee
-		* Mokou, Aya
-		* Kasen, Utsuho, Sanae
+		* Nitori, Parsee(HP)
+		* Mokou, Aya(HP)
+		* Kasen, Utsuho, Sanae(HP)
 	* **Magic Library**: 
+		* Reset **Nitori**
+		* **Nitori** learns **Warrior** subclass
 		* **Aya** learns **Guardian** subclass
 		* **Reimu**: HP Lv10 -> Lv30
 		* **Nitori**: HP Lv0 -> Lv30
@@ -751,36 +753,49 @@
 	* Form Change: **Parsee / Reimu / Aya / Sanae**
 	* Equipment:
 		* **Nitori** equips **Source of Magic** over Cypress Stick
-		* **Parsee** equips **Hero's Medal** / **Card Ruler of Heavens** over Crepe Mariette
-		* **Aya** equips **Ultrafast Keystone** over Power Bracer (or Booster v0.8)
+		* **Parsee** equips **First-Aid Kit** / **Hero's Medal** / **Card Ruler of Heavens** over Shoes of Happiness / Crepe Mariette
+		* **Reimu** equips **Pride** over Crepe Mariette
+		* **Aya** equips **Cypress Stick** / **Ultrafast Keystone** over Shoes of Happiness / Power Bracer (or Booster v0.8)
 		* **Sanae** equips **Cypress Stick** / **Lambda Driver** / **Big Bang Woganizer** / **Symbol of Faith**
-		* **Kourin** equips **Light Crystal** / **Piece of Heart** / **Spellbook Hurricane**
 		* **Keine** equips **Source of Magic** / **Piece of Heart** / **Crepe Mariette x2**
+		* **Kourin** equips **Light Crystal** / **Spellbook Hurricane** / **Piece of Heart**
 	* Learn Skills:
 		* **Aya**: HP Boost Lv0 -> Lv2
 		* **Sanae**: Miracle Fruit Lv1 -> Lv5 / Last Wish Lv0 -> Lv1
 		* **Kasen**: Fighting Spirit Lv0 -> Lv1
+		* **Keine**: 3ST - Sword Lv4 -> Lv5
+		* **Chen**: Beat Down Lv0 -> Lv1
 		* **Mokou**: Resurrection Lv2 -> Lv3
 		* **Kourin**: HP High Boost Lv1 -> Lv2
-		* **Keine**: 3ST - Sword Lv4 -> Lv5
+		* **Nitori**: Maintenance Lv0 -> Lv1 / Kappa Ecology Observation Lv0 -> Lv2 / Mind Body One Lv0 -> Lv1
 * Level reference: Reimu 26
 * Enter the dungeon (8F South)
+<hr>
 * Head right to fight Iku
 * **Boss Fight - Iku Nagae (Lv29)**
-	* **If Sanae dies early, reset**
-	* She will use **Light Dragon's Sigh at 55%**, begin damage rush before
-	* She will use **Whiskers of the Dragon God at 33%**, be careful swapping
-	* Keep Parsee buffed and healthy
-	* Aya buffs Reimu and Sanae SPD, then swaps until damage rush
-	* Reimu GHBs and swaps out, comes back to heal if needed
-	* Parsee spams switches and Anathema to SIL and lower MAG
-	* Buff Nitori then Kasen with Sanae and Keine on phase 1
-	* When HP is around 60%, begin damage rush
-	* Parsee, Sanae and Aya can survive LDS if healthy
-	* Chen can Instant Attack and Kimontonkou into PSW
-	* For damage rush, you want Parsee/Kourin/Aya/Nitori
-		* Aya DGAs Nitori, Parsee and Kourin combo switch
-	* After LDS clean up asap with Kasen/Nitori/Chen
+	* **Phase 1 - Buffing**
+		* Aya buffs Reimu and Sanae
+		* Reimu uses GHB
+		* Swap Reimu with Keine, Aya with Nitori
+		* Buff Nitori for a while
+		* Swap Nitori with Kasen
+	* **Phase 2 - Kasen**
+		* Kasen spams Higekiri's Cursed Arm
+		* Keine spams 3ST - Sword
+		* Sanae juggles Miracle Fruit on Kasen and heals
+		* Parsee switches Chen with whoever needs IA pivoting
+		* Chen can Kimontonkou + PSW
+	* **Phase 3 - Light Dragon's Sigh**
+		* Swap Keine with Aya, Kasen with Kourin
+		* Put Nitori in slot 4 to attack with Extending Arm
+		* Aya can DGA her for another hit
+		* Parsee switches her out, Kourin back in
+		* Lineup Parsee/Aya/Komachi/Sanae for Light Dragon's Sigh
+	* **Phase 4 - Whiskers of the Dragon God**
+		* Swap in Reimu so she can use Exorcising Border
+		* Swap Kourin back in to damage rush with Nitori
+		* Chen and Kasen deal massive damage now that she is debuffed
+		* Improvise until you win
 	* For finer details see Iku's [Boss Info](../../enemy/iku.md)
 * Go back to Gensokyo to heal
 
@@ -789,6 +804,9 @@
 * When you're back at Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
 		* Switch Parsee/Aya/Sanae to ATK/ATK/MAG
+	* **Magic Library**: 
+		* Reset **Nitori**
+		* **Nitori** learns **Warrior** subclass
 	* **Human Village**:
 		* Swap **Keine -> Rumia**
 		* Swap **Kourin -> Utsuho**
@@ -796,13 +814,16 @@
 	* Form Change: **Komachi / Utsuho / Nitori / Chen**
 	* Equipment:
 		* **Chen** equips **Shinai of Spirits** over Biggest Sword Ever (if Iku dropped)
-		* **Parsee** equips **Biggest Sword Ever** over Card Ruler of Heavens
+		* **Parsee** equips **Shoes of Happiness** / **Biggest Sword Ever** over First-Aid Kit / Card Ruler of Heavens
+		* **Aya** equips **Shoes of Happiness** over Cypress Stick
+	* Learn Skills:
+		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Mind Body One Lv0 -> Lv1
 * Level reference: Nitori 26
 * Enter the dungeon (8F South)
 
-![](https://i.imgur.com/l0KC1gA.png)
+![](img/08-02-postiku.png)
 
-* When you reach 9F, farm until wipe
+* When you reach 9F, get the locked chest and farm until wipe
 
 ## <a id="Header-3-5"></a>Explore 9F
 
@@ -817,29 +838,31 @@
 	* Equipment:
 		* **Nitori** equips **Glaive of Pain** over Asura Blade
 		* **Kasen** equips **Asura Blade** over Biggest Sword Ever
-		* **Mokou** equips **Biggest Sword Ever** over Super-Hard Rye Bread
 		* **Rumia** equips **Mana Flower** over Crepe Mariette
-	* Learn Skills:
-		* **Chen**: Beat Down Lv0 -> Lv1
+		* **Mokou** equips **Biggest Sword Ever** over Super-Hard Rye Bread
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
-![](https://i.imgur.com/bn8JCcy.png)
+![](img/09-01-west-none.png)
 
+* Re-enter the dungeon after you reach the northwest treasure
+
+![](img/09-02-west-switch.png)
+
+* Follow the green paths after pressing the switch
 * When you reach the destination event go back to Gensokyo
 * When you're back at Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
 * Open the menu and take the following actions:
 	* Equipment:
+		* **Sanae** equips **Century's End Jacket** over Symbol of Faith
 		* **Mokou** equips **T45-d Power Armor** over Purple Metallic Armor
 		* **Reimu** equips **Star of Elendil** / **Water Cutting Sword** over Ultrafast Keystone / Flipskirt Dagger
-		* **Sanae** equips **Century's End Jacket** over Symbol of Faith
-		* **Rumia** equips **Ultrafast Keystone** over Piche's Bauble / Light Staff
 		* **Parsee** equips **Diva's Apron** over Symbol of Faith
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
 
-![](https://i.imgur.com/VKXMix5.png)
+![](img/09-03-east.png)
 
 * When you reach the destination farm until wipe
 
@@ -848,67 +871,72 @@
 * When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
 		* **Utsuho**/**Mokou** unequip everything
+<hr>
 * Use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonuses
-		* Switch Nitori to HP
-		* Reisen HP
-		* Iku MAG
-		* Reimu, Kourin, Keine
+		* Reimu, Marisa(SPD)
 		* Minoriko, Komachi
-		* Nitori, Parsee
+		* Nitori(HP), Parsee
 		* Aya, Kasen
-		* Reisen, Sanae, Iku
+		* Reisen(HP), Sanae, Iku(MAG)
 	* **Magic Library**:
-		* Reset **Nitori** and **Aya**
+		* Reset **Marisa, Chen, Nitori, Aya**
+		* **Marisa** learns **Enchanter** subclass
 		* **Nitori** learns **Guardian** subclass
 		* **Reisen** learns **Hexer** subclass
 		* **Iku** learns **Sorcerer** subclass
 		* **Nitori**: HP Lv30 -> Lv50 / DEF Lv0 -> Lv50 / SPD Lv0 -> Lv30
 		* **Iku**: MAG/SPD Lv0 -> Lv50
 	* **Human Village**:
-		* Swap **Utsuho -> Kourin**
-		* Swap **Chen -> Keine**
-		* Swap **Mokou -> Minoriko**
-		* Swap **Marisa -> Reisen**
-		* Swap **Rumia -> Iku**
+		* Swap **Utsuho -> Minoriko**
+		* Swap **Chen -> Reisen**
+		* Swap **Mokou -> Iku**
 * Open the menu and take the following actions:
-	* Form Change: **Nitori / Minoriko / Aya / Reisen**
+	* Form Change: **Sanae / Minoriko / Aya / Reisen**
 	* Equipment:
-		* **Nitori** equips **First Aid Kit** over Source of Magic / **Intama** over Getitup V
 		* **Minoriko** equips **Flipskirt Dagger** / **Super-Hard Rye Bread x2**
 		* **Aya** equips **The Arch** over Booster v0.8 (or Pale Wing Thruster)
 		* **Reisen** equips **Cypress Stick** / **Flipskirt Dagger** / **Pale Wing Thruster x2**
-		* **Iku** equips **Source of Magic** / **Glow Crystal** / **Mana Flower x2**
 		* **Komachi** equips **Luster Candy** over Mad Milk
+		* **Iku** equips **Source of Magic** / **Glow Crystal** / **Mana Flower x2**
+		* **Marisa** equips **Cypress Stick** over Miko Board
+		* **Nitori** equips **First Aid Kit** over Source of Magic / **Intama** over Getitup V
 	* Learn Skills:
-		* **Nitori**: Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / DEF Boost Lv0 -> Lv4
+		* **Sanae**: Last Wish Lv1 -> Lv2
 		* **Minoriko**: SPD Boost Lv0 -> Lv5
 		* **Aya**: Gensokyo's Fastest Lessons Lv0 -> Lv2 / Tengu's Wind Lv0 -> Lv2 / HP Boost Lv0 -> Lv4
 		* **Reisen**: Enhanced Hexes Lv0 -> Lv2 / Intense Vertigo Lv0 -> Lv1 / MP Boost Lv0 -> Lv4
 		* **Kasen**: Fighting Spirit Lv1 -> Lv2
-		* **Keine**: MP Boost Lv2 -> Lv5
-		* **Reimu**: Final Prayer Lv0 -> Lv1
-		* **Sanae**: Last Wish Lv1 -> Lv2
+		* **Rumia**: Youkai Knowledge Lv0 -> Lv2
 		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Maiden's Blow Lv0 -> Lv1 / Enhanced Attack Lv0 -> Lv1 / Mind Body One Lv0 -> Lv1
+		* **Reimu**: Final Prayer Lv0 -> Lv1
+		* **Marisa**: MP Boost Lv0 -> Lv2 / Magic Training Lv0 -> Lv2 / Art of Battlemage Lv0 -> Lv5
+		* **Nitori**: Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / DEF Boost Lv0 -> Lv4
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
+<hr>
 * Head north to fight Tenshi
 * **Boss Fight - Tenshi Hinanawi (Lv36)**
-	* **If Nitori dies at all, reset**
-	* She will use **State of Enlightenment at 100% and 50%**, debuff her
-	* She will use **Murakumo's Wild Dance at 70% and 30%**, swap fragiles out
-	* Keep Nitori's buffs over 100% all the time to force Sword of Hisou
-		* Aya can buff SPD, Minoriko DEF/MND, Nitori can all buff
-	* Minoriko's priority is to keep Nitori healed after 2 hits
-		* She can concentrate at low MP for full heal
-	* Aya must rebuff Minoriko's SPD every now and then so she can keep up
-	* Reisen and Kasen debuff Tenshi's MND after SoE
-		* Reisen can also proc SIL for guaranteed bonus damage
-	* Keine buffs Iku with 3ST-Sword
-	* Iku can attack with normal attack while not buffed for chip damage
-		* After self buff MAG and Tenshi's MND is debuffed, spam EDP
-	* After she concentrates, begin swapping out for beefy characters
-		* Nitori / Sanae / Reimu / Komachi is a good lineup
+	* **Phase 1 - Sacrifice**
+		* Aya buffs Minoriko SPD twice
+		* Minoriko swaps Aya for Iku
+		* Reisen uses Lunatic Red Eyes
+		* Sanae uses Miracle Fruit on Iku
+		* Minoriko swaps Reisen for Marisa
+		* Iku uses Attack
+		* Minoriko uses Owotoshi Harvester on Sanae
+		* Sanae dies to Sword of Hisou, triggering Last Wish
+	* **Phase 2 - Concentrate**
+		* Marisa swaps in Nitori
+		* Iku spams Attack
+		* Nitori spams Portable Versatile Machine / Concentrate
+		* Minoriko juggles Nitori's buffs and heals
+		* Marisa spams Art of the Battlemage on Iku
+		* On concentrate, make lineup Nitori / Reimu / Komachi
+	* **Phase 3 - State of Enlightenment**
+		* Repeat phase 2 loop until State of Enlightenment
+		* Swap Marisa for Reisen so she can debuff MND with LRE
+		* Swap Marisa back and repeat phase 2
 	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi2.md)
 * Take the stairs to 10F and get the relay point
 * Go back to Gensokyo to heal
