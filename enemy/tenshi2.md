@@ -36,12 +36,19 @@ Tenshi acts as the third stratum's boss, and this time you actually need to beat
 ## <a id="attacks"></a>Attack List
 
 * **Regular Attack**
+	* Basic PHY attack targetting DEF
 * **Grass Knot**
+	* Row NTR spell targetting DEF, low damage but can debuff your party's SPD
 * **Shadowstep**
+	* Row DRK spell targetting DEF, low damage but can PAR your entire party
 * **World Cration Press**
-* **State of Enlightenment**
-* **Sword of Hisou**
+	* NTR spell targetting DEF, high damage and can debuff your ATK
 * **Ame-no-Murakumo Slash**
+	* SPI spell targetting DEF, high damage
+* **State of Enlightenment**
+	* Buffs Tenshi's DEF and MND by 100%, but also inflicts HVY and possibly PAR on herself
+* **Sword of Hisou**
+	* SPI spell targetting DEF, very high damage, and only used if character has more than 100 total buffs
 * **Ame-no-Murakumo's Wild Dance**
 
 ## <a id="strats"></a>Strategies
