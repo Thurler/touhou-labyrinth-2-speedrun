@@ -908,7 +908,7 @@
 		* **Reisen**: Enhanced Hexes Lv0 -> Lv2 / Intense Vertigo Lv0 -> Lv1 / MP Boost Lv0 -> Lv4
 		* **Kasen**: Fighting Spirit Lv1 -> Lv2
 		* **Rumia**: Youkai Knowledge Lv0 -> Lv2
-		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Maiden's Blow Lv0 -> Lv1 / Enhanced Attack Lv0 -> Lv1 / Mind Body One Lv0 -> Lv1
+		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Enhanced Attack Lv0 -> Lv1 / Mind Body One Lv0 -> Lv2
 		* **Reimu**: Final Prayer Lv0 -> Lv1
 		* **Marisa**: MP Boost Lv0 -> Lv2 / Magic Training Lv0 -> Lv2 / Art of Battlemage Lv0 -> Lv5
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / DEF Boost Lv0 -> Lv4
