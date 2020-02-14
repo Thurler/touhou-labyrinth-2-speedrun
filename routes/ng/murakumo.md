@@ -966,7 +966,7 @@
 * Level reference: Nitori 30
 * Enter the dungeon (10F)
 
-![](https://i.imgur.com/HgtwK6C.png)
+![](img/10-01-north.png)
 
 * After getting last treasure, farm until wipe
 * When you're back at Gensokyo, use these facilities:
@@ -984,7 +984,7 @@
 		* **Chen** Beat Down Lv1 -> Lv2
 * Enter the dungeon (10F)
 
-![](https://i.imgur.com/2cBP4CR.png)
+![](img/10-02-south.png)
 
 * When you reach the destination, farm until wipe
 
@@ -1094,7 +1094,7 @@
 		* **Rumia**: MAG Boost Lv0 -> Lv5
 * Enter the dungeon (11F)
 
-![](https://i.imgur.com/cs6V6vO.png)
+![](img/11-01-west.png)
 
 * When you reach the destination, farm until Nitori wipe
 * When you're back at Gensokyo, use these facilities:
@@ -1110,7 +1110,7 @@
 		*  **Komachi**: Frontline Guard Lv0 -> Lv1
 * Enter the dungeon (11F)
 
-![](https://i.imgur.com/LGZz3M6.png)
+![](img/11-02-southeast.png)
 
 * When you reach the destination, farm until Nitori wipe
 * When you're back at Gensokyo, use these facilities:
@@ -1120,7 +1120,7 @@
 		* **Aya** equips **Meteor Drive** over Ultrafast Keystone
 * Enter the dungeon (11F)
 
-![](https://i.imgur.com/zWQPPlt.png)
+![](img/11-03-northeast.png)
 
 * When you reach the destination, go back to Gensokyo and then go for 12F
 * When you reach the 12F relay circle, farm until Nitori wipe on 11F
@@ -1136,7 +1136,7 @@
 		* **Iku** equips **Forbidden Tablet** over Portable Oscillation Cannon
 * Enter the dungeon (12F)
 
-![](https://i.imgur.com/8F0WxEI.png)
+![](img/12-01-west.png)
 
 * Once you get to the relay point, farm until Nitori wipe
 * When you're back at Gensokyo, use these facilities:
@@ -1150,7 +1150,7 @@
 		* **Minoriko** equips **Portable Oscillation Cannon** over Demon Core
 * Enter the dungeon (12F)
 
-![](https://i.imgur.com/TwPHekO.png)
+![](img/12-02-east.png)
 
 * Once you get to the relay point, go back to Gensokyo
 
@@ -1213,7 +1213,7 @@
 		* **Aya**: EVA Boost Lv1 -> Lv3
 * Enter the dungeon (12F)
 
-![](https://i.imgur.com/VjUYzTV.png)
+![](img/12-03-south.png)
 
 * Once you've reached the relay point, go back to Gensokyo
 * When you're back on Gensokyo, use these facilities:

@@ -265,22 +265,22 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | 960 Money | O |
 | Button of Aegis | O |
 | Demon Core | O |
-| Elixir of Mages | O |
-| Frozen Eyes | O |
+| Elixir of Mages | X |
+| Frozen Eyes | X |
 | Getitup V | O |
-| Glittering Jewel x2 | O |
+| Glittering Jewel x2 | X |
 | Grand Dragon Medal | O |
 | Herbalist's Proof | X |
-| Lv70 Lover Snapper's Scale | O |
-| Midgard's Tooth | O |
+| Lv70 Lover Snapper's Scale | X |
+| Midgard's Tooth | X |
 | Portable Oscillation Cannon | O |
 | Pure Sake Wild Boar | X |
-| Reinforced Leather Armor | O |
+| Reinforced Leather Armor | X |
 | Stone of Awakening | O |
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
-| Floor Total | 16 |
-| Combined Total | 139 |
+| Floor Total | 10 |
+| Combined Total | 133 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -307,7 +307,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
 | Floor Total | 19 |
-| Combined Total | 158 |
+| Combined Total | 152 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -318,10 +318,10 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Blade Cuisinart | O |
 | Damascus Shield | O |
 | Energy Pack | O |
-| Grand Dragon Medal | O |
+| Grand Dragon Medal | X |
 | Growth Egg | O |
 | Lambda Driver | O |
-| Love Machine 3322 | O |
+| Love Machine 3322 | X |
 | Priest's Crystal Ball x3 | O |
 | Pure HQ Sake Butterfly | X |
 | Reflex Booster Augment | O |
@@ -332,8 +332,8 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Training Manual | O |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
-| Floor Total | 18 |
-| Combined Total | 176 |
+| Floor Total | 16 |
+| Combined Total | 168 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -354,7 +354,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | T-45d Power Armor | O |
 | Training Manual | O |
 | Floor Total | 14 |
-| Combined Total | 190 |
+| Combined Total | 182 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -380,7 +380,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wallbreaker Armband | O |
 | Wisdom Gem | O |
 | Floor Total | 19 |
-| Combined Total | 209 |
+| Combined Total | 201 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -414,7 +414,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Ultrafast Granite | O |
 | Youkai Medal Shattering Axe | O |
 | Floor Total | 22 |
-| Combined Total | 231 |
+| Combined Total | 223 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -440,7 +440,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wash Basin Set | O |
 | Floor Total | 18 |
-| Combined Total | 249 |
+| Combined Total | 241 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -463,7 +463,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 6 |
-| Combined Total | 255 |
+| Combined Total | 247 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -485,7 +485,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 4 |
-| Combined Total | 259 |
+| Combined Total | 251 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -513,7 +513,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 5 |
-| Combined Total | 264 |
+| Combined Total | 256 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -541,7 +541,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wash Basin Set | O |
 | Wisdom Gem | X |
 | Floor Total | 6 |
-| Combined Total | 270 |
+| Combined Total | 262 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -557,6 +557,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | **Main Equip** | - | - |
 | Miko Board x1 | 3F | Useless, out of way |
 | Tin Watering Can x2 | 4F | Needs key |
+| Grand Dragon Medal | 12F | Useless, out of way |
 | Tokyo Metronome x1 | 18F | Useless, out of way |
 | Source of Magic x2 | 4F | Needs key |
 | Master's Emblem | 19F | Out of way |
@@ -564,9 +565,12 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | HQ Sake Deer x1 | 11F | Needs Suika |
 | Pure HQ Sake Butterfly x1 | 12F | Needs Suika |
 | Recovery Armband x1 | 8F | Useless, out of way |
+| Elixir of Mages x1 | 10F | Useless, out of way |
 | Orb of Earithin x2 | 18F | Useless, out of way |
 | Modified Taser x1 | 15F | Needs FOE kill, useless |
-| Strange Meat Pie x1 | 4F | Needs key, useless |
+| Midgard's Tooth x1 | 10F | Useless, out of way |
+| Strange Meat Pie x1 | 4F | Needs key |
+| Frozen Eyes x1 | 10F | Useless, out of way |
 | Micron's Magic Book | 19F | Useless, out of way |
 | Choice Scarf x1 | 4F | Needs FOE kill, useless |
 | Primal Armor x2 | 16F/20F | Useless, out of way |
@@ -583,8 +587,11 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Nitroglycerin x3 | 3F/4F/7F | Useless, out of way |
 | Steadfast Ring x1 | 4F | Useless, out of way |
 | Kazu's Amulet x1 | 4F | Useless, out of way |
+| Reinforced Leather Armor x1 | 10F | Useless, out of way |
 | Full Custom x1 | 18F | Useless, out of way |
 | Card [Ruler of Heavens] x1 | 9F | Useless, out of way |
+| Lv70 Lover Snapper's Scale x1 | 10F | Useless, out of way |
+| Love Machine 3322 | 12F | Useless, out of way |
 | Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
 | Luster Candy x1 | 17F | Needs FOE kill, useless |
 | Big Bang Waganizer x1 | 17F | Useless, out of way |
@@ -597,16 +604,18 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Cinderforge Sword x1 | 20F | Needs 244k money on hand |
 | The Bee x1 | 20F | Useless, out of way |
 | Dark Magic Grimoire x1 | 17F | Useless, out of way |
-| **Others** | - | - |
+| **Materials** | - | - |
 | Magic Bird's Crest x4 | 4F | Useless, out of way |
 | Strange Mechanical Part x2 | 4F | Useless, out of way |
 | Stormy Selenite x2 | 7F | Useless, out of way |
 | Strong Rugged Horns x4 | 7F | Useless, out of way |
 | Chitin Shell x5 | 8F | Useless, out of way |
+| Glittering Jewel x2 | 10F | Useless, out of way |
 | Hero's Soul x2 | 15F | Needs FOE kill, useless |
 | Shining Dragon's Soul x2 | 19F | Useless, out of way |
 | Rainbow Light x2 | 19F | Useless, out of way |
 | Fragment of Scarlet Gold x2 | 20F | Useless, out of way |
+| **Others** | - | - |
 | Life Gem x2 | 19F | Out of way |
 | Magic Gem x8 | 1F/3F<br>5F<br>20F | Needs key<br>Needs FOE kill<br>Out of way |
 | Energy Gem x3 | 1F<br>20F | Needs key<br>Out of way |
