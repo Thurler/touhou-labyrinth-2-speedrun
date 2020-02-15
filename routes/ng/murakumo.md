@@ -982,6 +982,7 @@
 		* **Minoriko** equips **Miko Board / Demon Core / Glow Crystal / T-45d Armor**
 	* Learn Skills:
 		* **Chen** Beat Down Lv1 -> Lv2
+* Level reference: Nitori 31
 * Enter the dungeon (10F)
 
 ![](img/10-02-south.png)
@@ -1013,7 +1014,9 @@
 		* **Reimu**: Final Prayer Lv1 -> Lv2
 		* **Iku**: Mind Body One Lv1 -> Lv2
 		* **Cirno**: Icicle Fall Lv3 -> Lv5
+* Level reference: Nitori 32
 * Enter the dungeon (10F) and head east for FOE
+<hr>
 * **FOE Boss Fight - Gold Hymn (Lv36)**
 	* Aya DGAs Kasen at start then buffs SPD
 	* Kasen spams Diving Waltz of Raijuu to keep PAR
@@ -1045,6 +1048,8 @@
 		* **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferriage Fog Lv1 -> Lv5
 		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Heavenly Blow Lv0 -> Lv1 / Area Attack Lv0 -> Lv1
 * Enter the dungeon (10F southwest) and head for the boss
+* Level reference: Nitori 32
+<hr>
 * **Boss Fight - Remilia Scarlet & Sakuya Izayoi (Lv43)**
 	* **If DTH does not proc on Sakuya, reset**
 	* Sakuya will use **Private Square at 50%**, avoid by getting DTH
@@ -1092,6 +1097,7 @@
 		* **Aya**: ATK Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv1
 		* **Rumia**: MAG Boost Lv0 -> Lv5
+* Level reference: Nitori 33
 * Enter the dungeon (11F)
 
 ![](img/11-01-west.png)
@@ -1108,6 +1114,7 @@
 		* **Rumia** equips **Portable Oscillation Cannon** over Light Staff (if Chen had it)
 	* Learn Skills:
 		*  **Komachi**: Frontline Guard Lv0 -> Lv1
+* Level reference: Nitori 35
 * Enter the dungeon (11F)
 
 ![](img/11-02-southeast.png)
@@ -1118,6 +1125,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Aya** equips **Meteor Drive** over Ultrafast Keystone
+* Level reference: Nitori 36
 * Enter the dungeon (11F)
 
 ![](img/11-03-northeast.png)
@@ -1134,6 +1142,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Iku** equips **Forbidden Tablet** over Portable Oscillation Cannon
+* Level reference: Nitori 38
 * Enter the dungeon (12F)
 
 ![](img/12-01-west.png)
@@ -1148,6 +1157,7 @@
 		* **Kasen** equips **Glaive of Pain** over Getitup V
 		* **Reimu** equips **Lambda Driver** over Getitup V
 		* **Minoriko** equips **Portable Oscillation Cannon** over Demon Core
+* Level reference: Nitori 39
 * Enter the dungeon (12F)
 
 ![](img/12-02-east.png)
@@ -1172,7 +1182,9 @@
 		* **Reisen** equips **Tisiphone Edge** over Flipskirt Dagger
 	* Learn Skills:
 		* **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferriage Fog Lv1 -> Lv5
+* Level reference: Reisen 39
 * Enter the dungeon (12F west) and go fight the Mirror
+<hr>
 * **Boss Fight - Golden Mirror (Lv48)**
 	* **If Reisen dies or Komachi fails thrice, reset**
 	* Hit the 9% DTH proc on Komachi's Ferriage in the Deep Fog
@@ -1211,6 +1223,7 @@
 	* Learn Skills:
 		* **Komachi**: HP Boost Lv0 -> Lv3 / Shinigami Work Lv0 -> Lv1 / Regeneration Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
 		* **Aya**: EVA Boost Lv1 -> Lv3
+* Level reference: Nitori 40
 * Enter the dungeon (12F)
 
 ![](img/12-03-south.png)
@@ -1236,7 +1249,9 @@
 		* **Reisen**: SPD Boost Lv0 -> Lv5
 		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Heavenly Blow Lv0 -> Lv1 / Magic Beating Lv0 -> Lv1 / Enhanced Attack Lv0 -> Lv1 / Mind Body Lv0 -> Lv2
 		* **Komachi**: HP Boost Lv3 -> Lv5
+* Level reference: Nitori 41
 * Enter the dungeon (12F depths) and fight Tenshi
+<hr>
 * **Boss Fight - Tenshi Hinanawi (Lv50)**
 	* **If Nitori dies at all, reset**
 	* She will use **State of Enlightenment at 100% and 50%**, debuff her
@@ -1277,6 +1292,7 @@
 	* Learn Skills:
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv1
 		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Heaven Blow Lv0 -> Lv1 / Lightning Fish Lv0 -> Lv1 / Area Attack Lv0 -> Lv1
+* Level reference: Nitori 41
 * Enter the dungeon (13F)
 
 ![](https://i.imgur.com/CavZCMc.png)
