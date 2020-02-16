@@ -1295,7 +1295,7 @@
 * Level reference: Nitori 41
 * Enter the dungeon (13F)
 
-![](https://i.imgur.com/CavZCMc.png)
+![](img/13-01-east.png)
 
 * When you reach the -4 orb, re-enter the dungeon
 * When you reach the 14F relay circle, farm until Nitori wipe on 13F
@@ -1311,7 +1311,7 @@
 		* **Sanae** equips **Tisiphone Edge** over Big Bang Woganizer
 * Enter the dungeon (14F center east)
 
-![](https://i.imgur.com/2QhvEgE.png)
+![](img/14-01-east.png)
 
 * When you reach the closed area in 13F, farm until Nitori wipe
 
@@ -1352,6 +1352,7 @@
 		* **Rin**: SPD Boost Lv0 -> Lv5 / Speedy Formation Lv2
 		* **Parsee**: MP Boost Lv1 -> Lv5 / Jealousy of the Kind Lv1 -> Lv4
 * Enter the dungeon (14F east) and go fight the boss
+<hr>
 * **Boss Fight - Memorized Knowledge (Lv55)**
 	* **If Nitori dies at all, reset**
 	* Nitori spams switches and self buff
@@ -1387,12 +1388,9 @@
 	* Learn Skills:
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv2
 * Enter the dungeon (13F) and reset the temperature
-* Leave and re-enter the dungeon on (14F center east) and fall down hole
 
-![](https://i.imgur.com/1OXLvo5.png)
+![](img/13-02-west.png)
 
-* When you reach the -6 orb, leave and re-enter the dungeon on (13F)
-* After getting the two treasures, leave and re-enter the dungeon on (13F)
 * After getting the 14F relay, leave and re-enter the dungeon on (13F)
 * Reset the temperature, leave and re-enter the dungeon on (14F center west)
 * After getting the two treasures, farm until Nitori wipe
@@ -1403,7 +1401,7 @@
 	* **Hakurei shrine**: Level All Characters
 * Enter the dungeon (14F center west)
 
-![](https://i.imgur.com/EjiDbFu.png)
+![](img/14-02-west.png)
 
 * When you reach the 15F relay, farm until Nitori wipe
 
@@ -1413,7 +1411,7 @@
 	* **Hakurei shrine**: Level All Characters
 * Enter the dungeon (15F)
 
-![](https://i.imgur.com/TmKws9R.png)
+![](img/15-01-yuyuko.png)
 
 * When you are back on 15F, leave and re-enter from (14F center west)
 * After getting the two treasures, farm until Nitori wipe
@@ -1421,21 +1419,21 @@
 	* **Hakurei shrine**: Level All Characters
 * Enter the dungeon (15F)
 
-![](https://i.imgur.com/LrkjiSN.png)
+![](img/15-02-giant.png)
 
 * After getting the treasure in 13F, farm until Nitori wipe
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
 * Enter the dungeon (15F center)
 
-![](https://i.imgur.com/bfxr7HO.png)
+![](img/15-03-dragon.png)
 
 * After fleeing from FOE, farm until Nitori wipe
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
 * Enter the dungeon (15F)
 
-![](https://i.imgur.com/R85FEGJ.png)
+![](img/15-04-final.png)
 
 * After getting last treasure, farm until Nitori wipe
 
@@ -1480,7 +1478,7 @@
 		* **Komachi**: HP Boost Lv0 -> Lv5 / Shinigami Work Lv0 -> Lv1 / Regeneration Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
 * Do the Yuuka events (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
-![](https://i.imgur.com/ZwzfotR.png)
+![](img/15-05-yuuka.png)
 
 * When you're done with all events, go back to Gensokyo
 * If Nitori isn't around Lv50, farm on 15F
@@ -1585,7 +1583,7 @@
 	* Parsee procs TRR with Midnight Anathema
 	* Yuuka and Satori spam Beauty of Nature to increase TRR
 		* Chen can help with delay
-	* When TRR reaches 3.5~4 million, swap in Parsee to JotKaL OHKO
+	* When TRR reaches 3.5-4 million, swap in Parsee to JotKaL OHKO
 	* For finer details see Yuyuko's [Boss Info](../../enemy/yuyuko.md)
 * When you're done, go back to Gensokyo
 
@@ -1617,7 +1615,7 @@
 		* **Kourin** HP Boost Lv0 -> Lv5 / MND Boost Lv0 -> Lv2 / Effective Formation Lv0 -> Lv2
 * Enter the dungeon (15F)
 
-![](https://i.imgur.com/caoX3G8.png)
+![](img/15-06-yukari.png)
 
 * When you get to the relay point, re-enter the dungeon and fight Yukari
 * **Boss Fight - Yukari Yakumo (Lv66)**
@@ -1625,14 +1623,14 @@
 	* Gotta have at least 2 full ATBs at start (60% each)
 		* Aya DGAs whoever didn't get a full ATB
 		* If everyone got it, Sarutahiko self
-	* Parsee must proc TRR turn 1 so Yuuka and Satori and BoN it (~25%)
+	* Parsee must proc TRR turn 1 so Yuuka and Satori and BoN it (25%)
 	* Send Cirno in when Yukari ATB near full
 	* Yuuka and Satori then spam Beauty of Nature to increase TRR
 		* Aya and Kourin swap them out and back to refresh ATB
 		* Satori perfectly gets 5MP back because of Small MP Recovery
 		* Chen can help with Instant Attack as well
-	* When TRR reaches 3.5~4 million, swap in Parsee to JotKaL OHKO
-		* Can do it from 2.5~3 million if you can still buff to 50%+
+	* When TRR reaches 3.5-4 million, swap in Parsee to JotKaL OHKO
+		* Can do it from 2.5-3 million if you can still buff to 50%+
 		* Sanae is the only reliable buff
 	* For finer details see Yukari's [Boss Info](../../enemy/yukari.md)
 * After defeating her, get the 16F relay point and go back to Gensokyo
@@ -1649,7 +1647,7 @@
 * Enter the dungeon (16F)
 * From this point on, use Aya + Instant Attack to flee
 
-![](https://i.imgur.com/mCGMJZV.png)
+![](img/16-01-firstloop.png)
 
 * When you reach the Glaive of Pain, leave to Gensokyo
 * Once you're back in Gensokyo, use these facilities:
@@ -1663,7 +1661,7 @@
 		* **Aya**: Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Silent Melody Lv0 -> Lv3 / Melody Fortune Lv0 -> Lv1 / Dance Cochlea Lv0 -> Lv5
 * Enter the dungeon (16F)
 
-![](https://i.imgur.com/OxzXy4H.png)
+![](img/16-02-secondloop.png)
 
 * When you reach the 17F relay point, go back to Gensokyo
 

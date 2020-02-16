@@ -270,7 +270,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Getitup V | O |
 | Glittering Jewel x2 | X |
 | Grand Dragon Medal | O |
-| Herbalist's Proof | X |
+| Herbalist's Proof | O |
 | Lv70 Lover Snapper's Scale | X |
 | Midgard's Tooth | X |
 | Portable Oscillation Cannon | O |
@@ -279,8 +279,8 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Stone of Awakening | O |
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
-| Floor Total | 10 |
-| Combined Total | 133 |
+| Floor Total | 11 |
+| Combined Total | 134 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -307,7 +307,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
 | Floor Total | 19 |
-| Combined Total | 152 |
+| Combined Total | 153 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -333,7 +333,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Floor Total | 16 |
-| Combined Total | 168 |
+| Combined Total | 169 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -344,17 +344,17 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Big Bang Waganizer | O |
 | Button of Aegis | O |
 | Button of Aegis | O |
-| Courtesan's Sorrow | O |
-| Drum | O |
+| Courtesan's Sorrow | X |
+| Drum | X |
 | Eternal Ice x3 | O |
 | Jogurt Doll | O |
-| Love Machine 3322 | O |
+| Love Machine 3322 | X |
 | Pale Wing Thruster | O |
 | Pride | O |
-| T-45d Power Armor | O |
+| T-45d Power Armor | X |
 | Training Manual | O |
-| Floor Total | 14 |
-| Combined Total | 182 |
+| Floor Total | 10 |
+| Combined Total | 179 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -365,22 +365,22 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Courtesan's Sorrow | O |
 | Dark Magic Grimoire | O |
 | Demon Core | O |
-| Excorising Staff | O |
+| Excorising Staff | X |
 | First Aid Kit | O |
 | Forbidden Tablet | O |
 | Insect's Rainbow Wings x2 | O |
 | Intama | O |
-| Kalar's Crystal | O |
+| Kalar's Crystal | X |
 | Micron's Magic Book | O |
 | Mysterious Structure x2 | O |
-| Nosferatu Tome | O |
-| Reinforced Leather Armor | O |
+| Nosferatu Tome | X |
+| Reinforced Leather Armor | X |
 | The Bee | O |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Wisdom Gem | O |
-| Floor Total | 19 |
-| Combined Total | 201 |
+| Floor Total | 15 |
+| Combined Total | 194 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -398,7 +398,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Gambler's Proof | O |
 | Hero's Soul x2 | X |
 | Master's Emblem | O |
-| Meteor D | O |
+| Meteor Drive | O |
 | Modified Taser | X |
 | Portable Oscillation Cannon | O |
 | Purple Orb | O |
@@ -411,10 +411,10 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Tokyo Metronome | O |
 | Training Manual | O |
 | Training Manual | O |
-| Ultrafast Granite | O |
-| Youkai Medal Shattering Axe | O |
-| Floor Total | 22 |
-| Combined Total | 223 |
+| Ultrafast Granite Keystone | O |
+| Youkai Medal Shattering Axe | X |
+| Floor Total | 21 |
+| Combined Total | 215 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -428,19 +428,19 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Diva's Proof | O |
 | Divine Barrier | O |
 | Drum | O |
-| Elixir of Mages | O |
-| Getitup V | O |
+| Elixir of Mages | X |
+| Getitup V | X |
 | Glaive of Pain | O |
 | Kalar's Crystal | O |
-| Pride | O |
+| Pride | X |
 | Primal Armor | X |
 | Star World Bracelet | O |
 | Tome of Insight - MP | O |
 | Tome of Reincarnation | O |
 | Treasure Chest Key | O |
 | Wash Basin Set | O |
-| Floor Total | 18 |
-| Combined Total | 241 |
+| Floor Total | 15 |
+| Combined Total | 230 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -450,10 +450,10 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | 2500 Money | X |
 | Big Bang Waganizer | X |
 | Dark Magic Grimoire | X |
-| Excorising Staff | O |
+| Excorising Staff | X |
 | Experimental MIRV | X |
 | Glaive of Pain | O |
-| Growth Egg | X |
+| Growth Egg | O |
 | Luster Candy | X |
 | Meteor Drive | O |
 | Olzhas Shamshir | O |
@@ -463,20 +463,20 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 6 |
-| Combined Total | 247 |
+| Combined Total | 236 |
 
 #### <a id="floor-18"></a>Floor 18
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Orb of Earithin<br>Training Manual x5<br>Swiftness Gem x5 | X |
+| Orb of Earithin<br>Training Manual x5<br>Swiftness Gem x5 | O |
 | 3200 Money | X |
 | Asura Blade | X |
 | Demon Core | X |
 | Divine Barrier | O |
-| Full Custom | X |
+| Full Custom | O |
 | Intama | O |
-| Jogurt Doll | X |
+| Jogurt Doll | O |
 | Lilium's Panties | O |
 | Megasphere | O |
 | Olzhas Shamshir | X |
@@ -484,8 +484,8 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Tokyo Metronome | X |
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
-| Floor Total | 4 |
-| Combined Total | 251 |
+| Floor Total | 7 |
+| Combined Total | 243 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -499,21 +499,21 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Intama | O |
 | Life Gem x2 | X |
 | Master's Emblem | X |
-| Micron's Magic Book | X |
-| Nosferatu Tome | X |
+| Micron's Magic Book | O |
+| Nosferatu Tome | O |
 | Portable Oscillation Cannon | O |
 | Rainbow Light x2 | X |
 | Ribbon | X |
 | Shining Dragon's Soul x2 | X |
 | Tome of Insight - DEF | X |
-| Tome of Reincarnation | X |
+| Tome of Reincarnation | O |
 | Training Manual | X |
-| Treasure Chest Key | X |
+| Treasure Chest Key | O |
 | Violent Green Rupee | X |
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
-| Floor Total | 5 |
-| Combined Total | 256 |
+| Floor Total | 9 |
+| Combined Total | 252 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -541,7 +541,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Wash Basin Set | O |
 | Wisdom Gem | X |
 | Floor Total | 6 |
-| Combined Total | 262 |
+| Combined Total | 258 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -560,39 +560,42 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Grand Dragon Medal | 12F | Useless, out of way |
 | Tokyo Metronome x1 | 18F | Useless, out of way |
 | Source of Magic x2 | 4F | Needs key |
-| Master's Emblem | 19F | Out of way |
+| Master's Emblem x1 | 19F | Out of way |
 | Pure Sake Wild Boar x1 | 10F | Needs Suika |
 | HQ Sake Deer x1 | 11F | Needs Suika |
 | Pure HQ Sake Butterfly x1 | 12F | Needs Suika |
 | Recovery Armband x1 | 8F | Useless, out of way |
-| Elixir of Mages x1 | 10F | Useless, out of way |
-| Orb of Earithin x2 | 18F | Useless, out of way |
+| Elixir of Mages x2 | 10F/16F | Useless, out of way |
+| Orb of Earithin x1 | 18F | Useless, out of way |
 | Modified Taser x1 | 15F | Needs FOE kill, useless |
 | Midgard's Tooth x1 | 10F | Useless, out of way |
 | Strange Meat Pie x1 | 4F | Needs key |
 | Frozen Eyes x1 | 10F | Useless, out of way |
-| Micron's Magic Book | 19F | Useless, out of way |
+| Excorising Staff x2 | 14F/17F | Useless, out of way |
 | Choice Scarf x1 | 4F | Needs FOE kill, useless |
 | Primal Armor x2 | 16F/20F | Useless, out of way |
-| Youkai Medal Shattering Axe | 19F | Useless, out of way |
-| Jogurt Doll x1 | 18F | Useless, out of way |
+| Youkai Medal Shattering Axe x2 | 15F/19F | Useless, out of way |
 | Experimental MIRV x2 | 17F/20F | Useless, out of way |
-| Nosferatu Tome | 19F | Useless, out of way |
+| Nosferatu Tome x1 | 14F | Useless, out of way |
 | Ribbon x2 | 15F/19F | Needs 88 crafts |
-| Growth Egg x1 | 17F | Useless, out of way |
-| Violent Green Rupee | 19F | Useless, out of way |
+| Violent Green Rupee x1 | 19F | Useless, out of way |
 | Scouter x1 | 20F | Useless, out of way |
 | **Sub Equip** | - | - |
 | Poison Resistance Ring x1 | 2F | Useless, out of way |
 | Nitroglycerin x3 | 3F/4F/7F | Useless, out of way |
 | Steadfast Ring x1 | 4F | Useless, out of way |
 | Kazu's Amulet x1 | 4F | Useless, out of way |
-| Reinforced Leather Armor x1 | 10F | Useless, out of way |
-| Full Custom x1 | 18F | Useless, out of way |
+| Courtesan's Sorrow x1 | 13F | Useless, out of way |
+| Reinforced Leather Armor x2 | 10F/14F | Useless, out of way |
+| Kalar's Crystal x1 | 14F | Useless, out of way |
 | Card [Ruler of Heavens] x1 | 9F | Useless, out of way |
 | Lv70 Lover Snapper's Scale x1 | 10F | Useless, out of way |
-| Love Machine 3322 | 12F | Useless, out of way |
+| Love Machine 3322 x2 | 12F/13F | Useless, out of way |
 | Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
+| T-45d Power Armor x1 | 13F | Useless, out of way |
+| Drum x1 | 13F | Useless, out of way |
+| Getitup V x1 | 16F | Useless, out of way |
+| Pride x1 | 16F | Useless, out of way |
 | Luster Candy x1 | 17F | Needs FOE kill, useless |
 | Big Bang Waganizer x1 | 17F | Useless, out of way |
 | Asura Blade x1 | 18F | Useless, out of way |
@@ -622,20 +625,18 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Fighting Gem x1 | 20F | Out of way |
 | Protection Gem x1 | 20F | Out of way |
 | Wisdom Gem x1 | 20F | Out of way |
-| Swiftness Gem x5 | 18F | Needs key |
 | Tome of Insight - HP x1 | 17F | Out of way |
 | Tome of Insight - ATK x1 | 4F | Needs key |
 | Tome of Insight - DEF x2 | 4F<br>19F | Needs key<br>Out of way |
 | Tome of Insight - MAG x1 | 4F | Needs key |
 | Tome of Insight - MND x1 | 4F | Needs key |
-| Tome of Reincarnation x4 | 6F<br>19F/20F | Needs key<br>Out of way |
-| Training Manual x8 | 17F/19F/20F<br>18F | Useless, out of way<br>Needs key |
+| Tome of Reincarnation x2 | 6F<br>20F | Needs key<br>Out of way |
+| Training Manual x3 | 17F/19F/20F | Out of way |
 | Money-Growing Tree x2 | 1F/6F | Needs key |
 | Midnight Oil Set x3 | 1F/6F<br>4F | Needs key<br>Needs FOE kill |
 | Items Discovery Weekly x2 | 1F/6F | Needs key |
-| Treasure Chest Key x4 | 7F<br>18F/19F/20F | Needs FOE kill<br>Useless, out of way |
+| Treasure Chest Key x3 | 7F<br>18F/20F | Needs FOE kill<br>Useless, out of way |
 | Stone of Awakening x1 | 15F | Out of way |
-| Herbalist's Proof | 10F | Needs FOE kill |
 | Transcendent's Proof | 18F | Useless, out of way |
 
 [Back to index page](../index.md)
