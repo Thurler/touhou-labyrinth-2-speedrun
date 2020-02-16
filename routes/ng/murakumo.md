@@ -1670,7 +1670,7 @@
 * Enter the dungeon (17F)
 * Leave after getting the treasures on northwest and southwest ends
 
-![](https://i.imgur.com/u3IE6d3.png)
+![](img/17-01-goddess.png)
 
 * When you fall down to 16F, get the relay point and go back to Gensokyo
 
@@ -1728,7 +1728,7 @@
 		* **Aya** unequips Jogurt Doll
 * Enter the dungeon (17F)
 
-![](https://i.imgur.com/ZH9oebX.png)
+![](img/17-02-final.png)
 
 * When you reach the 18F relay point, go back to Gensokyo
 
@@ -1736,7 +1736,7 @@
 
 * Enter the dungeon (18F)
 
-![](https://i.imgur.com/FBe0iFe.png)
+![](img/18-01-orbs.png)
 
 * When you get the relay point, go back to Gensokyo
 
@@ -1789,11 +1789,11 @@
 		* **Aya** unequips Jogurt Doll
 * Enter the dungeon (19F)
 
-![](https://i.imgur.com/itRcqp6.png)
+![](img/19-01-north.png)
 
 * When you deactivate the green orb, go back to Gensokyo and re-enter
 
-![](https://i.imgur.com/XRJY24F.png)
+![](img/20-01-west.png)
 
 * When you reach the destination on 20F, go back to Gensokyo
 
@@ -1801,11 +1801,11 @@
 
 * Enter the dungeon (19F)
 
-![](https://i.imgur.com/sncqJNf.png)
+![](img/19-02-south.png)
 
 * When you reach the second green orb, go back and re-enter dungeon
 
-![](https://i.imgur.com/VRGTA3m.png)
+![](img/20-02-east.png)
 
 * When you reach the destination on 20F, go back to Gensokyo
 
@@ -1851,7 +1851,7 @@
 		* Yuyuko swaps Aya with Cirno
 		* Wait for Cirno o die and hope someone lives
 	* Aya switches in and begins Diva combo loop
-		* Dance Cochra until Mirror ATB ~6500
+		* Dance Cochra until Mirror ATB 6500
 		* Concentrate and repeat
 	* Rin switches in on slot 2 and focuses on MP maintenance
 		* Magic Circuit Aya whenever it runs out
@@ -1984,7 +1984,7 @@
 		* Can sacrifice Kasen for Guts
 		* Can sacrifice Aya if alive
 	* PHASE 3: The buffing and murder
-		* Need ~1m TRR @9k ATK and 76% buff / 50% dbf w/TRecollection
+		* Need 1m TRR @9k ATK and 76% buff / 50% dbf w/TRecollection
 		* Whenever Nitori or Kourin die
 		* Put Parsee in slot 4 and get Sanae to buff her
 			* Sacrificing Sanae is a good option
