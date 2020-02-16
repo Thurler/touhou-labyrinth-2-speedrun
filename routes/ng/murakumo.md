@@ -1279,7 +1279,7 @@
 	* **Hakurei shrine**: Level All Characters
 		* Change Nitori bonus to ATK
 	* **Magic Library**:
-		* **Reset Nitori/Iku**
+		* **Reset Nitori / Iku**
 		* **Nitori** learns **Warrior** subclass
 		* **Iku** learns **Monk** subclass
 	* **Human Village**:
@@ -1309,6 +1309,7 @@
 		* **Nitori** equips **Master's Emblem** over Purple Orb
 		* **Iku** equips **Wash Basin Set** over Tisiphone Edge
 		* **Sanae** equips **Tisiphone Edge** over Big Bang Woganizer
+* Level reference: Nitori 44
 * Enter the dungeon (14F center east)
 
 ![](img/14-01-east.png)
@@ -1351,6 +1352,7 @@
 		* **Kasen**: SPD Boost Lv0 -> Lv5
 		* **Rin**: SPD Boost Lv0 -> Lv5 / Speedy Formation Lv2
 		* **Parsee**: MP Boost Lv1 -> Lv5 / Jealousy of the Kind Lv1 -> Lv4
+* Level reference: Nitori 46
 * Enter the dungeon (14F east) and go fight the boss
 <hr>
 * **Boss Fight - Memorized Knowledge (Lv55)**
@@ -1387,6 +1389,7 @@
 		* **Nitori** equips **Master's Emblem / Blue Saber / Getitup V ** over First-Aid Kit / Olzhas Shamshir x2
 	* Learn Skills:
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv2
+* Level reference: Nitori 46
 * Enter the dungeon (13F) and reset the temperature
 
 ![](img/13-02-west.png)
@@ -1399,6 +1402,7 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
+* Level reference: Nitori 48
 * Enter the dungeon (14F center west)
 
 ![](img/14-02-west.png)
@@ -1407,35 +1411,27 @@
 
 ## <a id="Header-5-6"></a>Explore 15F
 
-* When you're back on Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters
-* Enter the dungeon (15F)
+* When you're back, enter the dungeon (15F)
 
 ![](img/15-01-yuyuko.png)
 
 * When you are back on 15F, leave and re-enter from (14F center west)
 * After getting the two treasures, farm until Nitori wipe
-* When you're back on Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters
-* Enter the dungeon (15F)
+* When you're back, enter the dungeon (15F)
 
 ![](img/15-02-giant.png)
 
 * After getting the treasure in 13F, farm until Nitori wipe
-* When you're back on Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters
-* Enter the dungeon (15F center)
+* When you're back, enter the dungeon (15F Center)
 
 ![](img/15-03-dragon.png)
 
 * After fleeing from FOE, farm until Nitori wipe
-* When you're back on Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters
-* Enter the dungeon (15F)
+* When you're back, enter the dungeon (15F)
 
 ![](img/15-04-final.png)
 
-* After getting last treasure, farm until Nitori wipe
+* After getting last treasure, return to Gensokyo
 
 ## <a id="Header-5-7"></a>Azure Giant Fight
 
@@ -1459,6 +1455,7 @@
 	* Reisen spams Grand Patriot's Elixir so she lives
 	* Komachi spams Ferriage in Deep Fog for DTH
 	* For finer details see Azure Giant's [Boss Info](../../enemy/azuregiant.md)
+* Level reference: Nitori 49
 * When you're done, go back to Gensokyo
 
 ## <a id="Header-5-8"></a>Yuuka Side Quest
@@ -1476,6 +1473,7 @@
 		* **Komachi** equips **Violent Green Rupee** over Dark Will
 	* Learn Skills:
 		* **Komachi**: HP Boost Lv0 -> Lv5 / Shinigami Work Lv0 -> Lv1 / Regeneration Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
+* Level reference: Nitori 50
 * Do the Yuuka events (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
 ![](img/15-05-yuuka.png)
