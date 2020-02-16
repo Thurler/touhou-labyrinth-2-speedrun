@@ -187,7 +187,6 @@
 * Enter the dungeon (2F)
 <hr>
 * **FOE Boss Fight - Chrysomallos (Lv9)**
-	* **If Kasen dies, reset**
 	* Kasen spams Higekiri's Cursed Arm
 	* Reimu uses Great Hakurei Barrier once
 	* Keine spams 3ST - Sword
@@ -604,7 +603,7 @@
 
 * When back at Gensokyo and use these facilities:
 	* **Magic Library**: 
-		* **Reset Nitori, Wriggle**
+		* **Reset Nitori / Wriggle**
 		* **Chen** learns **Warrior** subclass
 		* **Chen**: ATK Lv0 -> Lv30
 	* **Human Village**:
@@ -840,6 +839,7 @@
 		* **Kasen** equips **Asura Blade** over Biggest Sword Ever
 		* **Rumia** equips **Mana Flower** over Crepe Mariette
 		* **Mokou** equips **Biggest Sword Ever** over Super-Hard Rye Bread
+		* **Parsee** equips **Growth Egg** over Shoes of Happiness
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
@@ -880,7 +880,7 @@
 		* Aya, Kasen
 		* Reisen(HP), Sanae, Iku(MAG)
 	* **Magic Library**:
-		* Reset **Marisa, Chen, Nitori, Aya**
+		* Reset **Marisa / Chen / Nitori / Aya**
 		* **Marisa** learns **Enchanter** subclass
 		* **Nitori** learns **Guardian** subclass
 		* **Reisen** learns **Hexer** subclass
@@ -947,22 +947,23 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonus
-		* Switch Nitori to ATK
 		* Rumia, Chen
+		* Nitori(ATK)
 	* **Magic Library**:
-		* Reset **Nitori**
+		* Reset **Marisa / Nitori**
+		* **Chen** learns **Warrior** subclass
 		* **Nitori** learns **Warrior** subclass
 	* **Human Village**:
-		* Swap **Keine -> Rumia**
-		* Swap **Kourin -> Chen**
+		* Swap **Marisa -> Chen**
 * Open the menu and take the following actions:
 	* Form Change: **Komachi / Kasen / Nitori / Chen**
 	* Equipment:
 		* **Iku** equips **Cypress Stick** over Source of Magic / **Portable Oscillation Cannon** over Glow Crystal (if Tenshi dropped)
 		* **Nitori** equips **Source of Magic / Getitup V** over First-Aid Kit / Intama
 	* Learn Skills:
-		* **Komachi** Shinigami Work Lv0 -> Lv1
+		* **Komachi** Short Life Expectancy Lv1 -> Lv3
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1
+		* **Chen**: Instant Attack Lv0 -> Lv1 / Beat Down Lv0 -> Lv1 / Enhanced Row Attack Lv0 -> Lv3
 * Level reference: Nitori 30
 * Enter the dungeon (10F)
 
@@ -979,7 +980,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Iku** equips **Tisiphone Edge** over Glow Crystal / Mana Flower
-		* **Minoriko** equips **Miko Board / Demon Core / Glow Crystal / T-45d Armor**
+		* **Minoriko** equips **Tin Watering Can / Demon Core / Glow Crystal / T-45d Armor**
 	* Learn Skills:
 		* **Chen** Beat Down Lv1 -> Lv2
 * Level reference: Nitori 31
@@ -993,9 +994,8 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonus
-		* Kourin, Keine, Cirno
+		* Keine, Cirno(SPD), Reisen
 	* **Human Village**:
-		* Swap **Reisen -> Kourin**
 		* Swap **Rumia -> Keine**
 		* Swap **Parsee -> Cirno**
 * Open the menu and take the following actions:
@@ -1004,24 +1004,22 @@
 		* **Keine** equips **Purple Orb** over Source of Magic
 		* **Kasen** equips **Purple Orb** over Cypress Stick
 		* **Nitori** equips **Purple Orb** over Souce of Magic
-		* **Aya** equips **Source of Magic** over Cypress Stick
-		* **Reimu** equips **Getitup V** over Water Cutting Sword
+		* **Aya** equips **Source of Magic** over Shoes of Happiness
 		* **Iku** equips **Source of Magic / Forbidden Tablet / Portable Oscillation Cannon** over Cypress Stick / Mana Flower x2
+		* **Reimu** equips **Getitup V** over Water Cutting Sword
 		* **Cirno** equips **Cypress Stick** / **Booster v0.8 x3**
 		* **Chen**: **Portable Oscillation Cannon** over Biggest Sword Ever (if Iku already has)
 	* Learn Skills:
-		* **Kourin**: HP High Boost Lv2 -> Lv4
-		* **Reimu**: Final Prayer Lv1 -> Lv2
-		* **Iku**: Mind Body One Lv1 -> Lv2
+		* **Iku**: Heavenly Maiden Blow Lv0 -> Lv1
 		* **Cirno**: Icicle Fall Lv3 -> Lv5
 * Level reference: Nitori 32
 * Enter the dungeon (10F) and head east for FOE
 <hr>
 * **FOE Boss Fight - Gold Hymn (Lv36)**
-	* Aya DGAs Kasen at start then buffs SPD
+	* Aya DGAs Keine, then Nitori twice
+	* Keine spams 3ST - Sword
 	* Kasen spams Diving Waltz of Raijuu to keep PAR
 	* Nitori spams Kappa's Watterfall
-	* Keine spams 3ST - Sword
 	* For finer details see Gold Hymn' [Boss Info](../../enemy/goldhymn.md)
 * Get the treasure behind FOE, then exit the dungeon
 * Re-enter to talk to Kanako and then again for Suwako
@@ -1032,12 +1030,11 @@
 	* **Hakurei shrine**: Level All Characters
 		* Change Nitori/Aya bonus to HP
 	* **Magic Library**:
-		* Reset **Nitori / Komachi / Iku**
+		* Reset **Komachi / Nitori / Sanae**
 		* **Nitori** learns **Guardian** subclass 
 		* **Aya** learns **Guardian** subclass
-		* **Iku** learns **Monk** sublass
-	* **Human Village**:
-		* Swap **Minoriko -> Reisen**
+		* **Nitori**: ATK Lv40 -> Lv80
+		* **Reisen**: HP Lv0 -> Lv50
 * Open the menu and take the following actions:
 	* Form Change: **Nitori / Aya / Komachi / Reisen**
 	* Equipment:
@@ -1046,26 +1043,25 @@
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / DEF Boost Lv0 -> Lv5
 		* **Aya**: HP Boost Lv4 -> Lv5 / EVA Boost Lv0 -> Lv1
 		* **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferriage Fog Lv1 -> Lv5
-		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Heavenly Blow Lv0 -> Lv1 / Area Attack Lv0 -> Lv1
+		* **Sanae**: Youkai Buster Lv0 -> Lv2 / Miracle Fruit Lv1 -> Lv5
 * Enter the dungeon (10F southwest) and head for the boss
 * Level reference: Nitori 32
 <hr>
 * **Boss Fight - Remilia Scarlet & Sakuya Izayoi (Lv43)**
-	* **If DTH does not proc on Sakuya, reset**
-	* Sakuya will use **Private Square at 50%**, avoid by getting DTH
-	* Remilia will use **Curse Vlad Tepes when Sakuya dead**, try to debuff
-	* Kill Sakuya with DTH
-		* Aya DGA Komachi for 1st try
-		* Komachi tries naturally a 2nd and 3rd try
-		* Reset if Reisen dies
-	* Nitori and Aya stay in and do switching
-		* Nitori also self buffs to protect from Remilia
-	* Reimu and Sanae jump in to buff and heal Nitori
-		* Keine can sneak in to buff as well
-	* Once Sakuya is down, debuff Remilia and slowly kill her
-	* Chen can really hurt Remilia with Kimontonkou + PSW
-	* Iku can attack with EDP if MND debuff present
-	* Reimu is a good source of quick damage with Yin-Yang, if buffed
+	* **Phase 1 - DTH Sakuya**
+		* Aya DGA Komachi twice for Ferriage in Deep Fog DTH
+		* Reisen spams Lunatic Red Eyes
+		* Nitori buffs self with PVM
+		* No DTH proc or Reisen dead = reset
+	* **Phase 2 - Remilia**
+		* Nitori self buffs and switches, Super Scopes at end
+		* Aya plays switch and DGA support
+		* Swap in Cirno to debuff SPD with Icicle Fall
+		* Reisem spams LRE until MND debuff is big enough, can also Discarder
+		* Iku spams EDP until DEF debuff is big enough
+		* Sanae must heal Nitori, can buff Iku for extra damage, stay out for Youkai Buster
+		* Chen does IA pivoting and Kimontonkou + PSW for damage when DEF debuff present
+		* Reimu is a good source of emergency damage with Yin-Yang, if buffed
 	* For finer details see RemiSaku's [Boss Info](../../enemy/sakuremi.md)
 * Take the stairs to 11F and get the relay circle, then retreat to Gensokyo
 
@@ -1073,30 +1069,28 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonuses
-		* Change Nitori/Aya bonus to ATK
-		* Reimu, Rumia, Minoriko
-		* Komachi, Chen, Nitori
-		* Aya, Kasen
-		* Sanae, Iku
+		* Komachi, Nitori(ATK)
+		* Aya(ATK), Iku
 	* **Magic Library**:
-		* Reset **Nitori / Komachi / Aya**
+		* Reset **Komachi / Nitori / Aya / Iku**
 		* **Nitori** learns **Warrior** subclass 
 		* **Aya** learns **Monk** subclass
+		* **Iku** learns **Monk** subclass
 	* **Human Village**:
-		* Swap **Kourin -> Rumia**
-		* Swap **Keine -> Minoriko**
+		* Swap **Keine -> Rumia**
 		* Swap **Reisen -> Wriggle**
 * Open the menu and take the following actions:
 	* Form Change: **Komachi / Aya / Nitori / Iku**
 	* Equipment:
+		* **Aya** equips **Shoes of Happiness** over Source of Magic
 		* **Nitori** equips **Purple Orb / Getitup V** over First Aid Kit / Button Aegis
 		* **Rumia** equips **Grand Dragon Medal**
-		* **Minoriko** equips **Tin Watering Can**
 	* Learn Skills:
-		* **Komachi**: HP Boost Lv0 -> Lv2 / Shinigami Work Lv0 -> Lv1 / Regeneration Lv0 -> Lv1
-		* **Aya**: ATK Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2
+		* **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv10 / Short Life Expectancy Lv1 -> Lv3
+		* **Aya**: HP Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv1
-		* **Rumia**: MAG Boost Lv0 -> Lv5
+		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Lightning Fish Lv0 -> Lv1 / Area Attack Lv0 -> Lv1
+		* **Reimu**: Final Prayer Lv1 -> Lv2
 * Level reference: Nitori 33
 * Enter the dungeon (11F)
 
@@ -1112,8 +1106,6 @@
 		* **Komachi** equips **Yggdrasil Dew** over Sirloin
 		* **Chen** equips **Purple Orb / Glaive of Pain / The Arch** over Cypress Stick / Biggest Sword Ever / Bone Stake
 		* **Rumia** equips **Portable Oscillation Cannon** over Light Staff (if Chen had it)
-	* Learn Skills:
-		*  **Komachi**: Frontline Guard Lv0 -> Lv1
 * Level reference: Nitori 35
 * Enter the dungeon (11F)
 
@@ -1130,7 +1122,7 @@
 
 ![](img/11-03-northeast.png)
 
-* When you reach the destination, go back to Gensokyo and then go for 12F
+* When you reach the last treasure, re-enter the dungeon and follow red path
 * When you reach the 12F relay circle, farm until Nitori wipe on 11F
 
 ## <a id="Header-4-5"></a>Explore 12F
@@ -1153,8 +1145,6 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* **Aya** equips **Wallbreaker Armband** over Bone Stake (or Booster v0.8)
-		* **Nitori** equips **Blue Saber** over Glaive of Pain
-		* **Kasen** equips **Glaive of Pain** over Getitup V
 		* **Reimu** equips **Lambda Driver** over Getitup V
 		* **Minoriko** equips **Portable Oscillation Cannon** over Demon Core
 * Level reference: Nitori 39
@@ -1171,13 +1161,13 @@
 		* Change Aya bonus to HP
 	* **Magic Library**:
 		* **Reset Komachi**
-		* **Reisen**: HP Lv0 -> Lv50
 	* **Human Village**:
 		* Swap **Wriggle -> Reisen**
 * Open the menu and take the following actions:
 	* * Form Change: **Kasen / Aya / Komachi / Reisen**
 	* Equipment:
-		* **Kasen** equips **Olzhas Shamshir** over Glaive of Pain
+		* **Kasen** equips **Olzhas Shamshir** over Getitup V
+		* **Aya** equips **Growth Egg** over Shoes of Happiness
 		* **Komachi** equips **Energy Pack** over Energy Tank
 		* **Reisen** equips **Tisiphone Edge** over Flipskirt Dagger
 	* Learn Skills:
@@ -1221,8 +1211,8 @@
 * Open the menu and take the following actions:
 	* Form Change: **Komachi / Aya / Nitori / Iku**
 	* Learn Skills:
-		* **Komachi**: HP Boost Lv0 -> Lv3 / Shinigami Work Lv0 -> Lv1 / Regeneration Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
-		* **Aya**: EVA Boost Lv1 -> Lv3
+		* **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv10 / Short Life Expectancy Lv1 -> Lv5
+		* **Aya**: EVA Boost Lv0 -> Lv5
 * Level reference: Nitori 40
 * Enter the dungeon (12F)
 
@@ -1232,42 +1222,52 @@
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonus
 		* Change Nitori bonus to HP
-		* Reimu, Minoriko, Komachi
-		* Nitori, Aya
+		* Reimu, Marisa, Minoriko
+		* Komachi, Nitori(HP), Aya
 		* Reisen, Sanae, Iku
 	* **Magic Library**:
 		* **Reset Nitori/Iku**
+		* **Marisa** learns **Enchanter** subclass
 		* **Nitori** learns **Guardian** subclass
 		* **Iku** learns **Sorcerer** subclass
+	* **Human Village**:
+		* Swap **Rumia -> Marisa**
 * Open the menu and take the following actions:
-	* Form Change: **Nitori / Minoriko / Aya / Reisen**
+	* Form Change: **Sanae / Minoriko / Aya / Reisen**
 	* Equipment:
 		* **Nitori** equips **First-Aid Kit / Intama** over Purple Orb / Getitup V
 	* Learn Skills:
-		* **Nitori**: DEF Boost Lv0 -> Lv4 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
-		* **Minoriko**: Ability Control Harvests Lv0 -> Lv2
+		* **Sanae**: Last Wish Lv0 -> Lv2
 		* **Reisen**: SPD Boost Lv0 -> Lv5
-		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Heavenly Blow Lv0 -> Lv1 / Magic Beating Lv0 -> Lv1 / Enhanced Attack Lv0 -> Lv1 / Mind Body Lv0 -> Lv2
+		* **Nitori**: DEF Boost Lv0 -> Lv4 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1
+		* **Marisa**: MP Boost Lv0 -> Lv5 / Magic Training Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv1 / Art of the Battlemage Lv0 -> Lv5
+		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Magic Beating Lv0 -> Lv2 / Enhanced Attack Lv0 -> Lv1 / Mind Body Lv0 -> Lv2
 		* **Komachi**: HP Boost Lv3 -> Lv5
-* Level reference: Nitori 41
+* Level reference: Aya 40
 * Enter the dungeon (12F depths) and fight Tenshi
 <hr>
 * **Boss Fight - Tenshi Hinanawi (Lv50)**
-	* **If Nitori dies at all, reset**
-	* She will use **State of Enlightenment at 100% and 50%**, debuff her
-	* She will use **Murakumo's Wild Dance at 70% and 30%**, swap fragiles out
-	* Keep Nitori's buffs over 100% all the time to force Sword of Hisou
-		* Aya can buff SPD, Minoriko DEF/MND, Nitori can all buff
-		* DO NOT debuff her, simply remove buffs
-	* Minoriko's priority is to keep Nitori healed after 2 hits
-		* She can concentrate at low MP for full heal
-	* Aya can rebuff Minoriko's SPD every now and then so she can keep up
-	* Reisen debuffs Tenshi's MND after SoE
-		* Do not give her debuff status, she must stay buffed
-	* Keine buffs Iku with 3ST-Sword
-	* Iku spams Normal Attack
-	* After she concentrates, begin swapping out for beefy characters
-		* Nitori / Sanae / Reimu / Komachi is a good lineup
+	* **Phase 1 - Sacrifice**
+		* Aya buffs Minoriko SPD twice
+		* Minoriko swaps Aya for Iku
+		* Reisen uses Lunatic Red Eyes
+		* Sanae uses Miracle Fruit on Iku
+		* Minoriko swaps Reisen for Marisa
+		* Iku uses Attack
+		* Minoriko uses Owotoshi Harvester on Sanae
+		* Sanae dies to Sword of Hisou, triggering Last Wish
+	* **Phase 2 - Quick Kill**
+		* Iku spams Attack
+		* Marisa spams Art of the Battlemage on Iku
+		* Minoriko swaps in Aya then self with Reisen
+		* Marisa spams Art of the Battlemage on Iku
+		* Reisen spams Lunatic Red Eyes
+		* Aya spams DGA on Iku
+		* **REMOVE REISEN FROM FRONT BEFORE KILL**
+	* **Phase 3 - Murakumo DTH**
+		* Swap in Reisen
+		* Yuyuko spams Saigyouji Flawless Nirvana
+		* Keep Yuyuko and Reisen alive
 	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi3.md)
 * When you're done, move to 13F and take the relay circle
 
@@ -1329,7 +1329,6 @@
 	* **Magic Library**:
 		* **Reset Nitori**
 		* **Nitori** learns **Guardian** subclass
-		* **Nitori**: ATK Lv40 -> Lv80
 		* **Parsee**: ATK Lv0 -> Lv50
 		* **Kasen**: ATK Lv0 -> Lv50
 	* **Human Village**:
@@ -1344,6 +1343,9 @@
 		* **Nitori** equips **First-Aid Kit / Olzhas Shamshir x2** over Purple Orb / Blue Saber / Getitup V
 		* **Parsee** equips **Glaive of Pain / Pride** over Biggest Sword Ever / Diva Apron (if Remilia dropped a Glaive)
 		* **Rin** equips **Chario Boots / Bone Stake / Getitup V x2**
+		* ???
+		* **Nitori** equips **Blue Saber** over Glaive of Pain
+		* **Kasen** equips **Glaive of Pain** over Getitup V
 	* Learn Skills:
 		* **Nitori**: MND Boost Lv0 -> Lv5 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1
 		* **Kasen**: SPD Boost Lv0 -> Lv5
