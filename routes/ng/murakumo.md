@@ -1283,15 +1283,16 @@
 		* **Nitori** learns **Warrior** subclass
 		* **Iku** learns **Monk** subclass
 	* **Human Village**:
-		* Swap **Wriggle -> Reisen**
+		* Swap **Marisa -> Rumia**
 * Open the menu and take the following actions:
 	* Form Change: **Komachi / Aya / Nitori / Iku**
 	* Equipment:
 		* **Nitori** equips **Purple Orb / Getitup V** over First-Aid Kit / Intama
+		* **Nitori** equips **Cinderforge Sword** over Glaive of Pain (if killed Murakumo)
 		* **Reimu** equips **Star of Elendil** over Lambda Driver (if Tenshi dropped)
 	* Learn Skills:
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv1
-		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Heaven Blow Lv0 -> Lv1 / Lightning Fish Lv0 -> Lv1 / Area Attack Lv0 -> Lv1
+		* **Iku**: Hagoromo Sky Lv0 -> Lv2 / Lightning Fish Lv0 -> Lv2 / Area Attack Lv0 -> Lv1
 * Level reference: Nitori 41
 * Enter the dungeon (13F)
 
@@ -1320,12 +1321,9 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonus
-		* Change Nitori to HP, Cirno to SPD
-		* Rin SPD
-		* Keine, Cirno
-		* Komachi, Chen
-		* Nitori, Parsee
-		* Aya, Kasen, Rin
+		* Cirno, Komachi, Chen
+		* Nitori(HP), Parsee
+		* Aya, Kasen
 		* Reisen, Sanae, Iku
 	* **Magic Library**:
 		* **Reset Nitori**
@@ -1333,25 +1331,18 @@
 		* **Parsee**: ATK Lv0 -> Lv50
 		* **Kasen**: ATK Lv0 -> Lv50
 	* **Human Village**:
-		* Swap **Minoriko -> Keine**
 		* Swap **Komachi -> Parsee**
-		* Swap **Rumia -> Rin**
-		* Swap **Wriggle -> Reisen**
 * Open the menu and take the following actions:
-	* Form Change: **Nitori / Aya / Kasen / Cirno**
+	* Form Change: **Nitori / Aya / Sanae / Parsee**
 	* Equipment:
 		* **Kasen** equips **War Mask of the Butcher** over Olzhas Shamshir
 		* **Nitori** equips **First-Aid Kit / Olzhas Shamshir x2** over Purple Orb / Blue Saber / Getitup V
-		* **Parsee** equips **Glaive of Pain / Pride** over Biggest Sword Ever / Diva Apron (if Remilia dropped a Glaive)
-		* **Rin** equips **Chario Boots / Bone Stake / Getitup V x2**
-		* ???
-		* **Nitori** equips **Blue Saber** over Glaive of Pain
-		* **Kasen** equips **Glaive of Pain** over Getitup V
+		* **Parsee** equips **Strange Meat Pie / Cinderforge Sword / Pride** over Growth Egg / Biggest Sword Ever / Diva Apron (Glaive of Pain if no Sword)
 	* Learn Skills:
 		* **Nitori**: MND Boost Lv0 -> Lv5 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1
+		* **Parsee**: MP Boost Lv1 -> Lv5 / Grudge Returning Lv1 -> Lv5
 		* **Kasen**: SPD Boost Lv0 -> Lv5
-		* **Rin**: SPD Boost Lv0 -> Lv5 / Speedy Formation Lv2
-		* **Parsee**: MP Boost Lv1 -> Lv5 / Jealousy of the Kind Lv1 -> Lv4
+		* **Chen**: Mind Body One Lv0 -> Lv2
 * Level reference: Nitori 46
 * Enter the dungeon (14F east) and go fight the boss
 <hr>
