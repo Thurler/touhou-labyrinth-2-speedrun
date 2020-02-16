@@ -157,7 +157,7 @@ This section talks about speedrun data and information. If you want game-specifi
 #### Fourth Stratum Enemies
 * [Random Encounters](enemy/trash4.md)
 * [Desert Weapon - Gold Hymn](enemy/goldhymn.md)
-* ~~Desert Weapon – Silver Mail~~
+* [Desert Weapon – Silver Mail](enemy/silvermail.md)
 * [Sakuya Izayoi and Remilia Scarlet](enemy/sakuremi.md)
 * [Divine Beasts' Golden Mirror](enemy/mirror.md)
 * [Magatama of Amber Fangs](enemy/magatama.md)
