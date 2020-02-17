@@ -1721,12 +1721,16 @@
 
 ## <a id="Header-6-3"></a>Goddess of Fertility Fight
 
+* Before you do any menuing, do the following action:
+	* **Parsee** unequips Cinderforge Sword if she has it
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters, apply bonus
 		* Nitori, Aya
 	* **Magic Library**:
-		* **Reset Satori, Yuuka**
+		* **Reset Kourin, Nitori, Parsee Satori, Yuuka**
 		* **Kourin** learns **Diva** subclass
+		* **Cirno** learns **Guardian** subclass
+		* **Nitori** learns **Warrior** subclass
 		* **Reisen** learns **Hexer** subclass
 		* **Reisen**: SPD Lv0 -> Lv30
 	* **Human Village**:
@@ -1740,24 +1744,57 @@
 		* **Kourin** equips **Wallbreaker Armband x2** over Booster v0.8
 		* **Reisen** equips **Tisiphone Edge** over Flipskirt Dagger (if not already have)
 		* **Aya** equips **Jogurt Doll** / **Meteor Drive** over Source of Magic / The Arch
-		* **Chen** equips **Glaive of Pain** over Blade Cuisinart
+		* **Nitori** equips **Cinderforge Sword** over Getitup V (Glaive of Pain if no Cinderforge)
 	* Learn Skills:
-		* **Reisen**: MP Boost Lv0 -> Lv5 / SPD Boost Lv0 -> Lv5 / Intense Vertigo Lv0 -> Lv1 / Lunatic Red Eyes Lv0 -> Lv3 / Enhanced Hexes Lv0 -> Lv2
-		* **Yuuka**: HP Boost Lv0 -> Lv5 / MP Boost Lv0 -> Lv5 / Majesty Lv0 -> Lv2 / Gensokyo Eternal Flower Lv0 -> Lv1
+		* **Cirno**: Frontline Guard Lv0 -> Lv1
+		* **Kourin**: HP Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Weird Creatures Lv0 -> Lv2
+		* **Reisen**: MP Boost Lv0 -> Lv5 / SPD Boost Lv0 -> Lv5 / Intense Vertigo Lv0 -> Lv1 / Lunatic Red Eyes Lv1 -> Lv3 / Enhanced Hexes Lv0 -> Lv2
+		* **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv2 / Mind Body as One Lv0 -> Lv2
 		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Trauma Recollection Lv0 -> Lv2 / Spellcard Recollection Lv0 -> Lv5
-* Enter the dungeon (16F Center)
+		* **Yuuka**: HP Boost Lv0 -> Lv5 / MP Boost Lv0 -> Lv5 / Extra Attack Lv0 -> Lv2
+* Enter the dungeon (16F Center) and go fight the boss
+<hr>
 * **Boss Fight - Goddess of Fertility (Lv72)**
-	* **If Aya, Kourin or Sanae die, reset**
-	* Cirno must die turn 1 or 2 to proc SPD debuff
-	* Aya comes in to do the Diva combo
-		* Buff self SPD and concentrate when low
-		* Spam Dance of Cochlea to keep boss stunlocked
-	* Kourin and Sanae buff and do switching
-	* Reisen inflicts MND -50% with LRE
-	* Iku swaps in to deal damage and inflict DEF -50% with EDP
-	* Nitori swaps in to nuke with Super Scope
-		* Try to have Satori out when she's about to strike
-		* Satori increases damage by 24% with Trauma Recollection
+	* **Phase 1 - Diva Setup**
+		* Let Cirno die to trigger Blizzard Blowout
+		* If Cirno survives first turn, use Icicle Fall
+			* Reisen spams Discarder to bring boss down to 50%
+			* Use another Icicle Fall if not there
+		* Swap in Aya where Cirno was
+		* Aya buffs self SPD once then spams Dance of Cochlea
+		* Reisen uses Lunatic Red Eyes once
+		* Swap Reisen with Iku
+		* Iku uses Elekiter Dragon Palace once
+		* Aya waps Iku with Nitori
+	* **Phase 2 - Super Scope 1**
+		* Kourin uses Battle Command on Nitori
+		* Sanae uses Miracle Fruit on Nitori
+		* Nitori self buffs twice
+		* Kourin stalls 1 turn
+		* Aya concentrates once
+		* Nitori concentrates once
+		* Kourin self swaps for Chen, uses Herb of Awakening on Nitori
+		* Aya swaps Chen with Kourin
+		* Sanae uses Miracle Fruit on Nitori
+		* Nitori uses Super Scope #1
+	* **Phase 3 - Super Scope 2**
+		* Aya swaps Sanae with Satori
+		* Kourin uses Battle Command on Nitori
+		* Aya buffs self SPD once, Dance of Cochlea
+		* Kourin uses Battle Command on Nitori
+		* Aya and Satori concentrate
+		* Nitori uses Super Scope #2
+	* **Phase 3 - Super Scope 3**
+		* Kourin IA pivots Nitori
+		* Aya uses Dance of Cochlea
+		* Nitori concentrates
+		* Aya swaps Satori with Chen, uses Herb of Awakening on Nitori
+		* Kourin swaps Chen with Sanae
+		* Sanae uses Miracle Fruit on Nitori
+		* Aya swaps Sanae with Satori
+		* Kourin stalls 1 turn
+		* Nitori uses Super Scope #3
+		* Aya DGAs Nitori, uses Attack
 	* For finer details see Goddess of Fertility's [Boss Info](../../enemy/goddess.md)
 * Go back to Gensokyo to heal after the fight
 
