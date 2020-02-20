@@ -1574,29 +1574,31 @@
 		* Satori, Yuuka HP
 	* **Magic Library**:
 		* **Reset Kourin / Chen / Parsee**
+		* **Reincarnate Nitori, Kasen**
 		* **Chen** learns **Herbalist** subclass
 		* **Parsee** learns **Warrior** subclass
 		* **Satori**: HP/SPD Lv0 -> Lv50
 		* **Yuuka**: HP/SPD Lv0 -> Lv50
+		* **Parsee**: Use all money on ATK
 	* **Human Village**:
-		* Swap **Kourin -> Satori**
-		* Swap **Rin -> Yuuka**
+		* Swap **Rin -> Satori**
+		* Swap **Kourin -> Yuuka**
 * Open the menu and take the following actions:
-	* Form Change: **Komachi / Cirno / Reimu / Iku**
+	* Form Change: **Komachi / Cirno / Reimu / Kasen**
 	* Equipment:
 		* **Komachi** equips **First Aid Kit** over Violent Green Rupee
 		* **Reimu** unequips **Star of Elendil**
 		* **Parsee** equips **Strange Meat Pie** / **Cinderforge Sword** / **Olzhas Shamshir x2** (Glaive of Pain if no Cinderforge)
 		* **Nitori** equips **Getitup V** over Green Dream
-		* **Satori** equips **First Aid Kit** / **Yggdrasil Dew** / **Courtesan's Sorrow** / **Dark Magic Grimoire**
 		* **Yuuka** equips **First Aid Kit** / **Energy Pack** / **Sirloin** / **Dark Magic Grimoire**
+		* **Satori** equips **First Aid Kit** / **Yggdrasil Dew** / **Courtesan's Sorrow** / **Dark Magic Grimoire**
 		* **Sanae** equips **Star of Elendil** over Lambda Driver
 		* **Reimu** equips **Lambda Driver**
 	* Learn Skills:
 		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Mind Body as One Lv0 -> Lv2
-		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5
-		* **Chen**: SPD Boost Lv0 -> Lv5 / Instant Attack Lv0 -> Lv1 / Placebo Effect Lv0 -> Lv5 / Herb of Awakening Lv0 -> Lv5
 		* **Yuuka**: HP/MP Boost Lv0 -> Lv5 / Extra Attack Lv0 -> Lv2
+		* **Chen**: SPD Boost Lv0 -> Lv5 / Instant Attack Lv0 -> Lv1 / Placebo Effect Lv0 -> Lv5 / Herb of Awakening Lv0 -> Lv5
+		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 * **Boss Fight - Yuyuko Saigyouji (Lv60)**
@@ -1612,9 +1614,15 @@
 		* Komachi IA pivots Yuuka and Satori
 		* Sanae juggles healing and IA pivoting
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 2.5-3 million
+		* TRR reaches 1.8-2.3 million (5600 ATK)
+			* 1.8 million @ Full HP, Herb, +50%
+			* 2.3 million if Sanae died (buff stays at 20%)
+		* TRR reaches 2.0-2.5 million (5200 ATK)
+			* 2.0 million @ Full HP, Herb, +50%
+			* 2.5 million if Sanae died (buff stays at 20%)
+		* Swap in Iku and try to proc a DEF debuff
 		* Swap in Chen -> Parsee on slots 3 and 4
-		* Sanae uses Miracle Fruit on Parsee
+		* Sanae uses Miracle Fruit on Parsee until fully buffed
 		* Chen uses Herb of Awakening on Parsee
 		* Parsee delays her turn if needed then Jealousy of the Kind
 	* For finer details see Yuyuko's [Boss Info](../../enemy/yuyuko.md)
@@ -1624,10 +1632,10 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
-		* Change Nitori and Aya bonus to SPD
+		* Nitori(ATK), Aya(SPD)
 		* Use **Training Manual x6** on **Satori**
 	* **Magic Library**:
-		* **Reset Parsee, Aya, Satori, Reisen, Yuuka**
+		* **Reset Parsee, Aya, Satori, Yuuka**
 		* **Parsee** learns **Monk** subclass
 		* **Aya** learns **Strategist** subclass
 		* **Satori** learns **Monk** subclass
@@ -1647,8 +1655,9 @@
 		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Fast Dash Lv0 -> Lv1
 		* **Yuuka**: HP Boost Lv0 -> Lv2 / MP Boost Lv0 -> Lv5 / Extra Attack Lv0 -> Lv2 / Fast Dash Lv0 -> Lv1
 		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5 / Fast Dash Lv0 -> Lv1
-		* **Kourin**: HP Boost Lv0 -> Lv5 / MND Boost Lv0 -> Lv1 / Effective Formation Lv0 -> Lv2 / First Aid Lv1 -> Lv2
+		* **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv2
 		* **Komachi**: Ferry Wages Lv8 -> Lv10
+		* **Kourin**: HP Boost Lv0 -> Lv5 / MND Boost Lv0 -> Lv1 / Effective Formation Lv0 -> Lv2 / First Aid Lv1 -> Lv2
 		* **Sanae**: Enhanced Buffing Lv1 -> Lv2
 * Enter the dungeon (15F)
 
@@ -1671,7 +1680,12 @@
 		* Kourin swaps Satori and Sanae as needed
 		* Sanae heals everyone with Yasaka's Divine Wind
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 1.5-1.8 million
+		* TRR reaches 0.78-1.2 million (Sanae in front)
+			* 787k @ Full HP, Herb, +38%
+			* 1.2 million if no buff
+		* TRR reaches 1.0-1.5 million (Sanae dead/back)
+			* 1.0 million @ Full HP, Herb, +38%
+			* 1.5 million if no buff
 		* Move Sanae to slot 1, swap in Parsee in slot 4
 		* Sanae uses Miracle Fruit on Parsee
 		* Swap in Chen whenever
@@ -1685,8 +1699,6 @@
 ## <a id="Header-6-1"></a>Explore 16F
 
 * When you're back on Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters
-		* Change Nitori to ATK
 	* **Human Village**:
 		* Swap **Cirno -> Rumia**
 * Enter the dungeon (16F)
@@ -1727,18 +1739,19 @@
 	* **Hakurei shrine**: Level All Characters, apply bonus
 		* Nitori, Aya
 	* **Magic Library**:
-		* **Reset Kourin, Nitori, Parsee Satori, Yuuka**
+		* **Reset Kourin, Nitori, Satori, Iku, Yuuka**
+		* **Reincarnate Parsee**
 		* **Kourin** learns **Diva** subclass
 		* **Cirno** learns **Guardian** subclass
 		* **Nitori** learns **Warrior** subclass
-		* **Reisen** learns **Hexer** subclass
-		* **Reisen**: SPD Lv0 -> Lv30
+		* **Satori** learns **Enchanter** subclass
+		* **Nitori**: Use all money on ATK
 	* **Human Village**:
 		* Swap **Rumia -> Cirno**
 		* Swap **Komachi -> Reisen**
 		* Swap **Parsee -> Iku**
 * Open the menu and take the following actions:
-	* Form Change: **Cirno / Kourin / Sanae / Reisen**
+	* Form Change: **Cirno / Kourin / Satori / Reisen**
 	* Equipment:
 		* **Iku** equips **Astral Dominae** over Tisiphone Edge (or Forbidden Tablet)
 		* **Kourin** equips **Wallbreaker Armband x2** over Booster v0.8
@@ -1748,9 +1761,9 @@
 	* Learn Skills:
 		* **Cirno**: Frontline Guard Lv0 -> Lv1
 		* **Kourin**: HP Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Weird Creatures Lv0 -> Lv2
-		* **Reisen**: MP Boost Lv0 -> Lv5 / SPD Boost Lv0 -> Lv5 / Intense Vertigo Lv0 -> Lv1 / Lunatic Red Eyes Lv1 -> Lv3 / Enhanced Hexes Lv0 -> Lv2
+		* **Satori**: MP Boost Lv0 -> Lv5 / Trauma Recollection Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv2 / Art of the Battlemage Lv0 -> Lv5
+		* **Reisen**: MP Boost Lv4 -> Lv5 / Lunatic Red Eyes Lv1 -> Lv3
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv2 / Mind Body as One Lv0 -> Lv2
-		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Trauma Recollection Lv0 -> Lv2 / Spellcard Recollection Lv0 -> Lv5
 		* **Yuuka**: HP Boost Lv0 -> Lv5 / MP Boost Lv0 -> Lv5 / Extra Attack Lv0 -> Lv2
 * Enter the dungeon (16F Center) and go fight the boss
 <hr>
@@ -1761,40 +1774,21 @@
 			* Reisen spams Discarder to bring boss down to 50%
 			* Use another Icicle Fall if not there
 		* Swap in Aya where Cirno was
-		* Aya buffs self SPD once then spams Dance of Cochlea
 		* Reisen uses Lunatic Red Eyes once
+		* Aya spams Dance of the Cochlea until boss is at 0 ATB
 		* Swap Reisen with Iku
 		* Iku uses Elekiter Dragon Palace once
-		* Aya waps Iku with Nitori
-	* **Phase 2 - Super Scope 1**
-		* Kourin uses Battle Command on Nitori
-		* Sanae uses Miracle Fruit on Nitori
-		* Nitori self buffs twice
-		* Kourin stalls 1 turn
-		* Aya concentrates once
-		* Nitori concentrates once
-		* Kourin self swaps for Chen, uses Herb of Awakening on Nitori
-		* Aya swaps Chen with Kourin
-		* Sanae uses Miracle Fruit on Nitori
-		* Nitori uses Super Scope #1
-	* **Phase 3 - Super Scope 2**
-		* Aya swaps Sanae with Satori
-		* Kourin uses Battle Command on Nitori
-		* Aya buffs self SPD once, Dance of Cochlea
-		* Kourin uses Battle Command on Nitori
-		* Aya and Satori concentrate
-		* Nitori uses Super Scope #2
-	* **Phase 3 - Super Scope 3**
-		* Kourin IA pivots Nitori
-		* Aya uses Dance of Cochlea
-		* Nitori concentrates
-		* Aya swaps Satori with Chen, uses Herb of Awakening on Nitori
-		* Kourin swaps Chen with Sanae
-		* Sanae uses Miracle Fruit on Nitori
-		* Aya swaps Sanae with Satori
-		* Kourin stalls 1 turn
-		* Nitori uses Super Scope #3
-		* Aya DGAs Nitori, uses Attack
+		* Swap Iku with Nitori
+	* **Phase 2 - Super Scoping**
+		* Nitori self buffs until ready, then concentrates
+		* Kourin swaps people around
+		* Satori uses Art of the Battlemage on Nitori
+		* Sanae swaps in and uses Miracle Fruit on Nitori
+		* Swap Chen in so she can Herb of Awakening
+		* Nitori uses Super Scope
+		* Satori rebuffs before Nitori's turn
+		* IA pivot Nitori
+		* Nitori uses Super Scope
 	* For finer details see Goddess of Fertility's [Boss Info](../../enemy/goddess.md)
 * Go back to Gensokyo to heal after the fight
 
@@ -1805,7 +1799,7 @@
 	* **Human Village**:
 		* Swap **Cirno -> Rumia**
 * Open the menu and take the following actions:
-	* Form Change: **Aya / Kourin / Sanae / Reisen**
+	* Form Change: **Aya / Kourin / Satori / Reisen**
 	* Equipment:
 		* **Aya** unequips Jogurt Doll
 * Enter the dungeon (17F)
@@ -1993,7 +1987,7 @@
 		* Swap **Yuyuko -> Yuuka**
 		* Unequip non-party
 	* **Magic Library**:
-		* **Reincarnate Kourin, Nitori, Parsee, Aya, Kasen, Rin, Reisen, Sanae, Iku**
+		* **Reincarnate Kourin, Nitori, Aya, Rin, Reisen, Sanae, Iku**
 		* **Kourin** learns **Guardian** subclass
 		* **Nitori** learns **Guardian** subclass
 		* **Parsee** learns **Warrior** subclass
@@ -2049,6 +2043,7 @@
 	* **Magic Library**:
 		* **Parsee**: ATK Lv100 -> LvINF
 * Enter the dungeon (20F Depths)
+GAMBLER
 * **Boss Fight - Ame-no-Murakumo (Lv100)**
 	* **If Nitori or Kourin die early, or no TRR proc, reset**
 	* PHASE 1: TRR proc and snowball
