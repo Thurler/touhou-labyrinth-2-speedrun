@@ -1818,36 +1818,54 @@
 
 ## <a id="Header-6-6"></a>Golden Orbs Fight
 
+* Before you do any menuing, do the following action:
+	* **Kourin** unequips everything
 * When you're back on Gensokyo, use these facilities:
+	* **Hakurei shrine**: Level All Characters, apply bonus
+		* Nitori, Aya
+		* Suwako(SPD)
+		* Use **Training Manual x4** on **Nitori**
+	* **Magic Library**:
+		* **Reincarnate Kourin**
+		* **Suwako** learns **Enchanter** subclass
+		* **Nitori**: Use all money on ATK
 	* **Human Village**:
 		* Swap **Rumia -> Cirno**
+		* Swap **Kourin -> Suwako**
 		* Swap **Yuuka -> Yuyuko**
 * Open the menu and take the following actions:
 	* Form Change: **Aya / Cirno / Yuyuko / Reisen**
 	* Equipment:
 		* **Aya** equips **Jogurt Doll**
+		* **Suwako** equips **Chario Boots** / **Wallbreaker Armband x2** / **Full Custom**
 		* **Iku** equips **Lilium's Panties** over Forbidden Tablet
 		* **Sanae** equips **Forbidden Tablet** over Century End Jacket
-		* **Kourin** equips **Megasphere** over Booster v0.8
 	* Learn Skills:
 		* **Yuyuko**: Saigyouji Flawless Nirvana Lv1 -> Lv5
+		* **Suwako**: MP Boost Lv0 -> Lv5 / Froggy Power Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv2 / Art of the Battlemage Lv0 -> Lv5
+		* **Nitori**: Overheating Lv0 - Lv1
+		* **Kasen**: Guts Lv0 - Lv2
 * Enter the dungeon (18F North)
+<hr>
 * **Boss Fight - Golden Orb Trio (Lv76)**
-	* **If Aya, Kourin or Sanae die, reset**
-	* Cirno must die turn 1 or 2 to proc SPD debuff
-	* Aya DGAs Yuyuko for SFN, procs DTH on Reverse Time (64%)
-	* Aya switches out until Cirno is dead
-	* Aya later comes in to do the Diva combo
-		* Buff self SPD and concentrate when low
-		* Spam Dance of Cochlea to keep boss stunlocked
-	* Kourin and Sanae buff and do switching
-	* Reisen inflicts SIL and MND -50% with LRE
-	* Iku swaps in to deal damage and inflict DEF -50% with EDP
-		* After Diva combo starts, try to debuff Canopy
-	* Nitori swaps in to nuke with Super Scope
-		* Try to have Satori out when she's about to strike
-		* Satori increases damage by 24% with Trauma Recollection
-		* Use Extending Arm for Canopy
+	* **Phase 1 - Diva Setup**
+		* Aya DGAs Yuyuko turn 1 for Saigyouji Flawless Nirvana
+		* Aya swaps self for Kasen
+		* Cirno swaps Yuyuko with Satori
+		* Stall until Cirno dies
+		* Swap in Chen -> Aya
+		* Aya awaps Chen with Suwako
+		* Satori swaps Reisen with Nitori
+	* **Phase 2 - Extending Arm**
+		* Suwako and Satori spam Art of the Battlemage on Nitori
+		* Nitori spams Extending Arm
+		* **DO NOT IA PIVOT NITORI**, she'll lose Overheat stack
+		* Swap Chen in to keep Herb of Awakening up
+		* Aya spams Dance of Cochlea and supports Nitori
+	* **Phase 3 - Super Scope**
+		* Rebuff Nitori to max
+		* Aya DGAs Nitori if needed
+		* Nitori ends it with Super Scope
 	* For finer details see Golden Orb Trio's [Boss Info](../../enemy/goldenorbs.md)
 * Go back to Gensokyo to heal after the fight
 
@@ -1987,7 +2005,7 @@
 		* Swap **Yuyuko -> Yuuka**
 		* Unequip non-party
 	* **Magic Library**:
-		* **Reincarnate Kourin, Nitori, Aya, Rin, Reisen, Sanae, Iku**
+		* **Reincarnate Nitori, Aya, Rin, Reisen, Sanae, Iku**
 		* **Kourin** learns **Guardian** subclass
 		* **Nitori** learns **Guardian** subclass
 		* **Parsee** learns **Warrior** subclass

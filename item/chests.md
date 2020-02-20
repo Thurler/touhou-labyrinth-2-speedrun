@@ -471,9 +471,9 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | :---: | :---: | :---: |
 | Orb of Earithin<br>Training Manual x5<br>Swiftness Gem x5 | O |
 | 3200 Money | X |
-| Asura Blade | X |
+| Asura Blade | O |
 | Demon Core | X |
-| Divine Barrier | O |
+| Divine Barrier | X |
 | Full Custom | O |
 | Intama | O |
 | Jogurt Doll | O |
@@ -598,7 +598,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Pride x1 | 16F | Useless, out of way |
 | Luster Candy x1 | 17F | Needs FOE kill, useless |
 | Big Bang Waganizer x1 | 17F | Useless, out of way |
-| Asura Blade x1 | 18F | Useless, out of way |
+| Divine Barrier x1 | 18F | Useless, out of way |
 | Demon Core x1 | 18F | Useless, out of way |
 | Star of Elendil x1 | 15F | Needs FOE kill |
 | Olzhas Shamshir x1 | 18F | Out of way |
