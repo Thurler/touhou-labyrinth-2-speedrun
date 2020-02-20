@@ -1572,6 +1572,7 @@
 	* **Hakurei shrine**: Level All Characters, apply new bonus
 		* Switch Parsee to ATK
 		* Satori, Yuuka HP
+		* Use **Fighting gems** on **Parsee**
 	* **Magic Library**:
 		* **Reset Kourin / Chen / Parsee**
 		* **Reincarnate Nitori, Kasen**
@@ -1635,7 +1636,7 @@
 		* Nitori(ATK), Aya(SPD)
 		* Use **Training Manual x6** on **Satori**
 	* **Magic Library**:
-		* **Reset Parsee, Aya, Satori, Yuuka**
+		* **Reset Parsee / Aya / Satori / Yuuka**
 		* **Parsee** learns **Monk** subclass
 		* **Aya** learns **Strategist** subclass
 		* **Satori** learns **Monk** subclass
@@ -1736,16 +1737,17 @@
 * Before you do any menuing, do the following action:
 	* **Parsee** unequips Cinderforge Sword if she has it
 * When you're back on Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters, apply bonus
-		* Nitori, Aya
 	* **Magic Library**:
-		* **Reset Kourin, Nitori, Satori, Iku, Yuuka**
-		* **Reincarnate Parsee**
+		* **Reset Kourin / Nitori / Satori / Iku**
+		* **Reincarnate Parsee / Yuuka**
 		* **Kourin** learns **Diva** subclass
 		* **Cirno** learns **Guardian** subclass
 		* **Nitori** learns **Warrior** subclass
 		* **Satori** learns **Enchanter** subclass
 		* **Nitori**: Use all money on ATK
+	* **Hakurei shrine**: Level All Characters, apply bonus
+		* Nitori, Aya
+		* Use **Fighting gems** on **Nitori**
 	* **Human Village**:
 		* Swap **Rumia -> Cirno**
 		* Swap **Komachi -> Reisen**
@@ -1874,11 +1876,10 @@
 ## <a id="Header-7-1"></a>Explore 19F North / 20F West
 
 * When you're back on Gensokyo, use these facilities:
-	* **Hakurei shrine**: Level All Characters
 	* **Human Village**:
 		* Swap **Cirno -> Rumia**
 * Open the menu and take the following actions:
-	* Form Change: **Aya / Rumia / Yuyuko / Reisen**
+	* Form Change: **Aya / Suwako / Yuyuko / Reisen**
 	* Equipment:
 		* **Aya** unequips Jogurt Doll
 * Enter the dungeon (19F)
@@ -1907,32 +1908,43 @@
 
 * When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
-		* **Kourin** unequips everything
+		* **Suwako** unequips everything
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
-		* Change Satori, Reisen, Sanae, Yuuka to SPD
+		* Marisa, Rin, Reisen(SPD), Iku
+		* Use **Magic gems** on **Aya** and **Rin**
+		* Use **Wisdom gems** on **Iku**
+		* Use **Swiftness gems** on **Aya** and **Iku**
+		* Use **Training Manual x10** on **Iku**
 	* **Magic Library**:
-		* **Reset Kourin / Rin**
+		* **Reset Komachi / Rin**
+		* **Reincarnate Nitori / Satori**
+		* **Marisa** learns **Enchanter** subclass
 		* **Rin** learns **Magician** subclass
-		* **Nitori**: SPD Lv30 -> Lv50
+		* **Iku** learns **Sorcerer** subclass
 		* **Aya**: SPD Lv50 -> Lv150
 		* **Rin**: SPD Lv0 -> Lv100
-		* **Satori**: SPD Lv50 -> Lv100
-		* **Reisen**: SPD Lv50 -> Lv100
-		* **Iku**: MAG Lv50 -> Lv150 / SPD Lv50 -> Lv100
+		* **Iku**: SPD Lv50 -> Lv100
+		* **Iku**: Use all money on MAG
 	* **Human Village**:
-		* Swap **Rumia -> Cirno**
-		* Swap **Kourin -> Rin**
+		* Swap **Rumia -> Marisa**
+		* Swap **Suwako -> Cirno**
+		* Swap **Yuyuko -> Rin**
 * Open the menu and take the following actions:
 	* Form Change: **Aya / Cirno / Sanae / Reisen**
 	* Equipment:
-		* **Aya** equips **Jogurt Doll**
+		* **Aya** equips **Orb of Gaia**
 		* **Sanae** equips **Grand Master Breaker** over Big Bang Woganizer
-		* **Rin** equips **Wallbreaker Armband x2** / **Megasphere**
+		* **Marisa** equips **Jogurt Doll** / **Wash Basin Set** / **Full Custom x2**
 		* **Reimu** equips **Astral Dominae** / **Star of Elendil** over Pride / Lambda Driver
+		* **Rin** equips **Chario Boots** / **Wallbreaker Armband x2**
 	* Learn Skills:
+		* **Marisa**: MP Boost Lv0 -> Lv5 / Magic Training Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv2 / Art of the Battlemage Lv0 -> Lv5
+		* **Nitori**: Maintenance Lv0 -> Lv1
+		* **Iku**: MAG Boost Lv0 -> Lv5 / Hagoromo Sky Lv0 -> Lv1 / Heavenly Maiden Blow Lv0 -> Lv1 / Enhanced Attack Lv0 -> Lv1 / Mind Body One Lv0 -> Lv2
 		* **Rin**: Magic Conservation Lv0 -> Lv1 / Magic Transfer Lv0 -> Lv5 / Magic Circuit Lv0 -> Lv5
 * Enter the dungeon (20F West)
+<hr>
 * **Boss Fight - Mirror of the High God (Lv87)**
 	* **If Aya, Rin, Sanae or Iku die, reset**
 	* Aya boosts self SPD twice, then Sanae once
@@ -1963,13 +1975,8 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
-	* **Magic Library**:
-		* **Reset Iku**
-		* **Iku** learns **Sorcerer** subclass
 * Open the menu and take the following actions:
-	* Form Change: **Cirno / Kasen / Chen / Yuyuko**
-	* Learn Skills:
-		* **Iku**: MAG Boost Lv0 -> Lv5 / Hagoromo Sky Lv0 -> Lv2 / Heavenly Blow Lv0 -> Lv1 / Lightning Fish Lv0 -> Lv1 / Enhanced Normal Lv0 -> Lv1 / Mind Body One Lv0 -> Lv2
+	* Form Change: **Cirno / Kasen / Chen / Satori**
 * Enter the dungeon (20F East)
 * **Boss Fight - Magatama of the High God (Lv88)**
 	* **If Aya, Rin, Sanae or Iku die, reset**
