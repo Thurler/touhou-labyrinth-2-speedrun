@@ -9,7 +9,7 @@
 * [Item Data and Information](#item-info)
 * [Featured Runs](#special-runs)
 
-Huge shoutouts to the [japanese wiki](https://www54.atwiki.jp/thlabyroth2/) for providing maps for all the floors, and the [english wiki](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/) for providing bestiary information, as well as being a great source of general information regarding the game.
+Huge shoutouts to the [japanese wiki](https://www54.atwiki.jp/thlabyroth2/) for providing maps for most floors, and the [english wiki](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/) for providing bestiary information, as well as being a great source of general information regarding the game.
 
 ## <a id="speedrun-routes"></a>The Speedrun Routes
 
@@ -31,11 +31,9 @@ These are links to the routes for each category. Runs that haven't been routed a
 * ~~True Dragon God~~
 * ~~All Plus Achievements~~
 
-
 ## <a id="character-info"></a>Character Data and Information
 
 This section talks about speedrun data and information. If you want game-specific data and information, please refer to the [English Wiki](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/Characters).
-
 
 #### Starting Characters
 * [Reimu Hakurei](chara/reimu.md)
@@ -113,7 +111,6 @@ This section talks about speedrun data and information. If you want game-specifi
 
 This section talks about speedrun data and information. If you want game-specific data and information, please refer to the English Wiki [dungeon section](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/Dungeons) and [bestiary](https://en.touhouwiki.net/wiki/Labyrinth_of_Touhou_2/Bestiary).
 
-
 #### First Stratum Enemies
 * [Random Encounters](enemy/trash1.md)
 * ~~Malignut Eater~~
@@ -157,7 +154,7 @@ This section talks about speedrun data and information. If you want game-specifi
 #### Fourth Stratum Enemies
 * [Random Encounters](enemy/trash4.md)
 * [Desert Weapon - Gold Hymn](enemy/goldhymn.md)
-* ~~Desert Weapon – Silver Mail~~
+* [Desert Weapon – Silver Mail](enemy/silvermail.md)
 * [Sakuya Izayoi and Remilia Scarlet](enemy/sakuremi.md)
 * [Divine Beasts' Golden Mirror](enemy/mirror.md)
 * [Magatama of Amber Fangs](enemy/magatama.md)
@@ -200,6 +197,7 @@ This section talks about speedrun data and information. If you want game-specifi
 #### Miscellaneous
 * [Enemy Drop Rates](item/drop.md)
 * [Treasure Chest Listing](item/chests.md)
+* [Achievements](item/achievements.md)
 
 ## <a id="special-runs"></a>Featured Runs
 

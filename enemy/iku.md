@@ -61,7 +61,7 @@ Offensively, Nitori, Kasen and Chen do a very solid job. Early on Kasen can debu
 
 Iku's basic spells offer little to no threat with the lineup used, unless you get very unlucky with targetting and she repeatedly PARs Sanae or Kasen. After her buff, however, every spell can kill anyone that isn't Parsee, so be careful when her turn approaches during the damage rush. The first Light Dragon's Sigh will completely assassinate everyone, except for Parsee and Sanae. Aya can survive as well and mitigate damage to those 2, assuming she is at full HP. The fight is separated into 4 phases, detailed below:
 
-* **Phase 1 - Buffing**
+**PHASE 1 - Buffing**
 
 The main goal at the start of the fight is to buff Nitori before Iku stats piling up damage. This will allow us to swap in Nitori later to deal obscene amounts of damage with no buffing later on. Aya buffs Reimu's and Sanae's SPD so they can more easily cast their buffs and recover from PAR. Keine comes in to help buff Nitori along ith Sanae, ideally setting Nitori's ATK to >70% buff. Swap Nitori with Kasen to begin the damage phase.
 
@@ -74,7 +74,7 @@ The main goal at the start of the fight is to buff Nitori before Iku stats pilin
 	* Nitori can buff herself with Portable Versatile Machine
 * Swap Nitori with Kasen
 
-* **Phase 2 - Kasen**
+**PHASE 2 - Kasen**
 
 Next we want to deal as much damage with Kasen as possible. We buff her just like we did Nitori and just spam Higekiri's Cursed Arm, hoping for SPD debuffs. Sanae must heal whoever gets PAR'd or too debuffed, and Parsee can help by Instant Attack pivoting with Chen. If there's nothing better to do, Parsee can try to proc SIL on Iku with Midnight Anathema Ritual (42%).
 
@@ -84,7 +84,7 @@ Next we want to deal as much damage with Kasen as possible. We buff her just lik
 * Parsee tries to proc SIL with Midnight Anathema Ritual
 * Parsee also switches Chen with whoever needs IA pivoting
 
-* **Phase 3 - Light Dragon's Sigh**
+**PHASE 3 - Light Dragon's Sigh**
 
 When Kasen runs out of MP, depending on how much damage was dealt there will still be time to do a small damage rush, but you need to be ready to back out of it if it turns out she was already below 55% HP. Aya swaps in where Keine was, and Kourin where Kasen was. They will then swap in Nitori so she can spam Extending Arm as much as possible before Light Dragon's Sigh. Kourin can swap her in with 9100 ATB, and Aya can make her act twice with Divine Grandson's Advent. Kourin may die to LDS, but certainly not Nitori, so make sure she's not there when Iku gets a turn.
 
@@ -94,7 +94,7 @@ When Kasen runs out of MP, depending on how much damage was dealt there will sti
 * Parsee switches her out, Kourin back in
 * Lineup Parsee/Aya/Komachi/Sanae for Light Dragon's Sigh
 
-* **Phase 4 - Whiskers of the Dragon God**
+**PHASE 4 - Whiskers of the Dragon God**
 
 After LDS, depending on how much HP is left, you may choose to either play it safe by switching in Reimu for healing, or just swap in Nitori, Kasen and Chen to finish her off. The fact that she debuffs all of her defenses also helps immensely to do it before she kills you with her now impossibly high SPD.
 

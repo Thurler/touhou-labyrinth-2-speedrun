@@ -66,7 +66,7 @@ Defensively, Tenshi can be a pain to deal with, featuring spells that slow you d
 
 Nitori / Minoriko / Marisa / Iku is the front line we'll be using for most of the fight to damage Iku. Minoriko has enough MAG to fully heal Nitori and her healing spell does not have that much delay. She can also buff Nitori with very little delay, which is always a plus in case Sword of Hisou removes too many buffs. Other useful characters include Sanae, Aya and Reisen. Sanae buffs Iku with Miracle Fruit until she dies, triggering Last Wish and further buffing Iku to 100% in all stats. Aya can help at the start by boosting everyone's SPD to complete the setup before Tenshi gets a second turn. Reisen can reduce Tenshi's MND buff from State of Enlightenment, which helps Iku deal just a bit more damage. The three phases in this fight are described below:
 
-* **Phase 1 - Sacrifice**
+**PHASE 1 - Sacrifice**
 
 Our initial line up is Sanae / Minoriko / Aya / Reisen. Aya buffs Minoriko's SPD so she can get enough turns before Tenshi's second turn. Her passive SPD boost and Minoriko's passive MAG boost for the fronlines also helps stack some buffs on Sanae so she can be targeted by Sword of Hisou. Reisen debuffs Tenshi's MND and tries to proc SIL (66%) to further drop it for Iku. The frontline is swapped to the main one, and Sanae buffs Iku before she takes a OHKO from Swod of Hisou.
 
@@ -79,7 +79,7 @@ Our initial line up is Sanae / Minoriko / Aya / Reisen. Aya buffs Minoriko's SPD
 * Minoriko uses Owotoshi Harvester on Sanae
 * Sanae dies to Sword of Hisou, triggering Last Wish
 
-* **Phase 2 - Concentrate**
+**PHASE 2 - Concentrate**
 
 At this point, Nitori is swapped in and the main cycle begins. She needs to receive a buff from Minoriko and activate her self buff at least once, otherwise Tenshi will kill Minoriko with Sword of Hisou. From then on you need to make sure Nitori buffs herself, Minoriko heals her, and Marisa buffs Iku as much as she can. Iku spams her normal attack until Tenshi gets into the Concentrate threshold, when you need to swap the frontline to characters that can survive Wild Dance. We swap in Reimu so she can use her Armored Yin-Yang Orb to soften the hit, reducing damage by 30%, and Komachi, who has a bunch of HP and high SPI affinity. After that we go back to the regular damage cycle.
 
@@ -90,7 +90,7 @@ At this point, Nitori is swapped in and the main cycle begins. She needs to rece
 * Marisa spams Art of the Battlemage on Iku
 * On concentrate, make lineup Nitori / Reimu / Komachi
 
-* **Phase 3 - State of Enlightenment**
+**PHASE 3 - State of Enlightenment**
 
 When Tenshi reuses State of Enlightenment, we swap in Reisen to use Lunatic Red Eyes again, and then resume the same strategy we used for phase 2. As Tenshi nears death, you can swap Minoriko with Rumia to further add a 20% boost to Iku's damage, thanks to her Youkai's Knowledge skill. After Tenshi dies, just swap in your weakest characters to die on her enhanced phase.
 
