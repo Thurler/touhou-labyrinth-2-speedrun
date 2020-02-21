@@ -1566,6 +1566,8 @@
 
 ## <a id="Header-5-10"></a>Yuyuko Fight
 
+10 * X + 2.5 * X = 394400 + 2.5 * X
+
 * Open the menu and take the following actions:
 	* **Unequip Kourin**
 * When you're back on Gensokyo, use these facilities:
@@ -1615,12 +1617,9 @@
 		* Komachi IA pivots Yuuka and Satori
 		* Sanae juggles healing and IA pivoting
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 1.8-2.3 million (5600 ATK)
-			* 1.8 million @ Full HP, Herb, +50%
-			* 2.3 million if Sanae died (buff stays at 20%)
-		* TRR reaches 2.0-2.5 million (5200 ATK)
-			* 2.0 million @ Full HP, Herb, +50%
-			* 2.5 million if Sanae died (buff stays at 20%)
+		* TRR reaches 1.6-2.0 million (6200+ ATK)
+			* 1.6 million @ Full HP, Herb, +50%
+			* 2.0 million if Sanae died (buff stays at 20%)
 		* Swap in Iku and try to proc a DEF debuff
 		* Swap in Chen -> Parsee on slots 3 and 4
 		* Sanae uses Miracle Fruit on Parsee until fully buffed
@@ -1681,12 +1680,12 @@
 		* Kourin swaps Satori and Sanae as needed
 		* Sanae heals everyone with Yasaka's Divine Wind
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 0.78-1.2 million (Sanae in front)
-			* 787k @ Full HP, Herb, +38%
-			* 1.2 million if no buff
-		* TRR reaches 1.0-1.5 million (Sanae dead/back)
-			* 1.0 million @ Full HP, Herb, +38%
-			* 1.5 million if no buff
+		* TRR reaches 0.7-1.0 million (Sanae in front)
+			* 700k @ Full HP, Herb, +38%
+			* 1.0 million if no buff
+		* TRR reaches 0.85-1.25 million (Sanae dead/back)
+			* 850k million @ Full HP, Herb, +38%
+			* 1.25 million if no buff
 		* Move Sanae to slot 1, swap in Parsee in slot 4
 		* Sanae uses Miracle Fruit on Parsee
 		* Swap in Chen whenever
@@ -1946,28 +1945,23 @@
 * Enter the dungeon (20F West)
 <hr>
 * **Boss Fight - Mirror of the High God (Lv87)**
-	* **If Aya, Rin, Sanae or Iku die, reset**
-	* Aya boosts self SPD twice, then Sanae once
-	* After World Devouring Calamity:
-		* Final lineup: Cirno / Kasen / Chen / Yuyuko
-		* Aya concentrates 3x
-		* Sanae concentrates 2x
-		* Reisen concentrates 1x
-		* Cirno swaps Reisen for Yuyuko, then Sanae for Chen into Kasen
-		* Yuyuko swaps Aya with Cirno
-		* Wait for Cirno o die and hope someone lives
-	* Aya switches in and begins Diva combo loop
-		* Dance Cochra until Mirror ATB 6500
-		* Concentrate and repeat
-	* Rin switches in on slot 2 and focuses on MP maintenance
-		* Magic Circuit Aya whenever it runs out
-		* Use Magic Transfer if Aya too low
-		* Concentrate and swap when there's nothing to do
-	* Reisen comes in only to debuff Mirror MND
-	* Sanae buffs Iku, can buff Aya in a pinch
-	* Satori comes in when Iku has no MP
-		* She Sarutahiko's Aya to keep her SPD
-	* Iku spams EDP when fully buffed
+	* **Phase 1 - Diva Setup**
+		* Aya boosts own SPD twice, Sanae's once
+		* Aya, Reisen concentrate once
+		* Cirno swaps Reisen for Satori
+		* Sanae, Aya concentrate once
+		* Cirno swaps Aya for Kasen
+		* Wait for Cirno to die and hope someone lives
+	* **Phase 2 - Iku Attack**
+		* Swap in Aya and lock the boss with Dance of Cochlea
+		* Swap in Rin on survivor's turn
+		* Swap in Marisa, then Iku
+		* Aya spams Dance of Cochlea
+			* Concentrate when boss ATB < 6500
+			* Can also swap Chen in if MP is fine for Herb of Awakening
+		* Rin manages everyone's MP
+		* Marisa buffs Iku
+		* Iku spams regular attack
 	* For finer details see High Mirror's [Boss Info](../../enemy/highmirror.md)
 * Go back to Gensokyo to heal after the fight
 
@@ -1976,30 +1970,31 @@
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
 * Open the menu and take the following actions:
-	* Form Change: **Cirno / Kasen / Chen / Satori**
+	* Form Change: **Cirno / Kasen / Reimu / Satori**
 * Enter the dungeon (20F East)
+<hr>
 * **Boss Fight - Magatama of the High God (Lv88)**
-	* **If Aya, Rin, Sanae or Iku die, reset**
-	* Wait for Cirno to die, hope someone survives
-	* When Cirno dies, begin Aya Diva loop:
-		* Dance Cochra and Concentrate
-	* Rin switches in on slot 2 and focuses on MP maintenance
-		* Magic Circuit everyone
-		* Use Magic Transfer if Aya too low
-	* Reisen comes in only to debuff Mirror MND
-	* Sanae buffs Iku, can buff Aya in a pinch
-	* Iku spams regular attack
+	* **Phase 1 - Diva Setup**
+		* Wait for Cirno to die and hope someone lives
+		* Swap in Aya, Rin, Marisa, Iku in order
+	* **Phase 2 - Iku Attack**
+		* Aya spams Dance of Cochlea
+			* Concentrate when boss ATB < 7000
+			* Can also swap Chen in if MP is fine for Herb of Awakening
+		* Rin manages everyone's MP
+		* Marisa buffs Iku
+		* Iku spams regular attack
 	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
 * Go back to Gensokyo to heal after the fight
 
 ## <a id="Header-7-5"></a>Explore 20F Depths
 
 * When you're back on Gensokyo, open the menu and take the following actions:
-	* Form Change: **Aya / Kasen / Chen / Yuyuko**
+	* Form Change: **Aya / Kasen / Reimu / Satori**
 * Enter the dungeon (19F)
 * Break the seals up north and go into 20F Depths
 
-![](https://i.imgur.com/qLZlnUZ.png)
+![](img/20-03-final.png)
 
 * When you reach the destination, go back to Gensokyo
 
@@ -2009,21 +2004,21 @@
 	* **Human Village**:
 		* Swap **Rin -> Kourin**
 		* Swap **Reisen -> Parsee**
-		* Swap **Yuyuko -> Yuuka**
+		* Swap **Marisa -> Yuuka**
 		* Unequip non-party
 	* **Magic Library**:
-		* **Reincarnate Nitori, Aya, Rin, Reisen, Sanae, Iku**
+		* **Reset Marisa / Suwako**
+		* **Reincarnate Aya / Rin / Reisen / Sanae / Iku**
 		* **Kourin** learns **Guardian** subclass
 		* **Nitori** learns **Guardian** subclass
-		* **Parsee** learns **Warrior** subclass
+		* **Parsee** learns **Gambler** subclass
 		* **Aya** learns **Strategist** subclass
 		* **Satori** learns **Guardian** subclass
 		* **Sanae** learns **Enchanter** subclass
 		* **Yuuka** learns **Guardian** subclass
 		* **Kourin**: HP/DEF/SPD Lv0 -> Lv100
 		* **Nitori**: HP/DEF/SPD Lv0 -> Lv100
-		* **Parsee**: ATK Lv0 -> Lv100
-		* **Satori**: HP Lv50 -> Lv100 / DEF Lv0 -> Lv100
+		* **Satori**: HP/DEF/SPD Lv0 -> Lv100
 		* **Yuuka**: HP/SPD Lv50 -> Lv100 / DEF Lv0 -> Lv100
 	* **Hakurei shrine**: Level All Characters, apply bonus
 		* Reimu - HP
@@ -2038,6 +2033,9 @@
 		* Sanae - MAG
 		* Iku - SPD
 		* Yuuka - HP
+		* Use **Training Manual x2** on **Satori**
+		* Use **Training Manual x15** on **Parsee**
+		* Use remaining **Training Manual** on **Yuuka**
 		* Use **HP Gems** on **Nitori / Kourin**
 		* Use **MP Gems** on **Satori / Yuuka**
 		* Use **TP Gems** on **Chen**
@@ -2048,50 +2046,53 @@
 * Open the menu and take the following actions:
 	* Form Change: **Aya / Kourin / Yuuka / Parsee**
 	* Equipment:
+		* **Nitori** equips **First-Aid Kit** / **Grand Master Breaker** / **Divine Barrier** / **Intama**
 		* **Kourin** equips **Choice Scarf** / **Megasphere x2** / **Intama**
 		* **Yuuka** equips **Energy Pack** / **Intama**
-		* **Parsee** equips **Youkai Medal Axe** / **Holy Sword Centurio** / **Glaive of Pain** / **Cinderforge Sword** (if dropped by Magatama, else Glaive)
-		* **Chen** equips **Micron Magic Book** / **The Arch x2** / **Century End Jacket**
-		* **Nitori** equips **First-Aid Kit** / **Grand Master Breaker** / **Divine Barrier** / **Intama**
+		* **Parsee** equips **Holy Sword Centurio** / **Cinderforge Sword x2** (if no Sword, Glaive)
 		* **Satori** equips **Energy Pack** / **Button of Aegies** / **Intama**
-		* **Iku** equips **Excorising Staff** / **Wash Basin Set x3**
+		* **Chen** equips **Micron Magic Book** / **The Arch x2** / **Century End Jacket**
+		* **Iku** equips **Wash Basin Set x3**
 	* Learn Skills:
 		* **Aya**: HP/EVA Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Inspiration Plan Lv0 -> Lv1
 		* **Kourin**: DEF Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Initiative Lv0 -> Lv1
-		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / Mind and Body Lv0 -> Lv2
-		* **Kasen**: HP Boost Lv0 -> Lv5 / Guts Lv0 -> Lv2 / Fighting Spirit Lv0 -> Lv2
-		* **Nitori**: DEF/AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / Initiative Lv0 -> Lv1
-		* **Iku**: Supple Hagoromo Lv0 -> Lv2 / Elekiter Dragon Palace Lv1 -> Lv5 / Thundercloud Stickleback Lv1 -> Lv5
+		* **Yuuka**: Gensokyo's Eternal Flower Lv0 -> Lv1 (Majesty if not enough)
+		* **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / High Stakes Lv0 -> Lv2 / All or Nothing Lv0 -> Lv2
+		* **Nitori**: DEF/AFF Boost Lv0 -> Lv5 / Frontline Guard Lv0 -> Lv1 / Initiative Lv0 -> Lv1
 		* **Sanae**: MAG Boost Lv0 -> Lv5 / Last Wish Lv0 -> Lv2 / Miracle Fruit Lv1 -> Lv5 / Enhanced Buffs Lv0 -> Lv2
+		* **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Trauma Recollection Lv0 -> Lv2 / Spellcard Recollection Lv0 -> Lv5
+		* **Chen**: EVA Boost Lv0 -> Lv5
+		* **Iku**: Supple Hagoromo Lv0 -> Lv2 / Elekiter Dragon Palace Lv1 -> Lv5 / Thundercloud Stickleback Lv1 -> Lv5
+		* **Kasen**: HP Boost Lv0 -> Lv5 / Fighting Spirit Lv0 -> Lv2
 * Visit the following facilities to finish:
 	* **Nitori Shop**: Sell everything
 	* **Magic Library**:
-		* **Parsee**: ATK Lv100 -> LvINF
+		* **Parsee**: Spend all money on ATK
 * Enter the dungeon (20F Depths)
-GAMBLER
+<hr>
 * **Boss Fight - Ame-no-Murakumo (Lv100)**
-	* **If Nitori or Kourin die early, or no TRR proc, reset**
-	* PHASE 1: TRR proc and snowball
+	* **Phase 1 - TRR proc**
 		* Sarutahiko Parsee, Yuuka
 		* Anathema must TRR
 		* If Aya alive, switch self for Cirno
 		* Kourin swap Parsee with Satori
 		* Swap Cirno whenever possible
 		* Let Cirno die then swap in Nitori
-	* PHASE 2: The buildup
+	* **Phase 2 - Beauty of Nature**
 		* Yuuka and Satori do BoN spam
 		* Nitori swaps Yuuka with Chen into Yuuka
 		* Kourin swaps Satori with Sanae and back
 		* Can sacrifice Reimu for heal
 		* Can sacrifice Kasen for Guts
 		* Can sacrifice Aya if alive
-	* PHASE 3: The buffing and murder
-		* Need 1m TRR @9k ATK and 76% buff / 50% dbf w/TRecollection
-		* Whenever Nitori or Kourin die
+	* **Phase 3 - Jealousy**
+		* TRR reaches 1.0-1.25 million
+			* 1.0 million @ Trauma, Herb, +50%, -40%
+			* 1.25 million @ Herb, +50%, -40%
 		* Put Parsee in slot 4 and get Sanae to buff her
 			* Sacrificing Sanae is a good option
-		* Iku must try to debuff boss
-			* She can also buff Parsee, but risks PAR
+		* Iku MUST debuff boss
+			* She can also buff Parsee, in an emergency
 		* Whenever you're ready sacrifice Yuuka
 		* Make sure Satori is out when Parsee JotKaL
 	* For finer details see Ame-no-Murakumo's [Boss Info](../../enemy/murakumo.md)
