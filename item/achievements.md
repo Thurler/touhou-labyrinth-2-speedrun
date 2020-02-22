@@ -43,7 +43,7 @@ These go against the speedrun, since ideally we want as few of these as possible
 * 015 - Collect 30 Main Equips (Wisdom Gem)
 * 016 - Collect 40 Main Equips (Fighting Gem)
 * P04 - Collect 54 Main Equips (Infinity Gem x2)
-* O05 - Collect 60 Main Equips (Orihalcum)
+* P05 - Collect 60 Main Equips (Orihalcum)
 
 These happen naturally as you collect treasures and drops. Only the first reward is good, so there's no need to go out of our way for these. The Plus Disk rewards are really good, but it will take a while to get them.
 
