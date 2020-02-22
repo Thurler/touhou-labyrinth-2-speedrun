@@ -290,7 +290,7 @@ Really bad rewards for something that will happen anyway for the super long cate
 
 All of these happen naturally as you're doing the plus postgame stuff. Really good rewards.
 
-## <a id="neglected-list"></a>Route Checklist]
+## <a id="neglected-list"></a>Route Checklist
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
