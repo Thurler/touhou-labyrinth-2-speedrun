@@ -348,3 +348,5 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 70 | 20F | Sell before boss |
 | 71 | 20F | Sell before boss |
 | 72 | 20F | Sell before boss |
+
+[Back to index page](../index.md)
