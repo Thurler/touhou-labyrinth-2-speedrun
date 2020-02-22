@@ -542,7 +542,7 @@
 	* Equipment:
 		* **Kasen** equips **Getitup V** over Bludgeon
 		* **Nitori** equips **Blade Cuisinart** over Biggest Sword Ever
-		* **Aya** equips **Pale Wing Thruster** (over Booster if needed)
+		* **Aya** equips **Pale Wing Thruster** (over Booster if 2 Bone Stakes)
 		* **Chen** equips **Biggest Sword Ever** / **Bone Stake** over Power Bracer
 	* Learn Skills:
 		* **Komachi**: Ferry Wages Lv8 -> Lv10
@@ -754,7 +754,7 @@
 	* Equipment:
 		* **Nitori** equips **Source of Magic** over Cypress Stick
 		* **Parsee** equips **First-Aid Kit** / **Hero's Medal** / **Card Ruler of Heavens** over Shoes of Happiness / Crepe Mariette
-		* **Reimu** equips **Pride** over Crepe Mariette
+		* **Reimu** equips **Pride** over Crepe Mariette (or Symbol of Faith)
 		* **Aya** equips **Cypress Stick** / **Ultrafast Keystone** over Shoes of Happiness / Power Bracer (or Booster v0.8)
 		* **Sanae** equips **Cypress Stick** / **Lambda Driver** / **Big Bang Woganizer** / **Symbol of Faith**
 		* **Keine** equips **Source of Magic** / **Piece of Heart** / **Crepe Mariette x2**
@@ -1085,7 +1085,6 @@
 	* Equipment:
 		* **Aya** equips **Shoes of Happiness** over Source of Magic
 		* **Nitori** equips **Purple Orb / Getitup V** over First Aid Kit / Button Aegis
-		* **Rumia** equips **Grand Dragon Medal**
 	* Learn Skills:
 		* **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv10 / Short Life Expectancy Lv1 -> Lv3
 		* **Aya**: HP Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2
@@ -1337,7 +1336,7 @@
 	* Form Change: **Nitori / Aya / Sanae / Parsee**
 	* Equipment:
 		* **Kasen** equips **War Mask of the Butcher** over Olzhas Shamshir
-		* **Nitori** equips **First-Aid Kit / Olzhas Shamshir x2** over Purple Orb / Blue Saber / Getitup V
+		* **Nitori** equips **First-Aid Kit / Olzhas Shamshir x2** over Purple Orb / Glaive of Pain / Getitup V
 		* **Parsee** equips **Strange Meat Pie / Cinderforge Sword / Pride** over Growth Egg / Biggest Sword Ever / Diva Apron (Glaive of Pain if no Sword)
 	* Learn Skills:
 		* **Nitori**: MND Boost Lv0 -> Lv5 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1
@@ -1390,7 +1389,7 @@
 * Open the menu and take the following actions:
 	* Form Change: **Komachi / Aya / Nitori / Iku**
 	* Equipment:
-		* **Nitori** equips **Master's Emblem / Blue Saber / Getitup V ** over First-Aid Kit / Olzhas Shamshir x2
+		* **Nitori** equips **Master's Emblem / Glaive of Pain / Getitup V** over First-Aid Kit / Olzhas Shamshir x2
 	* Learn Skills:
 		* **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv2
 * Level reference: Nitori 46
@@ -1406,6 +1405,9 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* **Hakurei shrine**: Level All Characters
+* Open the menu and take the following actions:
+	* Equipment:
+		* **Nitori** equips **Blue Saber** over Glaive of Pain
 * Level reference: Nitori 48
 * Enter the dungeon (14F center west)
 
@@ -1554,7 +1556,7 @@
 ## <a id="Header-5-9"></a>Silver Mail Fight
 
 * Open the menu and take the following actions:
-	* Form Change: **Rin / Nitori / Chen / Keine**
+	* Form Change: **Rin / Nitori / Chen / Kasen**
 * Enter the dungeon (10F) and go west to fight FOE
 * **FOE Boss Fight - Silver Mail (Lv36)**
 	* Rin spams Cat's Walk
@@ -1565,8 +1567,6 @@
 * When you're done, take the treasure and go back to Gensokyo
 
 ## <a id="Header-5-10"></a>Yuyuko Fight
-
-10 * X + 2.5 * X = 394400 + 2.5 * X
 
 * Open the menu and take the following actions:
 	* **Unequip Kourin**
@@ -1737,8 +1737,8 @@
 	* **Parsee** unequips Cinderforge Sword if she has it
 * When you're back on Gensokyo, use these facilities:
 	* **Magic Library**:
-		* **Reset Kourin / Nitori / Satori / Iku**
-		* **Reincarnate Parsee / Yuuka**
+		* **Reset Kourin / Nitori / Satori / Iku / Yuuka**
+		* **Reincarnate Parsee**
 		* **Kourin** learns **Diva** subclass
 		* **Cirno** learns **Guardian** subclass
 		* **Nitori** learns **Warrior** subclass
