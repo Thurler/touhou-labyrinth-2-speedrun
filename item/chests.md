@@ -538,10 +538,10 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Tome of Reincarnation | X |
 | Training Manual | X |
 | Treasure Chest Key | X |
-| Wash Basin Set | O |
+| Wash Basin Set | X |
 | Wisdom Gem | X |
-| Floor Total | 6 |
-| Combined Total | 258 |
+| Floor Total | 5 |
+| Combined Total | 257 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -580,6 +580,7 @@ Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training
 | Ribbon x2 | 15F/19F | Needs 88 crafts |
 | Violent Green Rupee x1 | 19F | Useless, out of way |
 | Scouter x1 | 20F | Useless, out of way |
+| Wash Basin Set x1 | 20F | Useless, out of way |
 | **Sub Equip** | - | - |
 | Poison Resistance Ring x1 | 2F | Useless, out of way |
 | Nitroglycerin x3 | 3F/4F/7F | Useless, out of way |
