@@ -81,7 +81,7 @@
 		* **Kourin**: Shopkeeper Lv0 -> Lv3
 * Enter the dungeon (1F)
 
-![](img/01-01-firstwalk.png)
+![](img/murakumo/01-01-firstwalk.png)
 
 * Right after you open the locked treasure chest, do this menu:
 	* **Keine** equips **Piece of Heart** / **Purple Metallic Armor**
@@ -105,7 +105,7 @@
 * Level reference: Reimu 2
 * Enter the dungeon (1F)
 
-![](img/01-02-cirnochen.png)
+![](img/murakumo/01-02-cirnochen.png)
 
 * **Boss Fight - Chen Encounter (Lv4)**
 	* Momiji spams Expellee's Canaan
@@ -164,7 +164,7 @@
 * Level reference: Reimu 4
 * Enter the dungeon (1F)
 
-![](img/01-03-rumiacirno.png)
+![](img/murakumo/01-03-rumiacirno.png)
 
 * When you reach the destination, farm until wipe
 
@@ -212,7 +212,7 @@
 * Level reference: Reimu 6
 * Enter the dungeon (2F)
 
-![](img/02-01-upperpart.png)
+![](img/murakumo/02-01-upperpart.png)
 
 * When you reach 3F, take the relay point and farm on rare spot until wipe
 * When you're done grinding, go back to Gensokyo
@@ -235,7 +235,7 @@
 * Level reference: Reimu 7
 * Enter the dungeon (3F)
 
-![](img/03-01-switchoff.png)
+![](img/murakumo/03-01-switchoff.png)
 
 * **Boss Fight - Chen Encounter (Lv6)**
 	* Just beat it with what you have
@@ -253,7 +253,7 @@
 * Level reference: Reimu 9
 * Enter the dungeon (3F)
 
-![](img/03-02-switchon.png)
+![](img/murakumo/03-02-switchon.png)
 
 * **Boss Fight - Chen Encounter (Lv10)**
 	* Just beat it with what you have
@@ -274,7 +274,7 @@
 * Level reference: Reimu 10
 * Enter the dungeon (3F)
 
-![](img/03-03-komachi.png)
+![](img/murakumo/03-03-komachi.png)
 
 * When you reach the relay point, farm 60 battles in 1F
 * Prolong grind if you don't have materials for 10 total crafts
@@ -365,7 +365,7 @@
 * Level reference: Nitori 11
 * Enter the dungeon (4F)
 
-![](img/04-01-explore.png)
+![](img/murakumo/04-01-explore.png)
 
 * After getting the 2 treasures on northwest, do red outline path
 * After reaching 5F, do the blue outline path
@@ -391,7 +391,7 @@
 * Level reference: Nitori 13
 * Enter the dungeon (5F)
 
-![](img/05-01-explore.png)
+![](img/murakumo/05-01-explore.png)
 
 * When you reach the warp, go back to Gensokyo
 * When you reach the destination, farm as much as you can
@@ -526,7 +526,7 @@
 * Level reference: Nitori 17
 * Enter the dungeon (6F)
 
-![](img/06-01-relay.png)
+![](img/murakumo/06-01-relay.png)
 
 * When you reach the destination, backtrack to 5F part with FOE and farm
 * Go back to Gensokyo after farming and visit the facilities:
@@ -556,7 +556,7 @@
 * Level reference: Nitori 20
 * Enter the dungeon (6F Center)
 
-![](img/06-02-tenshi.png)
+![](img/murakumo/06-02-tenshi.png)
 
 * When you reach the destination, simply go back to Gensokyo
 
@@ -672,7 +672,7 @@
 
 * When you're back, enter the dungeon (7F)
 
-![](img/07-01-east.png)
+![](img/murakumo/07-01-east.png)
 
 * When you reach the destination, farm until wipe
 * Go back to Gensokyo and use this facility
@@ -693,7 +693,7 @@
 * Level reference: Nitori 22
 * Enter the dungeon (7F)
 
-![](img/07-02-west.png)
+![](img/murakumo/07-02-west.png)
 
 * When you reach the destination, farm until wipe
 
@@ -721,7 +721,7 @@
 * Level reference: Nitori 24
 * Enter the dungeon (8F)
 
-![](img/08-01-preiku.png)
+![](img/murakumo/08-01-preiku.png)
 
 * When you recruit Sanae, farm until wipe
 
@@ -821,7 +821,7 @@
 * Level reference: Nitori 26
 * Enter the dungeon (8F South)
 
-![](img/08-02-postiku.png)
+![](img/murakumo/08-02-postiku.png)
 
 * When you reach 9F, get the locked chest and farm until wipe
 
@@ -844,11 +844,11 @@
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
-![](img/09-01-west-none.png)
+![](img/murakumo/09-01-west-none.png)
 
 * Re-enter the dungeon after you reach the northwest treasure
 
-![](img/09-02-west-switch.png)
+![](img/murakumo/09-02-west-switch.png)
 
 * Follow the green paths after pressing the switch
 * When you reach the destination event go back to Gensokyo
@@ -863,7 +863,7 @@
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
 
-![](img/09-03-east.png)
+![](img/murakumo/09-03-east.png)
 
 * When you reach the destination farm until wipe
 
@@ -968,7 +968,7 @@
 * Level reference: Nitori 30
 * Enter the dungeon (10F)
 
-![](img/10-01-north.png)
+![](img/murakumo/10-01-north.png)
 
 * After getting last treasure, farm until wipe
 * When you're back at Gensokyo, use these facilities:
@@ -987,7 +987,7 @@
 * Level reference: Nitori 31
 * Enter the dungeon (10F)
 
-![](img/10-02-south.png)
+![](img/murakumo/10-02-south.png)
 
 * When you reach the destination, farm until wipe
 
@@ -1094,7 +1094,7 @@
 * Level reference: Nitori 33
 * Enter the dungeon (11F)
 
-![](img/11-01-west.png)
+![](img/murakumo/11-01-west.png)
 
 * When you reach the destination, farm until Nitori wipe
 * When you're back at Gensokyo, use these facilities:
@@ -1109,7 +1109,7 @@
 * Level reference: Nitori 35
 * Enter the dungeon (11F)
 
-![](img/11-02-southeast.png)
+![](img/murakumo/11-02-southeast.png)
 
 * When you reach the destination, farm until Nitori wipe
 * When you're back at Gensokyo, use these facilities:
@@ -1120,7 +1120,7 @@
 * Level reference: Nitori 36
 * Enter the dungeon (11F)
 
-![](img/11-03-northeast.png)
+![](img/murakumo/11-03-northeast.png)
 
 * When you reach the last treasure, re-enter the dungeon and follow red path
 * When you reach the 12F relay circle, farm until Nitori wipe on 11F
@@ -1137,7 +1137,7 @@
 * Level reference: Nitori 38
 * Enter the dungeon (12F)
 
-![](img/12-01-west.png)
+![](img/murakumo/12-01-west.png)
 
 * Once you get to the relay point, farm until Nitori wipe
 * When you're back at Gensokyo, use these facilities:
@@ -1150,7 +1150,7 @@
 * Level reference: Nitori 39
 * Enter the dungeon (12F)
 
-![](img/12-02-east.png)
+![](img/murakumo/12-02-east.png)
 
 * Once you get to the relay point, go back to Gensokyo
 
@@ -1216,7 +1216,7 @@
 * Level reference: Nitori 40
 * Enter the dungeon (12F)
 
-![](img/12-03-south.png)
+![](img/murakumo/12-03-south.png)
 
 * Once you've reached the relay point, go back to Gensokyo
 * When you're back on Gensokyo, use these facilities:
@@ -1296,7 +1296,7 @@
 * Level reference: Nitori 41
 * Enter the dungeon (13F)
 
-![](img/13-01-east.png)
+![](img/murakumo/13-01-east.png)
 
 * When you reach the -4 orb, re-enter the dungeon
 * When you reach the 14F relay circle, farm until Nitori wipe on 13F
@@ -1313,7 +1313,7 @@
 * Level reference: Nitori 44
 * Enter the dungeon (14F center east)
 
-![](img/14-01-east.png)
+![](img/murakumo/14-01-east.png)
 
 * When you reach the closed area in 13F, farm until Nitori wipe
 
@@ -1395,7 +1395,7 @@
 * Level reference: Nitori 46
 * Enter the dungeon (13F) and reset the temperature
 
-![](img/13-02-west.png)
+![](img/murakumo/13-02-west.png)
 
 * After getting the 14F relay, leave and re-enter the dungeon on (13F)
 * Reset the temperature, leave and re-enter the dungeon on (14F center west)
@@ -1411,7 +1411,7 @@
 * Level reference: Nitori 48
 * Enter the dungeon (14F center west)
 
-![](img/14-02-west.png)
+![](img/murakumo/14-02-west.png)
 
 * When you reach the 15F relay, farm until Nitori wipe
 
@@ -1419,23 +1419,23 @@
 
 * When you're back, enter the dungeon (15F)
 
-![](img/15-01-yuyuko.png)
+![](img/murakumo/15-01-yuyuko.png)
 
 * When you are back on 15F, leave and re-enter from (14F center west)
 * After getting the two treasures, farm until Nitori wipe
 * When you're back, enter the dungeon (15F)
 
-![](img/15-02-giant.png)
+![](img/murakumo/15-02-giant.png)
 
 * After getting the treasure in 13F, farm until Nitori wipe
 * When you're back, enter the dungeon (15F Center)
 
-![](img/15-03-dragon.png)
+![](img/murakumo/15-03-dragon.png)
 
 * After fleeing from FOE, farm until Nitori wipe
 * When you're back, enter the dungeon (15F)
 
-![](img/15-04-final.png)
+![](img/murakumo/15-04-final.png)
 
 * After getting last treasure, return to Gensokyo
 
@@ -1485,7 +1485,7 @@
 * Level reference: Nitori 50
 * Do the Yuuka events (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
-![](img/15-05-yuuka.png)
+![](img/murakumo/15-05-yuuka.png)
 
 * When you're done with all events, go back to Gensokyo
 * If Nitori isn't around Lv50, farm on 15F
@@ -1661,7 +1661,7 @@
 		* **Sanae**: Enhanced Buffing Lv1 -> Lv2
 * Enter the dungeon (15F)
 
-![](img/15-06-yukari.png)
+![](img/murakumo/15-06-yukari.png)
 
 * When you get to the relay point, re-enter the dungeon and fight Yukari
 * **Boss Fight - Yukari Yakumo (Lv66)**
@@ -1704,7 +1704,7 @@
 * Enter the dungeon (16F)
 * From this point on, use Aya + Instant Attack to flee
 
-![](img/16-01-firstloop.png)
+![](img/murakumo/16-01-firstloop.png)
 
 * When you reach the Glaive of Pain, leave to Gensokyo
 * Once you're back in Gensokyo, use these facilities:
@@ -1718,7 +1718,7 @@
 		* **Aya**: Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Silent Melody Lv0 -> Lv3 / Melody Fortune Lv0 -> Lv1 / Dance Cochlea Lv0 -> Lv5
 * Enter the dungeon (16F)
 
-![](img/16-02-secondloop.png)
+![](img/murakumo/16-02-secondloop.png)
 
 * When you reach the 17F relay point, go back to Gensokyo
 
@@ -1727,7 +1727,7 @@
 * Enter the dungeon (17F)
 * Leave after getting the treasures on northwest and southwest ends
 
-![](img/17-01-goddess.png)
+![](img/murakumo/17-01-goddess.png)
 
 * When you fall down to 16F, get the relay point and go back to Gensokyo
 
@@ -1805,7 +1805,7 @@
 		* **Aya** unequips Jogurt Doll
 * Enter the dungeon (17F)
 
-![](img/17-02-final.png)
+![](img/murakumo/17-02-final.png)
 
 * When you reach the 18F relay point, go back to Gensokyo
 
@@ -1813,7 +1813,7 @@
 
 * Enter the dungeon (18F)
 
-![](img/18-01-orbs.png)
+![](img/murakumo/18-01-orbs.png)
 
 * When you get the relay point, go back to Gensokyo
 
@@ -1883,11 +1883,11 @@
 		* **Aya** unequips Jogurt Doll
 * Enter the dungeon (19F)
 
-![](img/19-01-north.png)
+![](img/murakumo/19-01-north.png)
 
 * When you deactivate the green orb, go back to Gensokyo and re-enter
 
-![](img/20-01-west.png)
+![](img/murakumo/20-01-west.png)
 
 * When you reach the destination on 20F, go back to Gensokyo
 
@@ -1895,11 +1895,11 @@
 
 * Enter the dungeon (19F)
 
-![](img/19-02-south.png)
+![](img/murakumo/19-02-south.png)
 
 * When you reach the second green orb, go back and re-enter dungeon
 
-![](img/20-02-east.png)
+![](img/murakumo/20-02-east.png)
 
 * When you reach the destination on 20F, go back to Gensokyo
 
@@ -1994,7 +1994,7 @@
 * Enter the dungeon (19F)
 * Break the seals up north and go into 20F Depths
 
-![](img/20-03-final.png)
+![](img/murakumo/20-03-final.png)
 
 * When you reach the destination, go back to Gensokyo
 
