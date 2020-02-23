@@ -88,7 +88,7 @@ Vital for playing the game and specially postgame, since you don't want to be bo
 * 033 - Defeat 30 FOEs (Tokyo Metronome)
 * 034 - Defeat 60 FOEs (80000 Money)
 
-The rewards are really good, but grinding FOEs is very time consuming, so this is only really grinded for categories that need Yuugi, and furhter need the money for the really long categories.
+The rewards are really good, but grinding FOEs is very time consuming, so this is only really grinded for categories that need Yuugi, and further need the money for the really long categories.
 
 * 035 - Defeat 4 Unique FOEs (Fighting Gem)
 * 036 - Defeat 8 Unique FOEs (Protection Gem)
