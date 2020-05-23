@@ -28,6 +28,34 @@ ul {
   margin-bottom: 0px;
 }
 
+.form-change, .nitori-shop {
+  color: #339933;
+}
+
+.equip-remove, .hakurei-item {
+  color: #AA3333;
+}
+
+.subclass-add, .magic-reset, .magic-reincarnate {
+  color: #770077;
+}
+
+.equip-add, .hakurei-shrine {
+  color: #DD4A4A;
+}
+
+.magic-library {
+  color: #AA55AA;
+}
+
+.human-village {
+  color: #777700;
+}
+
+.learn-skill {
+  color: #496CE2;
+}
+
 @media only screen and (min-width: 960px) {
   #runs-table+table {
    width:150%;
