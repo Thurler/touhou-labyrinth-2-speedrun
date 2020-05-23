@@ -136,7 +136,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training Manual x2 | O |
+| Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training Manual x2 | O |
 | Biggest Sword Ever | O |
 | Concept of Everything x2 | X |
 | Eternal Ice x2 | X |
