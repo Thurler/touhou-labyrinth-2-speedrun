@@ -1250,25 +1250,20 @@
 * Once you've reached the relay point, go back to Gensokyo
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Change Nitori bonus to HP </span>
 		* <span class="hakurei-shrine"> Reimu, Marisa, Minoriko </span>
-		* <span class="hakurei-shrine"> Komachi, Nitori(HP), Aya </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori, Aya </span>
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Nitori/Iku** </span>
+		* <span class="magic-reset"> **Reset Iku** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
-		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
-	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **First-Aid Kit / Intama** over Purple Orb / Getitup V </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Sanae**: Last Wish Lv0 -> Lv2 </span>
 		* <span class="learn-skill"> **Reisen**: SPD Boost Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Nitori**: DEF Boost Lv0 -> Lv4 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 </span>
 		* <span class="learn-skill"> **Marisa**: MP Boost Lv0 -> Lv5 / Magic Training Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv1 / Art of the Battlemage Lv0 -> Lv5 </span>
 		* <span class="learn-skill"> **Iku**: Hagoromo Sky Lv0 -> Lv2 / Magic Beating Lv0 -> Lv2 / Enhanced Attack Lv0 -> Lv1 / Mind Body Lv0 -> Lv2 </span>
 		* <span class="learn-skill"> **Komachi**: HP Boost Lv3 -> Lv5 </span>
@@ -1307,21 +1302,17 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Change Nitori bonus to ATK </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Nitori / Iku** </span>
-		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
+		* <span class="magic-reset"> **Reset Iku** </span>
 		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Marisa -> Rumia** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **Purple Orb / Getitup V** over First-Aid Kit / Intama </span>
 		* <span class="equip-add"> **Nitori** equips **Cinderforge Sword** over Glaive of Pain (if killed Murakumo) </span>
 		* <span class="equip-add"> **Reimu** equips **Star of Elendil** over Lambda Driver (if Tenshi dropped) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv1 </span>
 		* <span class="learn-skill"> **Iku**: Hagoromo Sky Lv0 -> Lv2 / Lightning Fish Lv0 -> Lv2 / Area Attack Lv0 -> Lv1 </span>
 * Level reference: Nitori 41
 * Enter the dungeon (13F)
