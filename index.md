@@ -179,6 +179,7 @@ This section talks about speedrun data and information. If you want game-specifi
 
 #### Final Stratum Enemies
 * [Random Encounters](enemy/trash7.md)
+* [Random Encounters (Depths)](enemy/trash8.md)
 * [Mirror of the High God](enemy/highmirror.md)
 * [Magatama of the High God](enemy/highmagatama.md)
 * [Ame-no-Murakumo](enemy/murakumo.md)
