@@ -78,15 +78,20 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Kourin / Keine / Reimu / Marisa** </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kourin**: Shopkeeper Lv0 -> Lv3 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 0 -> 3 </span>
 * Enter the dungeon (1F)
 
 ![](img/murakumo/01-01-firstwalk.png)
 
 * Right after you open the locked treasure chest, do this menu:
-	* <span class="equip-add"> **Keine** equips **Piece of Heart** / **Purple Metallic Armor** </span>
-	* <span class="equip-add"> **Reimu** equips **Biggest Sword Ever** / **Symbol of Faith** </span>
-	* <span class="equip-add"> **Marisa** equips **Mana Flower** </span>
+	* <span class="equip-add"> **Keine**:</span>
+		* <span class="equip-add"> (1) **Piece of Heart** (1)</span>
+		* <span class="equip-add"> (2) **Purple Metallic Armor** (1)</span>
+	* <span class="equip-add"> **Reimu**:</span>
+		* <span class="equip-add"> (2) **Biggest Sword Ever** (1)</span>
+		* <span class="equip-add"> (1) **Symbol of Faith** (1)</span>
+	* <span class="equip-add"> **Marisa**:</span>
+		* <span class="equip-add"> (1) **Mana Flower** (1)</span>
 * Once you reach the destination on second map, farm until wipe
 <hr>
 
@@ -96,13 +101,19 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Keine / Reimu / Marisa** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Keine** unequips **Purple Metallic Armor** / **Piece of Heart** </span>
-		* <span class="equip-add"> **Momiji** equips **Purple Metallic Armor** / **Piece of Heart** / **Power Bracer** </span>
-		* <span class="equip-add"> **Marisa** equips **Cypress Stick** / **Cantrip Book** </span>
+		* <span class="equip-remove"> **Keine**:</span>
+			* <span class="equip-remove"> (1, 2) **Remove**</span>
+		* <span class="equip-add"> **Momiji**:</span>
+			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
+			* <span class="equip-add"> (3) **Power Bracer** (1)</span>
+			* <span class="equip-add"> (1) **Purple Metallic Armor** (1)</span>
+		* <span class="equip-add"> **Marisa**:</span>
+			* <span class="equip-add"> (2) **Cantrip Book** (1)</span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Keine**: MP Boost Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Marisa**: MP Boost Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Kourin**: Shopkeeper Lv3 -> Lv4 </span>
+		* <span class="learn-skill"> **Keine**: MP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Marisa**: MP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 3 -> 4 </span>
 * Level reference: Reimu 2
 * Enter the dungeon (1F)
 
@@ -128,11 +139,15 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Keine / Reimu** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Reimu** unequips **Biggest Sword Ever** </span>
-		* <span class="equip-add"> **Kasen** equips **Biggest Sword Ever** / **Bulletproof Armor** / **Bludgeon** </span>
+		* <span class="equip-remove"> **Reimu**:</span>
+			* <span class="equip-remove"> (2) **Remove**</span>
+		* <span class="equip-add"> **Kasen**:</span>
+			* <span class="equip-add"> (2) **Biggest Sword Ever** (1)</span>
+			* <span class="equip-add"> (3) **Bulletproof Armor** (1)</span>
+			* <span class="equip-add"> (1) **Bludgeon** (3)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Reimu**: Yin-Yang Orb Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Kourin**: Shopkeeper Lv4 -> Lv5 </span>
+		* <span class="learn-skill"> **Reimu**: Yin-Yang Orb 1 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 4 -> 5 </span>
 * Level reference: Reimu 3
 * Enter the dungeon (1F)
 <hr>
@@ -158,12 +173,13 @@
 	* <span class="nitori-shop"> **Nitori Shop**: Buy 2 Manga Meat </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Keine / Reimu / Marisa** </span>
-	* Equipment:
-		* <span class="equip-add"> **Reimu** equips **Uniform of Exorcism** (if you got the 25% drop) </span>
+	* Equipment (only if Youmu drop):
+		* <span class="equip-add"> **Reimu**:</span>
+			* <span class="equip-add"> (2) **Uniform of Exorcism** (3)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kourin**: Shopkeeper Lv5 -> Lv6 </span>
-		* <span class="learn-skill"> **Kasen**: Guts Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Youmu**: Netherworld Dweller Lv0 -> Lv1 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 5 -> 6 </span>
+		* <span class="learn-skill"> **Kasen**: Guts 0 -> 1 </span>
+		* <span class="learn-skill"> **Youmu**: Netherworld Dweller 0 -> 1 </span>
 * Level reference: Reimu 4
 * Enter the dungeon (1F)
 
@@ -182,11 +198,12 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Keine / Reimu** </span>
 	* Equipment:
-		* <span class="equip-add"> **Kasen** equips **Cypress Stick** </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kourin**: Shopkeeper Lv6 -> Lv7 </span>
-		* <span class="learn-skill"> **Rumia**: Piercing Attack Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Cirno**: Icicle Fall Lv1 -> Lv2 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 6 -> 7 </span>
+		* <span class="learn-skill"> **Rumia**: Piercing Attack 0 -> 1 </span>
+		* <span class="learn-skill"> **Cirno**: Icicle Fall 1 -> 2 </span>
 * Level reference: Reimu 6
 * Enter the dungeon (2F)
 <hr>
@@ -209,10 +226,13 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Reimu / Marisa** </span>
 	* Equipment:
-		* <span class="equip-add"> **Reimu** equips **DX Mechamonkey Model** / **Crepe Mariette** </span>
-		* <span class="equip-add"> **Marisa** equips **Crepe Mariette** </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (3) **DX Mechamonkey Model** (1)</span>
+			* <span class="equip-add"> (if no Exorcism) (2) **Crepe Mariette** (1)</span>
+		* <span class="equip-add"> **Marisa**: </span>
+			* <span class="equip-add"> (3) **Crepe Mariette** (1)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kourin**: Shopkeeper Lv7 -> Lv8 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 7 -> 8 </span>
 * Level reference: Reimu 6
 * Enter the dungeon (2F)
 
@@ -228,14 +248,18 @@
 	* <span class="nitori-shop"> **Nitori Shop**: Buy 1 Cypress Stick </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Momiji** equips **Cypress Stick** / **Sirloin** over Piece of Heart </span>
-		* <span class="equip-add"> **Kasen** equips **Bludgeon** over Bulletproof Armor </span>
-		* <span class="equip-add"> **Reimu** equips **Light Crystal** over Crepe Mariette </span>
+		* <span class="equip-add"> **Momiji**: </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
+			* <span class="equip-add"> (2) **Sirloin** (3)</span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (3) **Bludgeon** (3)</span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (if no Exorcism) (2) **Light Crystal** (3)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Momiji**: Accelerate Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Kourin**: Shopkeeper Lv8 -> Lv10 </span>
-		* <span class="learn-skill"> **Rumia**: Piercing Attack Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Cirno**: Icicle Fall Lv2 -> Lv3 </span>
+		* <span class="learn-skill"> **Momiji**: Accelerate 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 8 -> 10 </span>
+		* <span class="learn-skill"> **Rumia**: Piercing Attack 1 -> 2 </span>
+		* <span class="learn-skill"> **Cirno**: Icicle Fall 2 -> 3 </span>
 * Level reference: Reimu 7
 * Enter the dungeon (3F)
 
@@ -253,7 +277,8 @@
 	* <span class="human-village"> **Human Village**: Include Minoriko in party (slot 10) </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Marisa** equips **Glow Crystal** over Cantrip Book </span>
+		* <span class="equip-add"> **Marisa**: </span>
+			* <span class="equip-add"> (2) **Glow Crystal** (3)</span>
 * Level reference: Reimu 9
 * Enter the dungeon (3F)
 
@@ -291,33 +316,53 @@
 	* <span class="human-village"> **Human Village**: Include Nitori in party (slot 11) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin** </span>
-		* <span class="magic-library"> **Reimu**: HP/DEF/MND Lv0 -> Lv10 </span>
-		* <span class="magic-library"> **Momiji**: HP/DEF Lv0 -> Lv20 </span>
-		* <span class="magic-library"> **Nitori**: ATK Lv0 -> Lv40 </span>
-		* <span class="magic-library"> **Kasen**: HP/DEF/MND Lv0 -> Lv10 </span>
+		* <span class="magic-library"> **Reimu**: HP/DEF/MND 0 -> 10 </span>
+		* <span class="magic-library"> **Momiji**: HP/DEF 0 -> 20 </span>
+		* <span class="magic-library"> **Nitori**: ATK 0 -> 40 </span>
+		* <span class="magic-library"> **Kasen**: HP/DEF/MND 0 -> 10 </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonuses </span>
 		* <span class="hakurei-shrine"> Nitori ATK </span>
 		* <span class="hakurei-item"> Use **Training Manual x3** on **Nitori** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Keine / Reimu / Nitori** </span>
 	* Equipment:
-		* <span class="equip-add"> **Marisa** equips **Miko Board** over Cypress Stick </span>
-		* <span class="equip-add"> **Momiji** equips **Courtesan's Sorrow** over Power Bracer </span>
-		* <span class="equip-add"> **Keine** equips **Heater Muffler** / **Gokiri's Charm** / **Lucky Horseshoe** </span>
-		* <span class="equip-add"> **Reimu** equips **Cypress Stick** / **Super-Hard Rye Bread** over DX Mechamonkey Model </span>
-		* <span class="equip-add"> **Nitori** equips **Cypress Stick** / **Wash Basin Set** / **DX Mechamonkey Model** / **Power Bracer** </span>
-		* <span class="equip-add"> **Rumia** equips **Piche's Bauble x2** / **Crepe Mariette** </span>
-		* <span class="equip-add"> **Youmu** equips **Piece of Heart x2** / **Bulletproof Armor** </span>
-		* <span class="equip-add"> **Minoriko** equips **Mana Flower** / **Cantrip Book** / **Crepe Mariette** </span>
+		* <span class="equip-add"> **Marisa**: </span>
+			* <span class="equip-add"> (M) **Miko Board** (1)</span>
+		* <span class="equip-add"> **Momiji**: </span>
+			* <span class="equip-add"> (3) **Courtesan's Sorrow** (3)</span>
+		* <span class="equip-add"> **Keine**: </span>
+			* <span class="equip-add"> (3) **Heater Muffler** (2)</span>
+			* <span class="equip-add"> (2) **Gokiri's Charm** (2)</span>
+			* <span class="equip-add"> (1) **Lucky Horseshoe** (2)</span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3)</span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
+			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1)</span>
+			* <span class="equip-add"> (2) **Power Bracer** (1)</span>
+			* <span class="equip-add"> (3) **Wash Basin Set** (5)</span>
+		* <span class="equip-add"> **Rumia**: </span>
+			* <span class="equip-add"> (3) **Crepe Mariette** (1)</span>
+			* <span class="equip-add"> (2) **Piche's Bauble** (3)</span>
+			* <span class="equip-add"> (1) **Piche's Bauble** (3)</span>
+		* <span class="equip-add"> **Youmu**: </span>
+			* <span class="equip-add"> (1) **Bulletproof Armor** (1)</span>
+			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
+			* <span class="equip-add"> (3) **Piece of Heart** (1)</span>
+		* <span class="equip-add"> **Minoriko**: </span>
+			* <span class="equip-add"> (3) **Cantrip Book** (1)</span>
+			* <span class="equip-add"> (2) **Mana Flower** (1)</span>
+			* <span class="equip-add"> (1) **Crepe Mariette** (1)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Keine**: 3ST - Sword Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Reimu**: MP Boost Lv0 -> Lv1 / Armored Yin-Yang Orb Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Kourin**: Effective Formation Change Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Kasen**: Guts Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Youmu**: Netherworld Dweller Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Minoriko**: Rapid Charge Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Marisa**: MP Boost Lv2 -> Lv5 </span>
+		* <span class="learn-skill"> **Keine**: 3ST - Sword 1 -> 2 </span>
+		* <span class="learn-skill"> **Reimu**: Armored Yin-Yang Orb 0 -> 1 / MP Boost 0 -> 1 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Effective Formation Change 0 -> 2 </span>
+		* <span class="learn-skill"> **Kasen**: Guts 1 -> 2 </span>
+		* <span class="learn-skill"> **Youmu**: Netherworld Dweller 1 -> 2 </span>
+		* <span class="learn-skill"> **Minoriko**: Rapid Charge 0 -> 1 </span>
+		* <span class="learn-skill"> **Marisa**: MP Boost 2 -> 5 </span>
 * Level reference: Reimu 10
 * Enter the dungeon (3F Center)
 <hr>
