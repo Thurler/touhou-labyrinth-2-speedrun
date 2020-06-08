@@ -640,10 +640,8 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Blade Cuisinart** (3) </span>
 		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (if free slot) (3) **Bone Stake** (3) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (3) **Pale Wing Thruster** (2) </span>
-			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 8 -> 10 </span>
 		* <span class="learn-skill"> **Kasen**: Impact Attack 0 -> 1 </span>
@@ -668,8 +666,6 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Nitori / Parsee** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Chen**: </span>
-			* <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
@@ -759,17 +755,20 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 			* <span class="equip-remove"> (3) **Remove** </span>
+		* <span class="equip-remove"> **Aya**: </span>
+			* <span class="equip-remove"> (only if no Komachi drop) (3) **Remove** </span>
 		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (1) **Cantrip Book** (1) </span>
 			* <span class="equip-add"> (2) **Mana Flower** (1) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
+			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
 		* <span class="equip-add"> **Mokou**: </span>
+			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (1) **Piece of Heart** (1) </span>
 			* <span class="equip-add"> (2) **Purple Metallic Armor** (1) </span>
-			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Utsuho**: MP Boost 0 -> 5 / Blazing 0 -> 2 </span>
 		* <span class="learn-skill"> **Chen**: Enhanced Row Attack 0 -> 3 </span>
@@ -807,9 +806,10 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Aya** equips **Shoes of Happiness** over Cypress Stick </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind Lv0 -> Lv1 </span>
+		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 * Level reference: Nitori 22
 * Enter the dungeon (7F)
 
@@ -829,15 +829,22 @@
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Komachi** equips **Energy Tank** over Light Crystal </span>
-		* <span class="equip-add"> **Utsuho** equips **Glow Crystal** </span>
-		* <span class="equip-add"> **Nitori** equips **Asura Blade** over Blade Cuisinart </span>
-		* <span class="equip-add"> **Chen** equips **Blade Cuisinart** over Booster v0.8 </span>
-		* <span class="equip-add"> **Kasen** equips **Luster Candy** over DX Mechamonkey Model </span>
-		* <span class="equip-add"> **Rumia** equips **Light Staff** over Piche's Bauble </span>
-		* <span class="equip-add"> **Mokou** equips **DX Mechamonkey Model** over Piece of Heart </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (2) **Energy Tank** (1) </span>
+		* <span class="equip-add"> **Utsuho**: </span>
+			* <span class="equip-add"> (3) **Glow Crystal** (3) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (2) **Blade Cuisinart** (3) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
+		* <span class="equip-add"> **Rumia**: </span>
+			* <span class="equip-add"> (1) **Light Staff** (1) </span>
+		* <span class="equip-add"> **Mokou**: </span>
+			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Reimu**: Armored YinYang Orb Lv1 -> Lv2 </span>
+		* <span class="learn-skill"> **Reimu**: Armored YinYang Orb 1 -> 2 </span>
 * Level reference: Nitori 24
 * Enter the dungeon (8F)
 
@@ -859,10 +866,10 @@
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Reimu**: HP Lv10 -> Lv30 </span>
-		* <span class="magic-library"> **Nitori**: HP Lv0 -> Lv30 </span>
-		* <span class="magic-library"> **Aya**: HP Lv0 -> Lv30 </span>
-		* <span class="magic-library"> **Sanae**: HP Lv0 -> Lv30 </span>
+		* <span class="magic-library"> **Reimu**: HP 10 -> 30 </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 30 </span>
+		* <span class="magic-library"> **Aya**: HP 0 -> 30 </span>
+		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Utsuho -> Kourin** </span>
 		* <span class="human-village"> Swap **Rumia -> Keine** </span>
@@ -872,22 +879,40 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Parsee / Reimu / Aya / Sanae** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **Source of Magic** over Cypress Stick </span>
-		* <span class="equip-add"> **Parsee** equips **First-Aid Kit** / **Hero's Medal** / **Card Ruler of Heavens** over Shoes of Happiness / Crepe Mariette </span>
-		* <span class="equip-add"> **Reimu** equips **Pride** over Crepe Mariette (or Symbol of Faith) </span>
-		* <span class="equip-add"> **Aya** equips **Cypress Stick** / **Ultrafast Keystone** over Shoes of Happiness / Power Bracer (or Booster v0.8) </span>
-		* <span class="equip-add"> **Sanae** equips **Cypress Stick** / **Lambda Driver** / **Big Bang Woganizer** / **Symbol of Faith** </span>
-		* <span class="equip-add"> **Keine** equips **Source of Magic** / **Piece of Heart** / **Crepe Mariette x2** </span>
-		* <span class="equip-add"> **Kourin** equips **Light Crystal** / **Spellbook Hurricane** / **Piece of Heart** </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+			* <span class="equip-add"> (3) **Card Ruler of Heavens** (2) </span>
+			* <span class="equip-add"> (2) **Hero's Medal** (4) </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (1) **Pride** (4) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (3) **Ultrafast Keystone** (3) </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
+			* <span class="equip-add"> (1) **Big Bang Woganizer** (4) </span>
+			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
+			* <span class="equip-add"> (3) **Symbol of Faith** (1) </span>
+		* <span class="equip-add"> **Keine**: </span>
+			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
+			* <span class="equip-add"> (2) **Crepe Mariette** (1) </span>
+			* <span class="equip-add"> (1) **Piece of Heart** (1) </span>
+			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
+		* <span class="equip-add"> **Kourin**: </span>
+			* <span class="equip-add"> (1) **Piece of Heart** (1) </span>
+			* <span class="equip-add"> (2) **Spellbook Hurricane** (2) </span>
+			* <span class="equip-add"> (3) **Light Crystal** (3) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: HP Boost Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Sanae**: Miracle Fruit Lv1 -> Lv5 / Last Wish Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Kasen**: Fighting Spirit Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Keine**: 3ST - Sword Lv4 -> Lv5 </span>
-		* <span class="learn-skill"> **Chen**: Beat Down Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Mokou**: Resurrection Lv2 -> Lv3 </span>
-		* <span class="learn-skill"> **Kourin**: HP High Boost Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Kappa Ecology Observation Lv0 -> Lv2 / Mind Body One Lv0 -> Lv1 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Last Wish 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
+		* <span class="learn-skill"> **Keine**: 3ST - Sword 3 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: Beat Down 0 -> 1 </span>
+		* <span class="learn-skill"> **Mokou**: Resurrection 2 -> 3 </span>
+		* <span class="learn-skill"> **Kourin**: HP High Boost 1 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Kappa Ecology Observation 0 -> 2 / Mind Body One 0 -> 1 </span>
 * Level reference: Reimu 26
 * Enter the dungeon (8F South)
 <hr>
@@ -924,7 +949,7 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Switch Parsee/Aya/Sanae to ATK/ATK/MAG </span>
+		* <span class="hakurei-shrine"> Parsee/Aya/Sanae to ATK/ATK/MAG </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
@@ -934,11 +959,15 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Chen** equips **Shinai of Spirits** over Biggest Sword Ever (if Iku dropped) </span>
-		* <span class="equip-add"> **Parsee** equips **Shoes of Happiness** / **Biggest Sword Ever** over First-Aid Kit / Card Ruler of Heavens </span>
-		* <span class="equip-add"> **Aya** equips **Shoes of Happiness** over Cypress Stick </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (if Iku drop) (1) **Shinai of Spirits** (1) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Mind Body One Lv0 -> Lv1 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Mind Body One 0 -> 1 </span>
 * Level reference: Nitori 26
 * Enter the dungeon (8F South)
 
@@ -957,11 +986,14 @@
 		* <span class="hakurei-shrine"> Kasen, Utsuho, Sanae </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **Glaive of Pain** over Asura Blade </span>
-		* <span class="equip-add"> **Kasen** equips **Asura Blade** over Biggest Sword Ever </span>
-		* <span class="equip-add"> **Rumia** equips **Mana Flower** over Crepe Mariette </span>
-		* <span class="equip-add"> **Mokou** equips **Biggest Sword Ever** over Super-Hard Rye Bread </span>
-		* <span class="equip-add"> **Parsee** equips **Growth Egg** over Shoes of Happiness </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (2) **Asura Blade** (4) </span>
+		* <span class="equip-add"> **Rumia**: </span>
+			* <span class="equip-add"> (3) **Mana Flower** (1) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Growth Egg** (1) </span>
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
@@ -977,10 +1009,13 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Sanae** equips **Century's End Jacket** over Symbol of Faith </span>
-		* <span class="equip-add"> **Mokou** equips **T45-d Power Armor** over Purple Metallic Armor </span>
-		* <span class="equip-add"> **Reimu** equips **Star of Elendil** / **Water Cutting Sword** over Ultrafast Keystone / Flipskirt Dagger </span>
-		* <span class="equip-add"> **Parsee** equips **Diva's Apron** over Symbol of Faith </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
+			* <span class="equip-add"> (1) **Star of Elendil** (5) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (1) **Diva's Apron** (1) </span>
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
 
@@ -992,7 +1027,10 @@
 
 * When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-remove"> **Utsuho**/**Mokou** unequip everything </span>
+		* <span class="equip-remove"> **Utsuho**: </span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
+		* <span class="equip-remove"> **Mokou**: </span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
 <hr>
 
 * Use these facilities:
@@ -1008,8 +1046,8 @@
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Reisen** learns **Hexer** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
-		* <span class="magic-library"> **Nitori**: HP Lv30 -> Lv50 / DEF Lv0 -> Lv50 / SPD Lv0 -> Lv30 </span>
-		* <span class="magic-library"> **Iku**: MAG/SPD Lv0 -> Lv50 </span>
+		* <span class="magic-library"> **Nitori**: HP 30 -> 50 / DEF 0 -> 50 / SPD 0 -> 30 </span>
+		* <span class="magic-library"> **Iku**: MAG/SPD 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Utsuho -> Minoriko** </span>
 		* <span class="human-village"> Swap **Chen -> Reisen** </span>
@@ -1017,24 +1055,40 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Minoriko** equips **Flipskirt Dagger** / **Super-Hard Rye Bread x2** </span>
-		* <span class="equip-add"> **Aya** equips **The Arch** over Booster v0.8 (or Pale Wing Thruster) </span>
-		* <span class="equip-add"> **Reisen** equips **Cypress Stick** / **Flipskirt Dagger** / **Pale Wing Thruster x2** </span>
-		* <span class="equip-add"> **Komachi** equips **Luster Candy** over Mad Milk </span>
-		* <span class="equip-add"> **Iku** equips **Source of Magic** / **Glow Crystal** / **Mana Flower x2** </span>
-		* <span class="equip-add"> **Marisa** equips **Cypress Stick** over Miko Board </span>
-		* <span class="equip-add"> **Nitori** equips **First Aid Kit** over Source of Magic / **Intama** over Getitup V </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **First Aid Kit** (2) </span>
+			* <span class="equip-add"> (2) **Intama** (2) </span>
+		* <span class="equip-add"> **Minoriko**: </span>
+			* <span class="equip-add"> (3) **Flipskirt Dagger** (3) </span>
+			* <span class="equip-add"> (2) **Super-Hard Rye Bread** (3) </span>
+			* <span class="equip-add"> (1) **Super-Hard Rye Bread** (3) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (1) **The Arch** (4) </span>
+		* <span class="equip-add"> **Reisen**: </span>
+			* <span class="equip-add"> (1) **Flipskirt Dagger** (3) </span>
+			* <span class="equip-add"> (2) **Pale Wing Thruster** (2) </span>
+			* <span class="equip-add"> (3) **Pale Wing Thruster** (2) </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (1) **Glow Crystal** (3) </span>
+			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
+			* <span class="equip-add"> (3) **Mana Flower** (1) </span>
+			* <span class="equip-add"> (2) **Mana Flower** (1) </span>
+		* <span class="equip-add"> **Marisa**: </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Sanae**: Last Wish Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Minoriko**: SPD Boost Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest Lessons Lv0 -> Lv2 / Tengu's Wind Lv0 -> Lv2 / HP Boost Lv0 -> Lv4 </span>
-		* <span class="learn-skill"> **Reisen**: Enhanced Hexes Lv0 -> Lv2 / Intense Vertigo Lv0 -> Lv1 / MP Boost Lv0 -> Lv4 </span>
-		* <span class="learn-skill"> **Kasen**: Fighting Spirit Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Rumia**: Youkai Knowledge Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Iku**: Hagoromo Sky Lv0 -> Lv2 / Enhanced Attack Lv0 -> Lv1 / Mind Body One Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Reimu**: Final Prayer Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Marisa**: MP Boost Lv0 -> Lv2 / Magic Training Lv0 -> Lv2 / Art of Battlemage Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / DEF Boost Lv0 -> Lv4 </span>
+		* <span class="learn-skill"> **Sanae**: Last Wish 1 -> 2 </span>
+		* <span class="learn-skill"> **Minoriko**: SPD Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest Lessons 0 -> 2 / Tengu's Wind 0 -> 2 / HP Boost 0 -> 4 </span>
+		* <span class="learn-skill"> **Reisen**: MP Boost 0 -> 4 / Enhanced Hexes 0 -> 2 / Intense Vertigo 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: Fighting Spirit 1 -> 2 </span>
+		* <span class="learn-skill"> **Rumia**: Youkai Knowledge 0 -> 2 </span>
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
+		* <span class="learn-skill"> **Reimu**: Final Prayer 0 -> 1 </span>
+		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Art of Battlemage 0 -> 5 / MP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 4 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
 <hr>
