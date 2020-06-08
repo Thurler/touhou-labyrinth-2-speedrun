@@ -1136,12 +1136,16 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Chen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Iku** equips **Cypress Stick** over Source of Magic / **Portable Oscillation Cannon** over Glow Crystal (if Tenshi dropped) </span>
-		* <span class="equip-add"> **Nitori** equips **Source of Magic / Getitup V** over First-Aid Kit / Intama </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
+			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Oscillation Cannon** (4) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (2) **Getitup V** (4) </span>
+			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi** Short Life Expectancy Lv1 -> Lv3 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Chen**: Instant Attack Lv0 -> Lv1 / Beat Down Lv0 -> Lv1 / Enhanced Row Attack Lv0 -> Lv3 </span>
+		* <span class="learn-skill"> **Komachi** Short Life Expectancy 1 -> 3 </span>
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Maintenance 0 -> 1 </span>
+		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 / Beat Down 0 -> 1 / Enhanced Row Attack 0 -> 3 </span>
 * Level reference: Nitori 30
 * Enter the dungeon (10F)
 
@@ -1157,10 +1161,11 @@
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Iku** equips **Tisiphone Edge** over Glow Crystal / Mana Flower </span>
-		* <span class="equip-add"> **Minoriko** equips **Tin Watering Can / Demon Core / Glow Crystal / T-45d Armor** </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (if no Tenshi drop) (1) **Portable Oscillation Cannon** (4) </span>
+			* <span class="equip-add"> (2) **Tisiphone Edge** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Chen** Beat Down Lv1 -> Lv2 </span>
+		* <span class="learn-skill"> **Chen** Beat Down 1 -> 2 </span>
 * Level reference: Nitori 31
 * Enter the dungeon (10F)
 
@@ -1172,24 +1177,32 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Keine, Cirno(SPD), Reisen </span>
+		* <span class="hakurei-shrine"> Cirno(SPD), Reisen </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Keine** </span>
 		* <span class="human-village"> Swap **Parsee -> Cirno** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Keine / Kasen / Nitori / Aya** </span>
 	* Equipment:
-		* <span class="equip-add"> **Keine** equips **Purple Orb** over Source of Magic </span>
-		* <span class="equip-add"> **Kasen** equips **Purple Orb** over Cypress Stick </span>
-		* <span class="equip-add"> **Nitori** equips **Purple Orb** over Souce of Magic </span>
-		* <span class="equip-add"> **Aya** equips **Source of Magic** over Shoes of Happiness </span>
-		* <span class="equip-add"> **Iku** equips **Source of Magic / Forbidden Tablet / Portable Oscillation Cannon** over Cypress Stick / Mana Flower x2 </span>
-		* <span class="equip-add"> **Reimu** equips **Getitup V** over Water Cutting Sword </span>
-		* <span class="equip-add"> **Cirno** equips **Cypress Stick** / **Booster v0.8 x3** </span>
-		* <span class="equip-add"> **Chen** equips **Portable Oscillation Cannon** over Biggest Sword Ever (if Iku already has) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+			* <span class="equip-add"> (3) **Forbidden Tablet** (4) </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (3) **Getitup V** (4) </span>
+		* <span class="equip-add"> **Cirno**: </span>
+			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
+			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
+			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Iku**: Heavenly Maiden Blow Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Cirno**: Icicle Fall Lv3 -> Lv5 </span>
+		* <span class="learn-skill"> **Iku**: Heavenly Maiden Blow 0 -> 1 </span>
+		* <span class="learn-skill"> **Cirno**: Icicle Fall 3 -> 5 </span>
 * Level reference: Nitori 32
 * Enter the dungeon (10F) and head east for FOE
 <hr>
@@ -1207,22 +1220,24 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Change Nitori/Aya bonus to HP </span>
+		* <span class="hakurei-shrine"> Nitori/Aya to HP </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Komachi / Nitori / Sanae** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass  </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Nitori**: ATK Lv40 -> Lv80 </span>
-		* <span class="magic-library"> **Reisen**: HP Lv0 -> Lv50 </span>
+		* <span class="magic-library"> **Nitori**: ATK 40 -> 80 </span>
+		* <span class="magic-library"> **Reisen**: HP 0 -> 50 </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Komachi / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **First Aid Kit / Button Aegis** over Purple Orb / Getitup V </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+			* <span class="equip-add"> (2) **Button of Aegis** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 / DEF Boost Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Aya**: HP Boost Lv4 -> Lv5 / EVA Boost Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv2 / Ferriage Fog Lv1 -> Lv5 </span>
-		* <span class="learn-skill"> **Sanae**: Youkai Buster Lv0 -> Lv2 / Miracle Fruit Lv1 -> Lv5 </span>
+		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 5 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
+		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 1 / HP Boost 4 -> 5 </span>
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 2 / Ferriage Fog 1 -> 5 </span>
+		* <span class="learn-skill"> **Sanae**: Youkai Buster 0 -> 2 / Miracle Fruit 1 -> 5 </span>
 * Enter the dungeon (10F southwest) and head for the boss
 * Level reference: Nitori 32
 <hr>
@@ -1262,14 +1277,17 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
-		* <span class="equip-add"> **Aya** equips **Shoes of Happiness** over Source of Magic </span>
-		* <span class="equip-add"> **Nitori** equips **Purple Orb / Getitup V** over First Aid Kit / Button Aegis </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv10 / Short Life Expectancy Lv1 -> Lv3 </span>
-		* <span class="learn-skill"> **Aya**: HP Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Iku**: Hagoromo Sky Lv0 -> Lv2 / Lightning Fish Lv0 -> Lv1 / Area Attack Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Reimu**: Final Prayer Lv1 -> Lv2 </span>
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 3 </span>
+		* <span class="learn-skill"> Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / **Aya**: HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Ability Manip Water 0 -> 2 / Maintenance 0 -> 1 </span>
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Lightning Fish 0 -> 1 / Area Attack 0 -> 1 </span>
+		* <span class="learn-skill"> **Reimu**: Final Prayer 1 -> 2 </span>
 * Level reference: Nitori 33
 * Enter the dungeon (11F)
 
@@ -1282,9 +1300,12 @@
 		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Komachi** equips **Yggdrasil Dew** over Sirloin </span>
-		* <span class="equip-add"> **Chen** equips **Purple Orb / Glaive of Pain / The Arch** over Cypress Stick / Biggest Sword Ever / Bone Stake </span>
-		* <span class="equip-add"> **Rumia** equips **Portable Oscillation Cannon** over Light Staff (if Chen had it) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (3) **The Arch** (4) </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (3) **Yggdrasil Dew** (1) </span>
 * Level reference: Nitori 35
 * Enter the dungeon (11F)
 
@@ -1295,7 +1316,8 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Aya** equips **Meteor Drive** over Ultrafast Keystone </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (3) **Meteor Drive** (1) </span>
 * Level reference: Nitori 36
 * Enter the dungeon (11F)
 
@@ -1312,7 +1334,8 @@
 		* <span class="hakurei-shrine"> Aya, Kasen, Iku </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Iku** equips **Forbidden Tablet** over Portable Oscillation Cannon </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (1) **Forbidden Tablet** (4) </span>
 * Level reference: Nitori 38
 * Enter the dungeon (12F)
 
@@ -1323,9 +1346,10 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Aya** equips **Wallbreaker Armband** over Bone Stake (or Booster v0.8) </span>
-		* <span class="equip-add"> **Reimu** equips **Lambda Driver** over Getitup V </span>
-		* <span class="equip-add"> **Minoriko** equips **Portable Oscillation Cannon** over Demon Core </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (3) **Lambda Driver** (4) </span>
 * Level reference: Nitori 39
 * Enter the dungeon (12F)
 
@@ -1345,12 +1369,14 @@
 * Open the menu and take the following actions:
 	* * <span class="form-change"> Form Change: **Kasen / Aya / Komachi / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Kasen** equips **Olzhas Shamshir** over Getitup V </span>
-		* <span class="equip-add"> **Aya** equips **Growth Egg** over Shoes of Happiness </span>
-		* <span class="equip-add"> **Komachi** equips **Energy Pack** over Energy Tank </span>
-		* <span class="equip-add"> **Reisen** equips **Tisiphone Edge** over Flipskirt Dagger </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (3) **Olzhas Shamshir** (5) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (2) **Energy Pack** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv9 / Ferriage Fog Lv1 -> Lv5 </span>
+		* <span class="learn-skill"> **Komachi**: Ferriage Fog 1 -> 5 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 9 </span>
 * Level reference: Reisen 39
 * Enter the dungeon (12F west) and go fight the Mirror
 <hr>
@@ -1391,8 +1417,8 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv10 / Short Life Expectancy Lv1 -> Lv5 </span>
-		* <span class="learn-skill"> **Aya**: EVA Boost Lv0 -> Lv5 </span>
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 5 </span>
 * Level reference: Nitori 40
 * Enter the dungeon (12F)
 
@@ -1401,7 +1427,7 @@
 * Once you've reached the relay point, go back to Gensokyo
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa, Minoriko </span>
+		* <span class="hakurei-shrine"> Reimu, Marisa </span>
 		* <span class="hakurei-shrine"> Komachi, Nitori, Aya </span>
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 	* <span class="magic-library"> **Magic Library**: </span>
@@ -1413,11 +1439,11 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Sanae**: Last Wish Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Reisen**: SPD Boost Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Marisa**: MP Boost Lv0 -> Lv5 / Magic Training Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv1 / Art of the Battlemage Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Iku**: Hagoromo Sky Lv0 -> Lv2 / Magic Beating Lv0 -> Lv2 / Enhanced Attack Lv0 -> Lv1 / Mind Body Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Komachi**: HP Boost Lv3 -> Lv5 </span>
+		* <span class="learn-skill"> **Sanae**: Last Wish 0 -> 2 </span>
+		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Iku**: Enhanced Attack 0 -> 1 / Mind Body 0 -> 2 / Magic Beating 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
 * Level reference: Aya 40
 * Enter the dungeon (12F depths) and fight Tenshi
 <hr>
