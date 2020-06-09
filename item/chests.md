@@ -76,13 +76,13 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Light Crystal | O |
 | Oni's Panties x2 | O |
 | Piche's Bauble | O |
-| Poison Resistance Ring | X |
+| Poison Resistance Ring | O |
 | Rosebush Robe | O |
 | Sirloin | O |
 | Training Manual | O |
 | Two Face's Coin | O |
-| Floor Total | 15 |
-| Combined Total | 29 |
+| Floor Total | 16 |
+| Combined Total | 30 |
 
 #### <a id="floor-3"></a>Floor 3
 
@@ -104,7 +104,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Swiftness Gem | O |
 | Tome of Reincarnation | O |
 | Floor Total | 12 |
-| Combined Total | 41 |
+| Combined Total | 42 |
 
 #### <a id="floor-4"></a>Floor 4
 
@@ -130,7 +130,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Ultrafast Granite Keystone | O |
 | Violet Green Rupee | O |
 | Floor Total | 9 |
-| Combined Total | 50 |
+| Combined Total | 51 |
 
 #### <a id="floor-5"></a>Floor 5
 
@@ -151,7 +151,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Yamabiko Necklace | X |
 | Floor Total | 7 |
-| Combined Total | 57 |
+| Combined Total | 58 |
 
 #### <a id="floor-6"></a>Floor 6
 
@@ -173,7 +173,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Purple Dragon Crystal | O |
 | Stone of Awakening | O |
 | Floor Total | 14 |
-| Combined Total | 71 |
+| Combined Total | 72 |
 
 #### <a id="floor-7"></a>Floor 7
 
@@ -200,7 +200,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
 | Floor Total | 15 |
-| Combined Total | 86 |
+| Combined Total | 87 |
 
 #### <a id="floor-8"></a>Floor 8
 
@@ -230,7 +230,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | O |
 | Floor Total | 21 |
-| Combined Total | 107 |
+| Combined Total | 108 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -255,7 +255,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | O |
 | Youkai's Fire Blowgun x2 | X |
 | Floor Total | 16 |
-| Combined Total | 123 |
+| Combined Total | 124 |
 
 #### <a id="floor-10"></a>Floor 10
 
@@ -280,7 +280,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
 | Floor Total | 11 |
-| Combined Total | 134 |
+| Combined Total | 135 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -307,7 +307,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
 | Floor Total | 19 |
-| Combined Total | 153 |
+| Combined Total | 154 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -333,7 +333,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Floor Total | 16 |
-| Combined Total | 169 |
+| Combined Total | 170 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -354,7 +354,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | T-45d Power Armor | X |
 | Training Manual | O |
 | Floor Total | 10 |
-| Combined Total | 179 |
+| Combined Total | 180 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -380,7 +380,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wallbreaker Armband | O |
 | Wisdom Gem | O |
 | Floor Total | 15 |
-| Combined Total | 194 |
+| Combined Total | 195 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -414,7 +414,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Ultrafast Granite Keystone | O |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 21 |
-| Combined Total | 215 |
+| Combined Total | 216 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -440,7 +440,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Wash Basin Set | O |
 | Floor Total | 15 |
-| Combined Total | 230 |
+| Combined Total | 231 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -463,7 +463,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 6 |
-| Combined Total | 236 |
+| Combined Total | 237 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -485,7 +485,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 7 |
-| Combined Total | 243 |
+| Combined Total | 244 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -513,7 +513,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 9 |
-| Combined Total | 252 |
+| Combined Total | 253 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -541,7 +541,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wash Basin Set | X |
 | Wisdom Gem | X |
 | Floor Total | 5 |
-| Combined Total | 257 |
+| Combined Total | 258 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -582,7 +582,6 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Scouter x1 | 20F | Useless, out of way |
 | Wash Basin Set x1 | 20F | Useless, out of way |
 | **Sub Equip** | - | - |
-| Poison Resistance Ring x1 | 2F | Useless, out of way |
 | Nitroglycerin x3 | 3F/4F/7F | Useless, out of way |
 | Steadfast Ring x1 | 4F | Useless, out of way |
 | Kazu's Amulet x1 | 4F | Useless, out of way |
