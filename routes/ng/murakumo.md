@@ -1800,7 +1800,6 @@
 		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
 		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
 		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
-		* <span class="hakurei-item"> Use **MP gems** on **Yuuka** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Chen / Parsee** </span>
@@ -2137,7 +2136,8 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Suwako / Yuyuko / Reisen** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Aya** unequips Jogurt Doll </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Tokyo Metronome** (1) </span>
 * Enter the dungeon (19F)
 
 ![](img/murakumo/19-01-north.png)
@@ -2164,7 +2164,8 @@
 
 * When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-remove"> **Suwako** unequips everything </span>
+		* <span class="equip-remove"> **Suwako**:</span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Marisa, Rin, Reisen(SPD), Iku </span>
@@ -2189,17 +2190,30 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Cirno / Sanae / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Iku** equips **Astral Dominae** over Tisiphone Edge (or Forbidden Tablet) </span>
-		* <span class="equip-add"> **Aya** equips **Orb of Gaia** </span>
-		* <span class="equip-add"> **Sanae** equips **Grand Master Breaker** over Big Bang Woganizer </span>
-		* <span class="equip-add"> **Marisa** equips **Jogurt Doll** / **Wash Basin Set** / **Full Custom x2** </span>
-		* <span class="equip-add"> **Reimu** equips **Astral Dominae** / **Star of Elendil** over Pride / Lambda Driver </span>
-		* <span class="equip-add"> **Rin** equips **Chario Boots** / **Wallbreaker Armband x2** </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (1) **Astral Dominae** (5) </span>
+			* <span class="equip-add"> (3) **Lilium's Panties** (5) </span>
+		* <span class="equip-add"> **Rin**: </span>
+			* <span class="equip-add"> (3) **Wallbreaker Armband** (5) </span>
+			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
+			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Orb of Gaia** (2) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
+			* <span class="equip-add"> (3) **Forbidden Tablet** (4) </span>
+		* <span class="equip-add"> **Marisa**: </span>
+			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (2) **Full Custom** (2) </span>
+			* <span class="equip-add"> (1) **Full Custom** (2) </span>
+			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (1) **Star of Elendil** (5) </span>
+			* <span class="equip-add"> (2) **Astral Dominae** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Marisa**: MP Boost Lv0 -> Lv5 / Magic Training Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv2 / Art of the Battlemage Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Iku**: MAG Boost Lv0 -> Lv5 / Hagoromo Sky Lv0 -> Lv1 / Heavenly Maiden Blow Lv0 -> Lv1 / Enhanced Attack Lv0 -> Lv1 / Mind Body One Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Rin**: Magic Conservation Lv0 -> Lv1 / Magic Transfer Lv0 -> Lv5 / Magic Circuit Lv0 -> Lv5 </span>
+		* <span class="learn-skill"> **Marisa**: MP Boost 0 -> 5 / Magic Training 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 1 / Heavenly Maiden Blow 0 -> 1 / Lightning Fish 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 / MAG Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Rin**: Magic Conservation 0 -> 1 / Magic Transfer 0 -> 5 / Magic Circuit 0 -> 5 </span>
 * Enter the dungeon (20F West)
 <hr>
 
@@ -2276,10 +2290,10 @@
 		* <span class="subclass-add"> **Satori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Kourin**: HP/DEF/SPD Lv0 -> Lv100 </span>
-		* <span class="magic-library"> **Nitori**: HP/DEF/SPD Lv0 -> Lv100 </span>
-		* <span class="magic-library"> **Satori**: HP/DEF/SPD Lv0 -> Lv100 </span>
-		* <span class="magic-library"> **Yuuka**: HP/SPD Lv50 -> Lv100 / DEF Lv0 -> Lv100 </span>
+		* <span class="magic-library"> **Kourin**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Nitori**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Satori**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Yuuka**: HP/SPD 50 -> 100 / DEF 0 -> 100 </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Reimu - HP </span>
 		* <span class="hakurei-shrine"> Kourin - HP </span>
@@ -2297,7 +2311,7 @@
 		* <span class="hakurei-item"> Use **Training Manual x15** on **Parsee** </span>
 		* <span class="hakurei-item"> Use remaining **Training Manual** on **Yuuka** </span>
 		* <span class="hakurei-item"> Use **HP Gems** on **Nitori / Kourin** </span>
-		* <span class="hakurei-item"> Use **MP Gems** on **Satori / Yuuka** </span>
+		* <span class="hakurei-item"> Use **MP Gems** on **Yuuka / Satori** </span>
 		* <span class="hakurei-item"> Use **TP Gems** on **Chen** </span>
 		* <span class="hakurei-item"> Use **ATK Gems** on **Parsee** </span>
 		* <span class="hakurei-item"> Use **DEF Gems** on **Kourin / Nitori** </span>
@@ -2306,27 +2320,46 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Kourin / Yuuka / Parsee** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **First-Aid Kit** / **Grand Master Breaker** / **Divine Barrier** / **Intama** </span>
-		* <span class="equip-add"> **Kourin** equips **Choice Scarf** / **Megasphere x2** / **Intama** </span>
-		* <span class="equip-add"> **Yuuka** equips **Energy Pack** / **Intama** </span>
-		* <span class="equip-add"> **Parsee** equips **Holy Sword Centurio** / **Cinderforge Sword x2** (if no Sword, Glaive) </span>
-		* <span class="equip-add"> **Satori** equips **Energy Pack** / **Button of Aegies** / **Intama** </span>
-		* <span class="equip-add"> **Chen** equips **Micron Magic Book** / **The Arch x2** / **Century End Jacket** </span>
-		* <span class="equip-add"> **Sanae** equips **Forbidden Tablet** over Century End Jacket </span>
-		* <span class="equip-add"> **Iku** equips **Lilium's Panties** over Forbidden Tablet </span>
-		* <span class="equip-add"> **Iku** equips **Wash Basin Set x3** </span>
+		* <span class="equip-add"> **Marisa**: </span>
+			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
+			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
+			* <span class="equip-add"> (3) **Intama** (2) </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+		* <span class="equip-add"> **Kourin**: </span>
+			* <span class="equip-add"> (M) **Choice Scarf** (2) </span>
+			* <span class="equip-add"> (1) **Megasphere** (5) </span>
+			* <span class="equip-add"> (2) **Megasphere** (5) </span>
+			* <span class="equip-add"> (3) **Intama** (2) </span>
+		* <span class="equip-add"> **Yuuka**: </span>
+			* <span class="equip-add"> (3) **Intama** (2) </span>
+			* <span class="equip-add"> (2) **Energy Pack** (5) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (1) **Holy Sword Centurio** (5) </span>
+			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
+		* <span class="equip-add"> **Satori**: </span>
+			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (2) **Button of Aegis** (2) </span>
+			* <span class="equip-add"> (1) **Intama** (2) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (1) **The Arch** (4) </span>
+			* <span class="equip-add"> (2) **Century End Jacket** (4) </span>
+			* <span class="equip-add"> (M) **Micron Magic Book** (2) </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: HP/EVA Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Inspiration Plan Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Kourin**: DEF Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Initiative Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Yuuka**: HP Boost 0 -> 5 / MP Boost 0 -> 5 / Extra Attack 0 -> 2 </span>
-		* <span class="learn-skill"> **Yuuka**: Gensokyo's Eternal Flower Lv0 -> Lv1 (Majesty if not enough) </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / High Stakes Lv0 -> Lv2 / All or Nothing Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Nitori**: DEF/AFF Boost Lv0 -> Lv5 / Frontline Guard Lv0 -> Lv1 / Initiative Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Sanae**: MAG Boost Lv0 -> Lv5 / Last Wish Lv0 -> Lv2 / Miracle Fruit Lv1 -> Lv5 / Enhanced Buffs Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Trauma Recollection Lv0 -> Lv2 / Spellcard Recollection Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Chen**: EVA Boost Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Iku**: Supple Hagoromo Lv0 -> Lv2 / Elekiter Dragon Palace Lv1 -> Lv5 / Thundercloud Stickleback Lv1 -> Lv5 </span>
-		* <span class="learn-skill"> **Kasen**: HP Boost Lv0 -> Lv5 / Fighting Spirit Lv0 -> Lv2 </span>
+		* <span class="learn-skill"> **Aya**: HP/EVA Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Inspiration Plan 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Initiative 0 -> 1 / Effective Formation 0 -> 2 / DEF Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Yuuka**: HP Boost 0 -> 5 / MP Boost 0 -> 5 / Extra Attack 0 -> 2 / Gensokyo's Eternal Flower 0 -> 1 / Majesty 0 -> 2 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealous of the Kind and Lovely 1 -> 5 / High Stakes 0 -> 2 / All or Nothing 0 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: Initiative 0 -> 1 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 / DEF/AFF Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Sanae**: MAG Boost 0 -> 5 / Last Wish 0 -> 2 / Miracle Fruit 1 -> 5 / Enhanced Buffs 0 -> 2 </span>
+		* <span class="learn-skill"> **Satori**: Spellcard Recollection 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: EVA Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Elekiter Dragon Palace 1 -> 5 / Thundercloud Stickleback 1 -> 5 </span>
+		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 2 / HP Boost 0 -> 5 </span>
 * Visit the following facilities to finish:
 	* <span class="nitori-shop"> **Nitori Shop**: Sell everything </span>
 	* <span class="magic-library"> **Magic Library**: </span>
