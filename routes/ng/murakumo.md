@@ -1277,7 +1277,7 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori**: </span>
+		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
@@ -1369,8 +1369,6 @@
 * Open the menu and take the following actions:
 	* * <span class="form-change"> Form Change: **Kasen / Aya / Komachi / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (3) **Olzhas Shamshir** (5) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
 		* <span class="equip-add"> **Komachi**: </span>
@@ -1487,10 +1485,10 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **Cinderforge Sword** over Glaive of Pain (if killed Murakumo) </span>
-		* <span class="equip-add"> **Reimu** equips **Star of Elendil** over Lambda Driver (if Tenshi dropped) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (if Murakumo DTH) (1) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Iku**: Hagoromo Sky Lv0 -> Lv2 / Lightning Fish Lv0 -> Lv2 / Area Attack Lv0 -> Lv1 </span>
+		* <span class="learn-skill"> **Iku**: Area Attack 0 -> 1 / Lightning Fish 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
 * Level reference: Nitori 41
 * Enter the dungeon (13F)
 
@@ -1505,9 +1503,8 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **Master's Emblem** over Purple Orb </span>
-		* <span class="equip-add"> **Iku** equips **Wash Basin Set** over Tisiphone Edge </span>
-		* <span class="equip-add"> **Sanae** equips **Tisiphone Edge** over Big Bang Woganizer </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
 * Level reference: Nitori 44
 * Enter the dungeon (14F center east)
 
@@ -1526,21 +1523,28 @@
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Parsee**: ATK Lv0 -> Lv50 </span>
-		* <span class="magic-library"> **Kasen**: ATK Lv0 -> Lv50 </span>
+		* <span class="magic-library"> **Parsee**: ATK 0 -> 50 </span>
+		* <span class="magic-library"> **Kasen**: ATK 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Komachi -> Parsee** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Sanae / Parsee** </span>
 	* Equipment:
-		* <span class="equip-add"> **Kasen** equips **War Mask of the Butcher** over Olzhas Shamshir </span>
-		* <span class="equip-add"> **Nitori** equips **First-Aid Kit / Olzhas Shamshir x2** over Purple Orb / Glaive of Pain / Getitup V </span>
-		* <span class="equip-add"> **Parsee** equips **Strange Meat Pie / Cinderforge Sword / Pride** over Growth Egg / Biggest Sword Ever / Diva Apron (Glaive of Pain if no Sword) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
+			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
+			* <span class="equip-add"> (1) **Pride** (4) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **War Mask of the Butcher** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: MND Boost Lv0 -> Lv5 / AFF Boost Lv0 -> Lv5 / Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Parsee**: MP Boost Lv1 -> Lv5 / Grudge Returning Lv1 -> Lv5 </span>
-		* <span class="learn-skill"> **Kasen**: SPD Boost Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Chen**: Mind Body One Lv0 -> Lv2 </span>
+		* <span class="learn-skill"> **Nitori**: MND Boost 0 -> 5 / AFF Boost 0 -> 5 / Maintenance 0 -> 1 / Cooling Down 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Grudge Returning 1 -> 5 / MP Boost 1 -> 5 </span>
+		* <span class="learn-skill"> **Kasen**: SPD Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: Mind Body One 0 -> 2 </span>
 * Level reference: Nitori 46
 * Enter the dungeon (14F east) and go fight the boss
 <hr>
@@ -1576,7 +1580,8 @@
 
 * When you're back on Gensokyo, do the following menu:
 	* Equipment:
-		* <span class="equip-add"> **Parsee** equips **Growth Egg** over Strange Meat Pie </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
 * After that, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
@@ -1588,9 +1593,11 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **Master's Emblem / Glaive of Pain / Getitup V** over First-Aid Kit / Olzhas Shamshir x2 </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
+			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Ability Manip Water Lv0 -> Lv2 / Cooling Down Lv0 -> Lv2 </span>
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 2 / Ability Manip Water 0 -> 2 / Maintenance 0 -> 1 </span>
 * Level reference: Nitori 46
 * Enter the dungeon (13F) and reset the temperature
 
@@ -1606,7 +1613,8 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Nitori** equips **Blue Saber** over Glaive of Pain </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Blue Saber** (5) </span>
 * Level reference: Nitori 48
 * Enter the dungeon (14F center west)
 
@@ -1649,9 +1657,10 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Komachi / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Komachi** equips **Dark Will** over Violent Green Rupee </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (M) **Dark Will** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv10 / Ferriage Fog Lv1 -> Lv5 </span>
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Ferriage Fog 1 -> 5 </span>
 * Enter the dungeon (15F center) and go fight the Giant
 <hr>
 
@@ -1679,9 +1688,10 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
-		* <span class="equip-add"> **Komachi** equips **Violent Green Rupee** over Dark Will </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: HP Boost Lv0 -> Lv5 / Shinigami Work Lv0 -> Lv1 / Ferry Wages Lv0 -> Lv8 / Regeneration Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 </span>
+		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 5 / Frontline Guard 0 -> 1 / Regeneration 0 -> 1 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 8 </span>
 * Level reference: Nitori 50
 * Do the Yuuka events (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
@@ -1701,32 +1711,44 @@
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Parsee** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
-		* <span class="magic-library"> **Kourin**: HP/MND/SPD Lv0 -> Lv50 </span>
-		* <span class="magic-library"> **Nitori**: MND Lv0 -> Lv50 </span>
-		* <span class="magic-library"> **Parsee**: HP/MND Lv30 -> Lv50 / SPD Lv0 -> Lv50 </span>
-		* <span class="magic-library"> **Aya**: SPD Lv0 -> Lv50 </span>
-		* <span class="magic-library"> **Sanae**: HP Lv30 -> LV50 / MND Lv0 -> Lv50 </span>
+		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
+		* <span class="magic-library"> **Parsee**: HP/MND 30 -> 50 / SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Aya**: SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Reisen -> Kourin** </span>
 		* <span class="human-village"> Swap **Rumia -> Rin** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Sanae / Kasen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Kourin** equips **First-Aid Kit** / **Energy Pack** / **Star World Bracelet** / **Rosebush Robe** </span>
-		* <span class="equip-add"> **Sanae** equips **Master's Emblem** over Cypress Stick </span>
-		* <span class="equip-add"> **Parsee** equips **Divine Barrier / Green Dream** over Pride / Hero's Medal </span>
-		* <span class="equip-add"> **Rin** equips **Great Hammer** / **Bone Stake** / **Getitup V x2** </span>
-		* <span class="equip-add"> **Nitori** equips **Green Dream** over Getitup V </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (2) **Green Dream** (2) </span>
+		* <span class="equip-add"> **Kourin**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (2) **Rosebush Robe** (2) </span>
+			* <span class="equip-add"> (3) **Star World Bracelet** (2) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
+			* <span class="equip-add"> (1) **Green Dream** (2) </span>
+		* <span class="equip-add"> **Rin**: </span>
+			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
+			* <span class="equip-add"> (2) **Getitup V** (4) </span>
+			* <span class="equip-add"> (3) **Getitup V** (4) </span>
+			* <span class="equip-add"> (M) **Great Hammer** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Cirno**: Blizzard Blowout Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Kourin**: HP High Boost Lv2 -> Lv5 / MND High Boost Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Sanae**: Enhanced Buffing Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Kasen**: HP Boost Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Parsee**: MND/RES Boost Lv0 -> Lv5 / Ability Manip Jealousy Lv0 -> Lv1 / Emergency Recovery Lv0 -> Lv1 / Frontline Guard Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Rin**: Cat's Walk Lv1 -> Lv7 / Extra Attack Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Reimu**: HP Boost Lv0 -> Lv5 / MAG Boost Lv0 -> Lv3 </span>
-		* <span class="learn-skill"> **Iku**: Lightning Fish Lv2 -> Lv3 </span>
-		* <span class="learn-skill"> **Chen**: ATK Boost Lv0 -> Lv5 </span>
+		* <span class="learn-skill"> **Cirno**: Blizzard Blowout 0 -> 5 </span>
+		* <span class="learn-skill"> **Kourin**: HP High Boost 2 -> 5 / MND High Boost 0 -> 1 </span>
+		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Parsee**: MND/RES Boost 0 -> 5 / Ability Manip Jealousy 0 -> 1 / Emergency Recovery 0 -> 1 / Frontline Guard 0 -> 1 </span>
+		* <span class="learn-skill"> **Rin**: Cat's Walk 1 -> 7 / Extra Attack 0 -> 1 </span>
+		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 / MAG Boost 0 -> 3 </span>
+		* <span class="learn-skill"> **Iku**: Lightning Fish 2 -> 3 </span>
+		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 5 </span>
 * Enter the dungeon (9F) and unlock Yuuka's room
 <hr>
 
@@ -1770,19 +1792,23 @@
 ## <a id="Header-5-10"></a>Yuyuko Fight
 
 * Open the menu and take the following actions:
-	* <span class="equip-remove"> **Unequip Kourin** </span>
+	* Equipment:
+		* <span class="equip-remove"> **Kourin**:</span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
+		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
 		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
 		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
+		* <span class="hakurei-item"> Use **MP gems** on **Yuuka** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Chen / Parsee** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori, Kasen** </span>
 		* <span class="subclass-add"> **Chen** learns **Herbalist** subclass </span>
 		* <span class="subclass-add"> **Parsee** learns **Warrior** subclass </span>
-		* <span class="magic-library"> **Satori**: HP/SPD Lv0 -> Lv50 </span>
-		* <span class="magic-library"> **Yuuka**: HP/SPD Lv0 -> Lv50 </span>
+		* <span class="magic-library"> **Satori**: HP/SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Yuuka**: HP/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rin -> Satori** </span>
@@ -1790,19 +1816,31 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Cirno / Reimu / Kasen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Komachi** equips **First Aid Kit** over Violent Green Rupee </span>
-		* <span class="equip-remove"> **Reimu** unequips **Star of Elendil** </span>
-		* <span class="equip-add"> **Parsee** equips **Strange Meat Pie** / **Cinderforge Sword** / **Olzhas Shamshir x2** (Glaive of Pain if no Cinderforge) </span>
-		* <span class="equip-add"> **Nitori** equips **Getitup V** over Green Dream </span>
-		* <span class="equip-add"> **Yuuka** equips **First Aid Kit** / **Energy Pack** / **Sirloin** / **Dark Magic Grimoire** </span>
-		* <span class="equip-add"> **Satori** equips **First Aid Kit** / **Yggdrasil Dew** / **Courtesan's Sorrow** / **Dark Magic Grimoire** </span>
-		* <span class="equip-add"> **Sanae** equips **Star of Elendil** over Lambda Driver </span>
-		* <span class="equip-add"> **Reimu** equips **Lambda Driver** </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+		* <span class="equip-remove"> **Reimu**: </span>
+			* <span class="equip-remove"> (1) **Remove** </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
+			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
+		* <span class="equip-add"> **Yuuka**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (2) **Sirloin** (3) </span>
+			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+		* <span class="equip-add"> **Satori**: </span>
+			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3) </span>
+			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (2) **Star of Elendil** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Mind Body as One Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Yuuka**: HP/MP Boost Lv0 -> Lv5 / Extra Attack Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Chen**: SPD Boost Lv0 -> Lv5 / Instant Attack Lv0 -> Lv1 / Placebo Effect Lv0 -> Lv5 / Herb of Awakening Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / Mind Body as One 0 -> 2 </span>
+		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: Spell Recollection 0 -> 5 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 
@@ -1847,20 +1885,26 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Parsee / Yuuka / Satori** </span>
 	* Equipment:
-		* <span class="equip-add"> **Komachi** equips **Violent Green Rupee** over First-Aid Kit </span>
-		* <span class="equip-add"> **Aya** equips **First-Aid Kit** over Growth Egg </span>
-		* <span class="equip-add"> **Satori** equips **Meteor Drive** over Courtesan's Sorrow </span>
-		* <span class="equip-remove"> **Cirno** unequips everything </span>
-		* <span class="equip-add"> **Kourin** equips **Chario Boots** / **Booster v0.8 x3** </span>
+		* <span class="equip-add"> **Komachi**: </span>
+			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+		* <span class="equip-add"> **Satori**: </span>
+			* <span class="equip-add"> (2) **Meteor Drive** (5) </span>
+		* <span class="equip-remove"> **Cirno**: </span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
+		* <span class="equip-add"> **Kourin**: </span>
+			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
+			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
+			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
+			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: HP Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Ironclad Strat Lv0 -> Lv10 / Raid Maneuver Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealousy of the Kind Lv1 -> Lv5 / Fast Dash Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Yuuka**: HP Boost Lv0 -> Lv2 / MP Boost Lv0 -> Lv5 / Extra Attack Lv0 -> Lv2 / Fast Dash Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Satori**: MP Boost Lv0 -> Lv5 / Small MP Recovery Lv0 -> Lv1 / Spell Recollection Lv0 -> Lv5 / Fast Dash Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Komachi**: Ferry Wages Lv8 -> Lv10 </span>
-		* <span class="learn-skill"> **Kourin**: HP Boost Lv0 -> Lv5 / MND Boost Lv0 -> Lv1 / Effective Formation Lv0 -> Lv2 / First Aid Lv1 -> Lv2 </span>
-		* <span class="learn-skill"> **Sanae**: Enhanced Buffing Lv1 -> Lv2 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Ironclad Strat 0 -> 10 / Raid Maneuver 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Fast Dash 0 -> 1 / Jealousy of the Kind 1 -> 5 / Flames of Jealousy 0 -> 2 / Final Blow 0 -> 2 </span>
+		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 / HP Boost 0 -> 2 /  </span>
+		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 5 / Fast Dash 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Effective Formation 0 -> 2 / First Aid 1 -> 2 / HP Boost 0 -> 5 / MND Boost 0 -> 1 </span>
+		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 1 -> 2 </span>
 * Enter the dungeon (15F)
 
 ![](img/murakumo/15-06-yukari.png)
