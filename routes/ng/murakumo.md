@@ -1961,7 +1961,7 @@
 		* <span class="subclass-add"> **Aya** learns **Diva** subclass </span>
 * Open the menu and take the following actions:
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Silent Melody Lv0 -> Lv3 / Melody Fortune Lv0 -> Lv1 / Dance Cochlea Lv0 -> Lv5 </span>
+		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Silent Melody 0 -> 3 / Melody Fortune 0 -> 1 / Dance Cochlea 0 -> 5 </span>
 * Enter the dungeon (16F)
 
 ![](img/murakumo/16-02-secondloop.png)
@@ -1980,18 +1980,19 @@
 ## <a id="Header-6-3"></a>Goddess of Fertility Fight
 
 * Before you do any menuing, do the following action:
-	* <span class="equip-remove"> **Parsee** unequips Cinderforge Sword if she has it </span>
+	* Equipment (if Parsee has Cinderforge):
+		* <span class="equip-remove"> **Parsee**: </span>
+			* <span class="equip-remove"> (3) **Remove** </span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Kourin / Nitori / Satori / Iku / Yuuka** </span>
+		* <span class="magic-reset"> **Reset Kourin / Satori / Iku / Yuuka** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Kourin** learns **Diva** subclass </span>
 		* <span class="subclass-add"> **Cirno** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Nitori, Aya </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Cirno** </span>
@@ -2000,18 +2001,19 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Satori / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Iku** equips **Astral Dominae** over Tisiphone Edge (or Forbidden Tablet) </span>
-		* <span class="equip-add"> **Kourin** equips **Wallbreaker Armband x2** over Booster v0.8 </span>
-		* <span class="equip-add"> **Reisen** equips **Tisiphone Edge** over Flipskirt Dagger (if not already have) </span>
-		* <span class="equip-add"> **Aya** equips **Jogurt Doll** / **Meteor Drive** over Source of Magic / The Arch </span>
-		* <span class="equip-add"> **Nitori** equips **Cinderforge Sword** over Getitup V (Glaive of Pain if no Cinderforge) </span>
+		* <span class="equip-add"> **Kourin**: </span>
+			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
+			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (1) **Meteor Drive** (5) </span>
+			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Cirno**: Frontline Guard Lv0 -> Lv1 </span>
-		* <span class="learn-skill"> **Kourin**: HP Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Weird Creatures Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Satori**: MP Boost Lv0 -> Lv5 / Trauma Recollection Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv2 / Art of the Battlemage Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Reisen**: MP Boost Lv4 -> Lv5 / Lunatic Red Eyes Lv1 -> Lv3 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance Lv0 -> Lv1 / Cooling Down Lv0 -> Lv2 / Mind Body as One Lv0 -> Lv2 </span>
-		* <span class="learn-skill"> **Yuuka**: HP Boost Lv0 -> Lv5 / MP Boost Lv0 -> Lv5 / Extra Attack Lv0 -> Lv2 </span>
+		* <span class="learn-skill"> **Cirno**: Frontline Guard 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Weird Creatures 0 -> 2 / Effective Formation 0 -> 2 / HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: Mind Body as One 0 -> 2 / Cooling Down 0 -> 2 / Maintenance 0 -> 1 </span>
 * Enter the dungeon (16F Center) and go fight the boss
 <hr>
 
@@ -2043,13 +2045,13 @@
 ## <a id="Header-6-4"></a>Explore 17F (Part 2)
 
 * When you're back on Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Cirno -> Rumia** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Kourin / Satori / Reisen** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Aya** unequips Jogurt Doll </span>
+		* <span class="equip-remove"> **Aya**: </span>
+			* <span class="equip-remove"> (M) **Remove** </span>
 * Enter the dungeon (17F)
 
 ![](img/murakumo/17-02-final.png)
@@ -2067,7 +2069,9 @@
 ## <a id="Header-6-6"></a>Golden Orbs Fight
 
 * Before you do any menuing, do the following action:
-	* <span class="equip-remove"> **Kourin** unequips everything </span>
+	* Equipment:
+		* <span class="equip-remove"> **Kourin**:</span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-item"> Nitori, Aya </span>
@@ -2084,15 +2088,20 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Cirno / Yuyuko / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Aya** equips **Jogurt Doll** </span>
-		* <span class="equip-add"> **Suwako** equips **Chario Boots** / **Wallbreaker Armband x2** / **Full Custom** </span>
-		* <span class="equip-add"> **Iku** equips **Lilium's Panties** over Forbidden Tablet </span>
-		* <span class="equip-add"> **Sanae** equips **Forbidden Tablet** over Century End Jacket </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+		* <span class="equip-add"> **Yuyuko**: </span>
+			* <span class="equip-add"> (M) **Dark Will** (2) </span>
+		* <span class="equip-add"> **Suwako**: </span>
+			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
+			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
+			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
+			* <span class="equip-add"> (3) **Full Custom** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Yuyuko**: Saigyouji Flawless Nirvana Lv1 -> Lv5 </span>
-		* <span class="learn-skill"> **Suwako**: MP Boost Lv0 -> Lv5 / Froggy Power Lv0 -> Lv2 / Enhanced Buffing Lv0 -> Lv2 / Art of the Battlemage Lv0 -> Lv5 </span>
-		* <span class="learn-skill"> **Nitori**: Overheating Lv0 - Lv1 </span>
-		* <span class="learn-skill"> **Kasen**: Guts Lv0 - Lv2 </span>
+		* <span class="learn-skill"> **Yuyuko**: Saigyouji Flawless Nirvana 1 -> 5 </span>
+		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: Overheating 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: Guts 0 -> 2 </span>
 * Enter the dungeon (18F North)
 <hr>
 
@@ -2169,9 +2178,9 @@
 		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Rin** learns **Magician** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
-		* <span class="magic-library"> **Aya**: SPD Lv50 -> Lv150 </span>
-		* <span class="magic-library"> **Rin**: SPD Lv0 -> Lv100 </span>
-		* <span class="magic-library"> **Iku**: SPD Lv50 -> Lv100 </span>
+		* <span class="magic-library"> **Aya**: SPD 50 -> 150 </span>
+		* <span class="magic-library"> **Rin**: SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Iku**: SPD 50 -> 100 </span>
 		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
@@ -2180,6 +2189,7 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Cirno / Sanae / Reisen** </span>
 	* Equipment:
+		* <span class="equip-add"> **Iku** equips **Astral Dominae** over Tisiphone Edge (or Forbidden Tablet) </span>
 		* <span class="equip-add"> **Aya** equips **Orb of Gaia** </span>
 		* <span class="equip-add"> **Sanae** equips **Grand Master Breaker** over Big Bang Woganizer </span>
 		* <span class="equip-add"> **Marisa** equips **Jogurt Doll** / **Wash Basin Set** / **Full Custom x2** </span>
@@ -2302,10 +2312,13 @@
 		* <span class="equip-add"> **Parsee** equips **Holy Sword Centurio** / **Cinderforge Sword x2** (if no Sword, Glaive) </span>
 		* <span class="equip-add"> **Satori** equips **Energy Pack** / **Button of Aegies** / **Intama** </span>
 		* <span class="equip-add"> **Chen** equips **Micron Magic Book** / **The Arch x2** / **Century End Jacket** </span>
+		* <span class="equip-add"> **Sanae** equips **Forbidden Tablet** over Century End Jacket </span>
+		* <span class="equip-add"> **Iku** equips **Lilium's Panties** over Forbidden Tablet </span>
 		* <span class="equip-add"> **Iku** equips **Wash Basin Set x3** </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: HP/EVA Boost Lv0 -> Lv5 / Gensokyo Fastest Lv0 -> Lv2 / Tengu Wind Lv0 -> Lv2 / Inspiration Plan Lv0 -> Lv1 </span>
 		* <span class="learn-skill"> **Kourin**: DEF Boost Lv0 -> Lv5 / Effective Formation Lv0 -> Lv2 / Initiative Lv0 -> Lv1 </span>
+		* <span class="learn-skill"> **Yuuka**: HP Boost 0 -> 5 / MP Boost 0 -> 5 / Extra Attack 0 -> 2 </span>
 		* <span class="learn-skill"> **Yuuka**: Gensokyo's Eternal Flower Lv0 -> Lv1 (Majesty if not enough) </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow Lv0 -> Lv2 / Flames of Jealousy Lv0 -> Lv2 / Jealous of the Kind and Lovely Lv1 -> Lv5 / High Stakes Lv0 -> Lv2 / All or Nothing Lv0 -> Lv2 </span>
 		* <span class="learn-skill"> **Nitori**: DEF/AFF Boost Lv0 -> Lv5 / Frontline Guard Lv0 -> Lv1 / Initiative Lv0 -> Lv1 </span>
