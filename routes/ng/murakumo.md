@@ -1979,7 +1979,7 @@
 ## <a id="Header-6-3"></a>Goddess of Fertility Fight
 
 * Before you do any menuing, do the following action:
-	* Equipment (if Parsee has Cinderforge):
+	* Equipment:
 		* <span class="equip-remove"> **Parsee**: </span>
 			* <span class="equip-remove"> (3) **Remove** </span>
 * When you're back on Gensokyo, use these facilities:
