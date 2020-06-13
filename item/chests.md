@@ -47,7 +47,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Magic Gem x2<br>Energy Gem x2 | X |
 | Bludgeon | O |
 | Bulletproof Armor | O |
-| Cantrip Book | O |
+| Cantrip Book | X |
 | Cypress Stick | O |
 | Great Tree's Leaf | O |
 | Insect's Exoskeleton | O |
@@ -56,10 +56,10 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Manga Meat | O |
 | Miko Board | X |
 | Piece of Heart | O |
-| Power Bracer | O |
+| Power Bracer | X |
 | Steadfast Ring | X |
-| Floor Total | 12 |
-| Combined Total | 12 |
+| Floor Total | 10 |
+| Combined Total | 10 |
 
 #### <a id="floor-2"></a>Floor 2
 

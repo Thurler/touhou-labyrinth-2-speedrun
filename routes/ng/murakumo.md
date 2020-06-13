@@ -105,10 +105,8 @@
 			* <span class="equip-remove"> (1, 2) **Remove**</span>
 		* <span class="equip-add"> **Momiji**:</span>
 			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
-			* <span class="equip-add"> (3) **Power Bracer** (1)</span>
 			* <span class="equip-add"> (1) **Purple Metallic Armor** (1)</span>
 		* <span class="equip-add"> **Marisa**:</span>
-			* <span class="equip-add"> (2) **Cantrip Book** (1)</span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Keine**: MP Boost 0 -> 2 </span>
