@@ -119,7 +119,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Getitup V | O |
 | Heater Muffler | O |
 | Kazu's Amulet | X |
-| Light Staff | O |
+| Light Staff | X |
 | LOVE Machine 3322 | O |
 | Magic Bird's Crest x4 | X |
 | Midnight Oil Set | X |
@@ -129,8 +129,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Sword of Singing Delusion | X |
 | Ultrafast Granite Keystone | O |
 | Violet Green Rupee | O |
-| Floor Total | 7 |
-| Combined Total | 44 |
+| Floor Total | 6 |
+| Combined Total | 39 |
 
 #### <a id="floor-5"></a>Floor 5
 
