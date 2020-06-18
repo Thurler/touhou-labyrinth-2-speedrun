@@ -215,7 +215,7 @@
 		* If Marisa gets TRR just spam Magic Missile
 	* Reimu and Rumia can also deal reliable damage
 	* For finer details see Chrysomallos' [Boss Info](../../enemy/chrysomallos.md)
-* Keep going up and take the north treasure in 1F, then exit the dungeon
+* Keep going up and take both treasures in 1F, then exit the dungeon
 
 ## <a id="Header-1-5"></a>Explore 2F (Part 2)
 
@@ -228,7 +228,7 @@
 			* <span class="equip-add"> (3) **DX Mechamonkey Model** (1)</span>
 			* <span class="equip-add"> (if no Exorcism) (2) **Crepe Mariette** (1)</span>
 		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (3) **Crepe Mariette** (1)</span>
+			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 7 -> 8 </span>
 * Level reference: Reimu 6
@@ -248,7 +248,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Momiji**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
-			* <span class="equip-add"> (2) **Sirloin** (3)</span>
+			* <span class="equip-add"> (3) **Sirloin** (3)</span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (3) **Bludgeon** (3)</span>
 		* <span class="equip-add"> **Reimu**: </span>
