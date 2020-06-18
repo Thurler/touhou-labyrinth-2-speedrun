@@ -304,7 +304,6 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 31 | 2F | Beat Chrysomallos |
 | 01 | 3F | Grinding on 3F |
 | 24 | 3F | Just enter the dungeon |
-| 56 | 3F | Sub Equips |
 | 77 | 3F | 30 chests get |
 | 52 | 3F | Materials |
 | 83 | 3F | Recruit Nitori |
@@ -312,6 +311,7 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 84 | 3F | Recruit Nitori |
 | 48 | 3F | Reimu Lv10 |
 | 44 | 3F | Komachi is the 12th character |
+| 56 | 4F | Sub Equips |
 | 39 | 5F | Unique monsters for Aya |
 | 63 | 5F | Item Drops are inconsistent, but this sucks anyyay |
 | 67 | 5F | Hina shopping for Symbol of Faith |

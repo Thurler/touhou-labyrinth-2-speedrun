@@ -276,7 +276,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (2) **Glow Crystal** (3)</span>
+			* <span class="equip-add"> (3) **Glow Crystal** (3)</span>
 * Level reference: Reimu 9
 * Enter the dungeon (3F)
 
@@ -288,7 +288,7 @@
 * <span class="form-change"> Form Change: **Momiji / Kasen** </span>
 * **Boss Fight - Alaya-Vijnana (Lv11)**
 	* Yukari spams Shikigami: Ran Yakumo+
-	* Yuyuko spams Ghostly Dream's Butterfly, ends with Saigyouji Flawless Nirvana
+	* Yuyuko uses Ghostly Butterfly -> Attack -> Saigyouji Flawless Nirvana
 * Exit the dungeon back to Gensokyo
 
 ## <a id="Header-1-8"></a>Komachi Fight
@@ -296,7 +296,7 @@
 * Back at Gensokyo, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Forge Crepe Mariette, Piche's Bauble, whatever else you can </span>
+		* <span class="nitori-shop"> Forge whatever you can, start from bottom </span>
 		* <span class="nitori-shop"> Count how many forges you have, need 10 total on next trip </span>
 * Level reference: Reimu 10
 * Enter the dungeon (3F)
@@ -325,9 +325,9 @@
 	* <span class="form-change"> Form Change: **Momiji / Keine / Reimu / Nitori** </span>
 	* Equipment:
 		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (M) **Miko Board** (1)</span>
+			* <span class="equip-add"> (M) **Remove**</span>
 		* <span class="equip-add"> **Momiji**: </span>
-			* <span class="equip-add"> (3) **Courtesan's Sorrow** (3)</span>
+			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3)</span>
 		* <span class="equip-add"> **Keine**: </span>
 			* <span class="equip-add"> (3) **Heater Muffler** (2)</span>
 			* <span class="equip-add"> (2) **Gokiri's Charm** (2)</span>
@@ -342,16 +342,13 @@
 			* <span class="equip-add"> (3) **Wash Basin Set** (5)</span>
 		* <span class="equip-add"> **Rumia**: </span>
 			* <span class="equip-add"> (3) **Crepe Mariette** (1)</span>
-			* <span class="equip-add"> (2) **Piche's Bauble** (3)</span>
-			* <span class="equip-add"> (1) **Piche's Bauble** (3)</span>
 		* <span class="equip-add"> **Youmu**: </span>
-			* <span class="equip-add"> (1) **Bulletproof Armor** (1)</span>
+			* <span class="equip-add"> (3) **Bulletproof Armor** (1)</span>
 			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
-			* <span class="equip-add"> (3) **Piece of Heart** (1)</span>
+			* <span class="equip-add"> (1) **Piece of Heart** (1)</span>
 		* <span class="equip-add"> **Minoriko**: </span>
-			* <span class="equip-add"> (3) **Cantrip Book** (1)</span>
-			* <span class="equip-add"> (2) **Mana Flower** (1)</span>
-			* <span class="equip-add"> (1) **Crepe Mariette** (1)</span>
+			* <span class="equip-add"> (1) **Mana Flower** (1)</span>
+			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 1 -> 2 </span>
 		* <span class="learn-skill"> **Reimu**: Armored Yin-Yang Orb 0 -> 1 / MP Boost 0 -> 1 </span>
