@@ -69,20 +69,20 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Concept of Attributes | O |
 | Crepe Mariette | O |
 | Crepe Mariette | O |
-| Energy Gem | O |
+| Energy Gem | X |
 | Eyetrack Orbitars | X |
 | Fairy's Soul | O |
 | Goriki's Charm | O |
 | Light Crystal | O |
 | Oni's Panties x2 | O |
-| Piche's Bauble | O |
+| Piche's Bauble | X |
 | Poison Resistance Ring | X |
 | Rosebush Robe | O |
 | Sirloin | O |
 | Training Manual | O |
 | Two Face's Coin | X |
-| Floor Total | 13 |
-| Combined Total | 25 |
+| Floor Total | 11 |
+| Combined Total | 21 |
 
 #### <a id="floor-3"></a>Floor 3
 
@@ -104,7 +104,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Swiftness Gem | O |
 | Tome of Reincarnation | O |
 | Floor Total | 12 |
-| Combined Total | 37 |
+| Combined Total | 33 |
 
 #### <a id="floor-4"></a>Floor 4
 
