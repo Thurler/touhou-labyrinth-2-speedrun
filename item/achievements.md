@@ -316,12 +316,12 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 63 | 5F | Item Drops are inconsistent, but this sucks anyway |
 | 67 | 5F | Hina shopping for Symbol of Faith |
 | 02 | 6F | Grinding on 6F |
-| 13 | 6F | Main Equips |
 | 29 | 6F | Subclass get |
-| 78 | 6F | 60 chests get |
 | 53 | 6F | Materials are inconsistent, but we only need this on 15F |
 | 19 | 7F | Grinding on 7F |
 | 87 | 7F | Grinding on 7F |
+| 78 | 7F | 60 chests get |
+| 13 | 7F | Main Equips |
 | 75 | 7F | Exploring 7F Part 2 |
 | 82 | 7F | Open locked chest |
 | 09 | 8F | Just play the game |

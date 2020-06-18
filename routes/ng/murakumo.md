@@ -738,8 +738,6 @@
 		* <span class="human-village"> Swap **Wriggle -> Mokou** </span>
 		* <span class="human-village"> Swap **Keine -> Utsuho** </span>
 		* <span class="human-village"> Unequip non-party characters </span>
-	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* Buy <span class="nitori-shop"> **Cypress Stick x1** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
 	* Equipment:
@@ -750,8 +748,7 @@
 			* <span class="equip-remove"> (only if no Komachi drop) (3) **Remove** </span>
 		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (1) **Cantrip Book** (1) </span>
-			* <span class="equip-add"> (2) **Mana Flower** (1) </span>
+			* <span class="equip-add"> (1) **Mana Flower** (1) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
 			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
