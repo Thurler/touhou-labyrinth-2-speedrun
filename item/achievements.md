@@ -313,7 +313,7 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 44 | 3F | Komachi is the 12th character |
 | 56 | 4F | Sub Equips |
 | 39 | 5F | Unique monsters for Aya |
-| 63 | 5F | Item Drops are inconsistent, but this sucks anyyay |
+| 63 | 5F | Item Drops are inconsistent, but this sucks anyway |
 | 67 | 5F | Hina shopping for Symbol of Faith |
 | 02 | 6F | Grinding on 6F |
 | 13 | 6F | Main Equips |

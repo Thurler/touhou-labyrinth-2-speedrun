@@ -340,8 +340,6 @@
 			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1)</span>
 			* <span class="equip-add"> (2) **Power Bracer** (1)</span>
 			* <span class="equip-add"> (3) **Wash Basin Set** (5)</span>
-		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (3) **Crepe Mariette** (1)</span>
 		* <span class="equip-add"> **Youmu**: </span>
 			* <span class="equip-add"> (3) **Bulletproof Armor** (1)</span>
 			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
@@ -537,7 +535,7 @@
 			* <span class="equip-add"> (2) **Crepe Mariette** (1) </span>
 			* <span class="equip-add"> (3) **Love Machine 3322** (2) </span>
 		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (if Kaguya drop) (2) **Glow Crystal** (3) </span>
+			* <span class="equip-add"> (if Kaguya drop) (3) **Glow Crystal** (3) </span>
 		* <span class="equip-add"> **Wriggle**: </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
