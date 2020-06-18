@@ -162,7 +162,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Bone Stake | O |
 | Bottle of Hyperspace | O |
 | Concept of Everything x2 | X |
-| Energy Gem | O |
+| Energy Gem | X |
 | Fighter's Soul x2 | O |
 | First Aid Kit | O |
 | Goriki's Charm | X |
@@ -172,8 +172,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Pale Wing Thruster | O |
 | Purple Dragon Crystal | X |
 | Stone of Awakening | O |
-| Floor Total | 11 |
-| Combined Total | 59 |
+| Floor Total | 10 |
+| Combined Total | 54 |
 
 #### <a id="floor-7"></a>Floor 7
 
