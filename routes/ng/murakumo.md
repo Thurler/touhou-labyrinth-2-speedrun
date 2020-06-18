@@ -433,8 +433,6 @@
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (2) **Light Crystal** (3) </span>
 			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
-		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (3) **Light Staff** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 2 -> 4 </span>
 		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 0 -> 1 </span>

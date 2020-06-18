@@ -151,7 +151,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Yamabiko Necklace | X |
 | Floor Total | 4 |
-| Combined Total | 48 |
+| Combined Total | 43 |
 
 #### <a id="floor-6"></a>Floor 6
 
