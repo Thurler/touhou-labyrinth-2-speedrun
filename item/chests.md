@@ -173,7 +173,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Purple Dragon Crystal | X |
 | Stone of Awakening | O |
 | Floor Total | 10 |
-| Combined Total | 54 |
+| Combined Total | 53 |
 
 #### <a id="floor-7"></a>Floor 7
 
