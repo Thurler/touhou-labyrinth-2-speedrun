@@ -180,14 +180,14 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Elixir of Mages<br>Asura Blade<br>Tome of Insight - AFF<br>Tome of Insight - RES | O |
-| 1000 Money | O |
-| Booster v0.8 | O |
+| 1000 Money | X |
+| Booster v0.8 | X |
 | Card [Ruler of Heavens] | O |
 | Energy Tank | O |
 | Glow Crystal | O |
 | Great Tree's Sap x2 | X |
 | Green Dream | O |
-| Light Staff | O |
+| Light Staff | X |
 | Luster Candy | O |
 | Nitroglycerin | X |
 | Piece of Alexandrite x2 | X |
@@ -199,8 +199,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Super-Hard Rye Bread | O |
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
-| Floor Total | 13 |
-| Combined Total | 72 |
+| Floor Total | 10 |
+| Combined Total | 63 |
 
 #### <a id="floor-8"></a>Floor 8
 
