@@ -352,9 +352,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Pale Wing Thruster | X |
 | Pride | X |
 | T-45d Power Armor | X |
-| Training Manual | O |
-| Floor Total | 3 |
-| Combined Total | 134 |
+| Training Manual | X |
+| Floor Total | 2 |
+| Combined Total | 119 |
 
 #### <a id="floor-14"></a>Floor 14
 
