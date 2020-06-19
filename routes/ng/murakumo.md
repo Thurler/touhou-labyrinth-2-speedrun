@@ -779,7 +779,7 @@
 
 * When you're back, enter the dungeon (7F)
 
-![](img/murakumo/07-01-east.png)
+![](img/murakumo/07-01-west.png)
 
 * When you reach the destination, farm until wipe
 * Go back to Gensokyo and use this facility
@@ -801,7 +801,7 @@
 * Level reference: Nitori 22
 * Enter the dungeon (7F)
 
-![](img/murakumo/07-02-west.png)
+![](img/murakumo/07-02-east.png)
 
 * When you reach the destination, farm until wipe
 
