@@ -255,14 +255,14 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | O |
 | Youkai's Fire Blowgun x2 | X |
 | Floor Total | 11 |
-| Combined Total | 99 |
+| Combined Total | 88 |
 
 #### <a id="floor-10"></a>Floor 10
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Midnight Oil Set x3<br>Purple Orb x3<br>Fighting Gem x3<br>Forbidden Tablet | O |
-| 960 Money | O |
+| 960 Money | X |
 | Button of Aegis | O |
 | Demon Core | X |
 | Elixir of Mages | X |
@@ -279,8 +279,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Stone of Awakening | O |
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
-| Floor Total | 9 |
-| Combined Total | 108 |
+| Floor Total | 8 |
+| Combined Total | 96 |
 
 #### <a id="floor-11"></a>Floor 11
 
