@@ -1298,8 +1298,8 @@
 
 ![](img/murakumo/11-03-northeast.png)
 
-* When you reach the last treasure, re-enter the dungeon and follow red path
-* When you reach the 12F relay circle, farm until Nitori wipe on 11F
+* When you reach the 12F relay circle, re-enter the dungeon and get last treasure
+* When you reach the last treasure, farm until Nitori wipe
 
 ## <a id="Header-4-5"></a>Explore 12F
 
@@ -1316,7 +1316,7 @@
 
 ![](img/murakumo/12-01-west.png)
 
-* Once you get to the relay point, farm until Nitori wipe
+* Once you get to the relay point, go back to Gensokyo
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
