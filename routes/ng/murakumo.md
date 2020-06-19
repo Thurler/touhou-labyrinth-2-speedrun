@@ -414,7 +414,6 @@
 
 ![](img/murakumo/04-01-explore.png)
 
-* After getting the 2 treasures on northwest, do red outline path
 * After reaching 5F, do the blue outline path
 * Before going down to 3F, farm until frontline is out of MP
 
@@ -980,17 +979,10 @@
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
-![](img/murakumo/09-01-west-none.png)
+![](img/murakumo/09-01-west.png)
 
-* Re-enter the dungeon after you reach the northwest treasure
-
-![](img/murakumo/09-02-west-switch.png)
-
-* Follow the green paths after pressing the switch
 * When you reach the destination event go back to Gensokyo
-* When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Open the menu and take the following actions:
+* When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
@@ -1002,7 +994,7 @@
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
 
-![](img/murakumo/09-03-east.png)
+![](img/murakumo/09-02-east.png)
 
 * When you reach the destination farm until wipe
 
@@ -1048,9 +1040,9 @@
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **The Arch** (4) </span>
 		* <span class="equip-add"> **Reisen**: </span>
-			* <span class="equip-add"> (1) **Flipskirt Dagger** (3) </span>
+			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (2) **Pale Wing Thruster** (2) </span>
-			* <span class="equip-add"> (3) **Pale Wing Thruster** (2) </span>
+			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
