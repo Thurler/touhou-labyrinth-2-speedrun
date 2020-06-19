@@ -333,7 +333,6 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 40 | 10F | Unique monsters |
 | 60 | 11F | Grinding on 11F |
 | 79 | 11F | 100 chests get |
-| 14 | 11F | Main Equips |
 | 52 | 12F | Materials |
 | 58 | 14F | Sub Equips |
 | 90 | 14F | 1000BP on Nitori |
