@@ -1484,7 +1484,7 @@
 
 ![](img/murakumo/14-01-east.png)
 
-* When you reach the closed area in 13F, farm until Nitori wipe
+* When you reach the relay circle, farm until Nitori wipe
 
 ## <a id="Header-5-3"></a>Memorized Knowledge Fight
 
