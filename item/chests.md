@@ -297,7 +297,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Great Hammer | O |
 | HQ Sake Deer | X |
 | Lapis Lazuli Light x2 | X |
-| Pride | O |
+| Pride | X |
 | Purple Orb | O |
 | Scouter | X |
 | Shining Black Stone x2 | X |
@@ -306,8 +306,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | The Arch | O |
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
-| Floor Total | 13 |
-| Combined Total | 121 |
+| Floor Total | 12 |
+| Combined Total | 108 |
 
 #### <a id="floor-12"></a>Floor 12
 
