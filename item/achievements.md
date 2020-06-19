@@ -333,8 +333,8 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 40 | 10F | Unique monsters |
 | 60 | 11F | Grinding on 11F |
 | 79 | 11F | 100 chests get |
-| 52 | 12F | Materials |
 | 58 | 14F | Sub Equips |
+| 54 | 12F | Materials |
 | 90 | 14F | 1000BP on Nitori |
 | 80 | 14F | 180 chests get |
 | 35 | 15F | Silver Mail FOE |
