@@ -324,7 +324,6 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 82 | 7F | Open locked chest |
 | 09 | 8F | Just play the game |
 | 57 | 8F | Sub Equips |
-| 79 | 8F | 100 chests get |
 | 75 | 8F | Exploring 7F Part 2 |
 | 26 | 8F | Boost before Iku fight |
 | 45 | 8F | Iku is the 24th character |
@@ -333,6 +332,7 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 61 | 9F | Boost before Tenshi fight |
 | 40 | 10F | Unique monsters |
 | 60 | 11F | Grinding on 11F |
+| 79 | 11F | 100 chests get |
 | 14 | 11F | Main Equips |
 | 52 | 12F | Materials |
 | 58 | 14F | Sub Equips |
