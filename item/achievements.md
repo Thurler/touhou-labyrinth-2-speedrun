@@ -323,11 +323,11 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 78 | 7F | 60 chests get |
 | 82 | 7F | Open locked chest |
 | 09 | 8F | Just play the game |
-| 57 | 8F | Sub Equips |
 | 75 | 8F | Exploring 7F Part 2 |
 | 26 | 8F | Boost before Iku fight |
 | 45 | 8F | Iku is the 24th character |
-| 13 | 9F | Main Equips |
+| 13 | 8F | Main Equips |
+| 57 | 9F | Sub Equips |
 | 49 | 9F | Chen Lv30 |
 | 61 | 9F | Boost before Tenshi fight |
 | 40 | 10F | Unique monsters |
