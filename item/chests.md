@@ -378,9 +378,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | The Bee | X |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
-| Wisdom Gem | O |
-| Floor Total | 9 |
-| Combined Total | 143 |
+| Wisdom Gem | X |
+| Floor Total | 8 |
+| Combined Total | 127 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -410,7 +410,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Stone of Awakening | X |
 | Tokyo Metronome | X |
 | Training Manual | O |
-| Training Manual | O |
+| Training Manual | X |
 | Ultrafast Granite Keystone | X |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 14 |
