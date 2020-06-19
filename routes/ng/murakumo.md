@@ -1128,12 +1128,7 @@
 
 * After getting last treasure, farm until wipe
 * When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Rumia, Minoriko </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Aya, Kasen </span>
-		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters</span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
@@ -1152,7 +1147,12 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Cirno(SPD), Reisen </span>
+		* <span class="hakurei-shrine"> Reimu, Rumia </span>
+		* <span class="hakurei-shrine"> Cirno(SPD), Minoriko </span>
+		* <span class="hakurei-shrine"> Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee </span>
+		* <span class="hakurei-shrine"> Aya, Kasen </span>
+		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Keine** </span>
 		* <span class="human-village"> Swap **Parsee -> Cirno** </span>
