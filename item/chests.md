@@ -314,7 +314,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Tome of Insight - EVA x2<br>Tome of Insight - ACC x2<br>Tome of Insight - AFF x2<br>Olzhas Shamshir x2 | O |
-| 1500 Money | O |
+| 1500 Money | X |
 | Blade Cuisinart | X |
 | Damascus Shield | X |
 | Energy Pack | O |
@@ -332,8 +332,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Training Manual | O |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
-| Floor Total | 10 |
-| Combined Total | 131 |
+| Floor Total | 9 |
+| Combined Total | 117 |
 
 #### <a id="floor-13"></a>Floor 13
 
