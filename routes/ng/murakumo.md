@@ -790,12 +790,18 @@
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
 		* <span class="hakurei-shrine"> Mokou, Aya </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
-	* <span class="magic-library"> **Magic Library**:  </span>
-		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
+		* <span class="equip-add"> **Utsuho**: </span>
+			* <span class="equip-add"> (2) **Glow Crystal** (3) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (2) **Blade Cuisinart** (3) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
+		* <span class="equip-add"> **Mokou**: </span>
+			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 * Level reference: Nitori 22
@@ -815,22 +821,14 @@
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
 		* <span class="hakurei-shrine"> Mokou, Aya </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (2) **Energy Tank** (1) </span>
-		* <span class="equip-add"> **Utsuho**: </span>
-			* <span class="equip-add"> (3) **Glow Crystal** (3) </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (2) **Blade Cuisinart** (3) </span>
-		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
-		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (1) **Light Staff** (1) </span>
-		* <span class="equip-add"> **Mokou**: </span>
-			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Reimu**: Armored YinYang Orb 1 -> 2 </span>
 * Level reference: Nitori 24
