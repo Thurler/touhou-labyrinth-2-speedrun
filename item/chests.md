@@ -207,7 +207,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Items Discovery Weekly x3<br>Growth Egg<br>Violent Green Rupee<br>Glaive of Pain | O |
-| 720 Money | O |
+| 720 Money | X |
 | 788 Money | O |
 | 880 Money | O |
 | Big Bang Waganizer | O |
@@ -215,7 +215,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Chario Boots | O |
 | Chitin Shell x5 | X |
 | Damascus Shield | X |
-| Flipskirt Dagger | O |
+| Flipskirt Dagger | X |
 | Hero's Medal | O |
 | Lambda Driver | O |
 | Lapis Lazuli Light | X |
@@ -229,8 +229,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Symbol of Faith | O |
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | X |
-| Floor Total | 16 |
-| Combined Total | 88 |
+| Floor Total | 14 |
+| Combined Total | 77 |
 
 #### <a id="floor-9"></a>Floor 9
 
