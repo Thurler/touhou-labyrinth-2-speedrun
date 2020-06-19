@@ -1324,7 +1324,7 @@
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (3) **Lambda Driver** (4) </span>
+			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
 * Level reference: Nitori 39
 * Enter the dungeon (12F)
 
@@ -1336,7 +1336,7 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Change Aya bonus to HP </span>
+		* <span class="hakurei-shrine"> Aya(HP), Reisen </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi** </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -1415,7 +1415,6 @@
 		* <span class="learn-skill"> **Sanae**: Last Wish 0 -> 2 </span>
 		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 2 </span>
 		* <span class="learn-skill"> **Iku**: Enhanced Attack 0 -> 1 / Mind Body 0 -> 2 / Magic Beating 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
 * Level reference: Aya 40
 * Enter the dungeon (12F depths) and fight Tenshi
