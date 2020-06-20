@@ -513,15 +513,15 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 6 |
-| Combined Total | 178 |
+| Combined Total | 158 |
 
 #### <a id="floor-20"></a>Floor 20
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Megasphere<br>Grand Master Breaker Title<br>Tome of Insight - AFF x2<br>Tome of Insight - RES x2 | O |
-| 6000 Money | O |
-| 6500 Money | O |
+| 6000 Money | X |
+| 6500 Money | X |
 | Cinderforge Sword | X |
 | Energy Gem | X |
 | Experimental MIRV | X |
@@ -540,8 +540,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Wash Basin Set | X |
 | Wisdom Gem | X |
-| Floor Total | 5 |
-| Combined Total | 182 |
+| Floor Total | 3 |
+| Combined Total | 161 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
