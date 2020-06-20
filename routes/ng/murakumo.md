@@ -2011,11 +2011,11 @@
 
 ![](img/murakumo/17-02-final.png)
 
-* When you reach the 18F relay point, go back to Gensokyo
+* When you reach the 18F relay, keep exploring!
 
 ## <a id="Header-6-5"></a>Explore 18F
 
-* Enter the dungeon (18F)
+* No need to re-enter the dungeon, just keep exploring:
 
 ![](img/murakumo/18-01-orbs.png)
 

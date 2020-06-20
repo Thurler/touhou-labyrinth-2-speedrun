@@ -485,7 +485,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 6 |
-| Combined Total | 172 |
+| Combined Total | 152 |
 
 #### <a id="floor-19"></a>Floor 19
 
