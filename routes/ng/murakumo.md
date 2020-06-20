@@ -1577,46 +1577,32 @@
 
 ![](img/murakumo/13-02-west.png)
 
-* After getting the 14F relay, leave and re-enter the dungeon on (13F)
-* Reset the temperature, leave and re-enter the dungeon on (14F center west)
-* After getting the two treasures, farm until Nitori wipe
+* After getting the 14F relay, farm until Nitori wipe
 
 ## <a id="Header-5-5"></a>Explore 14F (Part 2)
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Open the menu and take the following actions:
-	* Equipment:
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Blue Saber** (5) </span>
 * Level reference: Nitori 48
 * Enter the dungeon (14F center west)
 
 ![](img/murakumo/14-02-west.png)
 
-* When you reach the 15F relay, farm until Nitori wipe
+* When you reach the 15F relay, keep exploring!
 
 ## <a id="Header-5-6"></a>Explore 15F
 
-* When you're back, enter the dungeon (15F)
+* No need to re-enter the dungeon, just keep exploring:
 
-![](img/murakumo/15-01-yuyuko.png)
+![](img/murakumo/15-01-yuyuko-giant.png)
 
-* When you are back on 15F, leave and re-enter from (14F center west)
-* After getting the two treasures, farm until Nitori wipe
-* When you're back, enter the dungeon (15F)
+* When you are done, leave and re-enter from (15F Center)
 
-![](img/murakumo/15-02-giant.png)
+![](img/murakumo/15-02-dragon.png)
 
-* After getting the treasure in 13F, farm until Nitori wipe
-* When you're back, enter the dungeon (15F Center)
+* After fleeing from FOE, leave the dungeon and re-enter from (15F)
 
-![](img/murakumo/15-03-dragon.png)
-
-* After fleeing from FOE, farm until Nitori wipe
-* When you're back, enter the dungeon (15F)
-
-![](img/murakumo/15-04-final.png)
+![](img/murakumo/15-03-final.png)
 
 * After getting last treasure, return to Gensokyo
 
@@ -1669,7 +1655,7 @@
 * Level reference: Nitori 50
 * Do the Yuuka events (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
-![](img/murakumo/15-05-yuuka.png)
+![](img/murakumo/15-04-yuuka.png)
 
 * When you're done with all events, go back to Gensokyo
 * If Nitori isn't around Lv50, farm on 15F
@@ -1880,7 +1866,7 @@
 		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 1 -> 2 </span>
 * Enter the dungeon (15F)
 
-![](img/murakumo/15-06-yukari.png)
+![](img/murakumo/15-05-yukari.png)
 
 * When you get to the relay point, re-enter the dungeon and fight Yukari
 * **Boss Fight - Yukari Yakumo (Lv66)**

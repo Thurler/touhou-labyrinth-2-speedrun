@@ -386,7 +386,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| 1800 Money | O |
+| 1800 Money | X |
 | 1880 Money | O |
 | Asura Blade | X |
 | Chario Boots | X |
@@ -397,7 +397,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Fragment of Mithril x2 | X |
 | Gambler's Proof | O |
 | Hero's Soul x2 | X |
-| Master's Emblem | O |
+| Master's Emblem | X |
 | Meteor Drive | O |
 | Modified Taser | X |
 | Portable Oscillation Cannon | X |
@@ -409,12 +409,12 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Stone of Awakening | O |
 | Stone of Awakening | X |
 | Tokyo Metronome | X |
-| Training Manual | O |
+| Training Manual | X |
 | Training Manual | X |
 | Ultrafast Granite Keystone | X |
 | Youkai Medal Shattering Axe | X |
-| Floor Total | 14 |
-| Combined Total | 157 |
+| Floor Total | 10 |
+| Combined Total | 137 |
 
 #### <a id="floor-16"></a>Floor 16
 
