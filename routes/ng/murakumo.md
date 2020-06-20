@@ -2123,12 +2123,6 @@
 		* <span class="equip-remove"> **Suwako**:</span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Marisa, Rin, Reisen(SPD), Iku </span>
-		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
-		* <span class="hakurei-item"> Use **Wisdom gems** on **Iku** </span>
-		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Iku** </span>
-		* <span class="hakurei-item"> Use **Training Manual x10** on **Iku** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi / Rin** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori / Satori** </span>
@@ -2139,6 +2133,12 @@
 		* <span class="magic-library"> **Rin**: SPD 0 -> 100 </span>
 		* <span class="magic-library"> **Iku**: SPD 50 -> 100 </span>
 		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+		* <span class="hakurei-shrine"> Marisa, Rin, Reisen(SPD), Iku </span>
+		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
+		* <span class="hakurei-item"> Use **Wisdom gems** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Iku** </span>
+		* <span class="hakurei-item"> Use **Training Manual x10** on **Iku** </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
 		* <span class="human-village"> Swap **Suwako -> Cirno** </span>
