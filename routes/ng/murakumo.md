@@ -2093,12 +2093,12 @@
 	* <span class="form-change"> Form Change: **Aya / Suwako / Yuyuko / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Tokyo Metronome** (1) </span>
+			* <span class="equip-add"> (M) **Tin Watering Can** (1) </span>
 * Enter the dungeon (19F)
 
 ![](img/murakumo/19-01-north.png)
 
-* When you deactivate the green orb, go back to Gensokyo and re-enter
+* When you reach 20F, follow the path:
 
 ![](img/murakumo/20-01-west.png)
 
