@@ -1683,6 +1683,7 @@
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Sanae / Kasen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Green Dream** (2) </span>
 		* <span class="equip-add"> **Kourin**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
@@ -1690,13 +1691,13 @@
 			* <span class="equip-add"> (2) **Rosebush Robe** (2) </span>
 			* <span class="equip-add"> (3) **Star World Bracelet** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
 			* <span class="equip-add"> (1) **Green Dream** (2) </span>
 		* <span class="equip-add"> **Rin**: </span>
 			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
-			* <span class="equip-add"> (2) **Getitup V** (4) </span>
+			* <span class="equip-add"> (2) **Bone Stake** (3) </span>
 			* <span class="equip-add"> (3) **Getitup V** (4) </span>
 			* <span class="equip-add"> (M) **Great Hammer** (2) </span>
 	* Learn Skills:
