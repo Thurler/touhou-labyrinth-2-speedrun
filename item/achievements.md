@@ -335,7 +335,6 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 79 | 11F | 100 chests get |
 | 54 | 12F | Materials |
 | 90 | 14F | 1000BP on Nitori |
-| 80 | 14F | 180 chests get |
 | 35 | 15F | Silver Mail FOE |
 | 05 | 16F | Escape with Aya |
 | 25 | 16F | Just enter the dungeon |
