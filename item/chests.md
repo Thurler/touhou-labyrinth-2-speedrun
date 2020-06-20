@@ -463,7 +463,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 3 |
-| Combined Total | 166 |
+| Combined Total | 146 |
 
 #### <a id="floor-18"></a>Floor 18
 
