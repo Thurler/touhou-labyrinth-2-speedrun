@@ -2246,10 +2246,6 @@
 		* <span class="subclass-add"> **Satori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Kourin**: HP/DEF/SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Nitori**: HP/DEF/SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Satori**: HP/DEF/SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Yuuka**: HP/SPD 50 -> 100 / DEF 0 -> 100 </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Reimu - HP </span>
 		* <span class="hakurei-shrine"> Kourin - HP </span>
@@ -2282,7 +2278,7 @@
 			* <span class="equip-add"> (3) **Intama** (2) </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (M) **Choice Scarf** (2) </span>
+			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 			* <span class="equip-add"> (1) **Megasphere** (5) </span>
 			* <span class="equip-add"> (2) **Megasphere** (5) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
@@ -2319,6 +2315,10 @@
 * Visit the following facilities to finish:
 	* <span class="nitori-shop"> **Nitori Shop**: Sell everything </span>
 	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-library"> **Kourin**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Nitori**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Satori**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Yuuka**: HP/SPD 50 -> 100 / DEF 0 -> 100 </span>
 		* <span class="magic-library"> **Parsee**: Spend all money on ATK </span>
 * Enter the dungeon (20F Depths)
 <hr>
@@ -2339,9 +2339,9 @@
 		* Can sacrifice Kasen for Guts
 		* Can sacrifice Aya if alive
 	* **Phase 3 - Jealousy**
-		* TRR reaches 1.0-1.25 million
-			* 1.0 million @ Trauma, Herb, +50%, -40%
-			* 1.25 million @ Herb, +50%, -40%
+		* TRR reaches 1.5-1.7 million (1 cinderforge)
+			* 1.5 million @ Trauma, Herb, +50%, -40%
+			* 1.7 million @ Herb, +50%, -40%
 		* Put Parsee in slot 4 and get Sanae to buff her
 			* Sacrificing Sanae is a good option
 		* Iku MUST debuff boss
