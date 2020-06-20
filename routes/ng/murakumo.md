@@ -105,10 +105,8 @@
 			* <span class="equip-remove"> (1, 2) **Remove**</span>
 		* <span class="equip-add"> **Momiji**:</span>
 			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
-			* <span class="equip-add"> (3) **Power Bracer** (1)</span>
 			* <span class="equip-add"> (1) **Purple Metallic Armor** (1)</span>
 		* <span class="equip-add"> **Marisa**:</span>
-			* <span class="equip-add"> (2) **Cantrip Book** (1)</span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Keine**: MP Boost 0 -> 2 </span>
@@ -217,7 +215,7 @@
 		* If Marisa gets TRR just spam Magic Missile
 	* Reimu and Rumia can also deal reliable damage
 	* For finer details see Chrysomallos' [Boss Info](../../enemy/chrysomallos.md)
-* Keep going up and take the north treasure in 1F, then exit the dungeon
+* Keep going up and take both treasures in 1F, then exit the dungeon
 
 ## <a id="Header-1-5"></a>Explore 2F (Part 2)
 
@@ -230,7 +228,7 @@
 			* <span class="equip-add"> (3) **DX Mechamonkey Model** (1)</span>
 			* <span class="equip-add"> (if no Exorcism) (2) **Crepe Mariette** (1)</span>
 		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (3) **Crepe Mariette** (1)</span>
+			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 7 -> 8 </span>
 * Level reference: Reimu 6
@@ -250,7 +248,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Momiji**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
-			* <span class="equip-add"> (2) **Sirloin** (3)</span>
+			* <span class="equip-add"> (3) **Sirloin** (3)</span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (3) **Bludgeon** (3)</span>
 		* <span class="equip-add"> **Reimu**: </span>
@@ -278,7 +276,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (2) **Glow Crystal** (3)</span>
+			* <span class="equip-add"> (3) **Glow Crystal** (3)</span>
 * Level reference: Reimu 9
 * Enter the dungeon (3F)
 
@@ -290,7 +288,7 @@
 * <span class="form-change"> Form Change: **Momiji / Kasen** </span>
 * **Boss Fight - Alaya-Vijnana (Lv11)**
 	* Yukari spams Shikigami: Ran Yakumo+
-	* Yuyuko spams Ghostly Dream's Butterfly, ends with Saigyouji Flawless Nirvana
+	* Yuyuko uses Ghostly Butterfly -> Attack -> Saigyouji Flawless Nirvana
 * Exit the dungeon back to Gensokyo
 
 ## <a id="Header-1-8"></a>Komachi Fight
@@ -298,7 +296,7 @@
 * Back at Gensokyo, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Forge Crepe Mariette, Piche's Bauble, whatever else you can </span>
+		* <span class="nitori-shop"> Forge whatever you can, start from bottom </span>
 		* <span class="nitori-shop"> Count how many forges you have, need 10 total on next trip </span>
 * Level reference: Reimu 10
 * Enter the dungeon (3F)
@@ -327,9 +325,9 @@
 	* <span class="form-change"> Form Change: **Momiji / Keine / Reimu / Nitori** </span>
 	* Equipment:
 		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (M) **Miko Board** (1)</span>
+			* <span class="equip-add"> (M) **Remove**</span>
 		* <span class="equip-add"> **Momiji**: </span>
-			* <span class="equip-add"> (3) **Courtesan's Sorrow** (3)</span>
+			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3)</span>
 		* <span class="equip-add"> **Keine**: </span>
 			* <span class="equip-add"> (3) **Heater Muffler** (2)</span>
 			* <span class="equip-add"> (2) **Gokiri's Charm** (2)</span>
@@ -342,18 +340,13 @@
 			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1)</span>
 			* <span class="equip-add"> (2) **Power Bracer** (1)</span>
 			* <span class="equip-add"> (3) **Wash Basin Set** (5)</span>
-		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (3) **Crepe Mariette** (1)</span>
-			* <span class="equip-add"> (2) **Piche's Bauble** (3)</span>
-			* <span class="equip-add"> (1) **Piche's Bauble** (3)</span>
 		* <span class="equip-add"> **Youmu**: </span>
-			* <span class="equip-add"> (1) **Bulletproof Armor** (1)</span>
+			* <span class="equip-add"> (3) **Bulletproof Armor** (1)</span>
 			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
-			* <span class="equip-add"> (3) **Piece of Heart** (1)</span>
+			* <span class="equip-add"> (1) **Piece of Heart** (1)</span>
 		* <span class="equip-add"> **Minoriko**: </span>
-			* <span class="equip-add"> (3) **Cantrip Book** (1)</span>
-			* <span class="equip-add"> (2) **Mana Flower** (1)</span>
-			* <span class="equip-add"> (1) **Crepe Mariette** (1)</span>
+			* <span class="equip-add"> (1) **Mana Flower** (1)</span>
+			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 1 -> 2 </span>
 		* <span class="learn-skill"> **Reimu**: Armored Yin-Yang Orb 0 -> 1 / MP Boost 0 -> 1 </span>
@@ -421,7 +414,6 @@
 
 ![](img/murakumo/04-01-explore.png)
 
-* After getting the 2 treasures on northwest, do red outline path
 * After reaching 5F, do the blue outline path
 * Before going down to 3F, farm until frontline is out of MP
 
@@ -438,8 +430,6 @@
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (2) **Light Crystal** (3) </span>
 			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
-		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (3) **Light Staff** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 2 -> 4 </span>
 		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 0 -> 1 </span>
@@ -544,7 +534,7 @@
 			* <span class="equip-add"> (2) **Crepe Mariette** (1) </span>
 			* <span class="equip-add"> (3) **Love Machine 3322** (2) </span>
 		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (if Kaguya drop) (2) **Glow Crystal** (3) </span>
+			* <span class="equip-add"> (if Kaguya drop) (3) **Glow Crystal** (3) </span>
 		* <span class="equip-add"> **Wriggle**: </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
@@ -747,8 +737,6 @@
 		* <span class="human-village"> Swap **Wriggle -> Mokou** </span>
 		* <span class="human-village"> Swap **Keine -> Utsuho** </span>
 		* <span class="human-village"> Unequip non-party characters </span>
-	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* Buy <span class="nitori-shop"> **Cypress Stick x1** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
 	* Equipment:
@@ -759,8 +747,7 @@
 			* <span class="equip-remove"> (only if no Komachi drop) (3) **Remove** </span>
 		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (1) **Cantrip Book** (1) </span>
-			* <span class="equip-add"> (2) **Mana Flower** (1) </span>
+			* <span class="equip-add"> (1) **Mana Flower** (1) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
 			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
@@ -791,7 +778,7 @@
 
 * When you're back, enter the dungeon (7F)
 
-![](img/murakumo/07-01-east.png)
+![](img/murakumo/07-01-west.png)
 
 * When you reach the destination, farm until wipe
 * Go back to Gensokyo and use this facility
@@ -802,18 +789,24 @@
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
 		* <span class="hakurei-shrine"> Mokou, Aya </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
-	* <span class="magic-library"> **Magic Library**:  </span>
-		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
+		* <span class="equip-add"> **Utsuho**: </span>
+			* <span class="equip-add"> (2) **Glow Crystal** (3) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (2) **Blade Cuisinart** (3) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
+		* <span class="equip-add"> **Mokou**: </span>
+			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 * Level reference: Nitori 22
 * Enter the dungeon (7F)
 
-![](img/murakumo/07-02-west.png)
+![](img/murakumo/07-02-east.png)
 
 * When you reach the destination, farm until wipe
 
@@ -827,22 +820,14 @@
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
 		* <span class="hakurei-shrine"> Mokou, Aya </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (2) **Energy Tank** (1) </span>
-		* <span class="equip-add"> **Utsuho**: </span>
-			* <span class="equip-add"> (3) **Glow Crystal** (3) </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (2) **Blade Cuisinart** (3) </span>
-		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
-		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (1) **Light Staff** (1) </span>
-		* <span class="equip-add"> **Mokou**: </span>
-			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Reimu**: Armored YinYang Orb 1 -> 2 </span>
 * Level reference: Nitori 24
@@ -885,19 +870,16 @@
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (3) **Card Ruler of Heavens** (2) </span>
 			* <span class="equip-add"> (2) **Hero's Medal** (4) </span>
-		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (1) **Pride** (4) </span>
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (3) **Ultrafast Keystone** (3) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (1) **Big Bang Woganizer** (4) </span>
 			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
-			* <span class="equip-add"> (3) **Symbol of Faith** (1) </span>
+			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
 		* <span class="equip-add"> **Keine**: </span>
 			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
-			* <span class="equip-add"> (2) **Crepe Mariette** (1) </span>
+			* <span class="equip-add"> (2) **Piece of Heart** (1) </span>
 			* <span class="equip-add"> (1) **Piece of Heart** (1) </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 		* <span class="equip-add"> **Kourin**: </span>
@@ -997,17 +979,10 @@
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
-![](img/murakumo/09-01-west-none.png)
+![](img/murakumo/09-01-west.png)
 
-* Re-enter the dungeon after you reach the northwest treasure
-
-![](img/murakumo/09-02-west-switch.png)
-
-* Follow the green paths after pressing the switch
 * When you reach the destination event go back to Gensokyo
-* When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Open the menu and take the following actions:
+* When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
@@ -1019,7 +994,7 @@
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
 
-![](img/murakumo/09-03-east.png)
+![](img/murakumo/09-02-east.png)
 
 * When you reach the destination farm until wipe
 
@@ -1065,9 +1040,9 @@
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **The Arch** (4) </span>
 		* <span class="equip-add"> **Reisen**: </span>
-			* <span class="equip-add"> (1) **Flipskirt Dagger** (3) </span>
+			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (2) **Pale Wing Thruster** (2) </span>
-			* <span class="equip-add"> (3) **Pale Wing Thruster** (2) </span>
+			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
@@ -1153,12 +1128,7 @@
 
 * After getting last treasure, farm until wipe
 * When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Rumia, Minoriko </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Aya, Kasen </span>
-		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters</span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
@@ -1177,7 +1147,12 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Cirno(SPD), Reisen </span>
+		* <span class="hakurei-shrine"> Reimu, Rumia </span>
+		* <span class="hakurei-shrine"> Cirno(SPD), Minoriko </span>
+		* <span class="hakurei-shrine"> Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee </span>
+		* <span class="hakurei-shrine"> Aya, Kasen </span>
+		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Keine** </span>
 		* <span class="human-village"> Swap **Parsee -> Cirno** </span>
@@ -1323,8 +1298,8 @@
 
 ![](img/murakumo/11-03-northeast.png)
 
-* When you reach the last treasure, re-enter the dungeon and follow red path
-* When you reach the 12F relay circle, farm until Nitori wipe on 11F
+* When you reach the 12F relay circle, re-enter the dungeon and get last treasure
+* When you reach the last treasure, farm until Nitori wipe
 
 ## <a id="Header-4-5"></a>Explore 12F
 
@@ -1341,7 +1316,7 @@
 
 ![](img/murakumo/12-01-west.png)
 
-* Once you get to the relay point, farm until Nitori wipe
+* Once you get to the relay point, go back to Gensokyo
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
@@ -1349,7 +1324,7 @@
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (3) **Lambda Driver** (4) </span>
+			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
 * Level reference: Nitori 39
 * Enter the dungeon (12F)
 
@@ -1361,7 +1336,7 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Change Aya bonus to HP </span>
+		* <span class="hakurei-shrine"> Aya(HP), Reisen </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi** </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -1440,7 +1415,6 @@
 		* <span class="learn-skill"> **Sanae**: Last Wish 0 -> 2 </span>
 		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 2 </span>
 		* <span class="learn-skill"> **Iku**: Enhanced Attack 0 -> 1 / Mind Body 0 -> 2 / Magic Beating 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
 * Level reference: Aya 40
 * Enter the dungeon (12F depths) and fight Tenshi
@@ -1510,7 +1484,7 @@
 
 ![](img/murakumo/14-01-east.png)
 
-* When you reach the closed area in 13F, farm until Nitori wipe
+* When you reach the relay circle, farm until Nitori wipe
 
 ## <a id="Header-5-3"></a>Memorized Knowledge Fight
 
@@ -1603,46 +1577,32 @@
 
 ![](img/murakumo/13-02-west.png)
 
-* After getting the 14F relay, leave and re-enter the dungeon on (13F)
-* Reset the temperature, leave and re-enter the dungeon on (14F center west)
-* After getting the two treasures, farm until Nitori wipe
+* After getting the 14F relay, farm until Nitori wipe
 
 ## <a id="Header-5-5"></a>Explore 14F (Part 2)
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Open the menu and take the following actions:
-	* Equipment:
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Blue Saber** (5) </span>
 * Level reference: Nitori 48
 * Enter the dungeon (14F center west)
 
 ![](img/murakumo/14-02-west.png)
 
-* When you reach the 15F relay, farm until Nitori wipe
+* When you reach the 15F relay, keep exploring!
 
 ## <a id="Header-5-6"></a>Explore 15F
 
-* When you're back, enter the dungeon (15F)
+* No need to re-enter the dungeon, just keep exploring:
 
-![](img/murakumo/15-01-yuyuko.png)
+![](img/murakumo/15-01-yuyuko-giant.png)
 
-* When you are back on 15F, leave and re-enter from (14F center west)
-* After getting the two treasures, farm until Nitori wipe
-* When you're back, enter the dungeon (15F)
+* When you are done, leave and re-enter from (15F Center)
 
-![](img/murakumo/15-02-giant.png)
+![](img/murakumo/15-02-dragon.png)
 
-* After getting the treasure in 13F, farm until Nitori wipe
-* When you're back, enter the dungeon (15F Center)
+* After fleeing from FOE, leave the dungeon and re-enter from (15F)
 
-![](img/murakumo/15-03-dragon.png)
-
-* After fleeing from FOE, farm until Nitori wipe
-* When you're back, enter the dungeon (15F)
-
-![](img/murakumo/15-04-final.png)
+![](img/murakumo/15-03-final.png)
 
 * After getting last treasure, return to Gensokyo
 
@@ -1695,7 +1655,7 @@
 * Level reference: Nitori 50
 * Do the Yuuka events (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
-![](img/murakumo/15-05-yuuka.png)
+![](img/murakumo/15-04-yuuka.png)
 
 * When you're done with all events, go back to Gensokyo
 * If Nitori isn't around Lv50, farm on 15F
@@ -1723,6 +1683,7 @@
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Sanae / Kasen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Green Dream** (2) </span>
 		* <span class="equip-add"> **Kourin**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
@@ -1730,13 +1691,13 @@
 			* <span class="equip-add"> (2) **Rosebush Robe** (2) </span>
 			* <span class="equip-add"> (3) **Star World Bracelet** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
 			* <span class="equip-add"> (1) **Green Dream** (2) </span>
 		* <span class="equip-add"> **Rin**: </span>
 			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
-			* <span class="equip-add"> (2) **Getitup V** (4) </span>
+			* <span class="equip-add"> (2) **Bone Stake** (3) </span>
 			* <span class="equip-add"> (3) **Getitup V** (4) </span>
 			* <span class="equip-add"> (M) **Great Hammer** (2) </span>
 	* Learn Skills:
@@ -1906,7 +1867,7 @@
 		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 1 -> 2 </span>
 * Enter the dungeon (15F)
 
-![](img/murakumo/15-06-yukari.png)
+![](img/murakumo/15-05-yukari.png)
 
 * When you get to the relay point, re-enter the dungeon and fight Yukari
 * **Boss Fight - Yukari Yakumo (Lv66)**
@@ -1949,9 +1910,12 @@
 * Enter the dungeon (16F)
 * From this point on, use Aya + Instant Attack to flee
 
-![](img/murakumo/16-01-firstloop.png)
+![](img/murakumo/16-01-explore.png)
 
-* When you reach the Glaive of Pain, leave to Gensokyo
+* When you reach the 17F relay point, go back to Gensokyo
+
+## <a id="Header-6-2"></a>Explore 17F (Part 1)
+
 * Once you're back in Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: </span>
 		* <span class="hakurei-item"> Use **Training Manual x7** on **Aya** </span>
@@ -1961,14 +1925,6 @@
 * Open the menu and take the following actions:
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Silent Melody 0 -> 3 / Melody Fortune 0 -> 1 / Dance Cochlea 0 -> 5 </span>
-* Enter the dungeon (16F)
-
-![](img/murakumo/16-02-secondloop.png)
-
-* When you reach the 17F relay point, go back to Gensokyo
-
-## <a id="Header-6-2"></a>Explore 17F (Part 1)
-
 * Enter the dungeon (17F)
 * Leave after getting the treasures on northwest and southwest ends
 
@@ -2055,11 +2011,11 @@
 
 ![](img/murakumo/17-02-final.png)
 
-* When you reach the 18F relay point, go back to Gensokyo
+* When you reach the 18F relay, keep exploring!
 
 ## <a id="Header-6-5"></a>Explore 18F
 
-* Enter the dungeon (18F)
+* No need to re-enter the dungeon, just keep exploring:
 
 ![](img/murakumo/18-01-orbs.png)
 
@@ -2137,12 +2093,12 @@
 	* <span class="form-change"> Form Change: **Aya / Suwako / Yuyuko / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Tokyo Metronome** (1) </span>
+			* <span class="equip-add"> (M) **Tin Watering Can** (1) </span>
 * Enter the dungeon (19F)
 
 ![](img/murakumo/19-01-north.png)
 
-* When you deactivate the green orb, go back to Gensokyo and re-enter
+* When you reach 20F, follow the path:
 
 ![](img/murakumo/20-01-west.png)
 
@@ -2167,12 +2123,6 @@
 		* <span class="equip-remove"> **Suwako**:</span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Marisa, Rin, Reisen(SPD), Iku </span>
-		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
-		* <span class="hakurei-item"> Use **Wisdom gems** on **Iku** </span>
-		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Iku** </span>
-		* <span class="hakurei-item"> Use **Training Manual x10** on **Iku** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi / Rin** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori / Satori** </span>
@@ -2183,6 +2133,12 @@
 		* <span class="magic-library"> **Rin**: SPD 0 -> 100 </span>
 		* <span class="magic-library"> **Iku**: SPD 50 -> 100 </span>
 		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+		* <span class="hakurei-shrine"> Marisa, Rin, Reisen(SPD), Iku </span>
+		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
+		* <span class="hakurei-item"> Use **Wisdom gems** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Iku** </span>
+		* <span class="hakurei-item"> Use **Training Manual x10** on **Iku** </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
 		* <span class="human-village"> Swap **Suwako -> Cirno** </span>
@@ -2290,10 +2246,6 @@
 		* <span class="subclass-add"> **Satori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Kourin**: HP/DEF/SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Nitori**: HP/DEF/SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Satori**: HP/DEF/SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Yuuka**: HP/SPD 50 -> 100 / DEF 0 -> 100 </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Reimu - HP </span>
 		* <span class="hakurei-shrine"> Kourin - HP </span>
@@ -2326,7 +2278,7 @@
 			* <span class="equip-add"> (3) **Intama** (2) </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (M) **Choice Scarf** (2) </span>
+			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 			* <span class="equip-add"> (1) **Megasphere** (5) </span>
 			* <span class="equip-add"> (2) **Megasphere** (5) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
@@ -2363,6 +2315,10 @@
 * Visit the following facilities to finish:
 	* <span class="nitori-shop"> **Nitori Shop**: Sell everything </span>
 	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-library"> **Kourin**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Nitori**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Satori**: HP/DEF/SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Yuuka**: HP/SPD 50 -> 100 / DEF 0 -> 100 </span>
 		* <span class="magic-library"> **Parsee**: Spend all money on ATK </span>
 * Enter the dungeon (20F Depths)
 <hr>
@@ -2383,9 +2339,9 @@
 		* Can sacrifice Kasen for Guts
 		* Can sacrifice Aya if alive
 	* **Phase 3 - Jealousy**
-		* TRR reaches 1.0-1.25 million
-			* 1.0 million @ Trauma, Herb, +50%, -40%
-			* 1.25 million @ Herb, +50%, -40%
+		* TRR reaches 1.5-1.7 million (1 cinderforge)
+			* 1.5 million @ Trauma, Herb, +50%, -40%
+			* 1.7 million @ Herb, +50%, -40%
 		* Put Parsee in slot 4 and get Sanae to buff her
 			* Sacrificing Sanae is a good option
 		* Iku MUST debuff boss

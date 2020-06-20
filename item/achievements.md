@@ -304,7 +304,6 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 31 | 2F | Beat Chrysomallos |
 | 01 | 3F | Grinding on 3F |
 | 24 | 3F | Just enter the dungeon |
-| 56 | 3F | Sub Equips |
 | 77 | 3F | 30 chests get |
 | 52 | 3F | Materials |
 | 83 | 3F | Recruit Nitori |
@@ -312,38 +311,37 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 84 | 3F | Recruit Nitori |
 | 48 | 3F | Reimu Lv10 |
 | 44 | 3F | Komachi is the 12th character |
+| 56 | 4F | Sub Equips |
 | 39 | 5F | Unique monsters for Aya |
-| 63 | 5F | Item Drops are inconsistent, but this sucks anyyay |
+| 63 | 5F | Item Drops are inconsistent, but this sucks anyway |
 | 67 | 5F | Hina shopping for Symbol of Faith |
 | 02 | 6F | Grinding on 6F |
-| 13 | 6F | Main Equips |
 | 29 | 6F | Subclass get |
-| 78 | 6F | 60 chests get |
 | 53 | 6F | Materials are inconsistent, but we only need this on 15F |
 | 19 | 7F | Grinding on 7F |
 | 87 | 7F | Grinding on 7F |
-| 75 | 7F | Exploring 7F Part 2 |
+| 78 | 7F | 60 chests get |
 | 82 | 7F | Open locked chest |
 | 09 | 8F | Just play the game |
-| 57 | 8F | Sub Equips |
-| 79 | 8F | 100 chests get |
+| 75 | 8F | Exploring 7F Part 2 |
 | 26 | 8F | Boost before Iku fight |
 | 45 | 8F | Iku is the 24th character |
+| 13 | 8F | Main Equips |
+| 57 | 9F | Sub Equips |
 | 49 | 9F | Chen Lv30 |
 | 61 | 9F | Boost before Tenshi fight |
 | 40 | 10F | Unique monsters |
 | 60 | 11F | Grinding on 11F |
-| 14 | 11F | Main Equips |
-| 52 | 12F | Materials |
-| 58 | 14F | Sub Equips |
+| 79 | 11F | 100 chests get |
+| 54 | 12F | Materials |
 | 90 | 14F | 1000BP on Nitori |
-| 80 | 14F | 180 chests get |
 | 35 | 15F | Silver Mail FOE |
+| 14 | 15F | Main Equips are inconsistent, don't count on this |
 | 05 | 16F | Escape with Aya |
-| 25 | 16F | Just enter the dungeon |
+| 25 | 18F | Just enter the dungeon |
+| 58 | 18F | Sub Equips are inconsistent, don't count on this |
 | 41 | 18F | Unique monsters |
-| 81 | 20F | Exactly 256 chests before mirror |
-| 20 | 20F | Reset money before mirror |
+| 20 | 20F | Reset money before final boss |
 | 27 | 20F | Upgrade stats before final boss |
 | 70 | 20F | Sell before boss |
 | 71 | 20F | Sell before boss |
