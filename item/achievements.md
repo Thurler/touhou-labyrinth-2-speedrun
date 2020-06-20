@@ -336,6 +336,7 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 54 | 12F | Materials |
 | 90 | 14F | 1000BP on Nitori |
 | 35 | 15F | Silver Mail FOE |
+| 14 | 15F | Main Equips are inconsistent, don't count on this|
 | 05 | 16F | Escape with Aya |
 | 25 | 16F | Just enter the dungeon |
 | 58 | 18F | Sub Equips are inconsistent, don't count on this |
