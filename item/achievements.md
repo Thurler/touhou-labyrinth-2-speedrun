@@ -333,13 +333,13 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 40 | 10F | Unique monsters |
 | 60 | 11F | Grinding on 11F |
 | 79 | 11F | 100 chests get |
-| 58 | 14F | Sub Equips |
 | 54 | 12F | Materials |
 | 90 | 14F | 1000BP on Nitori |
 | 80 | 14F | 180 chests get |
 | 35 | 15F | Silver Mail FOE |
 | 05 | 16F | Escape with Aya |
 | 25 | 16F | Just enter the dungeon |
+| 58 | 18F | Sub Equips are inconsistent, don't count on this |
 | 41 | 18F | Unique monsters |
 | 81 | 20F | Exactly 256 chests before mirror |
 | 20 | 20F | Reset money before mirror |
