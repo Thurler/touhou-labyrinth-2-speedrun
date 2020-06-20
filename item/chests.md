@@ -47,19 +47,19 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Magic Gem x2<br>Energy Gem x2 | X |
 | Bludgeon | O |
 | Bulletproof Armor | O |
-| Cantrip Book | O |
+| Cantrip Book | X |
 | Cypress Stick | O |
 | Great Tree's Leaf | O |
 | Insect's Exoskeleton | O |
 | Items Discovery Weekly | O |
 | Lucky Horseshoe | O |
 | Manga Meat | O |
-| Miko Board | O |
+| Miko Board | X |
 | Piece of Heart | O |
-| Power Bracer | O |
-| Steadfast Ring | O |
-| Floor Total | 14 |
-| Combined Total | 14 |
+| Power Bracer | X |
+| Steadfast Ring | X |
+| Floor Total | 10 |
+| Combined Total | 10 |
 
 #### <a id="floor-2"></a>Floor 2
 
@@ -69,20 +69,20 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Concept of Attributes | O |
 | Crepe Mariette | O |
 | Crepe Mariette | O |
-| Energy Gem | O |
-| Eyetrack Orbitars | O |
+| Energy Gem | X |
+| Eyetrack Orbitars | X |
 | Fairy's Soul | O |
 | Goriki's Charm | O |
 | Light Crystal | O |
 | Oni's Panties x2 | O |
-| Piche's Bauble | O |
-| Poison Resistance Ring | O |
+| Piche's Bauble | X |
+| Poison Resistance Ring | X |
 | Rosebush Robe | O |
 | Sirloin | O |
 | Training Manual | O |
-| Two Face's Coin | O |
-| Floor Total | 16 |
-| Combined Total | 30 |
+| Two Face's Coin | X |
+| Floor Total | 11 |
+| Combined Total | 21 |
 
 #### <a id="floor-3"></a>Floor 3
 
@@ -104,7 +104,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Swiftness Gem | O |
 | Tome of Reincarnation | O |
 | Floor Total | 12 |
-| Combined Total | 42 |
+| Combined Total | 33 |
 
 #### <a id="floor-4"></a>Floor 4
 
@@ -114,23 +114,23 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tin Watering Can x2<br>Source of Magic x2<br>Strange Meat Pie | X |
 | 1000 Money | X |
 | Bone Stake | O |
-| Chargin' Targe | O |
+| Chargin' Targe | X |
 | Choice Scarf | X |
 | Getitup V | O |
 | Heater Muffler | O |
 | Kazu's Amulet | X |
-| Light Staff | O |
+| Light Staff | X |
 | LOVE Machine 3322 | O |
 | Magic Bird's Crest x4 | X |
 | Midnight Oil Set | X |
 | Nitroglycerin | X |
 | Steadfast Ring | X |
 | Strange Mechanical Part x2 | X |
-| Sword of Singing Delusion | O |
+| Sword of Singing Delusion | X |
 | Ultrafast Granite Keystone | O |
 | Violet Green Rupee | O |
-| Floor Total | 9 |
-| Combined Total | 51 |
+| Floor Total | 6 |
+| Combined Total | 39 |
 
 #### <a id="floor-5"></a>Floor 5
 
@@ -141,17 +141,17 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Concept of Everything x2 | X |
 | Eternal Ice x2 | X |
 | Flipskirt Dagger | O |
-| Heater Muffler | O |
+| Heater Muffler | X |
 | Kazu's Amulet | X |
 | Magic Gem x2 | X |
-| Misterepulsion | O |
-| Piece of Magic Armor x2 | O |
+| Misterepulsion | X |
+| Piece of Magic Armor x2 | X |
 | Purifying Amulet x2 | X |
 | Shoes of Happiness | O |
 | Water Cutting Sword | X |
 | Yamabiko Necklace | X |
-| Floor Total | 7 |
-| Combined Total | 58 |
+| Floor Total | 4 |
+| Combined Total | 43 |
 
 #### <a id="floor-6"></a>Floor 6
 
@@ -161,36 +161,36 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Blade Cuisinart | O |
 | Bone Stake | O |
 | Bottle of Hyperspace | O |
-| Concept of Everything x2 | O |
-| Energy Gem | O |
+| Concept of Everything x2 | X |
+| Energy Gem | X |
 | Fighter's Soul x2 | O |
 | First Aid Kit | O |
-| Goriki's Charm | O |
+| Goriki's Charm | X |
 | Intama | O |
 | Lapis Lazuli Light x2 | O |
 | Lv70 Lover Snapper's Scale | O |
 | Pale Wing Thruster | O |
-| Purple Dragon Crystal | O |
+| Purple Dragon Crystal | X |
 | Stone of Awakening | O |
-| Floor Total | 14 |
-| Combined Total | 72 |
+| Floor Total | 10 |
+| Combined Total | 53 |
 
 #### <a id="floor-7"></a>Floor 7
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Elixir of Mages<br>Asura Blade<br>Tome of Insight - AFF<br>Tome of Insight - RES | O |
-| 1000 Money | O |
-| Booster v0.8 | O |
+| 1000 Money | X |
+| Booster v0.8 | X |
 | Card [Ruler of Heavens] | O |
 | Energy Tank | O |
 | Glow Crystal | O |
-| Great Tree's Sap x2 | O |
+| Great Tree's Sap x2 | X |
 | Green Dream | O |
-| Light Staff | O |
+| Light Staff | X |
 | Luster Candy | O |
 | Nitroglycerin | X |
-| Piece of Alexandrite x2 | O |
+| Piece of Alexandrite x2 | X |
 | Shoes of Happiness | O |
 | Stone of Awakening | O |
 | Stormy Selenite x2 | X |
@@ -199,38 +199,38 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Super-Hard Rye Bread | O |
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
-| Floor Total | 15 |
-| Combined Total | 87 |
+| Floor Total | 10 |
+| Combined Total | 63 |
 
 #### <a id="floor-8"></a>Floor 8
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Items Discovery Weekly x3<br>Growth Egg<br>Violent Green Rupee<br>Glaive of Pain | O |
-| 720 Money | O |
+| 720 Money | X |
 | 788 Money | O |
 | 880 Money | O |
 | Big Bang Waganizer | O |
 | Biggest Sword Ever | O |
 | Chario Boots | O |
 | Chitin Shell x5 | X |
-| Damascus Shield | O |
-| Flipskirt Dagger | O |
+| Damascus Shield | X |
+| Flipskirt Dagger | X |
 | Hero's Medal | O |
 | Lambda Driver | O |
-| Lapis Lazuli Light | O |
-| Magic Iron Shield | O |
+| Lapis Lazuli Light | X |
+| Magic Iron Shield | X |
 | Magician's Proof | O |
 | Mana Flower | O |
-| Piche's Bauble x2 | O |
+| Piche's Bauble x2 | X |
 | Recovery Armband | X |
 | Spellbook - High Hurricane | O |
 | Stone of Awakening | O |
 | Symbol of Faith | O |
 | Treasure Chest Key | O |
-| Ultrafast Granite Keystone | O |
-| Floor Total | 21 |
-| Combined Total | 108 |
+| Ultrafast Granite Keystone | X |
+| Floor Total | 14 |
+| Combined Total | 77 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -242,34 +242,34 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Card [Ruler of Heavens] | X |
 | Century's Jacket | O |
 | Diva's Apron | O |
-| Happy Hat | O |
+| Happy Hat | X |
 | Luster Candy | O |
 | Pale Wing Thruster | O |
-| Purifying Amulet x2 | O |
-| Purple Metallic Armor | O |
-| Scouter | O |
+| Purifying Amulet x2 | X |
+| Purple Metallic Armor | X |
+| Scouter | X |
 | Stone of Awakening | O |
-| T-45d Power Armor | O |
+| T-45d Power Armor | X |
 | The Arch | O |
 | Treasure Chest Key | O |
 | Water Cutting Sword | O |
 | Youkai's Fire Blowgun x2 | X |
-| Floor Total | 16 |
-| Combined Total | 124 |
+| Floor Total | 11 |
+| Combined Total | 88 |
 
 #### <a id="floor-10"></a>Floor 10
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Midnight Oil Set x3<br>Purple Orb x3<br>Fighting Gem x3<br>Forbidden Tablet | O |
-| 960 Money | O |
+| 960 Money | X |
 | Button of Aegis | O |
-| Demon Core | O |
+| Demon Core | X |
 | Elixir of Mages | X |
 | Frozen Eyes | X |
 | Getitup V | O |
 | Glittering Jewel x2 | X |
-| Grand Dragon Medal | O |
+| Grand Dragon Medal | X |
 | Herbalist's Proof | O |
 | Lv70 Lover Snapper's Scale | X |
 | Midgard's Tooth | X |
@@ -279,8 +279,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Stone of Awakening | O |
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
-| Floor Total | 11 |
-| Combined Total | 135 |
+| Floor Total | 8 |
+| Combined Total | 96 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -289,132 +289,132 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Midnight Oil Set x3<br>Swiftness Gem x3<br>Tome of Reincarnation x3<br>Meteor Drive | O |
 | 1200 Money | O |
 | 1280 Money | O |
-| Century's Jacket | O |
-| Chargin' Targe | O |
-| Fighter's Soul x3 | O |
+| Century's Jacket | X |
+| Chargin' Targe | X |
+| Fighter's Soul x3 | X |
 | Forbidden Tablt | O |
 | Glaive of Pain | O |
 | Great Hammer | O |
 | HQ Sake Deer | X |
-| Lapis Lazuli Light x2 | O |
-| Pride | O |
+| Lapis Lazuli Light x2 | X |
+| Pride | X |
 | Purple Orb | O |
-| Scouter | O |
-| Shining Black Stone x2 | O |
+| Scouter | X |
+| Shining Black Stone x2 | X |
 | Stone of Awakening | O |
 | Strange Meat Pie | O |
 | The Arch | O |
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
-| Floor Total | 19 |
-| Combined Total | 154 |
+| Floor Total | 12 |
+| Combined Total | 108 |
 
 #### <a id="floor-12"></a>Floor 12
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Tome of Insight - EVA x2<br>Tome of Insight - ACC x2<br>Tome of Insight - AFF x2<br>Olzhas Shamshir x2 | O |
-| 1500 Money | O |
-| Blade Cuisinart | O |
-| Damascus Shield | O |
+| 1500 Money | X |
+| Blade Cuisinart | X |
+| Damascus Shield | X |
 | Energy Pack | O |
 | Grand Dragon Medal | X |
 | Growth Egg | O |
 | Lambda Driver | O |
 | Love Machine 3322 | X |
-| Priest's Crystal Ball x3 | O |
+| Priest's Crystal Ball x3 | X |
 | Pure HQ Sake Butterfly | X |
-| Reflex Booster Augment | O |
-| Shinai of Spirits | O |
+| Reflex Booster Augment | X |
+| Shinai of Spirits | X |
 | Stone of Awakening | O |
 | Strategist's Proof | O |
-| Tisiphone Edge | O |
+| Tisiphone Edge | X |
 | Training Manual | O |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
-| Floor Total | 16 |
-| Combined Total | 170 |
+| Floor Total | 9 |
+| Combined Total | 117 |
 
 #### <a id="floor-13"></a>Floor 13
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Wash Basin Set<br>Master's Emblem<br>Life Gem x4 | O |
-| Azure Light x2 | O |
-| Big Bang Waganizer | O |
-| Button of Aegis | O |
-| Button of Aegis | O |
+| Azure Light x2 | X |
+| Big Bang Waganizer | X |
+| Button of Aegis | X |
+| Button of Aegis | X |
 | Courtesan's Sorrow | X |
 | Drum | X |
-| Eternal Ice x3 | O |
+| Eternal Ice x3 | X |
 | Jogurt Doll | O |
 | Love Machine 3322 | X |
-| Pale Wing Thruster | O |
-| Pride | O |
+| Pale Wing Thruster | X |
+| Pride | X |
 | T-45d Power Armor | X |
-| Training Manual | O |
-| Floor Total | 10 |
-| Combined Total | 180 |
+| Training Manual | X |
+| Floor Total | 2 |
+| Combined Total | 119 |
 
 #### <a id="floor-14"></a>Floor 14
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | War Mask of the Butcher<br>Divine Barrier<br>Fighting Gem x3<br>Protection Gem x3 | O |
-| Choice Scarf | O |
-| Courtesan's Sorrow | O |
+| Choice Scarf | X |
+| Courtesan's Sorrow | X |
 | Dark Magic Grimoire | O |
-| Demon Core | O |
+| Demon Core | X |
 | Excorising Staff | X |
 | First Aid Kit | O |
 | Forbidden Tablet | O |
-| Insect's Rainbow Wings x2 | O |
+| Insect's Rainbow Wings x2 | X |
 | Intama | O |
 | Kalar's Crystal | X |
 | Micron's Magic Book | O |
-| Mysterious Structure x2 | O |
+| Mysterious Structure x2 | X |
 | Nosferatu Tome | X |
 | Reinforced Leather Armor | X |
-| The Bee | O |
+| The Bee | X |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
-| Wisdom Gem | O |
-| Floor Total | 15 |
-| Combined Total | 195 |
+| Wisdom Gem | X |
+| Floor Total | 8 |
+| Combined Total | 127 |
 
 #### <a id="floor-15"></a>Floor 15
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| 1800 Money | O |
+| 1800 Money | X |
 | 1880 Money | O |
-| Asura Blade | O |
-| Chario Boots | O |
+| Asura Blade | X |
+| Chario Boots | X |
 | Dark Magic Grimoire | O |
 | Dark Will | O |
 | Energy Pack | O |
 | First Aid Kit | O |
-| Fragment of Mithril x2 | O |
+| Fragment of Mithril x2 | X |
 | Gambler's Proof | O |
 | Hero's Soul x2 | X |
-| Master's Emblem | O |
+| Master's Emblem | X |
 | Meteor Drive | O |
 | Modified Taser | X |
-| Portable Oscillation Cannon | O |
-| Purple Orb | O |
+| Portable Oscillation Cannon | X |
+| Purple Orb | X |
 | Ribbon | X |
 | Star of Elendil | X |
 | Star World Bracelet | O |
 | Stone of Awakening | O |
 | Stone of Awakening | O |
 | Stone of Awakening | X |
-| Tokyo Metronome | O |
-| Training Manual | O |
-| Training Manual | O |
-| Ultrafast Granite Keystone | O |
+| Tokyo Metronome | X |
+| Training Manual | X |
+| Training Manual | X |
+| Ultrafast Granite Keystone | X |
 | Youkai Medal Shattering Axe | X |
-| Floor Total | 21 |
-| Combined Total | 216 |
+| Floor Total | 10 |
+| Combined Total | 137 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -423,47 +423,47 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Astral Dominae<br>Tome of Reincarnation x4<br>Magic Gem x3<br>Wisdom Gem x3 | O |
 | 2000 Money | O |
 | 2140 Money | O |
-| Asura Blade | O |
-| Celestial's Hagoromo x2 | O |
+| Asura Blade | X |
+| Celestial's Hagoromo x2 | X |
 | Diva's Proof | O |
-| Divine Barrier | O |
-| Drum | O |
+| Divine Barrier | X |
+| Drum | X |
 | Elixir of Mages | X |
 | Getitup V | X |
-| Glaive of Pain | O |
-| Kalar's Crystal | O |
+| Glaive of Pain | X |
+| Kalar's Crystal | X |
 | Pride | X |
 | Primal Armor | X |
-| Star World Bracelet | O |
-| Tome of Insight - MP | O |
+| Star World Bracelet | X |
+| Tome of Insight - MP | X |
 | Tome of Reincarnation | O |
 | Treasure Chest Key | O |
-| Wash Basin Set | O |
-| Floor Total | 15 |
-| Combined Total | 231 |
+| Wash Basin Set | X |
+| Floor Total | 6 |
+| Combined Total | 143 |
 
 #### <a id="floor-17"></a>Floor 17
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| 2250 Money | O |
+| 2250 Money | X |
 | 2500 Money | X |
 | Big Bang Waganizer | X |
 | Dark Magic Grimoire | X |
 | Excorising Staff | X |
 | Experimental MIRV | X |
-| Glaive of Pain | O |
-| Growth Egg | O |
+| Glaive of Pain | X |
+| Growth Egg | X |
 | Luster Candy | X |
 | Meteor Drive | O |
-| Olzhas Shamshir | O |
+| Olzhas Shamshir | X |
 | Tome of Insight - HP | X |
-| Training Manual | X |
+| Training Manual | O |
 | Wallbreaker Armband | O |
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
-| Floor Total | 6 |
-| Combined Total | 237 |
+| Floor Total | 3 |
+| Combined Total | 146 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -471,7 +471,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 | Orb of Earithin<br>Training Manual x5<br>Swiftness Gem x5 | O |
 | 3200 Money | X |
-| Asura Blade | O |
+| Asura Blade | X |
 | Demon Core | X |
 | Divine Barrier | X |
 | Full Custom | O |
@@ -484,8 +484,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tokyo Metronome | X |
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
-| Floor Total | 7 |
-| Combined Total | 244 |
+| Floor Total | 6 |
+| Combined Total | 152 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -499,9 +499,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Intama | O |
 | Life Gem x2 | X |
 | Master's Emblem | X |
-| Micron's Magic Book | O |
-| Nosferatu Tome | O |
-| Portable Oscillation Cannon | O |
+| Micron's Magic Book | X |
+| Nosferatu Tome | X |
+| Portable Oscillation Cannon | X |
 | Rainbow Light x2 | X |
 | Ribbon | X |
 | Shining Dragon's Soul x2 | X |
@@ -512,16 +512,16 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Violent Green Rupee | X |
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
-| Floor Total | 9 |
-| Combined Total | 253 |
+| Floor Total | 6 |
+| Combined Total | 158 |
 
 #### <a id="floor-20"></a>Floor 20
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Megasphere<br>Grand Master Breaker Title<br>Tome of Insight - AFF x2<br>Tome of Insight - RES x2 | O |
-| 6000 Money | O |
-| 6500 Money | O |
+| 6000 Money | X |
+| 6500 Money | X |
 | Cinderforge Sword | X |
 | Energy Gem | X |
 | Experimental MIRV | X |
@@ -540,8 +540,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Wash Basin Set | X |
 | Wisdom Gem | X |
-| Floor Total | 5 |
-| Combined Total | 258 |
+| Floor Total | 3 |
+| Combined Total | 161 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
