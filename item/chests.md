@@ -440,7 +440,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Wash Basin Set | X |
 | Floor Total | 6 |
-| Combined Total | 163 |
+| Combined Total | 143 |
 
 #### <a id="floor-17"></a>Floor 17
 
