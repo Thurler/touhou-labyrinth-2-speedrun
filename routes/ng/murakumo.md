@@ -1910,9 +1910,12 @@
 * Enter the dungeon (16F)
 * From this point on, use Aya + Instant Attack to flee
 
-![](img/murakumo/16-01-firstloop.png)
+![](img/murakumo/16-01-explore.png)
 
-* When you reach the Glaive of Pain, leave to Gensokyo
+* When you reach the 17F relay point, go back to Gensokyo
+
+## <a id="Header-6-2"></a>Explore 17F (Part 1)
+
 * Once you're back in Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: </span>
 		* <span class="hakurei-item"> Use **Training Manual x7** on **Aya** </span>
@@ -1922,14 +1925,6 @@
 * Open the menu and take the following actions:
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Silent Melody 0 -> 3 / Melody Fortune 0 -> 1 / Dance Cochlea 0 -> 5 </span>
-* Enter the dungeon (16F)
-
-![](img/murakumo/16-02-secondloop.png)
-
-* When you reach the 17F relay point, go back to Gensokyo
-
-## <a id="Header-6-2"></a>Explore 17F (Part 1)
-
 * Enter the dungeon (17F)
 * Leave after getting the treasures on northwest and southwest ends
 
