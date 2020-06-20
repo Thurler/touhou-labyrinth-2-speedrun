@@ -338,7 +338,7 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 35 | 15F | Silver Mail FOE |
 | 14 | 15F | Main Equips are inconsistent, don't count on this|
 | 05 | 16F | Escape with Aya |
-| 25 | 16F | Just enter the dungeon |
+| 25 | 18F | Just enter the dungeon |
 | 58 | 18F | Sub Equips are inconsistent, don't count on this |
 | 41 | 18F | Unique monsters |
 | 81 | 20F | Exactly 256 chests before mirror |
