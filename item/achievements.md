@@ -341,7 +341,7 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 25 | 18F | Just enter the dungeon |
 | 58 | 18F | Sub Equips are inconsistent, don't count on this |
 | 41 | 18F | Unique monsters |
-| 20 | 20F | Reset money before mirror |
+| 20 | 20F | Reset money before final boss |
 | 27 | 20F | Upgrade stats before final boss |
 | 70 | 20F | Sell before boss |
 | 71 | 20F | Sell before boss |
