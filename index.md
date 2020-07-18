@@ -17,18 +17,20 @@ These are links to the routes for each category. Runs that haven't been routed a
 
 ### New Game
 * [Ame-no-Murakumo](routes/ng/murakumo.md)
+* ~~Ame-no-Murakumo (Hard mode)~~
 * ~~Enhanced Ame-no-Murakumo~~
 * ~~All Achievements~~
 * ~~Yamata-no-Orochi~~
-* ~~True Dragon God~~
+* ~~Full Power Dragon God~~
 * ~~All Plus Achievements~~
 
 ### New Game+
 * ~~Ame-no-Murakumo~~
+* ~~Ame-no-Murakumo (Hard mode)~~
 * ~~Enhanced Ame-no-Murakumo~~
 * ~~All Achievements~~
 * ~~Yamata-no-Orochi~~
-* ~~True Dragon God~~
+* ~~Full Power Dragon God~~
 * ~~All Plus Achievements~~
 
 ## <a id="character-info"></a>Character Data and Information
