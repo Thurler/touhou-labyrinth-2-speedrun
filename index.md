@@ -189,13 +189,12 @@ This section talks about speedrun data and information. If you want game-specifi
 ## <a id="item-info"></a>Item Data and Information
 
 #### Special Items
-* [Treasure Chest Keys](item/keys.md)
-* [Stones of Awakening](item/subclass.md)
+* [Treasure Chest Keys and Locked Chests](item/lockedchest.md)
+* [Subclasses and Stones of Awakening](item/subclass.md)
 
 #### Equipment
-* [Main Equipments](item/main.md)
-* [Sub Equipments](item/sub.md)
-* [Materials](item/material.md)
+* [Useful Equipment](item/equipment.md)
+* [Materials and Crafting](item/material.md)
 
 #### Miscellaneous
 * [Enemy Drop Rates](item/drop.md)
