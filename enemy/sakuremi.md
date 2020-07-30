@@ -89,6 +89,8 @@ Sakuya and Remilia block your way to the 11F stairs, and are one of the only man
 	* Powerful single target PHY spell targetting DEF, expect very high damage
 * **Curse of Vlad Tepes**
 	* Self ATK/DEF/MAG/MND buff, very easy to dispel these thanks to her low DBF resistance
+* **Blood Drain**
+	* Self ATK/DEF/MAG/MND buff to her AND Sakuya, also halves Sakuya's current HP
 
 ## <a id="strats"></a>Strategies
 
