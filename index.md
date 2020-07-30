@@ -17,18 +17,20 @@ These are links to the routes for each category. Runs that haven't been routed a
 
 ### New Game
 * [Ame-no-Murakumo](routes/ng/murakumo.md)
+* ~~Ame-no-Murakumo (Hard mode)~~
 * ~~Enhanced Ame-no-Murakumo~~
 * ~~All Achievements~~
 * ~~Yamata-no-Orochi~~
-* ~~True Dragon God~~
+* ~~Full Power Dragon God~~
 * ~~All Plus Achievements~~
 
 ### New Game+
 * ~~Ame-no-Murakumo~~
+* ~~Ame-no-Murakumo (Hard mode)~~
 * ~~Enhanced Ame-no-Murakumo~~
 * ~~All Achievements~~
 * ~~Yamata-no-Orochi~~
-* ~~True Dragon God~~
+* ~~Full Power Dragon God~~
 * ~~All Plus Achievements~~
 
 ## <a id="character-info"></a>Character Data and Information
@@ -187,13 +189,12 @@ This section talks about speedrun data and information. If you want game-specifi
 ## <a id="item-info"></a>Item Data and Information
 
 #### Special Items
-* [Treasure Chest Keys](item/keys.md)
-* [Stones of Awakening](item/subclass.md)
+* [Treasure Chest Keys and Locked Chests](item/lockedchest.md)
+* [Subclasses and Stones of Awakening](item/subclass.md)
 
 #### Equipment
-* [Main Equipments](item/main.md)
-* [Sub Equipments](item/sub.md)
-* [Materials](item/material.md)
+* [Useful Equipment](item/equipment.md)
+* [Materials and Crafting](item/material.md)
 
 #### Miscellaneous
 * [Enemy Drop Rates](item/drop.md)
@@ -206,6 +207,6 @@ This section talks about speedrun data and information. If you want game-specifi
 
 | Time | IGT | Runner | Category | Video | Date | Description |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 7h55m45s | 7h34m39s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/watch?v=Vmth3MR2QII) | Jun. 06 2020 | Current WR for category |
+| 6h47m43s | 6h21m35s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/watch?v=xhx1f6tf7SA) | Jul. 17 2020 | Current WR for category |
 | 9h56m38s | 9h03m20s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/watch?v=Pa1MW8tVAVw) | Jan. 25 2020 | First single segment run for category |
 | 9h55m00s | 9h16m15s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/playlist?list=PL3eHe2wxlYthwfDU034a04rrQhHcN_bQ5) | Jan. 24 2020 | Segmented run used as a proof of concept for the route |
