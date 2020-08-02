@@ -21,7 +21,7 @@ Silver Mail is one of the 10F FOE you can choose to fight. It guards the Herbali
 * Odd turns:
 	* Concentrate
 * Even turns:
-	* Flowing Hellfire
+	* Wild Dance Of Freezing Mist
 
 ## <a id="attacks"></a>Attack List
 
@@ -37,6 +37,6 @@ Since it is so easy to keep the boss in permanent SHK, we spam Rin's Cat Walk to
 * Rin spams Cat's Walk
 * Nitori spams Super Scope 3D
 * Kasen spams Higekiri's Cursed Arm
-* Chen uses Kimontonkou then spams Pheonix Spread Wings
+* Chen uses Kimontonkou then spams Phoenix Spread Wings
 
 [Back to index page](../index.md)

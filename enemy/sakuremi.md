@@ -75,7 +75,7 @@ Sakuya and Remilia block your way to the 11F stairs, and are one of the only man
 * **Private Square**
 	* AoE spell that simply inflicts unresistable PAR to everyone, completely broken
 * **Lunar Clock**
-	* Self SPD buff, can make her berserk phase a nightmare to deal with
+	* Self SPD buff by 66%, can make her berserk phase a nightmare to deal with
 
 ## <a id="attacks-remilia"></a>Attack List - Remilia
 
@@ -88,7 +88,9 @@ Sakuya and Remilia block your way to the 11F stairs, and are one of the only man
 * **Spear the Gungnir**
 	* Powerful single target PHY spell targetting DEF, expect very high damage
 * **Curse of Vlad Tepes**
-	* Self ATK/DEF/MAG/MND buff, very easy to dispel these thanks to her low DBF resistance
+	* Self ATK/DEF/MAG/MND buff by 50%, very easy to dispel these thanks to her low DBF resistance
+* **Blood Drain**
+	* Self ATK/DEF/MAG/MND buff to her AND Sakuya, also halves Sakuya's current HP
 
 ## <a id="strats"></a>Strategies
 

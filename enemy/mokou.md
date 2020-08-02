@@ -52,7 +52,7 @@ Mokou is an optional boss fight that continues the Eientei side quest. She has a
 * **Fire Bird -Flying Phoenix-**
 	* FIR spell targetting DEF, moderate damage
 * **Tsuki no Iwakasa's Curse**
-	* AoE WND spell targetting DEF, moderate damage and will debuff ATK/MAG
+	* AoE WND spell targetting DEF, moderate damage and very high chance to debuff ATK/MAG by 50%
 * **Fujiyama Volcano**
 	* AoE FIR spell targetting DEF, very high damage unless you heavily resist FIR
 

@@ -44,7 +44,7 @@ The Magatama of Amber Fangs is a necessary boss to unlock the final part of 12F.
 * **Half Moon Slash**
 	* Halves the front row's current HP. If a unit is at 1 HP, it is killed.
 * **Black Universe**
-	* Single target spell that reduces HP to 1, and has a chance of inflicting TRR, PAR and a SPD-debuff
+	* Reduces target's HP to 1, high chance to PAR, TRR and debuff SPD by 100%
 * **World Devouring Destruction**
 	* Reduces the entire party of 12's HP to 1.
 

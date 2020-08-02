@@ -31,7 +31,7 @@ Blue Orchid is a mandatory boss fight to recruit Utsuho. This fight is easily ch
 ## <a id="attacks"></a>Attack List
 
 * **Dissolvent**
-	* NTR spell targetting DEF, high damage and will debuff your DEF/MND
+	* NTR spell targetting DEF, high damage and will debuff DEF/MND by 50%
 * **Paralyzing Fog**
 	* AoE WND spell targetting MND, low damage but can PAR entire party
 * **Azure Arrow**
