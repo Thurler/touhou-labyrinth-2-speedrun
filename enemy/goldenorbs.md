@@ -23,39 +23,39 @@ The Golden Orb Trio is a mandatory boss on 18F, guarding the stairs to 19F. It c
 ## <a id="script-forward"></a>AI Script - Golden Orb of Forward Time
 
 * If both allies are dead:
-  * Golden Advent
+	* Golden Advent
 * Phase 1: Any HP
-  * 15% chance to Healing Power or Half Moon Slash
-  * 14% chance to either:
-    * Red Curse
-    * Blue Curse
-    * Purple Curse
-    * Green Curse
-    * Yellow Curse
+	* 15% chance to Healing Power or Half Moon Slash
+	* 14% chance to either:
+		* Red Curse
+		* Blue Curse
+		* Purple Curse
+		* Green Curse
+		* Yellow Curse
 
 ## <a id="script-reverse"></a>AI Script - Golden Orb of Reverse Time
 
 * Phase 1: Any HP
-  * Equal chance to cast any of these:
-    * Flamethrower
-    * Blizzard
-    * Razor Wind
-    * Leaf Cutting Dance
-    * Magical Blast
+	* Equal chance to cast any of these:
+		* Flamethrower
+		* Blizzard
+		* Razor Wind
+		* Leaf Cutting Dance
+		* Magical Blast
 
 ## <a id="script-canopy"></a>AI Script - Golden Orb of the Canopy
 
 * If self or any ally has less than 50% DEF or MND buffs:
-  * Golden Protection
+	* Golden Protection
 * If either ally is not at full HP:
-  * Healing Power (prioritizes Forward Time)
+	* Healing Power (prioritizes Forward Time)
 * Phase 1: Any HP
-  * 18% chance to Silent Fog or Madness Fog
-  * 16% chance to either:
-    * Venomous Fog
-    * Paralyzing Fog
-    * Heavy Fog
-    * Dazing Fog
+	* 18% chance to Silent Fog or Madness Fog
+	* 16% chance to either:
+		* Venomous Fog
+		* Paralyzing Fog
+		* Heavy Fog
+		* Dazing Fog
 
 ## <a id="attacks-formward"></a>Attack List - Golden Orb of Forward Time
 
@@ -72,9 +72,9 @@ The Golden Orb Trio is a mandatory boss on 18F, guarding the stairs to 19F. It c
 * **Half Moon Slash**
 	* Halves the front row's current HP. If a unit is at 1 HP, it is killed.
 * **Healing Power**
-  * Restores around 30k HP to a random enemy
+	* Restores around 30k HP to a random enemy
 * **Golden Advent**
-  * Revives Golden Orb of Reverse Time and Golden Orb of the Canopy at full HP
+	* Revives Golden Orb of Reverse Time and Golden Orb of the Canopy at full HP
 
 ## <a id="attacks-formward"></a>Attack List - Golden Orb of Reverse Time
 
@@ -87,24 +87,24 @@ The Golden Orb Trio is a mandatory boss on 18F, guarding the stairs to 19F. It c
 * **Leaf Cutting Dance**
 	* AoE NTR spell targetting DEF and MND, high piercing damage
 * **Magical Blast**
-  * AoE MYS spell targetting MND, extremely high MND influence
+	* AoE MYS spell targetting MND, extremely high MND influence
 
 ## <a id="attacks-formward"></a>Attack List - Golden Orb of the Canopy
 
 * **Venomous Fog**
-  * AoE NTR spell targetting MND, low damage but can PSN entire party
+	* AoE NTR spell targetting MND, low damage but can PSN entire party
 * **Paralyzing Fog**
-  * AoE WND spell targetting MND, low damage but can PAR entire party
+	* AoE WND spell targetting MND, low damage but can PAR entire party
 * **Heavy Fog**
-  * AoE CLD spell targetting MND, low damage but can HVY entire party
+	* AoE CLD spell targetting MND, low damage but can HVY entire party
 * **Silent Fog**
-  * AoE SPI spell targetting MND, low damage but can SIL entire party
+	* AoE SPI spell targetting MND, low damage but can SIL entire party
 * **Dazing Fog**
-  * AoE FIR spell targetting MND, low damage but can SHK entire party
+	* AoE FIR spell targetting MND, low damage but can SHK entire party
 * **Madness Fog**
-  * AoE MYS spell targetting MND, low damage but can TRR entire party
+	* AoE MYS spell targetting MND, low damage but can TRR entire party
 * **Healing Power**
-  * Restores around 100k HP to an enemy
+	* Restores around 100k HP to an enemy
 * **Golden Protection**
 	* Buffs all enemies' DEF and MND by 50%
 
