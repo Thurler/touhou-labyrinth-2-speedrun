@@ -2,7 +2,7 @@
 
 ![](img/yuuka.png)
 
-This page explains the strategies employed against Yuuka on its boss fight. This includes party composition, which spells to use offensively and defensively, and how the battle should flow, which attacks to watch out for, etc. Since strategies vary greatly from route to route, explanations will be separated accordingly.
+This page explains the strategies employed against Yuuka on her boss fight. This includes party composition, which spells to use offensively and defensively, and how the battle should flow, which attacks to watch out for, etc. Since strategies vary greatly from route to route, explanations will be separated accordingly.
 
 [Back to index page](../index.md)
 
