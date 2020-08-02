@@ -49,7 +49,7 @@ Iku blocks your way to the second half of stratum 3, and packs a bunch of very p
 * **Thundercloud Stickleback**
 	* Buffs Iku's ATK and MAG by 100%
 * **Whiskers of the Dragon God**
-	* Buffs Iku's SPD by 100%, but debuffs her DEF and MND by 50%
+	* Buffs Iku's SPD by 150%, but debuffs her DEF and MND by 20%
 
 ## <a id="strats"></a>Strategies
 
