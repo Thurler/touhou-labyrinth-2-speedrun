@@ -23,7 +23,7 @@ Reimu is part of your starting party, and thus plays a very important role in th
 	* Chance to PAR(4000): 0/70/75/80/85
 	* Very good way to deal damage early on, as some enemies are weak to SPI and may be PAR'd by it, allowing characters to take it easy when dealing with enemies. Not very useful for bosses, there are better attackers.
 * **Fantasy Seal**
-	* SPI composite spell that targets MND
+	* AoE SPI composite spell that targets MND
 	* Great way to clean trash after it has been weakened, or just destroy it entirely if it's weak to SPI.
 * **Exorcising Border**
 	* AoE Heal that scales off MAG

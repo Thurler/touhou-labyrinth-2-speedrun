@@ -22,10 +22,10 @@ Marisa is part of your starting party, and thus plays a very important role in t
 	* MYS magic spell that targets MND
 	* Great basic single target spell with low cost and average delay, should be used as her basic attack.
 * **Asteroid Belt**
-	* MYS magic spell that targets MND
+	* AoE MYS magic spell that targets MND
 	* AoE version of Magic Missile that doesn't penetrate enemy MND as much. Very powerful trash cleaner early on, since things aren't very defensive.
 * **Master Spark**
-	* MYS magic spell that targets MND
+	* AoE MYS magic spell that targets MND
 	* Spends extra MP to increase damage, leaves Marisa with 0
 	* Marisa's AoE nuke that absolutely destroys everything not resistant to MYS. Excellent at finishing off bosses before they can act on their berserk stages, but can only really be used once so careful planning should go into using this.
 * **Concentration**

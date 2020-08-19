@@ -19,10 +19,10 @@ Keine is part of your starting party, and thus plays a very important role in th
 ## <a id="spells"></a>Spells List
 
 * **Ancient History -Old History-**
-	* DRK magic spell that targets DEF
+	* AoE DRK magic spell that targets DEF
 	* Kinda useful for very early trash, but quickly fades into a bad spell dealing 0 to everyone
 * **New History -Next History-**
-	* SPI magic spell that targets MND
+	* AoE SPI magic spell that targets MND
 	* Kinda useful for very early trash, but quickly fades into a bad spell dealing 0 to everyone
 * **Three Treasures - Sword**
 	* AoE ATK/MAG buff with good delay
