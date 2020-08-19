@@ -41,7 +41,7 @@ Sakuya is a mandatory character, guarding the stairs to 11F. She plays the offen
 
 ## <a id="skills"></a>Skills List
 
-* **MP/ATK/SOD Boost**
+* **MP/ATK/SPD Boost**
 	* Her most important stats, increasing her chip damage and support capabilities
 * **SDM Residents**
 	* Buffs self ATK/DEF/MAG/MND/SPD by 5/10 for each of Meiling/Patchy/Remilia/Flandre also in front
