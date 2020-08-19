@@ -34,8 +34,8 @@ Parsee is optional, but she's so immensely useful that she's worth the short 1F 
 * **Jealousy of the Kind and Lovely**
 	* AoE DRK physical spell that targets DEF
 	* Deals 0 damage if enemy is not TRR'd, removes TRR
-	* Increases damage by about 5% per 10000 TRR
-	* This added effect seems like a nice harmless boost at first, making this a great nuke but there is a spell that increases ailment duration on enemies, which makes it possible to scale TRR to absurdly high levels like 10 million and over, giving this spell a 5000% boost in damage for that scenario. This can then be used to one shot bosses while they're stuck in their mostly harmless phase 1.
+	* Increases damage by 4% per 10000 TRR
+	* This added effect seems like a nice harmless boost at first, making this a great nuke but there is a spell that increases ailment duration on enemies, which makes it possible to scale TRR to absurdly high levels like 10 million and over, giving this spell a 4000% boost in damage for that scenario. This can then be used to one shot bosses while they're stuck in their mostly harmless phase 1.
 
 ## <a id="skills"></a>Skills List
 

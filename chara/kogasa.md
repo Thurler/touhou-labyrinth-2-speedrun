@@ -29,7 +29,7 @@ Kogasa is an optional character, and specializes in afflicting and abusing TRR. 
 	* Great DRK nuke and decent TRR duration for others to capitalize on. The debuff is also really good for some fights.
 * **Drizzling Large Raindrops**
 	* Row CLD physical spell that targets DEF
-	* Basic spell to clean trash with
+	* Basic spell to clean trash with or nuke CLD weak bosses
 
 ## <a id="skills"></a>Skills List
 
