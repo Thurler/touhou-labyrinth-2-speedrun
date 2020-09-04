@@ -69,6 +69,8 @@ Yukari is a mandatory boss blocking the stairs to 16F. She has access to many sp
 	* Row WND Spell targetting MND, deals high damage
 * **IN Quadruple Barrier**
 	* Buffs Yukari's ATK/DEF/MAG/MND/SPD by 33%
+* **Yukari's Spiriting Away**
+	* Removes all debuffs from Yukari, has very low delay
 
 ## <a id="strats"></a>Strategies
 
