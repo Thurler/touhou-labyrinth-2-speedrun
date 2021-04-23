@@ -92,7 +92,7 @@
 		* <span class="equip-add"> (1) **Symbol of Faith** (1)</span>
 	* <span class="equip-add"> **Marisa**:</span>
 		* <span class="equip-add"> (1) **Mana Flower** (1)</span>
-* Once you reach the destination on second map, farm until wipe
+* Once you reach the destination on the map, farm until wipe
 <hr>
 
 * Back to Gensokyo, use these facilities:
@@ -120,7 +120,7 @@
 * **Boss Fight - Chen Encounter (Lv4)**
 	* Momiji spams Expellee's Canaan
 	* Keine spams 3ST - Sword
- 	* Reimu spams Fantasy Seal
+	* Reimu spams Fantasy Seal
 	* Marisa uses Master Spark
 * When you reach the destination, farm until wipe
 
