@@ -1912,11 +1912,12 @@
 ## <a id="Header-6-2"></a>Explore 17F (Part 1)
 
 * Once you're back in Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: </span>
-		* <span class="hakurei-item"> Use **Training Manual x7** on **Aya** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
 		* <span class="magic-reset"> **Reset Aya** </span>
 		* <span class="subclass-add"> **Aya** learns **Diva** subclass </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: </span>
+		* <span class="hakurei-item"> Use **Training Manual x7** on **Aya** </span>
 * Open the menu and take the following actions:
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Silent Melody 0 -> 3 / Melody Fortune 0 -> 1 / Dance Cochlea 0 -> 5 </span>
@@ -1933,10 +1934,10 @@
 	* Equipment:
 		* <span class="equip-remove"> **Parsee**: </span>
 			* <span class="equip-remove"> (3) **Remove** </span>
+			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Satori / Iku / Yuuka** </span>
-		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Kourin** learns **Diva** subclass </span>
 		* <span class="subclass-add"> **Cirno** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
@@ -1981,13 +1982,10 @@
 		* Swap Iku with Nitori
 	* **Phase 2 - Super Scoping**
 		* Nitori self buffs until ready, then concentrates
-		* Kourin swaps people around
+		* Kourin uses Battle Command on Nitori
 		* Satori uses Art of the Battlemage on Nitori
-		* Sanae swaps in and uses Miracle Fruit on Nitori
-		* Swap Chen in so she can Herb of Awakening
 		* Nitori uses Super Scope
-		* Satori rebuffs before Nitori's turn
-		* IA pivot Nitori
+		* Aya uses DGA on Nitori
 		* Nitori uses Super Scope
 	* For finer details see Goddess of Fertility's [Boss Info](../../enemy/goddess.md)
 * Go back to Gensokyo to heal after the fight
@@ -2068,11 +2066,9 @@
 		* Suwako and Satori spam Art of the Battlemage on Nitori
 		* Nitori spams Extending Arm
 		* **DO NOT IA PIVOT NITORI**, she'll lose Overheat stack
-		* Swap Chen in to keep Herb of Awakening up
 		* Aya spams Dance of Cochlea and supports Nitori
 	* **Phase 3 - Super Scope**
-		* Rebuff Nitori to max
-		* Aya DGAs Nitori if needed
+		* Aya DGAs Nitori
 		* Nitori ends it with Super Scope
 	* For finer details see Golden Orb Trio's [Boss Info](../../enemy/goldenorbs.md)
 * Go back to Gensokyo to heal after the fight
@@ -2121,46 +2117,35 @@
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi / Rin** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori / Satori** </span>
-		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Rin** learns **Magician** subclass </span>
-		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
 		* <span class="magic-library"> **Aya**: SPD 50 -> 150 </span>
 		* <span class="magic-library"> **Rin**: SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Iku**: SPD 50 -> 100 </span>
-		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Marisa, Rin, Reisen(SPD), Iku </span>
-		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
-		* <span class="hakurei-item"> Use **Wisdom gems** on **Iku** </span>
-		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Iku** </span>
-		* <span class="hakurei-item"> Use **Training Manual x10** on **Iku** </span>
+		* <span class="magic-library"> **Nitori**: SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
 		* <span class="human-village"> Swap **Suwako -> Cirno** </span>
 		* <span class="human-village"> Swap **Yuyuko -> Rin** </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen </span>
+		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
+		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Nitori** </span>
+		* <span class="hakurei-item"> Use **Training Manual x10** on **Iku** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Cirno / Sanae / Reisen** </span>
+	* <span class="form-change"> Form Change: **Reimu / Aya / Sanae / Satori** </span>
 	* Equipment:
-		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (1) **Astral Dominae** (5) </span>
-			* <span class="equip-add"> (3) **Lilium's Panties** (5) </span>
 		* <span class="equip-add"> **Rin**: </span>
 			* <span class="equip-add"> (3) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (1) **Star of Elendil** (5) </span>
+			* <span class="equip-add"> (2) **Astral Dominae** (5) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Orb of Gaia** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
 			* <span class="equip-add"> (3) **Forbidden Tablet** (4) </span>
-		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
-			* <span class="equip-add"> (2) **Full Custom** (2) </span>
-			* <span class="equip-add"> (1) **Full Custom** (2) </span>
-			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
-		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (1) **Star of Elendil** (5) </span>
-			* <span class="equip-add"> (2) **Astral Dominae** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Marisa**: MP Boost 0 -> 5 / Magic Training 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
 		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 1 / Heavenly Maiden Blow 0 -> 1 / Lightning Fish 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 / MAG Boost 0 -> 5 </span>
@@ -2233,7 +2218,7 @@
 		* <span class="human-village"> Unequip non-party </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Marisa / Suwako** </span>
-		* <span class="magic-reincarnate"> **Reincarnate Aya / Rin / Reisen / Sanae / Iku** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Nitori / Aya / Rin / Sanae / Iku** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
