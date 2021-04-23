@@ -1488,7 +1488,7 @@
 		* <span class="hakurei-shrine"> Cirno, Komachi, Chen </span>
 		* <span class="hakurei-shrine"> Nitori(HP), Parsee </span>
 		* <span class="hakurei-shrine"> Aya, Kasen </span>
-		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
+		* <span class="hakurei-shrine"> Reisen(SPD), Sanae, Iku </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
@@ -1752,16 +1752,19 @@
 		* <span class="equip-remove"> **Kourin**:</span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
+	* <span class="nitori-shop"> **Nitori Shop**: Sell every material </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
 		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
 		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
 		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
+		* <span class="hakurei-item"> Use **Training Manual x6** on **Satori** </span>
+		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Chen / Parsee** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori, Kasen** </span>
 		* <span class="subclass-add"> **Chen** learns **Herbalist** subclass </span>
-		* <span class="subclass-add"> **Parsee** learns **Warrior** subclass </span>
+		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
 		* <span class="magic-library"> **Satori**: HP/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Yuuka**: HP/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
@@ -1792,7 +1795,7 @@
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (2) **Star of Elendil** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / Mind Body as One 0 -> 2 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / High Stakes 0 -> 2 </span>
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: Spell Recollection 0 -> 5 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
@@ -1812,12 +1815,11 @@
 		* Komachi IA pivots Yuuka and Satori
 		* Sanae juggles healing and IA pivoting
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 1.6-2.0 million (6200+ ATK)
-			* 1.6 million @ Full HP, Herb, +50%
-			* 2.0 million if Sanae died (buff stays at 20%)
-		* Swap in Iku and try to proc a DEF debuff
+		* TRR reaches 1.2-2.0 million (6600+ ATK)
+			* 1.22 million with Sanae buff
+			* 2.06 million without Sanae buff
 		* Swap in Chen -> Parsee on slots 3 and 4
-		* Sanae uses Miracle Fruit on Parsee until fully buffed
+		* Sanae uses Miracle Fruit on Parsee once
 		* Chen uses Herb of Awakening on Parsee
 		* Parsee delays her turn if needed then Jealousy of the Kind
 	* For finer details see Yuyuko's [Boss Info](../../enemy/yuyuko.md)
@@ -1828,7 +1830,6 @@
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori(ATK), Aya(SPD) </span>
-		* <span class="hakurei-item"> Use **Training Manual x6** on **Satori** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Parsee / Aya / Satori / Yuuka** </span>
 		* <span class="subclass-add"> **Parsee** learns **Monk** subclass </span>
@@ -1856,7 +1857,7 @@
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Ironclad Strat 0 -> 10 / Raid Maneuver 0 -> 1 </span>
 		* <span class="learn-skill"> **Parsee**: Fast Dash 0 -> 1 / Jealousy of the Kind 1 -> 5 / Flames of Jealousy 0 -> 2 / Final Blow 0 -> 2 </span>
-		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 / HP Boost 0 -> 2 /  </span>
+		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 / HP Boost 0 -> 2 </span>
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 5 / Fast Dash 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: Effective Formation 0 -> 2 / First Aid 1 -> 2 / HP Boost 0 -> 5 / MND Boost 0 -> 1 </span>
 		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 1 -> 2 </span>
@@ -1868,25 +1869,24 @@
 * **Boss Fight - Yukari Yakumo (Lv66)**
 	* **Phase 1 - TRR Proc**
 		* Reset if less than 2 full ATBs
-			* 21.6 / 43.2 / 28.8 / 6.4
+			* 14.06 / 38.94 / 35.94 / 11.06
 		* Aya DGAs whoever didnt get a full ATB
 			If everyone has a full ATB, Saruathiko self
-		* Parsee uses Midnight Anathema Ritual
+		* Parsee uses Midnight Anathema Ritual (54% proc)
 		* Yuuka and Satori use Beauty of Nature
 		* Swap Parsee with Kourin
-		* Swap Aya with Cirno
 	* **Phase 2 - Beauty of Nature**
 		* Yuuka and Satori spam Beauty of Nature
 		* Aya IA pivots Yuuka
 		* Kourin swaps Satori and Sanae as needed
 		* Sanae heals everyone with Yasaka's Divine Wind
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 0.7-1.0 million (Sanae in front)
-			* 700k @ Full HP, Herb, +38%
-			* 1.0 million if no buff
-		* TRR reaches 0.85-1.25 million (Sanae dead/back)
-			* 850k @ Full HP, Herb, +38%
-			* 1.25 million if no buff
+		* TRR reaches 470-802k (Sanae in front)
+			* 470k after Sanae buff
+			* 802k if no buff
+		* TRR reaches 610-1000k (Sanae dead/back)
+			* 610k after Sanae buff
+			* 1.01 million if no buff
 		* Move Sanae to slot 1, swap in Parsee in slot 4
 		* Sanae uses Miracle Fruit on Parsee
 		* Swap in Chen whenever
