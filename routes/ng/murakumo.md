@@ -1275,6 +1275,8 @@
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (3) **Yggdrasil Dew** (1) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
 * Level reference: Nitori 35
 * Enter the dungeon (11F)
 
