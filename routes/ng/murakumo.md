@@ -475,7 +475,6 @@
 <hr>
 
 * Move back to 2F and go south for Eirin event
-* Get the treasure chest south of Eirin
 * Exit the dungeon and enter back on (3F)
 <hr>
 
