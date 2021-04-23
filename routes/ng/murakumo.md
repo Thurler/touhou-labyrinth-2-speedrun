@@ -813,11 +813,8 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa </span>
-		* <span class="hakurei-shrine"> Momiji, Rumia </span>
 		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Mokou, Aya </span>
+		* <span class="hakurei-shrine"> Nitori, Mokou </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
@@ -930,7 +927,6 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Parsee/Aya/Sanae to ATK/ATK/MAG </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
@@ -960,11 +956,9 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa </span>
-		* <span class="hakurei-shrine"> Rumia, Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Mokou, Aya </span>
-		* <span class="hakurei-shrine"> Kasen, Utsuho, Sanae </span>
+		* <span class="hakurei-shrine"> Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Nitori, Mokou </span>
+		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Nitori**: </span>
@@ -981,7 +975,8 @@
 ![](img/murakumo/09-01-west.png)
 
 * When you reach the destination event go back to Gensokyo
-* When you're back at Gensokyo, open the menu and take the following actions:
+* When you're back at Gensokyo, use the shrine and then do a menu:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* Equipment:
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
@@ -1011,9 +1006,9 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
 		* <span class="hakurei-shrine"> Reimu, Marisa(SPD) </span>
 		* <span class="hakurei-shrine"> Minoriko, Komachi </span>
-		* <span class="hakurei-shrine"> Nitori(HP), Parsee </span>
-		* <span class="hakurei-shrine"> Aya, Kasen </span>
-		* <span class="hakurei-shrine"> Reisen(HP), Sanae, Iku(MAG) </span>
+		* <span class="hakurei-shrine"> Nitori(HP), Parsee(ATK) </span>
+		* <span class="hakurei-shrine"> Aya(ATK), Kasen </span>
+		* <span class="hakurei-shrine"> Reisen(HP), Sanae(MAG), Iku(MAG) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Marisa / Chen / Nitori / Aya** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
