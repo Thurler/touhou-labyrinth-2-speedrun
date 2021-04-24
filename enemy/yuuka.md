@@ -57,6 +57,8 @@ Yuuka is an optional boss on 8F that is unlocked when you reach 13F, after seein
 	* AoE NTR spell targetting MND, deals moderate damage and heals Yuuka for 10% of her max HP
 * **Beauty of Nature**
 	* AoE WND spell targetting MND, very high damage, increases ailment duration
+* **Master Spark**
+	* AoE MYS spell targetting MND, extremely high damage
 
 ## <a id="strats"></a>Strategies
 

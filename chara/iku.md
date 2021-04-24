@@ -37,7 +37,7 @@ Iku is required to beat the game, since she blocks the way to the second half of
 	* Single target buff with low delay
 	* Buffs SPD for 56/60/64/68/72
 	* Chance to DEF/MND-debuff(44/36/28/20/12): 140/130/120/110/100
-	* Sanae's best skill, allows her to buff every stat for a very large amount and quickly help key characters in boss fights.
+	* Another high risk, high return buff, which pairs up really well with glass cannons and characters that generally dont mind defensive debuffs. Actually pairs up well with Iku's Flexibility skill
 
 ## <a id="skills"></a>Skills List
 

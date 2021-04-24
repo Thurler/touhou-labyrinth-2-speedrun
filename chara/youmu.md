@@ -52,7 +52,7 @@ Youmu is mandatory to beat the game and joins you late in 1F, making her pretty 
 	* Buffs ATK/DEF/MAG/MND/SPD by 6/12 every turn if full HP
 	* Doesn't play well with her tanking role, and even with the buffs there are stronger offensive options
 * **Desperation**
-	* Buffs ATK/DEF/MAG/MND/SPD by 25 when HP drops below 40/60%
+	* Buffs ATK/DEF/MAG/MND/SPD/ACC/EVA by 25 when HP drops below 40/60%
 	* Great skill for a tanky role, specially with Regeneration putting her back over the threshold so it procs again
 * **Swordmaster's Spirit**
 	* Concentrate and then attack with full HP for 50% extra damage and 20% HP sacrifice

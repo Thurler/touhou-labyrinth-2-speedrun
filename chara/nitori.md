@@ -21,17 +21,17 @@ Nitori is the absolute definition of overpowered. Maintenance alone makes Nitori
 * **Kappa's Illusionary Waterfall**
 	* AoE CLD physical spell that targets DEF
 	* Chance to DEF-debuff(24): 60/64/68/72/76
-	* Excellent for trash cleaning. Also for bosses since Nitori is just so strong.
+	* Excellent for trash cleaning. Also for bosses since Nitori is just so strong
 * **Exteeeending Aaaaarm**
 	* AoE NTR physical spell that targets DEF
-	* Excellent for trash cleaning. Also for bosses since Nitori is just so strong.
+	* Excellent for trash cleaning. Also for bosses since Nitori is just so strong
 * **Super Scope 3D**
-	* AoE Heal that scales off MAG
-	* Very powerful AoE heal, Reimu's trademark spell is very useful for healing parties in a pinch, but is generally outclassed by more powerful single target heals, given everyone is min-max'd for damage or tankyness. Still has its uses.
+	* PHY physical spell that targets DEF
+	* Absolutely ridiculously powerful nuke, with max delay though
 * **Portable Versatile Machine**
-	* AoE DEF/MND buff with decent delay
-	* Buffs for 42/46/50/54/58
-	* A vital piece for early/mid game bosses, tanks can easily handle any attacks thrown at them for a while after receiving this buff. Few battles require buffing the entire front line's defense for the entire fight though.
+	* Self ATK/DEF/MAG/MND/SPD buff with very low delay
+	* Buffs for 16/17/18/19/20
+	* Excellent way to kickstart Nitori's buffs, or just delay her turn slightly while buffing her a bit
 
 ## <a id="skills"></a>Skills List
 
