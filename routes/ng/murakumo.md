@@ -428,6 +428,8 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonuses </span>
 * Open the menu and take the following actions:
 	* Equipment:
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (if dropped) (3) Blade Cuisinart (3) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 		* <span class="equip-add"> **Reimu**: </span>
@@ -458,6 +460,8 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Keine / Nitori** </span>
 	* Equipment:
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (if dropped) (3) Blade Cuisinart (3) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
 		* <span class="equip-add"> **Reimu**: </span>
@@ -545,9 +549,7 @@
 			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
-		* <span class="equip-add"> **Momiji**: </span>
-			* <span class="equip-add"> (2) **Heater Muffler** (2) </span>
-			* <span class="equip-add"> (3) **Bludgeon** (3) </span>
+			* <span class="equip-add"> (if dropped) (3) Blade Cuisinart (3) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **Mad Milk** (1) </span>
 	* Learn Skills:
@@ -591,7 +593,6 @@
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Kourin -> Chen** </span>
 		* <span class="human-village"> Swap **Keine -> Aya** </span>
-		* <span class="human-village"> Unequp non-party characters </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Buy **Cypress Stick x2** </span>
 *  Open the menu and take the following actions:
@@ -663,11 +664,12 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
+			* <span class="equip-add"> (2) (if dropped) Flipskirt Dagger (3) </span>
 		* <span class="equip-add"> **Momiji**: </span>
 			* <span class="equip-add"> (3) **Lv70 Lover Snapper's Scale** (2) </span>
 			* <span class="equip-add"> (2) **Love Machine 3322** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Wriggle**: Enhanced Toxins 0 -> 2 / Numbling Incense 0 -> 3 </span>
+		* <span class="learn-skill"> **Wriggle**: Enhanced Toxins 0 -> 2 / Numbing Incense 0 -> 3 </span>
 * Enter the dungeon (5F)
 <hr>
 
@@ -752,6 +754,7 @@
 		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (1) **Mana Flower** (1) </span>
+			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
 			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
