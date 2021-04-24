@@ -2117,16 +2117,20 @@
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi / Rin** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori / Satori** </span>
+		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Rin** learns **Magician** subclass </span>
+		* <span class="subclass-add"> **Satori** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Aya**: SPD 50 -> 150 </span>
 		* <span class="magic-library"> **Rin**: SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Nitori**: SPD 0 -> 100 </span>
+		* <span class="magic-library"> **Satori**: SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Suwako -> Cirno** </span>
 		* <span class="human-village"> Swap **Yuyuko -> Rin** </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen </span>
+		* <span class="hakurei-item"> Use **Training Manual x13** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Nitori** </span>
@@ -2146,31 +2150,37 @@
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
 			* <span class="equip-add"> (3) **Forbidden Tablet** (4) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Marisa**: MP Boost 0 -> 5 / Magic Training 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 1 / Heavenly Maiden Blow 0 -> 1 / Lightning Fish 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 / MAG Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Overheat 0 -> 1 / Cooling Down 0 -> 2 / Mind Body One 0 -> 2 </span>
 		* <span class="learn-skill"> **Rin**: Magic Conservation 0 -> 1 / Magic Transfer 0 -> 5 / Magic Circuit 0 -> 5 </span>
 * Enter the dungeon (20F West)
 <hr>
 
 * **Boss Fight - Mirror of the High God (Lv87)**
 	* **Phase 1 - Diva Setup**
-		* Aya boosts own SPD twice, Sanae's once
-		* Aya, Reisen concentrate once
-		* Cirno swaps Reisen for Satori
-		* Sanae, Aya concentrate once
-		* Cirno swaps Aya for Kasen
+		* Aya uses DGA on Reimu
+		* Reimu uses Great Hakurei Barrier
+		* Aya/Satori/Sanae/Aya Concentrate
+		* Reimu swaps self with Cirno
+		* Aya concentrates again
+		* Cirno swaps Aya with Reimu
+		* Satori swaps self with Kasen
 		* Wait for Cirno to die and hope someone lives
-	* **Phase 2 - Iku Attack**
+	* **Phase 2 - Nitori Attack**
 		* Swap in Aya and lock the boss with Dance of Cochlea
 		* Swap in Rin on survivor's turn
-		* Swap in Marisa, then Iku
+		* Swap in Nitori
+		* Sanae buffs Nitori for a while then swaps for Satori
+		* Iku comes in to debuff boss
 		* Aya spams Dance of Cochlea
 			* Concentrate when boss ATB < 6500
 			* Can also swap Chen in if MP is fine for Herb of Awakening
 		* Rin manages everyone's MP
-		* Marisa buffs Iku
-		* Iku spams regular attack
+		* Satori buffs Nitori
+		* Nitori builds Overheat stacks then spams Waterfall
 	* For finer details see High Mirror's [Boss Info](../../enemy/highmirror.md)
 * Go back to Gensokyo to heal after the fight
 
@@ -2179,29 +2189,27 @@
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Cirno / Kasen / Reimu / Satori** </span>
+	* <span class="form-change"> Form Change: **Aya / Reimu / Sanae / Satori** </span>
 * Enter the dungeon (20F East)
 <hr>
 
 * **Boss Fight - Magatama of the High God (Lv88)**
 	* **Phase 1 - Diva Setup**
+	  * Aya buffs own SPD, then Sanae's, then swaps self for Cirno
 		* Wait for Cirno to die and hope someone lives
-		* Swap in Aya, Rin, Marisa, Iku in order
-	* **Phase 2 - Iku Attack**
+	* **Phase 2 - Nitori Attack**
+	  * Swap in Chen into slot 2, then Aya into 1
 		* Aya spams Dance of Cochlea
 			* Concentrate when boss ATB < 7000
-			* Can also swap Chen in if MP is fine for Herb of Awakening
-		* Rin manages everyone's MP
-		* Marisa buffs Iku
-		* Iku spams regular attack
+		* Sanae spams buffs on Nitori
+		* Iku comes in to debuff boss
+		* Nitori spams Super Scope 3D
 	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
 * Go back to Gensokyo to heal after the fight
 
 ## <a id="Header-7-5"></a>Explore 20F Depths
 
-* When you're back on Gensokyo, open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Kasen / Reimu / Satori** </span>
-* Enter the dungeon (19F)
+* When you're back on Gensokyo, simply re-enter the dungeon (19F)
 * Break the seals up north and go into 20F Depths
 
 ![](img/murakumo/20-03-final.png)
@@ -2214,33 +2222,36 @@
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rin -> Kourin** </span>
 		* <span class="human-village"> Swap **Reisen -> Parsee** </span>
-		* <span class="human-village"> Swap **Marisa -> Yuuka** </span>
+		* <span class="human-village"> Swap **Rumia -> Eirin** </span>
+		* <span class="human-village"> Swap **Kasen -> Yukari** </span>
+		* <span class="human-village"> Swap **Reimu -> Yuuka** </span>
 		* <span class="human-village"> Unequip non-party </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Marisa / Suwako** </span>
+		* <span class="magic-reset"> **Reset Cirno / Satori / Reisen / Suwako** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori / Aya / Rin / Sanae / Iku** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
-		* <span class="subclass-add"> **Satori** learns **Guardian** subclass </span>
+		* <span class="subclass-add"> **Eirin** learns **Toxicologist** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
-		* <span class="subclass-add"> **Yuuka** learns **Guardian** subclass </span>
+		* <span class="subclass-add"> **Yuuka** learns **Monk** subclass </span>
+		* <span class="subclass-add"> **Yukari** learns **Monk** subclass </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu - HP </span>
 		* <span class="hakurei-shrine"> Kourin - HP </span>
 		* <span class="hakurei-shrine"> Cirno - SPD </span>
 		* <span class="hakurei-shrine"> Chen - SPD </span>
 		* <span class="hakurei-shrine"> Nitori - DEF </span>
 		* <span class="hakurei-shrine"> Parsee - ATK </span>
 		* <span class="hakurei-shrine"> Aya - SPD </span>
-		* <span class="hakurei-shrine"> Kasen - HP </span>
 		* <span class="hakurei-shrine"> Satori - HP </span>
+		* <span class="hakurei-shrine"> Eirin - HP </span>
 		* <span class="hakurei-shrine"> Sanae - MAG </span>
 		* <span class="hakurei-shrine"> Iku - SPD </span>
 		* <span class="hakurei-shrine"> Yuuka - HP </span>
+		* <span class="hakurei-shrine"> Yukari - HP </span>
 		* <span class="hakurei-item"> Use **Training Manual x2** on **Satori** </span>
-		* <span class="hakurei-item"> Use **Training Manual x15** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Training Manual x13** on **Parsee** </span>
 		* <span class="hakurei-item"> Use remaining **Training Manual** on **Yuuka** </span>
 		* <span class="hakurei-item"> Use **HP Gems** on **Nitori / Kourin** </span>
 		* <span class="hakurei-item"> Use **MP Gems** on **Yuuka / Satori** </span>
@@ -2250,48 +2261,58 @@
 		* <span class="hakurei-item"> Use **MAG Gems** on **Sanae** </span>
 		* <span class="hakurei-item"> Use **SPD Gems** on **Kourin / Satori** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Kourin / Yuuka / Parsee** </span>
+	* <span class="form-change"> Form Change: **Eirin / Aya / Yuuka / Yukari** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
-			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
-			* <span class="equip-add"> (3) **Intama** (2) </span>
-			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
-		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
-			* <span class="equip-add"> (1) **Megasphere** (5) </span>
-			* <span class="equip-add"> (2) **Megasphere** (5) </span>
-			* <span class="equip-add"> (3) **Intama** (2) </span>
+		* <span class="equip-add"> **Eirin**: </span>
+			* <span class="equip-add"> (M) **Misterepulsion** (1) </span>
 		* <span class="equip-add"> **Yuuka**: </span>
-			* <span class="equip-add"> (3) **Intama** (2) </span>
 			* <span class="equip-add"> (2) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (3) **Intama** (2) </span>
+		* <span class="equip-add"> **Yukari**: </span>
+			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (3) **Astral Dominae** (5) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (3) **Divine Barrier** (5) </span>
+			* <span class="equip-add"> (2) **Grand Master Breaker** (5) </span>
+			* <span class="equip-add"> (1) **Intama** (2) </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 			* <span class="equip-add"> (1) **Holy Sword Centurio** (5) </span>
 			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
-		* <span class="equip-add"> **Satori**: </span>
-			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
-			* <span class="equip-add"> (2) **Button of Aegis** (2) </span>
-			* <span class="equip-add"> (1) **Intama** (2) </span>
 		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (1) **The Arch** (4) </span>
 			* <span class="equip-add"> (2) **Century End Jacket** (4) </span>
+			* <span class="equip-add"> (1) **The Arch** (4) </span>
 			* <span class="equip-add"> (M) **Micron Magic Book** (2) </span>
+		* <span class="equip-add"> **Satori**: </span>
+			* <span class="equip-add"> (1) **Button of Aegis** (2) </span>
+			* <span class="equip-add"> (2) **Intama** (2) </span>
+			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
 			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
 			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
+		* <span class="equip-add"> **Kourin**: </span>
+			* <span class="equip-add"> (3) **Megasphere** (5) </span>
+			* <span class="equip-add"> (2) **Megasphere** (5) </span>
+			* <span class="equip-add"> (1) **Intama** (2) </span>
+			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: HP/EVA Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Inspiration Plan 0 -> 1 </span>
+		* <span class="learn-skill"> **Eirin**: HP Boost 0 -> 5 / Enhanced Toxins 0 -> 2 </span>
+		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Raid Maneuver 0 -> 1 / Sarutahiko Guidance 1 -> 3 </span>
 		* <span class="learn-skill"> **Kourin**: Initiative 0 -> 1 / Effective Formation 0 -> 2 / DEF Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Yuuka**: HP Boost 0 -> 5 / MP Boost 0 -> 5 / Extra Attack 0 -> 2 / Gensokyo's Eternal Flower 0 -> 1 / Majesty 0 -> 2 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealous of the Kind and Lovely 1 -> 5 / High Stakes 0 -> 2 / All or Nothing 0 -> 2 </span>
-		* <span class="learn-skill"> **Nitori**: Initiative 0 -> 1 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 / DEF/AFF Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Yuuka**: Fast Dash 0 -> 1 / HP/MP Boost 0 -> 5 / Extra Attack 0 -> 2 / Majesty 0 -> 2 </span>
+		* <span class="learn-skill"> **Yukari**: MP Boost 0 -> 5 / Yukari Spiriting Away 1 -> 5 / Fast Dash 0 -> 1 </span>
 		* <span class="learn-skill"> **Sanae**: MAG Boost 0 -> 5 / Last Wish 0 -> 2 / Miracle Fruit 1 -> 5 / Enhanced Buffs 0 -> 2 </span>
-		* <span class="learn-skill"> **Satori**: Spellcard Recollection 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: Absolute Defensive 0 -> 1 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 / DEF/AFF Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Cirno**: Blizzard Blowout 0 -> 5 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealous of the Kind and Lovely 1 -> 5 / High Stakes 0 -> 2 / All or Nothing 0 -> 2 </span>
 		* <span class="learn-skill"> **Chen**: EVA Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: Spellcard Recollection 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Elekiter Dragon Palace 1 -> 5 / Thundercloud Stickleback 1 -> 5 </span>
-		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 2 / HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Kourin**: DEF Boost 0 -> 5 / Formation Change 0 -> 2 / Absolute Defensive 0 -> 1 </span>
 * Visit the following facilities to finish:
 	* <span class="nitori-shop"> **Nitori Shop**: Sell everything </span>
 	* <span class="magic-library"> **Magic Library**: </span>
@@ -2304,30 +2325,35 @@
 <hr>
 
 * **Boss Fight - Ame-no-Murakumo (Lv100)**
-	* **Phase 1 - TRR proc**
-		* Sarutahiko Parsee, Yuuka
-		* Anathema must TRR
-		* If Aya alive, switch self for Cirno
-		* Kourin swap Parsee with Satori
-		* Swap Cirno whenever possible
-		* Let Cirno die then swap in Nitori
+	* **Phase 1 - HVY+TRR proc**
+		* Reset if less than 2 full ATBs
+			* 5.41 / 31.62 / 44.54 / 18.43
+		* DGA whoever didn't get a full ATB
+		* Astronomical Entombing (must HVY - 80%)
+		* Swap Eirin with Parsee
+		* Yukari's Spiriting Away
+		* Midnight Anathema Ritual (must TRR - 46%)
+		* Swap Parsee with Cirno
+		* Beauty of Nature
+		* Swap Yukari with Satori
+		* Swap Aya with Kourin
+		* Wait for Cirno to die, then swap in Nitori
 	* **Phase 2 - Beauty of Nature**
 		* Yuuka and Satori do BoN spam
 		* Nitori swaps Yuuka with Chen into Yuuka
 		* Kourin swaps Satori with Sanae and back
-		* Can sacrifice Reimu for heal
-		* Can sacrifice Kasen for Guts
-		* Can sacrifice Aya if alive
+		* Improvise if anyone dies
 	* **Phase 3 - Jealousy**
-		* TRR reaches 1.5-1.7 million (1 cinderforge)
-			* 1.5 million @ Trauma, Herb, +50%, -40%
-			* 1.7 million @ Herb, +50%, -40%
+		* TRR reaches 0.7-1.4 million (1 cinderforge)
+			* 700k if HVY + debuff
+			* 1 million if HVY
+			* 1.4 million if only debuff
+		* Absolutely need Trauma Recollection, HoA and buff on Parsee
 		* Put Parsee in slot 4 and get Sanae to buff her
 			* Sacrificing Sanae is a good option
-		* Iku MUST debuff boss
+		* Iku MUST debuff boss if going for early kill
 			* She can also buff Parsee, in an emergency
 		* Whenever you're ready sacrifice Yuuka
-		* Make sure Satori is out when Parsee JotKaL
 	* For finer details see Ame-no-Murakumo's [Boss Info](../../enemy/murakumo.md)
 * GG !!!
 
