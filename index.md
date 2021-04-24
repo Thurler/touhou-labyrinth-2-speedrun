@@ -21,6 +21,7 @@ These are links to the routes for each category. Runs that haven't been routed a
 * ~~Enhanced Ame-no-Murakumo~~
 * ~~All Achievements~~
 * ~~Yamata-no-Orochi~~
+* ~~Dragon God~~
 * ~~Full Power Dragon God~~
 * ~~All Plus Achievements~~
 
@@ -30,6 +31,7 @@ These are links to the routes for each category. Runs that haven't been routed a
 * ~~Enhanced Ame-no-Murakumo~~
 * ~~All Achievements~~
 * ~~Yamata-no-Orochi~~
+* ~~Dragon God~~
 * ~~Full Power Dragon God~~
 * ~~All Plus Achievements~~
 
