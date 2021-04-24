@@ -139,9 +139,13 @@
 	* Equipment:
 		* <span class="equip-remove"> **Reimu**:</span>
 			* <span class="equip-remove"> (2) **Remove**</span>
+		* <span class="equip-remove"> **Marisa**:</span>
+			* <span class="equip-add"> (2) Light Staff (1) (if dropped)</span>
+			* <span class="equip-remove"> (M) **Remove**</span>
 		* <span class="equip-add"> **Kasen**:</span>
-			* <span class="equip-add"> (2) **Biggest Sword Ever** (1)</span>
+			* <span class="equip-add"> (M) **Cypress Stick** (3)</span>
 			* <span class="equip-add"> (3) **Bulletproof Armor** (1)</span>
+			* <span class="equip-add"> (2) **Biggest Sword Ever** (1)</span>
 			* <span class="equip-add"> (1) **Bludgeon** (3)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Reimu**: Yin-Yang Orb 1 -> 2 </span>
@@ -196,8 +200,10 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Keine / Reimu** </span>
 	* Equipment:
-		* <span class="equip-add"> **Kasen**: </span>
+		* <span class="equip-add"> **Marisa**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (3) Bludgeon (3) (if dropped) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 6 -> 7 </span>
 		* <span class="learn-skill"> **Rumia**: Piercing Attack 0 -> 1 </span>
@@ -227,8 +233,6 @@
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (3) **DX Mechamonkey Model** (1)</span>
 			* <span class="equip-add"> (if no Exorcism) (2) **Crepe Mariette** (1)</span>
-		* <span class="equip-add"> **Marisa**: </span>
-			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 7 -> 8 </span>
 * Level reference: Reimu 6
@@ -250,7 +254,7 @@
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
 			* <span class="equip-add"> (3) **Sirloin** (3)</span>
 		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (3) **Bludgeon** (3)</span>
+			* <span class="equip-add"> (if no Bludgeon) (3) **Bludgeon** (3)</span>
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (if no Exorcism) (2) **Light Crystal** (3)</span>
 	* Learn Skills:
@@ -338,6 +342,7 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
 			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1)</span>
+			* <span class="equip-add"> (2) (if dropped) Super-Hard Rye Bread (3)</span>
 			* <span class="equip-add"> (2) **Power Bracer** (1)</span>
 			* <span class="equip-add"> (3) **Wash Basin Set** (5)</span>
 		* <span class="equip-add"> **Youmu**: </span>
