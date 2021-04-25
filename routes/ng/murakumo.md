@@ -829,7 +829,7 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
-	  * <span class="equip-add"> **Utsuho**: </span>
+		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
@@ -1034,7 +1034,7 @@
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Equipment:
 		* <span class="equip-remove"> **Marisa**: </span>
-		  * <span class="equip-remove"> (1) **Remove** </span>
+			* <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **First Aid Kit** (2) </span>
 			* <span class="equip-add"> (2) **Intama** (2) </span>
@@ -1262,6 +1262,8 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (if Remilia dropped) (1) **Glaive of Pain** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 3 </span>
 		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / HP Boost 0 -> 5 </span>
@@ -1281,7 +1283,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (if not dropped) (1) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (3) **The Arch** (4) </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
@@ -1299,7 +1301,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (3) **Meteor Drive** (1) </span>
+			* <span class="equip-add"> (3) **Meteor Drive** (5) </span>
 * Level reference: Nitori 36
 * Enter the dungeon (11F)
 
@@ -1314,10 +1316,6 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
 		* <span class="hakurei-shrine"> Komachi, Chen, Nitori </span>
 		* <span class="hakurei-shrine"> Aya, Kasen, Iku </span>
-* Open the menu and take the following actions:
-	* Equipment:
-		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (1) **Forbidden Tablet** (4) </span>
 * Level reference: Nitori 38
 * Enter the dungeon (12F)
 
@@ -1390,13 +1388,9 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Komachi** </span>
-		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 5 </span>
 		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 5 </span>
 * Level reference: Nitori 40
 * Enter the dungeon (12F)
@@ -1409,6 +1403,7 @@
 		* <span class="hakurei-shrine"> Reimu, Marisa </span>
 		* <span class="hakurei-shrine"> Komachi, Nitori, Aya </span>
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
+		* <span class="hakurei-item"> Use **Wisdom Gems** on **Iku** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Iku** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
@@ -1458,7 +1453,9 @@
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Iku** </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Komachi, Iku** </span>
+		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Marisa -> Rumia** </span>
@@ -1468,6 +1465,7 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (if Murakumo DTH) (1) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 5 </span>
 		* <span class="learn-skill"> **Iku**: Area Attack 0 -> 1 / Lightning Fish 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
 * Level reference: Nitori 41
 * Enter the dungeon (13F)
@@ -2206,10 +2204,10 @@
 
 * **Boss Fight - Magatama of the High God (Lv88)**
 	* **Phase 1 - Diva Setup**
-	  * Aya buffs own SPD, then Sanae's, then swaps self for Cirno
+		* Aya buffs own SPD, then Sanae's, then swaps self for Cirno
 		* Wait for Cirno to die and hope someone lives
 	* **Phase 2 - Nitori Attack**
-	  * Swap in Chen into slot 2, then Aya into 1
+		* Swap in Chen into slot 2, then Aya into 1
 		* Aya spams Dance of Cochlea
 			* Concentrate when boss ATB < 7000
 		* Sanae spams buffs on Nitori
