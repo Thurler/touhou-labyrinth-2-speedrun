@@ -800,6 +800,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (2) **Glow Crystal** (3) </span>
+			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
 		* <span class="equip-add"> **Chen**: </span>
@@ -828,6 +829,8 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
+	  * <span class="equip-add"> **Utsuho**: </span>
+			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
@@ -973,8 +976,6 @@
 			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (2) **Asura Blade** (4) </span>
-		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (3) **Mana Flower** (1) </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Growth Egg** (1) </span>
 * Level reference: Nitori 28
@@ -1032,6 +1033,8 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Equipment:
+		* <span class="equip-remove"> **Marisa**: </span>
+		  * <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **First Aid Kit** (2) </span>
 			* <span class="equip-add"> (2) **Intama** (2) </span>
@@ -1046,13 +1049,11 @@
 			* <span class="equip-add"> (2) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-		* <span class="equip-add"> **Komachi**: </span>
-			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
 		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (1) **Glow Crystal** (3) </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 			* <span class="equip-add"> (3) **Mana Flower** (1) </span>
 			* <span class="equip-add"> (2) **Mana Flower** (1) </span>
+			* <span class="equip-add"> (1) **Glow Crystal** (3) </span>
 		* <span class="equip-add"> **Marisa**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
@@ -1136,6 +1137,8 @@
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (if no Tenshi drop) (1) **Portable Oscillation Cannon** (4) </span>
 			* <span class="equip-add"> (2) **Tisiphone Edge** (4) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Oscillation Cannon** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Chen** Beat Down 1 -> 2 </span>
 * Level reference: Nitori 31
