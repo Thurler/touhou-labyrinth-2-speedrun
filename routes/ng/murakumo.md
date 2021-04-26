@@ -1806,13 +1806,10 @@
 <hr>
 
 * **Boss Fight - Glowing Azure Giant (Lv62)**
-	* **If Reisen dies or Komachi fails thrice, reset**
-	* Hit the 17% DTH proc on Komachi's Ferriage in the Deep Fog
-	* Aya DGAs Komachi for try #1
-		* Sarutahiko self while Komachi does try #2
-		* DGA again for try #3
-	* Reisen spams Grand Patriot's Elixir so she lives
-	* Komachi spams Ferriage in Deep Fog for DTH
+	* **If Reisen dies or Yuyuko fails twice, reset**
+	* Hit the 48% DTH proc on Yuyuko's Saigyouji Flawless Nirvana
+	* Aya DGAs Yuyuko for try #1
+		* DGA again for try #2
 	* For finer details see Azure Giant's [Boss Info](../../enemy/azuregiant.md)
 * Level reference: Nitori 49
 * When you're done, go back to Gensokyo
