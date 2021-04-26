@@ -199,7 +199,7 @@ This section talks about speedrun data and information. If you want game-specifi
 * [Materials and Crafting](item/material.md)
 
 #### Miscellaneous
-* [Enemy Drop Rates](item/drop.md)
+* [Useful Enemy Drop Rates](item/drop.md)
 * [Treasure Chest Listing](item/chests.md)
 * [Achievements](item/achievements.md)
 
