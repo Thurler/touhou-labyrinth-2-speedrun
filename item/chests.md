@@ -526,13 +526,13 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tome of Insight - DEF | X |
 | Tome of Reincarnation | O |
 | Training Manual | X |
-| Treasure Chest Key | X |
+| Treasure Chest Key | O |
 | Violent Green Rupee | X |
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
-| Floor Total | 3 |
+| Floor Total | 4 |
 | Possible Skips | 5 |
-| Combined Total | 145 |
+| Combined Total | 146 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -561,7 +561,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wisdom Gem | X |
 | Floor Total | 1 |
 | Possible Skips | 5 |
-| Combined Total | 146 |
+| Combined Total | 147 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
