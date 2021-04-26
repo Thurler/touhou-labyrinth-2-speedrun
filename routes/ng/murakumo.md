@@ -1307,8 +1307,7 @@
 
 ![](img/murakumo/11-03-northeast.png)
 
-* When you reach the 12F relay circle, re-enter the dungeon and get last treasure
-* When you reach the last treasure, farm until Nitori wipe
+* When you reach the 12F relay circle, farm until Nitori wipe on 11F
 
 ## <a id="Header-4-5"></a>Explore 12F
 
@@ -2125,11 +2124,11 @@
 		* <span class="human-village"> Swap **Yuyuko -> Rin** </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen </span>
+		* <span class="hakurei-shrine"> Delevel Rumia, Cirno, Kasen </span>
 		* <span class="hakurei-item"> Use **Training Manual x13** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Nitori** </span>
-		* <span class="hakurei-item"> Use **Training Manual x10** on **Iku** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Reimu / Aya / Sanae / Satori** </span>
 	* Equipment:
@@ -2261,7 +2260,7 @@
 		* <span class="equip-add"> **Eirin**: </span>
 			* <span class="equip-add"> (M) **Misterepulsion** (1) </span>
 		* <span class="equip-add"> **Yuuka**: </span>
-			* <span class="equip-add"> (2) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (2) **Megasphere** or **Energy Pack** (5) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
 		* <span class="equip-add"> **Yukari**: </span>
 			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
