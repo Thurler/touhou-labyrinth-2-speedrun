@@ -33,7 +33,7 @@ This page lists every treasure chest in the game, their contents and whether the
 
 ## <a id="chest-list"></a>Treasure Chest List
 
-Any treasure located in floor A that can only be obtained after reaching floor B will be listed as a treasure from floor B. Collected treasure is represented with an `O`. Neglected treasure is represented with an `X`. Route names are shortened to reduce table space. Legend:
+Any treasure located in floor A that can only be obtained after reaching floor B will be listed as a treasure from floor B. Collected treasure is represented with an `O`. Neglected treasure is represented with an `X`. Treasures that may be skipped depending on random drops are marked with `?`. Route names are shortened to reduce table space. Legend:
 
 * Ame-no-Murakumo (NG) = AnM
 * Ame-no-Murakumo (NG+) = AnM+
@@ -59,13 +59,14 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Power Bracer | X |
 | Steadfast Ring | X |
 | Floor Total | 10 |
+| Possible Skips | 0 |
 | Combined Total | 10 |
 
 #### <a id="floor-2"></a>Floor 2
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Bludgeon | O |
+| Bludgeon | ? |
 | Concept of Attributes | O |
 | Crepe Mariette | O |
 | Crepe Mariette | O |
@@ -81,8 +82,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Sirloin | O |
 | Training Manual | O |
 | Two Face's Coin | X |
-| Floor Total | 11 |
-| Combined Total | 21 |
+| Floor Total | 10 |
+| Possible Skips | 1 |
+| Combined Total | 20 |
 
 #### <a id="floor-3"></a>Floor 3
 
@@ -104,7 +106,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Swiftness Gem | O |
 | Tome of Reincarnation | O |
 | Floor Total | 12 |
-| Combined Total | 33 |
+| Possible Skips | 1 |
+| Combined Total | 32 |
 
 #### <a id="floor-4"></a>Floor 4
 
@@ -117,7 +120,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Chargin' Targe | X |
 | Choice Scarf | X |
 | Getitup V | O |
-| Heater Muffler | O |
+| Heater Muffler | X |
 | Kazu's Amulet | X |
 | Light Staff | X |
 | LOVE Machine 3322 | O |
@@ -129,8 +132,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Sword of Singing Delusion | X |
 | Ultrafast Granite Keystone | O |
 | Violet Green Rupee | O |
-| Floor Total | 6 |
-| Combined Total | 39 |
+| Floor Total | 5 |
+| Possible Skips | 1 |
+| Combined Total | 37 |
 
 #### <a id="floor-5"></a>Floor 5
 
@@ -151,14 +155,15 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Yamabiko Necklace | X |
 | Floor Total | 4 |
-| Combined Total | 43 |
+| Possible Skips | 1 |
+| Combined Total | 41 |
 
 #### <a id="floor-6"></a>Floor 6
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly<br>Tome of Reincarnation x2 | X |
-| Blade Cuisinart | O |
+| Blade Cuisinart | ? |
 | Bone Stake | O |
 | Bottle of Hyperspace | O |
 | Concept of Everything x2 | X |
@@ -172,8 +177,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Pale Wing Thruster | O |
 | Purple Dragon Crystal | X |
 | Stone of Awakening | O |
-| Floor Total | 10 |
-| Combined Total | 53 |
+| Floor Total | 9 |
+| Possible Skips | 2 |
+| Combined Total | 50 |
 
 #### <a id="floor-7"></a>Floor 7
 
@@ -200,7 +206,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
 | Floor Total | 10 |
-| Combined Total | 63 |
+| Possible Skips | 2 |
+| Combined Total | 60 |
 
 #### <a id="floor-8"></a>Floor 8
 
@@ -221,7 +228,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Lapis Lazuli Light | X |
 | Magic Iron Shield | X |
 | Magician's Proof | O |
-| Mana Flower | O |
+| Mana Flower | X |
 | Piche's Bauble x2 | X |
 | Recovery Armband | X |
 | Spellbook - High Hurricane | O |
@@ -229,8 +236,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Symbol of Faith | O |
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | X |
-| Floor Total | 14 |
-| Combined Total | 77 |
+| Floor Total | 13 |
+| Possible Skips | 2 |
+| Combined Total | 73 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -243,7 +251,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Century's Jacket | O |
 | Diva's Apron | O |
 | Happy Hat | X |
-| Luster Candy | O |
+| Luster Candy | X |
 | Pale Wing Thruster | O |
 | Purifying Amulet x2 | X |
 | Purple Metallic Armor | X |
@@ -254,8 +262,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Water Cutting Sword | O |
 | Youkai's Fire Blowgun x2 | X |
-| Floor Total | 11 |
-| Combined Total | 88 |
+| Floor Total | 10 |
+| Possible Skips | 2 |
+| Combined Total | 84 |
 
 #### <a id="floor-10"></a>Floor 10
 
@@ -280,7 +289,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
 | Floor Total | 8 |
-| Combined Total | 96 |
+| Possible Skips | 2 |
+| Combined Total | 92 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -292,8 +302,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Century's Jacket | X |
 | Chargin' Targe | X |
 | Fighter's Soul x3 | X |
-| Forbidden Tablt | O |
-| Glaive of Pain | O |
+| Forbidden Tablt | X |
+| Glaive of Pain | ? |
 | Great Hammer | O |
 | HQ Sake Deer | X |
 | Lapis Lazuli Light x2 | X |
@@ -306,8 +316,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | The Arch | O |
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
-| Floor Total | 12 |
-| Combined Total | 108 |
+| Floor Total | 10 |
+| Possible Skips | 3 |
+| Combined Total | 102 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -319,7 +330,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Damascus Shield | X |
 | Energy Pack | O |
 | Grand Dragon Medal | X |
-| Growth Egg | O |
+| Growth Egg | ? |
 | Lambda Driver | O |
 | Love Machine 3322 | X |
 | Priest's Crystal Ball x3 | X |
@@ -332,8 +343,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Training Manual | O |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
-| Floor Total | 9 |
-| Combined Total | 117 |
+| Floor Total | 8 |
+| Possible Skips | 4 |
+| Combined Total | 110 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -354,7 +366,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | T-45d Power Armor | X |
 | Training Manual | X |
 | Floor Total | 2 |
-| Combined Total | 119 |
+| Possible Skips | 4 |
+| Combined Total | 112 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -367,7 +380,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Demon Core | X |
 | Excorising Staff | X |
 | First Aid Kit | O |
-| Forbidden Tablet | O |
+| Forbidden Tablet | X |
 | Insect's Rainbow Wings x2 | X |
 | Intama | O |
 | Kalar's Crystal | X |
@@ -379,8 +392,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Wisdom Gem | X |
-| Floor Total | 8 |
-| Combined Total | 127 |
+| Floor Total | 7 |
+| Possible Skips | 4 |
+| Combined Total | 119 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -391,7 +405,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Asura Blade | X |
 | Chario Boots | X |
 | Dark Magic Grimoire | O |
-| Dark Will | O |
+| Dark Will | X |
 | Energy Pack | O |
 | First Aid Kit | O |
 | Fragment of Mithril x2 | X |
@@ -413,8 +427,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Training Manual | X |
 | Ultrafast Granite Keystone | X |
 | Youkai Medal Shattering Axe | X |
-| Floor Total | 10 |
-| Combined Total | 137 |
+| Floor Total | 9 |
+| Possible Skips | 4 |
+| Combined Total | 128 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -440,7 +455,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Wash Basin Set | X |
 | Floor Total | 6 |
-| Combined Total | 143 |
+| Possible Skips | 4 |
+| Combined Total | 134 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -463,7 +479,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 3 |
-| Combined Total | 146 |
+| Possible Skips | 4 |
+| Combined Total | 137 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -476,16 +493,17 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Divine Barrier | X |
 | Full Custom | O |
 | Intama | O |
-| Jogurt Doll | O |
-| Lilium's Panties | O |
+| Jogurt Doll | X |
+| Lilium's Panties | X |
 | Megasphere | O |
 | Olzhas Shamshir | X |
 | Orb of Earithin | X |
 | Tokyo Metronome | X |
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
-| Floor Total | 6 |
-| Combined Total | 152 |
+| Floor Total | 4 |
+| Possible Skips | 4 |
+| Combined Total | 141 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -493,8 +511,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 | 3600 Money | X |
 | 4000 Money | X |
-| Astral Dominae | O |
-| Energy Pack | O |
+| Astral Dominae | X |
+| Energy Pack | ? |
 | Grand Master Breaker Title | O |
 | Intama | O |
 | Life Gem x2 | X |
@@ -512,8 +530,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Violent Green Rupee | X |
 | War Mask of the Butcher | X |
 | Youkai Medal Shattering Axe | X |
-| Floor Total | 6 |
-| Combined Total | 158 |
+| Floor Total | 4 |
+| Possible Skips | 5 |
+| Combined Total | 145 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -527,21 +546,22 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Experimental MIRV | X |
 | Fighting Gem | X |
 | Fragment of Scarlet Gold x2 | X |
-| Holy Sword Gran Centurio | O |
+| Holy Sword Gran Centurio | X |
 | Magic Gem | X |
 | Megasphere | X |
 | Primal Armor | X |
 | Protection Gem | X |
 | Scouter | X |
-| Star of Elendil | O |
+| Star of Elendil | X |
 | The Bee | X |
 | Tome of Reincarnation | X |
 | Training Manual | X |
 | Treasure Chest Key | X |
 | Wash Basin Set | X |
 | Wisdom Gem | X |
-| Floor Total | 3 |
-| Combined Total | 161 |
+| Floor Total | 1 |
+| Possible Skips | 5 |
+| Combined Total | 146 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
