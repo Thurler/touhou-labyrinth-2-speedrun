@@ -389,12 +389,12 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Nosferatu Tome | X |
 | Reinforced Leather Armor | X |
 | The Bee | X |
-| Treasure Chest Key | O |
+| Treasure Chest Key | X |
 | Wallbreaker Armband | O |
 | Wisdom Gem | X |
-| Floor Total | 7 |
+| Floor Total | 6 |
 | Possible Skips | 4 |
-| Combined Total | 120 |
+| Combined Total | 119 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -429,7 +429,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 9 |
 | Possible Skips | 4 |
-| Combined Total | 129 |
+| Combined Total | 128 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -456,7 +456,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wash Basin Set | X |
 | Floor Total | 6 |
 | Possible Skips | 4 |
-| Combined Total | 135 |
+| Combined Total | 134 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -480,7 +480,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Floor Total | 3 |
 | Possible Skips | 4 |
-| Combined Total | 138 |
+| Combined Total | 137 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -503,7 +503,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Floor Total | 4 |
 | Possible Skips | 4 |
-| Combined Total | 142 |
+| Combined Total | 141 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -532,7 +532,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Youkai Medal Shattering Axe | X |
 | Floor Total | 4 |
 | Possible Skips | 5 |
-| Combined Total | 146 |
+| Combined Total | 145 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -561,7 +561,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wisdom Gem | X |
 | Floor Total | 1 |
 | Possible Skips | 5 |
-| Combined Total | 147 |
+| Combined Total | 146 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
