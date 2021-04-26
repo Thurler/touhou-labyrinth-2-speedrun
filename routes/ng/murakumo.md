@@ -2032,15 +2032,12 @@
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
-		* <span class="equip-add"> **Yuyuko**: </span>
-			* <span class="equip-add"> (M) **Dark Will** (2) </span>
 		* <span class="equip-add"> **Suwako**: </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (3) **Full Custom** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Yuyuko**: Saigyouji Flawless Nirvana 1 -> 5 </span>
 		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 / MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Nitori**: Overheating 0 -> 1 </span>
 		* <span class="learn-skill"> **Kasen**: Guts 0 -> 2 </span>
@@ -2138,12 +2135,11 @@
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (1) **Star of Elendil** (5) </span>
-			* <span class="equip-add"> (2) **Astral Dominae** (5) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Orb of Gaia** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
-			* <span class="equip-add"> (3) **Forbidden Tablet** (4) </span>
+			* <span class="equip-add"> (3) **Astral Dominae** (5) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
 	* Learn Skills:
@@ -2260,12 +2256,10 @@
 		* <span class="equip-add"> **Eirin**: </span>
 			* <span class="equip-add"> (M) **Misterepulsion** (1) </span>
 		* <span class="equip-add"> **Yuuka**: </span>
-			* <span class="equip-add"> (2) **Megasphere** or **Energy Pack** (5) </span>
+			* <span class="equip-add"> (2) **Megasphere** / **Energy Pack** (5) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
 		* <span class="equip-add"> **Yukari**: </span>
 			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
-		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (3) **Astral Dominae** (5) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (3) **Divine Barrier** (5) </span>
 			* <span class="equip-add"> (2) **Grand Master Breaker** (5) </span>
