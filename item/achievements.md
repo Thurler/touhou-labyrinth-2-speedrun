@@ -322,7 +322,6 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 87 | 7F | Grinding on 7F |
 | 78 | 7F | 60 chests get |
 | 82 | 7F | Open locked chest |
-| 09 | 8F | Just play the game |
 | 75 | 8F | Exploring 7F Part 2 |
 | 26 | 8F | Boost before Iku fight |
 | 45 | 8F | Iku is the 24th character |
@@ -330,6 +329,7 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 57 | 9F | Sub Equips |
 | 49 | 9F | Chen Lv30 |
 | 61 | 9F | Boost before Tenshi fight |
+| 09 | 10F | Just play the game |
 | 40 | 10F | Unique monsters |
 | 60 | 11F | Grinding on 11F |
 | 79 | 11F | 100 chests get |
@@ -337,14 +337,14 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 90 | 14F | 1000BP on Nitori |
 | 35 | 15F | Silver Mail FOE |
 | 14 | 15F | Main Equips are inconsistent, don't count on this |
+| 70 | 15F | Sell before Yuyuko |
+| 71 | 15F | Sell before Yuyuko |
 | 05 | 16F | Escape with Aya |
 | 25 | 18F | Just enter the dungeon |
 | 58 | 18F | Sub Equips are inconsistent, don't count on this |
 | 41 | 18F | Unique monsters |
-| 20 | 20F | Reset money before final boss |
-| 27 | 20F | Upgrade stats before final boss |
-| 70 | 20F | Sell before boss |
-| 71 | 20F | Sell before boss |
-| 72 | 20F | Sell before boss |
+| 27 | 20F | Upgrade stats before High Mirror |
+| 20 | 20F | Reset money before Murakumo |
+| 72 | 20F | Sell before Murakumo |
 
 [Back to index page](../index.md)
