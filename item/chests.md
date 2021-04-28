@@ -28,7 +28,7 @@ This page lists every treasure chest in the game, their contents and whether the
 	* [Floor 18](#floor-18)
 	* [Floor 19](#floor-19)
 	* [Floor 20](#floor-20)
-* [Neglected Treasures List](#neglected-list)
+* [Useful Neglected Treasures List](#neglected-list)
 	* [Ame-no-Murakumo (NG)](#ng-murakumo)
 
 ## <a id="chest-list"></a>Treasure Chest List
@@ -563,99 +563,137 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Possible Skips | 5 |
 | Combined Total | 146 |
 
-## <a id="neglected-list"></a>Neglected Treasures List
+## <a id="neglected-list"></a>Useful Neglected Treasures List
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
 | Item Name | Floors Available | Reason |
 | :---: | :---: | :---: |
+| 720 Money | 8F | Out of way |
+| 960 Money | 10F | Out of way |
 | 1000 Money | 4F | Needs FOE kill |
+| 1000 Money | 7F | Out of way |
+| 1500 Money | 12F | Out of way |
+| 1800 Money | 15F | Out of way |
+| 2250 Money | 17F | Out of way |
 | 2500 Money | 17F | Out of way |
 | 3200 Money | 18F | Out of way |
 | 3600 Money | 19F | Out of way |
 | 4000 Money | 19F | Out of way |
+| 6000 Money | 20F | Out of way |
+| 6500 Money | 20F | Out of way |
 | **Main Equip** | - | - |
-| Miko Board x1 | 3F | Useless, out of way |
-| Tin Watering Can x2 | 4F | Needs key |
-| Grand Dragon Medal | 12F | Useless, out of way |
-| Tokyo Metronome x1 | 18F | Useless, out of way |
 | Source of Magic x2 | 4F | Needs key |
-| Master's Emblem x1 | 19F | Out of way |
+| Strange Meat Pie x1 | 4F | Needs key |
+| Sword of Singing Delusion x1 | 4F | Useless, out of way |
+| Choice Scarf x2 | 4F<br>14F | Needs FOE kill<br>Useless |
+| Midgard's Tooth x1 | 10F | Useless, out of way |
+| Elixir of Mages x2 | 10F/16F | Out of way |
+| Grand Dragon Medal x2 | 10F/12F | Out of way |
 | Pure Sake Wild Boar x1 | 10F | Needs Suika |
 | HQ Sake Deer x1 | 11F | Needs Suika |
 | Pure HQ Sake Butterfly x1 | 12F | Needs Suika |
-| Recovery Armband x1 | 8F | Useless, out of way |
-| Elixir of Mages x2 | 10F/16F | Useless, out of way |
-| Orb of Earithin x1 | 18F | Useless, out of way |
-| Modified Taser x1 | 15F | Needs FOE kill, useless |
-| Midgard's Tooth x1 | 10F | Useless, out of way |
-| Strange Meat Pie x1 | 4F | Needs key |
-| Frozen Eyes x1 | 10F | Useless, out of way |
-| Excorising Staff x2 | 14F/17F | Useless, out of way |
-| Choice Scarf x1 | 4F | Needs FOE kill, useless |
+| Reflex Booster Augment x1 | 12F | Out of way |
+| Exorcising Staff x2 | 14F/17F | Out of way |
+| Chario Boots x1 | 15F | Already have one, out of way |
+| Dark Will x1 | 15F | Out of way |
+| Modified Taser x1 | 15F | Useless, needs FOE kill |
+| Ribbon x2 | 15F<br>19F | Needs 88 crafts<br>Out of way |
+| Youkai Medal Shattering Axe x2 | 15F/19F | Out of way |
+| Purple Orb x1 | 15F | Out of way |
+| Master's Emblem x2 | 15F/19F | Out of way |
+| Tokyo Metronome x2 | 15F/18F | Out of way |
 | Primal Armor x2 | 16F/20F | Useless, out of way |
-| Youkai Medal Shattering Axe x2 | 15F/19F | Useless, out of way |
-| Experimental MIRV x2 | 17F/20F | Useless, out of way |
-| Nosferatu Tome x1 | 14F | Useless, out of way |
-| Ribbon x2 | 15F/19F | Needs 88 crafts |
-| Violent Green Rupee x1 | 19F | Useless, out of way |
-| Scouter x1 | 20F | Useless, out of way |
-| Wash Basin Set x1 | 20F | Useless, out of way |
+| Experimental MIRV x2 | 17F/20F | Out of way |
+| Growth Egg x1 | 17F | Out of way |
+| Orb of Earithin x1 | 18F | Out of way |
+| Jogurt Doll x1 | 18F | Already have one, out of way |
+| Micron's Magic Book x1 | 19F | Out of way |
 | **Sub Equip** | - | - |
-| Nitroglycerin x3 | 3F/4F/7F | Useless, out of way |
-| Steadfast Ring x1 | 4F | Useless, out of way |
-| Kazu's Amulet x1 | 4F | Useless, out of way |
-| Courtesan's Sorrow x1 | 13F | Useless, out of way |
-| Reinforced Leather Armor x2 | 10F/14F | Useless, out of way |
-| Kalar's Crystal x1 | 14F | Useless, out of way |
-| Card [Ruler of Heavens] x1 | 9F | Useless, out of way |
-| Lv70 Lover Snapper's Scale x1 | 10F | Useless, out of way |
-| Love Machine 3322 x2 | 12F/13F | Useless, out of way |
+| Power Bracer x1 | 1F | Out of way |
+| Cantrip Book x1 | 1F | Out of way |
 | Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
-| T-45d Power Armor x1 | 13F | Useless, out of way |
-| Drum x1 | 13F | Useless, out of way |
-| Getitup V x1 | 16F | Useless, out of way |
-| Pride x1 | 16F | Useless, out of way |
-| Luster Candy x1 | 17F | Needs FOE kill, useless |
-| Big Bang Waganizer x1 | 17F | Useless, out of way |
-| Divine Barrier x1 | 18F | Useless, out of way |
-| Demon Core x1 | 18F | Useless, out of way |
-| Star of Elendil x1 | 15F | Needs FOE kill |
-| Olzhas Shamshir x1 | 18F | Out of way |
-| Megasphere x1 | 20F | Needs 88 achievements |
-| War Mask of the Butcher x2 | 17F<br>19F | Needs FOE kill<br>Out of way |
-| Cinderforge Sword x1 | 20F | Needs 244k money on hand |
-| The Bee x1 | 20F | Useless, out of way |
+| Flipskirt Dagger x1 | 8F | Out of way |
+| Mana Flower x1 | 8F | Out of way |
+| Card [Ruler of Heavens] x1 | 9F | Useless, out of way |
+| Happy Hat x1 | 9F | Out of way |
+| Lv70 Lover Snapper's Scale x1 | 10F | Useless, out of way |
+| Century's Old Jacket x1 | 11F | Out of way |
+| Forbidden Tablet x2 | 11F/14F | Useless, out of way |
+| Love Machine 3322 x2 | 12F/13F | Useless, out of way |
+| Shinai of Spirits x1 | 12F | Useless |
+| Tisiphone Edge x1 | 12F | Useless |
+| Button of Aegis x2 | 13F | Useless, out of way |
+| Courtesan's Sorrow x2 | 13F/14F | Already have one, out of way |
+| Pale Wing Thruster x1 | 13F | Useless, out of way |
+| Kalar's Crystal x2 | 14F/16F | Useless, out of way |
+| Drum x2 | 13F/16F | Useless, out of way |
+| Star of Elendil x2 | 15F<br>20F | Needs FOE kill<br>Out of way |
+| Getitup V x1 | 16F | Already have two, out of way |
+| Pride x3 | 11F/13F/16F | Already have one, out of way |
+| Big Bang Waganizer x1 | 13F/17F | Already have one, out of way |
+| The Bee x2 | 14F/20F | Useless, out of way |
+| Asura Blade x3 | 15F/16F/18F | Already have one, out of way |
+| Portable Oscillation Cannon x2 | 15F/19F | Already have one, out of way |
+| Divine Barrier x2 | 16F/18F | Already have one, out of way |
+| Star World Bracelet x1 | 16F | Useless, out of way |
+| Wash Basin Set x2 | 16F/20F | Out of way |
+| Glaive of Pain x2 | 16F/17F | Already have two, out of way |
 | Dark Magic Grimoire x1 | 17F | Useless, out of way |
+| War Mask of the Butcher x2 | 17F<br>19F | Needs FOE kill<br>Out of way |
+| Olzhas Shamshir x2 | 17F/18F | Already have two, out of way |
+| Lilium's Panties x1 | 18F | Useless, out of way |
+| Astral Dominae x1 | 19F | Already have one, out of way |
+| Megasphere x1 | 20F | Needs 88 achievements |
+| Cinderforge Sword x1 | 20F | Needs 244k money on hand |
+| Holy Sword Gran Centurio x1 | 20F | Already have one, out of way |
 | **Materials** | - | - |
 | Magic Bird's Crest x4 | 4F | Useless, out of way |
 | Strange Mechanical Part x2 | 4F | Useless, out of way |
+| Concept of Everything x4 | 5F/6F | Useless, out of way |
+| Eternal Ice x5 | 5F/13F | Useless, out of way |
+| Piece of Magic Armor x2 | 5F | Useless, out of way |
+| Purifying Amulet x4 | 5F/9F | Useless, out of way |
+| Great Tree's Sap x2 | 7F | Useless, out of way |
+| Piece of Alexandrite x2 | 7F | Useless, out of way |
 | Stormy Selenite x2 | 7F | Useless, out of way |
 | Strong Rugged Horns x4 | 7F | Useless, out of way |
 | Chitin Shell x5 | 8F | Useless, out of way |
+| Lapis Lazuli Light x3 | 8F/11F | Useless, out of way |
+| Magic Iron Shield x1 | 8F | Useless, out of way |
+| Youkai's Fire Blowgun x2 | 9F | Useless, out of way |
 | Glittering Jewel x2 | 10F | Useless, out of way |
+| Fighter's Soul x3 | 11F | Useless, out of way |
+| Shining Black Stone x2 | 11F | Useless, out of way |
+| Priest's Crystal Ball x3 | 12F | Useless, out of way |
+| Azure Light x2 | 13F | Useless, out of way |
+| Insect's Rainbow Wings x2 | 14F | Useless, out of way |
+| Mysterious Structure x2 | 14F | Useless, out of way |
+| Fragment of Mythril x2 | 15F | Useless, out of way |
 | Hero's Soul x2 | 15F | Needs FOE kill, useless |
+| Celestial's Hagoromo x2 | 16F | Needs FOE kill, useless |
 | Shining Dragon's Soul x2 | 19F | Useless, out of way |
 | Rainbow Light x2 | 19F | Useless, out of way |
 | Fragment of Scarlet Gold x2 | 20F | Useless, out of way |
 | **Others** | - | - |
 | Life Gem x2 | 19F | Out of way |
 | Magic Gem x8 | 1F/3F<br>5F<br>20F | Needs key<br>Needs FOE kill<br>Out of way |
-| Energy Gem x3 | 1F<br>20F | Needs key<br>Out of way |
+| Energy Gem x5 | 1F<br>2F/6F/20F | Needs key<br>Out of way |
 | Fighting Gem x1 | 20F | Out of way |
 | Protection Gem x1 | 20F | Out of way |
-| Wisdom Gem x1 | 20F | Out of way |
+| Wisdom Gem x2 | 14F/20F | Out of way |
 | Tome of Insight - HP x1 | 17F | Out of way |
+| Tome of Insight - MP x1 | 16F | Out of way |
 | Tome of Insight - ATK x1 | 4F | Needs key |
 | Tome of Insight - DEF x2 | 4F<br>19F | Needs key<br>Out of way |
 | Tome of Insight - MAG x1 | 4F | Needs key |
 | Tome of Insight - MND x1 | 4F | Needs key |
 | Tome of Reincarnation x2 | 6F<br>20F | Needs key<br>Out of way |
-| Training Manual x3 | 17F/19F/20F | Out of way |
+| Training Manual x6 | 13F/15F/17F/19F/20F | Out of way |
 | Money-Growing Tree x2 | 1F/6F | Needs key |
 | Midnight Oil Set x3 | 1F/6F<br>4F | Needs key<br>Needs FOE kill |
 | Items Discovery Weekly x2 | 1F/6F | Needs key |
-| Treasure Chest Key x3 | 7F<br>18F/20F | Needs FOE kill<br>Useless, out of way |
+| Treasure Chest Key x4 | 7F<br>14F/18F/20F | Needs FOE kill<br>Useless, out of way |
 | Stone of Awakening x1 | 15F | Out of way |
 | Transcendent's Proof | 18F | Useless, out of way |
 

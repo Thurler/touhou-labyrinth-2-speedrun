@@ -2130,8 +2130,6 @@
 			* <span class="equip-add"> (3) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
-		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (1) **Star of Elendil** (5) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Orb of Gaia** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
@@ -2173,9 +2171,7 @@
 
 ## <a id="Header-7-4"></a>High Magatama Fight
 
-* When you're back on Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Open the menu and take the following actions:
+* Back on Gensokyo, open the menu and do a form change:
 	* <span class="form-change"> Form Change: **Aya / Reimu / Sanae / Satori** </span>
 * Enter the dungeon (20F East)
 <hr>
@@ -2258,15 +2254,15 @@
 		* <span class="equip-add"> **Yukari**: </span>
 			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
 		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (3) **Divine Barrier** (5) </span>
-			* <span class="equip-add"> (2) **Grand Master Breaker** (5) </span>
-			* <span class="equip-add"> (1) **Intama** (2) </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+			* <span class="equip-add"> (1) **Intama** (2) </span>
+			* <span class="equip-add"> (2) **Grand Master Breaker** (5) </span>
+			* <span class="equip-add"> (3) **Divine Barrier** (5) </span>
 		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
-			* <span class="equip-add"> (1) **Holy Sword Centurio** (5) </span>
-			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (1) **Holy Sword Centurio** (5) </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (2) **Century End Jacket** (4) </span>
 			* <span class="equip-add"> (1) **The Arch** (4) </span>
@@ -2276,18 +2272,17 @@
 			* <span class="equip-add"> (2) **Intama** (2) </span>
 			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
 		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
-			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
 			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
 		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (3) **Megasphere** (5) </span>
-			* <span class="equip-add"> (2) **Megasphere** (5) </span>
-			* <span class="equip-add"> (1) **Intama** (2) </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
+			* <span class="equip-add"> (1) **Intama** (2) </span>
+			* <span class="equip-add"> (2) **Megasphere** (5) </span>
+			* <span class="equip-add"> (3) **Megasphere** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Eirin**: HP Boost 0 -> 5 / Enhanced Toxins 0 -> 2 </span>
 		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Raid Maneuver 0 -> 1 / Sarutahiko Guidance 1 -> 3 </span>
-		* <span class="learn-skill"> **Kourin**: Initiative 0 -> 1 / Effective Formation 0 -> 2 / DEF Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Yuuka**: Fast Dash 0 -> 1 / HP/MP Boost 0 -> 5 / Extra Attack 0 -> 2 / Majesty 0 -> 2 </span>
 		* <span class="learn-skill"> **Yukari**: MP Boost 0 -> 5 / Yukari Spiriting Away 1 -> 5 / Fast Dash 0 -> 1 </span>
 		* <span class="learn-skill"> **Sanae**: MAG Boost 0 -> 5 / Last Wish 0 -> 2 / Miracle Fruit 1 -> 5 / Enhanced Buffs 0 -> 2 </span>
