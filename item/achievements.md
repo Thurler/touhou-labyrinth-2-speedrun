@@ -335,10 +335,10 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 79 | 11F | 100 chests get |
 | 54 | 12F | Materials |
 | 90 | 14F | 1000BP on Nitori |
+| 70 | 15F | Sell before Yuuka |
+| 71 | 15F | Sell before Yuuka |
 | 35 | 15F | Silver Mail FOE |
 | 14 | 15F | Main Equips are inconsistent, don't count on this |
-| 70 | 15F | Sell before Yuyuko |
-| 71 | 15F | Sell before Yuyuko |
 | 05 | 16F | Escape with Aya |
 | 25 | 18F | Just enter the dungeon |
 | 58 | 18F | Sub Equips are inconsistent, don't count on this |

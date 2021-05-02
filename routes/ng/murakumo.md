@@ -1616,25 +1616,27 @@
 * When you're done with all events, go back to Gensokyo
 * If Nitori isn't around Lv50, farm on 15F
 * When you're back on Gensokyo, use these facilities:
+	* <span class="nitori-shop"> **Nitori Shop**: Sell every material </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Kourin, Cirno </span>
+		* <span class="hakurei-shrine"> Reimu, Kourin </span>
+		* <span class="hakurei-shrine"> Cirno, Minoriko(HP) </span>
 		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee(HP) </span>
-		* <span class="hakurei-shrine"> Aya(HP), Kasen, Rin(SPD) </span>
+		* <span class="hakurei-shrine"> Nitori, Aya(HP) </span>
+		* <span class="hakurei-shrine"> Kasen, Rin(SPD) </span>
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
+		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Marisa / Parsee** </span>
+		* <span class="magic-reset"> **Reset Marisa** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
-		* <span class="subclass-add"> **Parsee** learns **Guardian** subclass </span>
+		* <span class="subclass-add"> **Minoriko** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
-		* <span class="magic-library"> **Parsee**: HP/MND 30 -> 50 / SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Aya**: SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Minoriko -> Kourin** </span>
-		* <span class="human-village"> Swap **Rumia -> Parsee** </span>
+		* <span class="human-village"> Swap **Rumia -> Kourin** </span>
 		* <span class="human-village"> Swap **Reisen -> Rin** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Sanae / Kasen** </span>
@@ -1646,7 +1648,7 @@
 			* <span class="equip-add"> (3) **Star World Bracelet** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
-		* <span class="equip-add"> **Parsee**: </span>
+		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
 			* <span class="equip-add"> (1) **Green Dream** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
@@ -1661,7 +1663,7 @@
 		* <span class="learn-skill"> **Kourin**: HP High Boost 2 -> 5 / MND High Boost 0 -> 1 </span>
 		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 0 -> 1 </span>
 		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Parsee**: MND/RES Boost 0 -> 5 / Ability Manip Jealousy 0 -> 1 / Emergency Recovery 0 -> 1 / Frontline Guard 0 -> 1 </span>
+		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 3 </span>
 		* <span class="learn-skill"> **Rin**: Cat's Walk 1 -> 7 / Extra Attack 0 -> 1 </span>
 		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 / MAG Boost 0 -> 3 </span>
 		* <span class="learn-skill"> **Iku**: Lightning Fish 2 -> 3 </span>
@@ -1673,12 +1675,12 @@
 * **Boss Fight - Yuuka Kazami (Lv53)**
 	* **Phase 1 - Blizzard Blowout**
 		* Wait for Cirno to die, spam Icicle Fall
-		* Sanae spams Miracle Fruit on Kasen
+		* Sanae juggles Miracle Fruit on Kasen and heals
 		* Kasen spams Higekiri's Cursed Arm
 		* Kourin spams Battle Command on Kasen
 	* **Phase 2 - Damage Rush**
-		* Swap in Parsee where Cirno was
-		* Parsee switches characters around
+		* Swap in Minoriko where Cirno was
+		* Minoriko juggles heals, buffs and switches
 		* Swap Kasen with Nitori
 		* Sanae spams Miracle Fruit on Nitori
 		* Nitori spams Kappa Waterfall
@@ -1687,7 +1689,8 @@
 		* Occasionally swap Sanae with Aya
 		* Aya DGAs Nitori with good timing
 	* **Phase 3 - Master Spark**
-		* Swap Parsee with Rin
+		* Either damage rush with Nitori or SHK spam
+		* Swap Minoriko with Rin
 		* Rin spams Cat's Walk
 		* Pray for SHK and keep dealing damage
 	* For finer details see Yuuka's [Boss Info](../../enemy/yuuka.md)
@@ -1713,7 +1716,10 @@
 		* <span class="equip-remove"> **Kourin**:</span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
-	* <span class="nitori-shop"> **Nitori Shop**: Sell every material </span>
+	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Minoriko -> Parsee** </span>
+		* <span class="human-village"> Swap **Rin -> Satori** </span>
+		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
 		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
 		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
@@ -1722,17 +1728,15 @@
 		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Kourin / Chen / Komachi / Parsee** </span>
+		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi / Parsee** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori, Kasen** </span>
 		* <span class="subclass-add"> **Chen** learns **Herbalist** subclass </span>
 		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
 		* <span class="magic-library"> **Satori**: HP/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Yuuka**: HP/SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Parsee**: HP/MND 30 -> 50 / SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
-	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rin -> Satori** </span>
-		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Cirno / Reimu / Kasen** </span>
 	* Equipment:
