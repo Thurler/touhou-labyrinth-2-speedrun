@@ -83,7 +83,7 @@ You get these naturally as you progress, and the only one worth grinding for is 
 
 Vital for playing the game and specially postgame, since you don't want to be bound by the number of stones you have. More relevant for postgame categories.
 
-* 031 - Defeat 1 FOE (DX Mechamonkey Model)
+* 031 - Defeat 1 FOE (DX Mecha Model)
 * 032 - Defeat 10 FOEs (Yuugi Fight)
 * 033 - Defeat 30 FOEs (Tokyo Metronome)
 * 034 - Defeat 60 FOEs (80000 Money)
@@ -108,7 +108,7 @@ These will happen naturally when you're grinding for achievement 34, but the rew
 
 These will happen naturally just by progressing the game, and the rewards are very good, too. Some rare monsters will be required if you want the 200 one, but the Plus Disk areas can help with that. The plus disk rewards are all trash.
 
-* 044 - Gather 12 Party Members (Tome of Insight - Agility)
+* 044 - Gather 12 Party Members (Tome of Insight - Speed)
 * 045 - Gather 24 Party Members (Items Discovery Weekly)
 * 046 - Gather 36 Party Members (Money-Growing Tree)
 * 047 - Gather 48 Party Members (Midnight Oil Set)

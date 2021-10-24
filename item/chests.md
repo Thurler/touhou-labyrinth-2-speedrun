@@ -90,6 +90,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
+| Magic Gem x3 | X |
 | Colorful Rainbow Flower x2 | O |
 | Concept of Attributes | O |
 | Courtesan's Sorrow | O |
@@ -97,7 +98,6 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Glow Crystal | O |
 | Great Tree's Leaf x2 | O |
 | Heater Muffler | O |
-| Magic Gem x3 | X |
 | Miko Board | X |
 | Nitroglycerin | X |
 | Scarlet Light | O |
@@ -144,11 +144,11 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Biggest Sword Ever | O |
 | Concept of Everything x2 | X |
 | Eternal Ice x2 | X |
-| Flipskirt Dagger | O |
+| Cuckri | O |
 | Heater Muffler | X |
 | Kazu's Amulet | X |
 | Magic Gem x2 | X |
-| Misterepulsion | O |
+| Repulsion Orb | O |
 | Piece of Magic Armor x2 | X |
 | Purifying Amulet x2 | X |
 | Shoes of Happiness | O |
@@ -213,16 +213,16 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Items Discovery Weekly x3<br>Growth Egg<br>Violent Green Rupee<br>Glaive of Pain | O |
+| Items Discovery Weekly x3<br>Growing Egg<br>Violent Green Rupee<br>Glaive of Pain | O |
 | 720 Money | X |
 | 788 Money | O |
 | 880 Money | O |
-| Big Bang Waganizer | O |
+| Big Bang Wave Cannon | O |
 | Biggest Sword Ever | O |
 | Chario Boots | O |
 | Chitin Shell x5 | X |
 | Damascus Shield | X |
-| Flipskirt Dagger | X |
+| Cuckri | X |
 | Hero's Medal | O |
 | Lambda Driver | O |
 | Lapis Lazuli Light | X |
@@ -244,7 +244,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Youkai Medal Shattering Axe<br>Tome of Insight - SPD x2<br>Swiftness Gem<br>Star of Elendil | O |
+| Medal Shattering Youkai Axe<br>Tome of Insight - SPD x2<br>Swiftness Gem<br>Star of the Just | O |
 | 900 Money | O |
 | 1000 Money | O |
 | Card [Ruler of Heavens] | X |
@@ -330,7 +330,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Damascus Shield | X |
 | Energy Pack | O |
 | Grand Dragon Medal | X |
-| Growth Egg | ? |
+| Growing Egg | ? |
 | Lambda Driver | O |
 | Love Machine 3322 | X |
 | Priest's Crystal Ball x3 | X |
@@ -353,7 +353,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 | Wash Basin Set<br>Master's Emblem<br>Life Gem x4 | O |
 | Azure Light x2 | X |
-| Big Bang Waganizer | X |
+| Big Bang Wave Cannon | X |
 | Button of Aegis | X |
 | Button of Aegis | X |
 | Courtesan's Sorrow | X |
@@ -417,7 +417,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Portable Oscillation Cannon | X |
 | Purple Orb | X |
 | Ribbon | X |
-| Star of Elendil | X |
+| Star of the Just | X |
 | Star World Bracelet | O |
 | Stone of Awakening | O |
 | Stone of Awakening | O |
@@ -426,7 +426,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Training Manual | X |
 | Training Manual | X |
 | Ultrafast Granite Keystone | X |
-| Youkai Medal Shattering Axe | X |
+| Medal Shattering Youkai Axe | X |
 | Floor Total | 9 |
 | Possible Skips | 4 |
 | Combined Total | 128 |
@@ -464,12 +464,12 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 | 2250 Money | X |
 | 2500 Money | X |
-| Big Bang Waganizer | X |
+| Big Bang Wave Cannon | X |
 | Dark Magic Grimoire | X |
 | Excorising Staff | X |
 | Experimental MIRV | X |
 | Glaive of Pain | X |
-| Growth Egg | X |
+| Growing Egg | X |
 | Luster Candy | X |
 | Meteor Drive | O |
 | Olzhas Shamshir | X |
@@ -529,7 +529,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Violent Green Rupee | X |
 | War Mask of the Butcher | X |
-| Youkai Medal Shattering Axe | X |
+| Medal Shattering Youkai Axe | X |
 | Floor Total | 4 |
 | Possible Skips | 5 |
 | Combined Total | 145 |
@@ -552,7 +552,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Primal Armor | X |
 | Protection Gem | X |
 | Scouter | X |
-| Star of Elendil | X |
+| Star of the Just | X |
 | The Bee | X |
 | Tome of Reincarnation | X |
 | Training Manual | X |
@@ -599,13 +599,13 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Dark Will x1 | 15F | Out of way |
 | Modified Taser x1 | 15F | Useless, needs FOE kill |
 | Ribbon x2 | 15F<br>19F | Needs 88 crafts<br>Out of way |
-| Youkai Medal Shattering Axe x2 | 15F/19F | Out of way |
+| Medal Shattering Youkai Axe x2 | 15F/19F | Out of way |
 | Purple Orb x1 | 15F | Out of way |
 | Master's Emblem x2 | 15F/19F | Out of way |
 | Tokyo Metronome x2 | 15F/18F | Out of way |
 | Primal Armor x2 | 16F/20F | Useless, out of way |
 | Experimental MIRV x2 | 17F/20F | Out of way |
-| Growth Egg x1 | 17F | Out of way |
+| Growing Egg x1 | 17F | Out of way |
 | Orb of Earithin x1 | 18F | Out of way |
 | Jogurt Doll x1 | 18F | Already have one, out of way |
 | Micron's Magic Book x1 | 19F | Out of way |
@@ -613,7 +613,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Power Bracer x1 | 1F | Out of way |
 | Cantrip Book x1 | 1F | Out of way |
 | Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
-| Flipskirt Dagger x1 | 8F | Out of way |
+| Cuckri x1 | 8F | Out of way |
 | Mana Flower x1 | 8F | Out of way |
 | Card [Ruler of Heavens] x1 | 9F | Useless, out of way |
 | Happy Hat x1 | 9F | Out of way |
@@ -628,10 +628,10 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Pale Wing Thruster x1 | 13F | Useless, out of way |
 | Kalar's Crystal x2 | 14F/16F | Useless, out of way |
 | Drum x2 | 13F/16F | Useless, out of way |
-| Star of Elendil x2 | 15F<br>20F | Needs FOE kill<br>Out of way |
+| Star of the Just x2 | 15F<br>20F | Needs FOE kill<br>Out of way |
 | Getitup V x1 | 16F | Already have two, out of way |
 | Pride x3 | 11F/13F/16F | Already have one, out of way |
-| Big Bang Waganizer x1 | 13F/17F | Already have one, out of way |
+| Big Bang Wave Cannon x1 | 13F/17F | Already have one, out of way |
 | The Bee x2 | 14F/20F | Useless, out of way |
 | Asura Blade x3 | 15F/16F/18F | Already have one, out of way |
 | Portable Oscillation Cannon x2 | 15F/19F | Already have one, out of way |
