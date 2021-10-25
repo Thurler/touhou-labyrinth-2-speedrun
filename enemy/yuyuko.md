@@ -99,10 +99,10 @@ Final formula = 2.8938624 \* (16500 - 2000) \* (1.0 + (0.01 \* (TRR / 2500)))
 	* 394400 = 2.8938624 \* 14500 \* (1.0 + (0.01 \* (TRR / 2500)))
 	* 9.399202947590044 = 1.0 + (0.01 \* (TRR / 2500))
 	* 8.399202947590044 = 0.01 \* (TRR / 2500)
-	* 939.9202947590044 = TRR / 2500
-	* TRR = 2349800
+	* 839.9202947590044 = TRR / 2500
+	* TRR = 2099800
 
-Realistically, Parsee will always have some buffs on her from the beginning of the fight, so 2.02 million is a more realistic figure to aim at if Sanae can't buff Parsee at the very end. It might seem like it would take forever to stack TRR that high, but remember Beauty of Nature applies a multiplier to the current value, so it grows exponentially. The difference between 1.2M and 2M should be 2-3 casts, hardly any time loss.
+Realistically, Parsee will always have some buffs on her from the beginning of the fight, so 2 million is a more realistic figure to aim at if Sanae can't buff Parsee at the very end. It might seem like it would take forever to stack TRR that high, but remember Beauty of Nature applies a multiplier to the current value, so it grows exponentially. The difference between 1.2M and 2M should be 2-3 casts, hardly any time loss.
 
 In order to keep everyone alive and well while we stup the TRR stack, Komachi is left on slot 1 to tank most hits and Sanae on slot 2 to share some buffs and heals. It's very important to keep Yuuka and Satori alive and near max HP, since Yuyuko is perfectly capable of 2 shotting each of them. Buffs can also help Satori and Yuuka move faster, speeding up the fight a bit. Chen is also essential in this fight to apply Herb of Awakening and IA pivot Yuuka and Satori right after they cast Beauty of Nature. Satori gets pretty much infinite MP thanks to Small MP recovery, so you'll never really be hard pressed for BoN casts.
 
