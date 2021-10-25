@@ -272,7 +272,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 | Midnight Oil Set x3<br>Purple Orb x3<br>Fighting Gem x3<br>Forbidden Tablet | O |
 | 960 Money | X |
-| Button of Aegis | O |
+| Aegis Button | O |
 | Demon Core | X |
 | Elixir of Mages | X |
 | Frozen Eyes | X |
@@ -354,8 +354,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wash Basin Set<br>Master's Emblem<br>Life Gem x4 | O |
 | Azure Light x2 | X |
 | Big Bang Wave Cannon | X |
-| Button of Aegis | X |
-| Button of Aegis | X |
+| Aegis Button | X |
+| Aegis Button | X |
 | Courtesan's Sorrow | X |
 | Drum | X |
 | Eternal Ice x3 | X |
@@ -623,7 +623,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Love Machine 3322 x2 | 12F/13F | Useless, out of way |
 | Shinai of Spirits x1 | 12F | Useless |
 | Tisiphone Edge x1 | 12F | Useless |
-| Button of Aegis x2 | 13F | Useless, out of way |
+| Aegis Button x2 | 13F | Useless, out of way |
 | Courtesan's Sorrow x2 | 13F/14F | Already have one, out of way |
 | Pale Wing Thruster x1 | 13F | Useless, out of way |
 | Kalar's Crystal x2 | 14F/16F | Useless, out of way |

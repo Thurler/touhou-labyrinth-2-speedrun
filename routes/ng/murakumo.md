@@ -1215,7 +1215,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
-			* <span class="equip-add"> (2) **Button of Aegis** (2) </span>
+			* <span class="equip-add"> (2) **Aegis Button** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 5 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
 		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 1 / HP Boost 4 -> 5 </span>
@@ -2275,7 +2275,7 @@
 			* <span class="equip-add"> (1) **The Arch** (4) </span>
 			* <span class="equip-add"> (M) **Micron Magic Book** (2) </span>
 		* <span class="equip-add"> **Satori**: </span>
-			* <span class="equip-add"> (1) **Button of Aegis** (2) </span>
+			* <span class="equip-add"> (1) **Aegis Button** (2) </span>
 			* <span class="equip-add"> (2) **Intama** (2) </span>
 			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
 		* <span class="equip-add"> **Iku**: </span>
