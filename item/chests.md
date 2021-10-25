@@ -376,7 +376,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher<br>Divine Barrier<br>Fighting Gem x3<br>Protection Gem x3 | O |
 | Choice Scarf | X |
 | Courtesan's Sorrow | X |
-| Dark Magic Grimoire | O |
+| Dark Magic Grimoire | X |
 | Demon Core | X |
 | Excorising Staff | X |
 | First Aid Kit | O |
@@ -392,9 +392,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Wallbreaker Armband | O |
 | Wisdom Gem | X |
-| Floor Total | 6 |
+| Floor Total | 5 |
 | Possible Skips | 4 |
-| Combined Total | 119 |
+| Combined Total | 118 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -429,7 +429,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 9 |
 | Possible Skips | 4 |
-| Combined Total | 128 |
+| Combined Total | 127 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -456,7 +456,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wash Basin Set | X |
 | Floor Total | 6 |
 | Possible Skips | 4 |
-| Combined Total | 134 |
+| Combined Total | 133 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -480,13 +480,13 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Floor Total | 3 |
 | Possible Skips | 4 |
-| Combined Total | 137 |
+| Combined Total | 136 |
 
 #### <a id="floor-18"></a>Floor 18
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Orb of Earithin<br>Training Manual x5<br>Swiftness Gem x5 | O |
+| Gaia's Orb<br>Training Manual x5<br>Swiftness Gem x5 | O |
 | 3200 Money | X |
 | Asura Blade | X |
 | Demon Core | X |
@@ -497,13 +497,13 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Lilium's Panties | X |
 | Megasphere | O |
 | Olzhas Shamshir | X |
-| Orb of Earithin | X |
+| Gaia's Orb | X |
 | Tokyo Metronome | X |
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 4 |
 | Possible Skips | 4 |
-| Combined Total | 141 |
+| Combined Total | 140 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -532,7 +532,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 4 |
 | Possible Skips | 5 |
-| Combined Total | 145 |
+| Combined Total | 144 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -561,7 +561,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wisdom Gem | X |
 | Floor Total | 1 |
 | Possible Skips | 5 |
-| Combined Total | 146 |
+| Combined Total | 145 |
 
 ## <a id="neglected-list"></a>Useful Neglected Treasures List
 
@@ -606,7 +606,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Primal Armor x2 | 16F/20F | Useless, out of way |
 | Experimental MIRV x2 | 17F/20F | Out of way |
 | Growing Egg x1 | 17F | Out of way |
-| Orb of Earithin x1 | 18F | Out of way |
+| Gaia's Orb x1 | 18F | Out of way |
 | Jogurt Doll x1 | 18F | Already have one, out of way |
 | Micron's Magic Book x1 | 19F | Out of way |
 | **Sub Equip** | - | - |

@@ -1329,7 +1329,7 @@
 
 ![](img/murakumo/12-02-east.png)
 
-* Once you get to the relay point, go back to Gensokyo
+* Once you get to the relay point, grind until Wriggle 120 BP on 11F
 
 ## <a id="Header-4-6"></a>Golden Mirror Fight
 
@@ -1344,9 +1344,9 @@
 	* * <span class="form-change"> Form Change: **Kasen / Aya / Komachi / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Growing Egg** (2) </span>
+			* <span class="equip-add"> (if not equipped) (M) **Growing Egg** (2) </span>
 		* <span class="equip-add"> **Komachi**: </span>
-			* <span class="equip-add"> (2) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferriage Fog 1 -> 5 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 9 </span>
 * Level reference: Reisen 39
@@ -2130,7 +2130,7 @@
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Orb of Gaia** (2) </span>
+			* <span class="equip-add"> (M) **Gaia's Orb** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
 			* <span class="equip-add"> (3) **Astral Dominae** (5) </span>
