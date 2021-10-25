@@ -75,16 +75,16 @@ Yuyuko is a mandatory boss on 14F that unlocks a rock seal guarding the way to Y
 
 Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflict TRR on her, then spam Beauty of Nature with Yuuka and Satori to scale up TRR duration, then kill her in one hit of Jealousy of the Kind. Since Yuyuko has 0 TRR resist, it's trivial to proc it on her and scale it up, but her 300 DRK affinity means we'll have to spend a considerable amount of time scaling it up. In order to make this process faster, we minmax every multiplier we can on Parsee and dump all money on her ATK, so that we only really need to stack TRR to around 1.2 million duration, ideally. Some details on how we got to that number:
 
-Jealousy of the Kind Formula = 2.5 \* (2.5 \* ATK - 0.5 \* DEF) \* (1.0 + (0.01 \* (TRR / 2500)))
-Spell level 5 multiplier = 1.2
-Final Blow multiplier = 1.32
-Flames of Jealousy multiplier = 1.3
-High Stakes multiplier = 1.24
-Herb of Awakening multiplier = 1.36
-Affinity multiplier = 0.3333
-Yuyuko's HP = 394400
-Yuyuko's DEF = 4000
-Parsee's approximate ATK = 6600
+* Jealousy of the Kind Formula = 2.5 \* (2.5 \* ATK - 0.5 \* DEF) \* (1.0 + (0.01 \* (TRR / 2500)))
+* Spell level 5 multiplier = 1.2
+* Final Blow multiplier = 1.32
+* Flames of Jealousy multiplier = 1.3
+* High Stakes multiplier = 1.24
+* Herb of Awakening multiplier = 1.36
+* Affinity multiplier = 0.3333
+* Yuyuko's HP = 394400
+* Yuyuko's DEF = 4000
+* Parsee's approximate ATK = 6600
 
 Final formula = 2.8938624 \* (16500 - 2000) \* (1.0 + (0.01 \* (TRR / 2500)))
 
