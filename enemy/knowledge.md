@@ -55,8 +55,8 @@ The goal here is to prepare some buffs, debuffs, and the frontline for Ether Fla
 * Parsee uses Grudge Returning
 * Reisen spams Discarder
 * If TRR proc'd:
-  * Nitori swaps Sanae with Cirno
-  * Parsee uses Jealousy of the Kind and Lovely
+	* Nitori swaps Sanae with Cirno
+	* Parsee uses Jealousy of the Kind and Lovely
 * Form Change into Nitori / Iku / Reimu / Cirno
 
 **PHASE 2 - Quick Kill**
@@ -71,7 +71,7 @@ Rushdown with Parsee, then Kasen and Chen if necessary. Keep buffs up and IA piv
 * Nitori and Reisen IA pivot Sanae and Parsee
 * Parsee uses Grudge Returning
 * If TRR does not proc:
-  * Concentrate -> Grudge Returning until proc
+	* Concentrate -> Grudge Returning until proc
 * Parsee uses Jealousy of the Kind and Lovely
 * At low HP, Nitori, Kasen and Chen finish
 

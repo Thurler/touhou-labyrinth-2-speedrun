@@ -88,19 +88,19 @@ Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflic
 
 Final formula = 2.8938624 \* (16500 - 2000) \* (1.0 + (0.01 \* (TRR / 2500)))
 
-Isolating for TRR, assuming Parsee has a 50% ATK buff:
-394400 = 2.8938624 \* 22750 \* (1.0 + (0.01 \* (TRR / 2500)))
-5.990734411787043 = 1.0 + (0.01 \* (TRR / 2500))
-4.990734411787043 = 0.01 \* (TRR / 2500)
-499.0734411787043 = TRR / 2500
-TRR = 1247683
+* Isolating for TRR, assuming Parsee has a 50% ATK buff:
+	* 394400 = 2.8938624 \* 22750 \* (1.0 + (0.01 \* (TRR / 2500)))
+	* 5.990734411787043 = 1.0 + (0.01 \* (TRR / 2500))
+	* 4.990734411787043 = 0.01 \* (TRR / 2500)
+	* 499.0734411787043 = TRR / 2500
+	* TRR = 1247683
 
-Isolating for TRR, assuming Parsee has no buffs:
-394400 = 2.8938624 \* 14500 \* (1.0 + (0.01 \* (TRR / 2500)))
-9.399202947590044 = 1.0 + (0.01 \* (TRR / 2500))
-8.399202947590044 = 0.01 \* (TRR / 2500)
-939.9202947590044 = TRR / 2500
-TRR = 2349800
+* Isolating for TRR, assuming Parsee has no buffs:
+	* 394400 = 2.8938624 \* 14500 \* (1.0 + (0.01 \* (TRR / 2500)))
+	* 9.399202947590044 = 1.0 + (0.01 \* (TRR / 2500))
+	* 8.399202947590044 = 0.01 \* (TRR / 2500)
+	* 939.9202947590044 = TRR / 2500
+	* TRR = 2349800
 
 Realistically, Parsee will always have some buffs on her from the beginning of the fight, so 2.02 million is a more realistic figure to aim at if Sanae can't buff Parsee at the very end. It might seem like it would take forever to stack TRR that high, but remember Beauty of Nature applies a multiplier to the current value, so it grows exponentially. The difference between 1.2M and 2M should be 2-3 casts, hardly any time loss.
 
@@ -132,8 +132,8 @@ Here we simply stackc TRR as high as we can, stopping around 1.2 million for the
 Make sure you have everything ready before firing off Jealousy of the Kind - if Yuyuko survives you lose everything as she sweeps you with her strong spells:
 
 * TRR reaches 1.2-2.0 million (6600+ ATK)
-  * 1.22 million with Sanae buff
-  * 2.06 million without Sanae buff
+	* 1.22 million with Sanae buff
+	* 2.06 million without Sanae buff
 * Swap in Chen -> Parsee on slots 3 and 4
 * Sanae uses Miracle Fruit on Parsee once
 * Chen uses Herb of Awakening on Parsee
