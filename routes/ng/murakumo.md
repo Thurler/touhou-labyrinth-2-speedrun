@@ -1298,18 +1298,6 @@
 
 ![](img/murakumo/11-02-southeast.png)
 
-* When you reach the destination, farm until Nitori wipe
-* When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Open the menu and take the following actions:
-	* Equipment:
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (3) **Meteor Drive** (5) </span>
-* Level reference: Nitori 36
-* Enter the dungeon (11F)
-
-![](img/murakumo/11-03-northeast.png)
-
 * When you reach the 12F relay circle, farm until Nitori wipe on 11F
 
 ## <a id="Header-4-5"></a>Explore 12F
@@ -1318,6 +1306,10 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
 		* <span class="hakurei-shrine"> Komachi, Chen, Nitori </span>
 		* <span class="hakurei-shrine"> Aya, Kasen, Iku </span>
+* Open the menu and take the following actions:
+	* Equipment:
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (3) **Meteor Drive** (5) </span>
 * Level reference: Nitori 38
 * Enter the dungeon (12F)
 
