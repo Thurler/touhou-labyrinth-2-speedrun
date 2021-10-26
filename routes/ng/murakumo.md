@@ -1715,13 +1715,6 @@
 		* <span class="human-village"> Swap **Minoriko -> Parsee** </span>
 		* <span class="human-village"> Swap **Rin -> Satori** </span>
 		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
-		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
-		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
-		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
-		* <span class="hakurei-item"> Use **Training Manual x6** on **Satori** </span>
-		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
-		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi / Parsee** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori, Kasen** </span>
@@ -1732,6 +1725,13 @@
 		* <span class="magic-library"> **Yuuka**: HP/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: HP/MND 30 -> 50 / SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
+		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
+		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
+		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
+		* <span class="hakurei-item"> Use **Training Manual x6** on **Satori** </span>
+		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Cirno / Reimu / Kasen** </span>
 	* Equipment:
@@ -1799,6 +1799,9 @@
 		* <span class="human-village"> Swap **Iku -> Yuyuko** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Yuyuko / Reisen** </span>
+	* Equipment:
+		* <span class="equip-add"> **Yuyuko**: </span>
+			* <span class="equip-add"> (if dropped) (M) **Dark Determination** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Yuyuko**: Saigyouji Flawless Nirvana 1 -> 5 </span>
 * Enter the dungeon (15F center) and go fight the Giant
@@ -1824,6 +1827,7 @@
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Monk** subclass </span>
+		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Yuyuko -> Kourin** </span>
 		* <span class="human-village"> Swap **Reisen -> Komachi** </span>
@@ -1861,7 +1865,7 @@
 		* Reset if less than 2 full ATBs
 			* 14.06 / 38.94 / 35.94 / 11.06
 		* Aya DGAs whoever didnt get a full ATB
-			If everyone has a full ATB, Saruathiko self
+			If everyone has a full ATB, Sarutahiko self
 		* Parsee uses Midnight Anathema Ritual (54% proc)
 		* Yuuka and Satori use Beauty of Nature
 		* Swap Parsee with Kourin
@@ -1947,7 +1951,7 @@
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **Meteor Drive** (5) </span>
-			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
@@ -2027,7 +2031,7 @@
 	* <span class="form-change"> Form Change: **Aya / Cirno / Yuyuko / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 		* <span class="equip-add"> **Suwako**: </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
@@ -2135,7 +2139,7 @@
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
 			* <span class="equip-add"> (3) **Astral Dominae** (5) </span>
 		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Overheat 0 -> 1 / Cooling Down 0 -> 2 / Mind Body One 0 -> 2 </span>
