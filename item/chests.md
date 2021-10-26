@@ -359,7 +359,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Courtesan's Sorrow | X |
 | Drum | X |
 | Eternal Ice x3 | X |
-| Jogurt Doll | O |
+| Yogurt Doll | O |
 | Love Machine 3322 | X |
 | Pale Wing Thruster | X |
 | Pride | X |
@@ -493,7 +493,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Divine Barrier | X |
 | Full Custom | O |
 | Intama | O |
-| Jogurt Doll | X |
+| Yogurt Doll | X |
 | Lilium's Panties | X |
 | Megasphere | O |
 | Olzhas Shamshir | X |
@@ -607,7 +607,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Experimental MIRV x2 | 17F/20F | Out of way |
 | Growing Egg x1 | 17F | Out of way |
 | Gaia's Orb x1 | 18F | Out of way |
-| Jogurt Doll x1 | 18F | Already have one, out of way |
+| Yogurt Doll x1 | 18F | Already have one, out of way |
 | Micron's Magic Book x1 | 19F | Out of way |
 | **Sub Equip** | - | - |
 | Power Bracer x1 | 1F | Out of way |
