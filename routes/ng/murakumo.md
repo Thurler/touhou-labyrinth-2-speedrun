@@ -2119,7 +2119,7 @@
 		* <span class="human-village"> Swap **Suwako -> Cirno** </span>
 		* <span class="human-village"> Swap **Yuyuko -> Rin** </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen </span>
+		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen, Iku(SPD) </span>
 		* <span class="hakurei-shrine"> Delevel Rumia, Cirno, Kasen </span>
 		* <span class="hakurei-item"> Use **Training Manual x13** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
