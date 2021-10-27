@@ -55,7 +55,7 @@ Suwako is a mandatory character, necessary to enter 13F. She plays a purely offe
 	* Very good skill for a glass cannon like her, since it is expected to switch her around often
 * **Quickwitted**
 	* Inverts SPD debuffs on self into buffs of same magnitude
-	* Useless since Aya will always have her SPD buffed
+	* Very situational, specially depending on your party setup. We usually buff SPD to get an edge over bosses, so this is hardly useful
 
 ## <a id="useful"></a>Role & Usefulness
 

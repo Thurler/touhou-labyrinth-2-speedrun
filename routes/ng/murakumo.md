@@ -64,8 +64,8 @@
 * [Heaven Stratum](#Header-7) (19F ~ 20F)
 	* [Explore 19F North / 20F West](#Header-7-1)
 	* [Explore 19F South / 20F East](#Header-7-2)
-	* [High Mirror Fight](#Header-7-3)
-	* [High Magatama Fight](#Header-7-4)
+	* [High Magatama Fight](#Header-7-3)
+	* [High Mirror Fight](#Header-7-4)
 	* [Explore 20F Depths](#Header-7-5)
 	* [Ame-no-Murakumo](#Header-7-6)
 
@@ -85,7 +85,7 @@
 
 * Right after you open the locked treasure chest, do this menu:
 	* <span class="equip-add"> **Keine**:</span>
-		* <span class="equip-add"> (1) **Piece of Heart** (1)</span>
+		* <span class="equip-add"> (1) **Life Fragment** (1)</span>
 		* <span class="equip-add"> (2) **Purple Metallic Armor** (1)</span>
 	* <span class="equip-add"> **Reimu**:</span>
 		* <span class="equip-add"> (2) **Biggest Sword Ever** (1)</span>
@@ -104,7 +104,7 @@
 		* <span class="equip-remove"> **Keine**:</span>
 			* <span class="equip-remove"> (1, 2) **Remove**</span>
 		* <span class="equip-add"> **Momiji**:</span>
-			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
+			* <span class="equip-add"> (2) **Life Fragment** (1)</span>
 			* <span class="equip-add"> (1) **Purple Metallic Armor** (1)</span>
 		* <span class="equip-add"> **Marisa**:</span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
@@ -231,7 +231,7 @@
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Reimu / Marisa** </span>
 	* Equipment:
 		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (3) **DX Mechamonkey Model** (1)</span>
+			* <span class="equip-add"> (3) **DX Mecha Model** (1)</span>
 			* <span class="equip-add"> (if no Exorcism) (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 7 -> 8 </span>
@@ -300,7 +300,10 @@
 * Back at Gensokyo, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Forge whatever you can, start from bottom </span>
+		* <span class="nitori-shop"> Forge whatever you can, a general guide: </span>
+		  * <span class="nitori-shop"> Ephemeral Bauble x1 guaranteed </span>
+		  * <span class="nitori-shop"> Crepe Mariette x1 guaranteed </span>
+		  * <span class="nitori-shop"> Book of Stamp Bingo if dropped Chitin Shell </span>
 		* <span class="nitori-shop"> Count how many forges you have, need 10 total on next trip </span>
 * Level reference: Reimu 10
 * Enter the dungeon (3F)
@@ -341,14 +344,14 @@
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
-			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1)</span>
+			* <span class="equip-add"> (1) **DX Mecha Model** (1)</span>
 			* <span class="equip-add"> (2) (if dropped) Super-Hard Rye Bread (3)</span>
-			* <span class="equip-add"> (2) **Power Bracer** (1)</span>
+			* <span class="equip-add"> (2) **Bracer of Power** (1)</span>
 			* <span class="equip-add"> (3) **Wash Basin Set** (5)</span>
 		* <span class="equip-add"> **Youmu**: </span>
 			* <span class="equip-add"> (3) **Bulletproof Armor** (1)</span>
-			* <span class="equip-add"> (2) **Piece of Heart** (1)</span>
-			* <span class="equip-add"> (1) **Piece of Heart** (1)</span>
+			* <span class="equip-add"> (2) **Life Fragment** (1)</span>
+			* <span class="equip-add"> (1) **Life Fragment** (1)</span>
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (1) **Mana Flower** (1)</span>
 			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
@@ -429,7 +432,7 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (if dropped) (3) Blade Cuisinart (3) </span>
+			* <span class="equip-add"> (if dropped) (3) Legendary Blender (3) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 		* <span class="equip-add"> **Reimu**: </span>
@@ -461,11 +464,11 @@
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Keine / Nitori** </span>
 	* Equipment:
 		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (if dropped) (3) Blade Cuisinart (3) </span>
+			* <span class="equip-add"> (if dropped) (3) Legendary Blender (3) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
 		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (3) **Flipskirt Dagger** (3) </span>
+			* <span class="equip-add"> (3) **Cuckri** (3) </span>
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 	* Learn Skills:
@@ -521,7 +524,7 @@
 ## <a id="Header-2-4"></a>Hina Fight
 
 * When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonus </span>
 		* <span class="hakurei-shrine"> Ignore Youmu and Cirno </span>
 		* <span class="hakurei-shrine"> Parsee MND </span>
 		* <span class="hakurei-shrine"> Wriggle HP </span>
@@ -532,7 +535,7 @@
 		* <span class="human-village"> Swap **Youmu -> Wriggle** </span>
 		* <span class="human-village"> Swap **Cirno -> Parsee** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Buy **Cypress Stick, Mad Milk, Booster v0.8** </span>
+		* <span class="nitori-shop"> Buy **Cypress Stick, Booster v0.8, Crazy Milk** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Parsee / Rumia / Reimu / Wriggle** </span>
 	* Equipment:
@@ -548,10 +551,10 @@
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
 		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
-			* <span class="equip-add"> (if dropped) (3) Blade Cuisinart (3) </span>
+			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
+			* <span class="equip-add"> (if dropped) (3) Legendary Blender (3) </span>
 		* <span class="equip-add"> **Komachi**: </span>
-			* <span class="equip-add"> (1) **Mad Milk** (1) </span>
+			* <span class="equip-add"> (1) **Crazy Milk** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 1 </span>
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 6 -> 7 </span>
@@ -607,7 +610,7 @@
 			* <span class="equip-add"> (if Komachi drop) (3) **Bone Stake** (3) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
-			* <span class="equip-add"> (1) **Power Bracer** (1) </span>
+			* <span class="equip-add"> (1) **Bracer of Power** (1) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 7 -> 8 </span>
@@ -633,7 +636,7 @@
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (3) **Getitup V** (4) </span>
 		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Blade Cuisinart** (3) </span>
+			* <span class="equip-add"> (1) **Legendary Blender** (3) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (if free slot) (3) **Bone Stake** (3) </span>
@@ -664,7 +667,7 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
-			* <span class="equip-add"> (2) (if dropped) Flipskirt Dagger (3) </span>
+			* <span class="equip-add"> (2) (if dropped) Cuckri (3) </span>
 		* <span class="equip-add"> **Momiji**: </span>
 			* <span class="equip-add"> (3) **Lv70 Lover Snapper's Scale** (2) </span>
 			* <span class="equip-add"> (2) **Love Machine 3322** (2) </span>
@@ -761,7 +764,7 @@
 		* <span class="equip-add"> **Mokou**: </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (1) **Piece of Heart** (1) </span>
+			* <span class="equip-add"> (1) **Life Fragment** (1) </span>
 			* <span class="equip-add"> (2) **Purple Metallic Armor** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Utsuho**: MP Boost 0 -> 5 / Blazing 0 -> 2 </span>
@@ -804,11 +807,11 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
 		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (2) **Blade Cuisinart** (3) </span>
+			* <span class="equip-add"> (2) **Legendary Blender** (3) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
 		* <span class="equip-add"> **Mokou**: </span>
-			* <span class="equip-add"> (1) **DX Mechamonkey Model** (1) </span>
+			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 * Level reference: Nitori 22
@@ -881,16 +884,16 @@
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (1) **Big Bang Woganizer** (4) </span>
+			* <span class="equip-add"> (1) **Big Bang Wave Cannon** (4) </span>
 			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
 			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
 		* <span class="equip-add"> **Keine**: </span>
 			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
-			* <span class="equip-add"> (2) **Piece of Heart** (1) </span>
-			* <span class="equip-add"> (1) **Piece of Heart** (1) </span>
+			* <span class="equip-add"> (2) **Life Fragment** (1) </span>
+			* <span class="equip-add"> (1) **Life Fragment** (1) </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (1) **Piece of Heart** (1) </span>
+			* <span class="equip-add"> (1) **Life Fragment** (1) </span>
 			* <span class="equip-add"> (2) **Spellbook Hurricane** (2) </span>
 			* <span class="equip-add"> (3) **Light Crystal** (3) </span>
 	* Learn Skills:
@@ -977,7 +980,7 @@
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (2) **Asura Blade** (4) </span>
 		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Growth Egg** (1) </span>
+			* <span class="equip-add"> (M) **Growing Egg** (1) </span>
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
@@ -991,7 +994,7 @@
 			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
-			* <span class="equip-add"> (1) **Star of Elendil** (5) </span>
+			* <span class="equip-add"> (1) **Star of the Just** (5) </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (1) **Diva's Apron** (1) </span>
 * Level reference: Nitori 29
@@ -1039,7 +1042,7 @@
 			* <span class="equip-add"> (M) **First Aid Kit** (2) </span>
 			* <span class="equip-add"> (2) **Intama** (2) </span>
 		* <span class="equip-add"> **Minoriko**: </span>
-			* <span class="equip-add"> (3) **Flipskirt Dagger** (3) </span>
+			* <span class="equip-add"> (3) **Cuckri** (3) </span>
 			* <span class="equip-add"> (2) **Super-Hard Rye Bread** (3) </span>
 			* <span class="equip-add"> (1) **Super-Hard Rye Bread** (3) </span>
 		* <span class="equip-add"> **Aya**: </span>
@@ -1212,7 +1215,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
-			* <span class="equip-add"> (2) **Button of Aegis** (2) </span>
+			* <span class="equip-add"> (2) **Aegis Button** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 5 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
 		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 1 / HP Boost 4 -> 5 </span>
@@ -1289,23 +1292,11 @@
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (3) **Yggdrasil Dew** (1) </span>
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
+			* <span class="equip-add"> (M) **Growing Egg** (2) </span>
 * Level reference: Nitori 35
 * Enter the dungeon (11F)
 
 ![](img/murakumo/11-02-southeast.png)
-
-* When you reach the destination, farm until Nitori wipe
-* When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Open the menu and take the following actions:
-	* Equipment:
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (3) **Meteor Drive** (5) </span>
-* Level reference: Nitori 36
-* Enter the dungeon (11F)
-
-![](img/murakumo/11-03-northeast.png)
 
 * When you reach the 12F relay circle, farm until Nitori wipe on 11F
 
@@ -1315,6 +1306,10 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
 		* <span class="hakurei-shrine"> Komachi, Chen, Nitori </span>
 		* <span class="hakurei-shrine"> Aya, Kasen, Iku </span>
+* Open the menu and take the following actions:
+	* Equipment:
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (3) **Meteor Drive** (5) </span>
 * Level reference: Nitori 38
 * Enter the dungeon (12F)
 
@@ -1334,7 +1329,7 @@
 
 ![](img/murakumo/12-02-east.png)
 
-* Once you get to the relay point, go back to Gensokyo
+* Once you get to the relay point, grind until Wriggle 120 BP on 11F
 
 ## <a id="Header-4-6"></a>Golden Mirror Fight
 
@@ -1349,9 +1344,9 @@
 	* * <span class="form-change"> Form Change: **Kasen / Aya / Komachi / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
+			* <span class="equip-add"> (if not equipped) (M) **Growing Egg** (2) </span>
 		* <span class="equip-add"> **Komachi**: </span>
-			* <span class="equip-add"> (2) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferriage Fog 1 -> 5 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 9 </span>
 * Level reference: Reisen 39
@@ -1558,7 +1553,7 @@
 * When you're back on Gensokyo, do the following menu:
 	* Equipment:
 		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
+			* <span class="equip-add"> (M) **Growing Egg** (2) </span>
 * After that, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
@@ -1717,16 +1712,9 @@
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Minoriko -> Parsee** </span>
-		* <span class="human-village"> Swap **Rin -> Satori** </span>
+		* <span class="human-village"> Swap **Rin -> Parsee** </span>
+		* <span class="human-village"> Swap **Minoriko -> Satori** </span>
 		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
-		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
-		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
-		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
-		* <span class="hakurei-item"> Use **Training Manual x6** on **Satori** </span>
-		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
-		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi / Parsee** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori, Kasen** </span>
@@ -1737,6 +1725,13 @@
 		* <span class="magic-library"> **Yuuka**: HP/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: HP/MND 30 -> 50 / SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
+		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
+		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
+		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
+		* <span class="hakurei-item"> Use **Training Manual x6** on **Satori** </span>
+		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Cirno / Reimu / Kasen** </span>
 	* Equipment:
@@ -1746,28 +1741,28 @@
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-remove"> **Reimu**: </span>
 			* <span class="equip-remove"> (1) **Remove** </span>
+		* <span class="equip-add"> **Satori**: </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
+			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3) </span>
+			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+		* <span class="equip-add"> **Yuuka**: </span>
+			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+			* <span class="equip-add"> (2) **Sirloin** (3) </span>
+			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
 			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
-			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
-		* <span class="equip-add"> **Yuuka**: </span>
-			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
-			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
-			* <span class="equip-add"> (2) **Sirloin** (3) </span>
-			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
-		* <span class="equip-add"> **Satori**: </span>
-			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
-			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3) </span>
-			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
-			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (2) **Star of Elendil** (5) </span>
+			* <span class="equip-add"> (2) **Star of the Just** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 5 / Frontline Guard 0 -> 1 / Regeneration 0 -> 1 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 8 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / High Stakes 0 -> 2 </span>
+		* <span class="learn-skill"> **Satori**: Spell Recollection 0 -> 5 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 </span>
-		* <span class="learn-skill"> **Satori**: Spell Recollection 0 -> 5 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / High Stakes 0 -> 2 </span>
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 
@@ -1804,6 +1799,9 @@
 		* <span class="human-village"> Swap **Iku -> Yuyuko** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Yuyuko / Reisen** </span>
+	* Equipment:
+		* <span class="equip-add"> **Yuyuko**: </span>
+			* <span class="equip-add"> (if dropped) (M) **Dark Determination** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Yuyuko**: Saigyouji Flawless Nirvana 1 -> 5 </span>
 * Enter the dungeon (15F center) and go fight the Giant
@@ -1829,12 +1827,12 @@
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Monk** subclass </span>
+		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Yuyuko -> Kourin** </span>
 		* <span class="human-village"> Swap **Reisen -> Komachi** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Parsee / Yuuka / Satori** </span>
-	* <span class="form-change"> Swap: **Reimu-Kourin / Kasen-Komachi** </span>
 	* Equipment:
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
@@ -1866,7 +1864,7 @@
 		* Reset if less than 2 full ATBs
 			* 14.06 / 38.94 / 35.94 / 11.06
 		* Aya DGAs whoever didnt get a full ATB
-			If everyone has a full ATB, Saruathiko self
+			If everyone has a full ATB, Sarutahiko self
 		* Parsee uses Midnight Anathema Ritual (54% proc)
 		* Yuuka and Satori use Beauty of Nature
 		* Swap Parsee with Kourin
@@ -1929,7 +1927,7 @@
 	* Equipment:
 		* <span class="equip-remove"> **Parsee**: </span>
 			* <span class="equip-remove"> (3) **Remove** </span>
-			* <span class="equip-add"> (M) **Growth Egg** (2) </span>
+			* <span class="equip-add"> (M) **Growing Egg** (2) </span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Satori / Iku / Yuuka** </span>
@@ -1941,8 +1939,8 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rumia -> Cirno** </span>
-		* <span class="human-village"> Swap **Komachi -> Reisen** </span>
+		* <span class="human-village"> Swap **Komachi -> Cirno** </span>
+		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
 		* <span class="human-village"> Swap **Parsee -> Iku** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Satori / Reisen** </span>
@@ -1952,7 +1950,7 @@
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **Meteor Drive** (5) </span>
-			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
@@ -2022,26 +2020,26 @@
 		* <span class="hakurei-item"> Use **Training Manual x4** on **Nitori** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reincarnate"> **Reincarnate Kourin** </span>
-		* <span class="subclass-add"> **Suwako** learns **Enchanter** subclass </span>
+		* <span class="subclass-add"> **Suwako** learns **Herbalist** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Cirno** </span>
-		* <span class="human-village"> Swap **Kourin -> Suwako** </span>
-		* <span class="human-village"> Swap **Yuuka -> Yuyuko** </span>
+		* <span class="human-village"> Swap **Yuuka -> Suwako** </span>
+		* <span class="human-village"> Swap **Kourin -> Yuyuko** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Cirno / Yuyuko / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 		* <span class="equip-add"> **Suwako**: </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (3) **Full Custom** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 / MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Nitori**: Overheating 0 -> 1 </span>
+		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 / MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Kasen**: Guts 0 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: Overheating 0 -> 1 </span>
 * Enter the dungeon (18F North)
 <hr>
 
@@ -2099,7 +2097,7 @@
 
 * When you reach the destination on 20F, go back to Gensokyo
 
-## <a id="Header-7-3"></a>High Mirror Fight
+## <a id="Header-7-3"></a>High Magatama Fight
 
 * When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
@@ -2121,30 +2119,54 @@
 		* <span class="human-village"> Swap **Suwako -> Cirno** </span>
 		* <span class="human-village"> Swap **Yuyuko -> Rin** </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen </span>
+		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen, Iku(SPD) </span>
 		* <span class="hakurei-shrine"> Delevel Rumia, Cirno, Kasen </span>
 		* <span class="hakurei-item"> Use **Training Manual x13** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Nitori** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Reimu / Aya / Sanae / Satori** </span>
+	* <span class="form-change"> Form Change: **Aya / Reimu / Sanae / Satori** </span>
 	* Equipment:
 		* <span class="equip-add"> **Rin**: </span>
 			* <span class="equip-add"> (3) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Orb of Gaia** (2) </span>
+			* <span class="equip-add"> (M) **Gaia's Orb** (1) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
 			* <span class="equip-add"> (3) **Astral Dominae** (5) </span>
 		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (M) **Jogurt Doll** (2) </span>
+			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Overheat 0 -> 1 / Cooling Down 0 -> 2 / Mind Body One 0 -> 2 </span>
 		* <span class="learn-skill"> **Rin**: Magic Conservation 0 -> 1 / Magic Transfer 0 -> 5 / Magic Circuit 0 -> 5 </span>
+* Enter the dungeon (20F East)
+<hr>
+
+* **Boss Fight - Magatama of the High God (Lv88)**
+	* **Phase 1 - Diva Setup**
+		* Aya buffs own SPD, then Sanae's, then swaps self for Cirno
+		* Wait for Cirno to die and hope someone lives
+	* **Phase 2 - Nitori Attack**
+		* Swap in Chen into slot 2, then Aya into 1
+		* Aya spams Dance of Cochlea
+			* Concentrate when boss ATB < 7000
+		* Sanae spams buffs on Nitori
+		* Iku comes in to debuff boss
+		* Nitori spams Super Scope 3D
+	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
+* Go back to Gensokyo to heal after the fight
+
+## <a id="Header-7-4"></a>High Mirror Fight
+
+* Back on Gensokyo, open the menu and take these actions:
+	* <span class="form-change"> Form Change: **Reimu / Aya / Sanae / Satori** </span>
+	* Equipment:
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Cinderforge Sword** (5) </span>
 * Enter the dungeon (20F West)
 <hr>
 
@@ -2173,27 +2195,6 @@
 	* For finer details see High Mirror's [Boss Info](../../enemy/highmirror.md)
 * Go back to Gensokyo to heal after the fight
 
-## <a id="Header-7-4"></a>High Magatama Fight
-
-* Back on Gensokyo, open the menu and do a form change:
-	* <span class="form-change"> Form Change: **Aya / Reimu / Sanae / Satori** </span>
-* Enter the dungeon (20F East)
-<hr>
-
-* **Boss Fight - Magatama of the High God (Lv88)**
-	* **Phase 1 - Diva Setup**
-		* Aya buffs own SPD, then Sanae's, then swaps self for Cirno
-		* Wait for Cirno to die and hope someone lives
-	* **Phase 2 - Nitori Attack**
-		* Swap in Chen into slot 2, then Aya into 1
-		* Aya spams Dance of Cochlea
-			* Concentrate when boss ATB < 7000
-		* Sanae spams buffs on Nitori
-		* Iku comes in to debuff boss
-		* Nitori spams Super Scope 3D
-	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
-* Go back to Gensokyo to heal after the fight
-
 ## <a id="Header-7-5"></a>Explore 20F Depths
 
 * When you're back on Gensokyo, simply re-enter the dungeon (19F)
@@ -2207,11 +2208,11 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rin -> Kourin** </span>
+		* <span class="human-village"> Swap **Reimu -> Kourin** </span>
 		* <span class="human-village"> Swap **Reisen -> Parsee** </span>
 		* <span class="human-village"> Swap **Rumia -> Eirin** </span>
 		* <span class="human-village"> Swap **Kasen -> Yukari** </span>
-		* <span class="human-village"> Swap **Reimu -> Yuuka** </span>
+		* <span class="human-village"> Swap **Rin -> Yuuka** </span>
 		* <span class="human-village"> Unequip non-party </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Cirno / Satori / Reisen / Suwako** </span>
@@ -2251,7 +2252,7 @@
 	* <span class="form-change"> Form Change: **Eirin / Aya / Yuuka / Yukari** </span>
 	* Equipment:
 		* <span class="equip-add"> **Eirin**: </span>
-			* <span class="equip-add"> (M) **Misterepulsion** (1) </span>
+			* <span class="equip-add"> (M) **Repulsion Orb** (1) </span>
 		* <span class="equip-add"> **Yuuka**: </span>
 			* <span class="equip-add"> (2) **Megasphere** / **Energy Pack** (5) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
@@ -2265,38 +2266,38 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
 			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
-			* <span class="equip-add"> (1) **Holy Sword Centurio** (5) </span>
+			* <span class="equip-add"> (1) **Holy Sword of Justice** (5) </span>
 			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (2) **Century End Jacket** (4) </span>
-			* <span class="equip-add"> (1) **The Arch** (4) </span>
-			* <span class="equip-add"> (M) **Micron Magic Book** (2) </span>
-		* <span class="equip-add"> **Satori**: </span>
-			* <span class="equip-add"> (1) **Button of Aegis** (2) </span>
-			* <span class="equip-add"> (2) **Intama** (2) </span>
-			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
-		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
-			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
-			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
 		* <span class="equip-add"> **Kourin**: </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 			* <span class="equip-add"> (1) **Intama** (2) </span>
 			* <span class="equip-add"> (2) **Megasphere** (5) </span>
 			* <span class="equip-add"> (3) **Megasphere** (5) </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
+		* <span class="equip-add"> **Satori**: </span>
+			* <span class="equip-add"> (1) **Aegis Button** (2) </span>
+			* <span class="equip-add"> (2) **Intama** (2) </span>
+			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (2) **Century End Jacket** (4) </span>
+			* <span class="equip-add"> (1) **The Arch** (4) </span>
+			* <span class="equip-add"> (M) **Micron Magic Book** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Eirin**: HP Boost 0 -> 5 / Enhanced Toxins 0 -> 2 </span>
 		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Raid Maneuver 0 -> 1 / Sarutahiko Guidance 1 -> 3 </span>
 		* <span class="learn-skill"> **Yuuka**: Fast Dash 0 -> 1 / HP/MP Boost 0 -> 5 / Extra Attack 0 -> 2 / Majesty 0 -> 2 </span>
 		* <span class="learn-skill"> **Yukari**: MP Boost 0 -> 5 / Yukari Spiriting Away 1 -> 5 / Fast Dash 0 -> 1 </span>
-		* <span class="learn-skill"> **Sanae**: MAG Boost 0 -> 5 / Last Wish 0 -> 2 / Miracle Fruit 1 -> 5 / Enhanced Buffs 0 -> 2 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealous of the Kind and Lovely 1 -> 5 / High Stakes 0 -> 2 / All or Nothing 0 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: DEF Boost 0 -> 5 / Formation Change 0 -> 2 / Absolute Defensive 0 -> 1 </span>
+		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Elekiter Dragon Palace 1 -> 5 / Thundercloud Stickleback 1 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: Spellcard Recollection 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: EVA Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Nitori**: Absolute Defensive 0 -> 1 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 / DEF/AFF Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Cirno**: Blizzard Blowout 0 -> 5 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealous of the Kind and Lovely 1 -> 5 / High Stakes 0 -> 2 / All or Nothing 0 -> 2 </span>
-		* <span class="learn-skill"> **Chen**: EVA Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Satori**: Spellcard Recollection 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Elekiter Dragon Palace 1 -> 5 / Thundercloud Stickleback 1 -> 5 </span>
-		* <span class="learn-skill"> **Kourin**: DEF Boost 0 -> 5 / Formation Change 0 -> 2 / Absolute Defensive 0 -> 1 </span>
+		* <span class="learn-skill"> **Sanae**: MAG Boost 0 -> 5 / Last Wish 0 -> 2 / Miracle Fruit 1 -> 5 / Enhanced Buffs 0 -> 2 </span>
 * Visit the following facilities to finish:
 	* <span class="nitori-shop"> **Nitori Shop**: Sell everything </span>
 	* <span class="magic-library"> **Magic Library**: </span>
