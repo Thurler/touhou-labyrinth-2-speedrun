@@ -546,7 +546,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Experimental MIRV | X |
 | Fighting Gem | X |
 | Fragment of Scarlet Gold x2 | X |
-| Holy Sword Gran Centurio | X |
+| Holy Sword of Justice | X |
 | Magic Gem | X |
 | Megasphere | X |
 | Primal Armor | X |
@@ -646,7 +646,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Astral Dominae x1 | 19F | Already have one, out of way |
 | Megasphere x1 | 20F | Needs 88 achievements |
 | Cinderforge Sword x1 | 20F | Needs 244k money on hand |
-| Holy Sword Gran Centurio x1 | 20F | Already have one, out of way |
+| Holy Sword of Justice x1 | 20F | Already have one, out of way |
 | **Materials** | - | - |
 | Magic Bird's Crest x4 | 4F | Useless, out of way |
 | Strange Mechanical Part x2 | 4F | Useless, out of way |
