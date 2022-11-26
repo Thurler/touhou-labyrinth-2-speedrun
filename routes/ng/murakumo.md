@@ -526,9 +526,11 @@
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonus </span>
 		* <span class="hakurei-shrine"> Ignore Youmu and Cirno </span>
+		* <span class="hakurei-shrine"> Komachi SPD </span>
 		* <span class="hakurei-shrine"> Parsee MND </span>
 		* <span class="hakurei-shrine"> Wriggle HP </span>
 	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-library"> **Komachi**: ATK 0 -> 20 / SPD 0 -> 10 </span>
 		* <span class="magic-library"> **Parsee**: HP/MND 0 -> 30 </span>
 		* <span class="magic-library"> **Kasen**: HP/DEF 10 -> 20 </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -550,15 +552,14 @@
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
-		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
-			* <span class="equip-add"> (if dropped) (3) Legendary Blender (3) </span>
 		* <span class="equip-add"> **Komachi**: </span>
-			* <span class="equip-add"> (1) **Crazy Milk** (1) </span>
+			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
+			* <span class="equip-add"> (2) **Bracer of Power** (1) </span>
+			* <span class="equip-add"> (3) **Bracer of Power** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 1 </span>
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 6 -> 7 </span>
-* Level reference: Reimu 16
+* Level reference: Reimu 16 / Komachi 15
 * Enter the dungeon (5F South)
 <hr>
 
@@ -592,6 +593,7 @@
 
 * Go back to Gensokyo and use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
+		* <span class="hakurei-shrine"> Komachi HP </span>
 		* <span class="hakurei-shrine"> Chen, Parsee, Aya ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Kourin -> Chen** </span>
@@ -603,6 +605,13 @@
 	* Equipment:
 		* <span class="equip-remove"> **Wriggle**: </span>
 			* <span class="equip-remove"> (1, 2, 3) **Remove** </span>
+		* <span class="equip-remove"> **Komachi**: </span>
+			* <span class="equip-add"> (3) **Sirloin** (3) </span>
+			* <span class="equip-add"> (2) **Light Crystal** (3) </span>
+			* <span class="equip-add"> (1) **Crazy Milk** (1) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
+			* <span class="equip-add"> (if dropped) (3) Legendary Blender (3) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
