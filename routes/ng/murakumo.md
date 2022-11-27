@@ -1119,9 +1119,12 @@
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Oscillation Cannon** (4) </span>
+			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
+			* <span class="equip-add"> (otherwise) (1) **Glow Crystal** (3) </span>
 		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
+			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi** Short Life Expectancy 1 -> 3 </span>
@@ -1138,10 +1141,10 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (if no Tenshi drop) (1) **Portable Oscillation Cannon** (4) </span>
+			* <span class="equip-add"> (if no Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
 			* <span class="equip-add"> (2) **Tisiphone Edge** (4) </span>
 		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Oscillation Cannon** (4) </span>
+			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Chen** Beat Down 1 -> 2 </span>
 * Level reference: Nitori 31
