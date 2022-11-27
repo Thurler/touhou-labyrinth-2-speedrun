@@ -623,7 +623,7 @@
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 7 -> 8 </span>
-		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest 0 -> 2 / ATK Boost 0 -> 4 </span>
+		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest 0 -> 2 / Tengu Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 </span>
 * Level reference: Nitori 17
 * Enter the dungeon (6F)
@@ -861,11 +861,11 @@
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
 		* <span class="hakurei-shrine"> Reimu, Marisa </span>
-		* <span class="hakurei-shrine"> Kourin, Keine </span>
 		* <span class="hakurei-shrine"> Rumia, Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee(HP) </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee, Wriggle </span>
 		* <span class="hakurei-shrine"> Mokou, Aya(HP) </span>
-		* <span class="hakurei-shrine"> Kasen, Utsuho, Sanae(HP) </span>
+		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
+		* <span class="hakurei-shrine"> Satori(HP), Sanae(HP) </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
@@ -875,46 +875,31 @@
 		* <span class="magic-library"> **Aya**: HP 0 -> 30 </span>
 		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Utsuho -> Kourin** </span>
-		* <span class="human-village"> Swap **Rumia -> Keine** </span>
+		* <span class="human-village"> Swap **Utsuho -> Wriggle** </span>
+		* <span class="human-village"> Swap **Rumia -> Satori** </span>
 		* <span class="human-village"> Swap **Momiji -> Sanae** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Buy **Source of Magic x2** </span>
+		* <span class="nitori-shop"> Buy **Source of Magic x1** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Parsee / Reimu / Aya / Sanae** </span>
+	* <span class="form-change"> Form Change: **Sanae / Wriggle / Aya / Nitori** </span>
 	* Equipment:
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
-		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
-			* <span class="equip-add"> (3) **Card Ruler of Heavens** (2) </span>
-			* <span class="equip-add"> (2) **Hero's Medal** (4) </span>
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (1) **Big Bang Wave Cannon** (4) </span>
+			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
 			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
-			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
-		* <span class="equip-add"> **Keine**: </span>
-			* <span class="equip-add"> (3) **Crepe Mariette** (1) </span>
-			* <span class="equip-add"> (2) **Life Fragment** (1) </span>
-			* <span class="equip-add"> (1) **Life Fragment** (1) </span>
+			* <span class="equip-add"> (1) **Big Bang Wave Cannon** (4) </span>
+		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
-		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (1) **Life Fragment** (1) </span>
-			* <span class="equip-add"> (2) **Spellbook Hurricane** (2) </span>
-			* <span class="equip-add"> (3) **Light Crystal** (3) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 2 </span>
-		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Last Wish 0 -> 1 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 3 / Youkai Buster 0 -> 2 / Last Wish 0 -> 1 </span>
+		* <span class="learn-skill"> **Wriggle**: Comet on Earth 1 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: Ability Manip Wind 1 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Overheating 0 -> 1 / Mind Body One 0 -> 1 </span>
 		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
-		* <span class="learn-skill"> **Keine**: 3ST - Sword 3 -> 5 </span>
-		* <span class="learn-skill"> **Chen**: Beat Down 0 -> 1 </span>
+		* <span class="learn-skill"> **Satori**: Trauma Recollection 0 -> 2 / Spell Card Recollection 0 -> 3 </span>
 		* <span class="learn-skill"> **Mokou**: Resurrection 2 -> 3 </span>
-		* <span class="learn-skill"> **Kourin**: HP High Boost 1 -> 2 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Kappa Ecology Observation 0 -> 2 / Mind Body One 0 -> 1 </span>
-* Level reference: Reimu 26
+		* <span class="learn-skill"> **Chen**: Beat Down 0 -> 1 </span>
+* Level reference: Nitori 26
 * Enter the dungeon (8F South)
 <hr>
 
@@ -954,18 +939,19 @@
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Keine -> Rumia** </span>
-		* <span class="human-village"> Swap **Kourin -> Utsuho** </span>
+		* <span class="human-village"> Swap **Wriggle -> Rumia** </span>
+		* <span class="human-village"> Swap **Satori -> Utsuho** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
 	* Equipment:
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (if Iku drop) (1) **Shinai of Spirits** (1) </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
-			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Mind Body One 0 -> 1 </span>
 * Level reference: Nitori 26
