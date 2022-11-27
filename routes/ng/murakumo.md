@@ -975,7 +975,7 @@
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (2) **Asura Blade** (4) </span>
 		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Growing Egg** (1) </span>
+			* <span class="equip-add"> (M) **Training Egg** (1) </span>
 * Level reference: Nitori 28
 * Enter the dungeon (9F)
 
@@ -1287,7 +1287,7 @@
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (3) **Yggdrasil Dew** (1) </span>
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Growing Egg** (2) </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 * Level reference: Nitori 35
 * Enter the dungeon (11F)
 
@@ -1339,7 +1339,7 @@
 	* * <span class="form-change"> Form Change: **Kasen / Aya / Komachi / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (if not equipped) (M) **Growing Egg** (2) </span>
+			* <span class="equip-add"> (if not equipped) (M) **Training Egg** (2) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
 	* Learn Skills:
@@ -1548,7 +1548,7 @@
 * When you're back on Gensokyo, do the following menu:
 	* Equipment:
 		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Growing Egg** (2) </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 * After that, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
@@ -1922,7 +1922,7 @@
 	* Equipment:
 		* <span class="equip-remove"> **Parsee**: </span>
 			* <span class="equip-remove"> (3) **Remove** </span>
-			* <span class="equip-add"> (M) **Growing Egg** (2) </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Satori / Iku / Yuuka** </span>
