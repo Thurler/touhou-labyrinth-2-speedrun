@@ -991,6 +991,7 @@
 			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
 			* <span class="equip-add"> (1) **Star of the Just** (5) </span>
 		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (2) **Hero's Medal** (2) </span>
 			* <span class="equip-add"> (1) **Diva's Apron** (1) </span>
 * Level reference: Nitori 29
 * Enter the dungeon (9F)
@@ -1013,9 +1014,10 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
 		* <span class="hakurei-shrine"> Reimu, Marisa(SPD) </span>
 		* <span class="hakurei-shrine"> Minoriko, Komachi </span>
-		* <span class="hakurei-shrine"> Nitori(HP), Parsee(ATK) </span>
+		* <span class="hakurei-shrine"> Nitori(HP), Parsee </span>
 		* <span class="hakurei-shrine"> Aya(ATK), Kasen </span>
-		* <span class="hakurei-shrine"> Reisen(HP), Sanae(MAG), Iku(MAG) </span>
+		* <span class="hakurei-shrine"> Satori, Reisen(HP) </span>
+		* <span class="hakurei-shrine"> Sanae(MAG), Iku(MAG) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Marisa / Chen / Nitori / Aya** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
@@ -1026,6 +1028,7 @@
 		* <span class="magic-library"> **Iku**: MAG/SPD 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Utsuho -> Minoriko** </span>
+		* <span class="human-village"> Swap **Rumia -> Satori** </span>
 		* <span class="human-village"> Swap **Chen -> Reisen** </span>
 		* <span class="human-village"> Swap **Mokou -> Iku** </span>
 * Open the menu and take the following actions:
@@ -1035,7 +1038,9 @@
 			* <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **First Aid Kit** (2) </span>
-			* <span class="equip-add"> (2) **Intama** (2) </span>
+			* <span class="equip-add"> (1) **Purple Metallic Armor** (1) </span>
+			* <span class="equip-add"> (2) **Goriki's Charm** (2) </span>
+			* <span class="equip-add"> (3) **Intama** (2) </span>
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (3) **Cuckri** (3) </span>
 			* <span class="equip-add"> (2) **Super-Hard Rye Bread** (3) </span>
@@ -1051,7 +1056,7 @@
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 			* <span class="equip-add"> (3) **Mana Flower** (1) </span>
 			* <span class="equip-add"> (2) **Mana Flower** (1) </span>
-			* <span class="equip-add"> (1) **Glow Crystal** (3) </span>
+			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
 		* <span class="equip-add"> **Marisa**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
