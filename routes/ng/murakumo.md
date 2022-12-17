@@ -1187,6 +1187,7 @@
 			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Keine**: 3ST - Sword 3 -> 5 </span>
 		* <span class="learn-skill"> **Iku**: Heavenly Maiden Blow 0 -> 1 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 3 -> 5 </span>
 * Level reference: Nitori 32
