@@ -1028,7 +1028,6 @@
 		* <span class="magic-library"> **Iku**: MAG/SPD 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Utsuho -> Minoriko** </span>
-		* <span class="human-village"> Swap **Rumia -> Satori** </span>
 		* <span class="human-village"> Swap **Chen -> Reisen** </span>
 		* <span class="human-village"> Swap **Mokou -> Iku** </span>
 * Open the menu and take the following actions:
@@ -1066,7 +1065,7 @@
 		* <span class="learn-skill"> **Reisen**: MP Boost 0 -> 4 / Enhanced Hexes 0 -> 2 / Intense Vertigo 0 -> 1 </span>
 		* <span class="learn-skill"> **Kasen**: Fighting Spirit 1 -> 2 </span>
 		* <span class="learn-skill"> **Rumia**: Youkai Knowledge 0 -> 2 </span>
-		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
+		* <span class="learn-skill"> **Iku**: MAG Boost 0 -> 2 / Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
 		* <span class="learn-skill"> **Reimu**: Final Prayer 0 -> 1 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Art of Battlemage 0 -> 5 / MP Boost 0 -> 2 </span>
 		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 4 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
