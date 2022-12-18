@@ -2020,9 +2020,9 @@
 		* <span class="subclass-add"> **Suwako** learns **Herbalist** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rumia -> Cirno** </span>
+		* <span class="human-village"> Swap **Kourin -> Cirno** </span>
 		* <span class="human-village"> Swap **Yuuka -> Suwako** </span>
-		* <span class="human-village"> Swap **Kourin -> Yuyuko** </span>
+		* <span class="human-village"> Swap **Rumia -> Yuyuko** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Cirno / Yuyuko / Reisen** </span>
 	* Equipment:
@@ -2034,9 +2034,9 @@
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (3) **Full Custom** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 / MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Kasen**: Guts 0 -> 2 </span>
 		* <span class="learn-skill"> **Nitori**: Overheating 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: Guts 0 -> 2 </span>
+		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 / MP Boost 0 -> 5 </span>
 * Enter the dungeon (18F North)
 <hr>
 
