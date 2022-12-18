@@ -1296,6 +1296,8 @@
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Training Egg** (2) </span>
+	* Learn Skills:
+		* <span class="learn-skill"> **Nitori**: Cooling Down 1 -> 2</span>
 * Level reference: Nitori 35
 * Enter the dungeon (11F)
 
