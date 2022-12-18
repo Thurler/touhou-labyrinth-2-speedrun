@@ -1293,7 +1293,7 @@
 			* <span class="equip-add"> (3) **The Arch** (4) </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
-			* <span class="equip-add"> (3) **Yggdrasil Dew** (1) </span>
+			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 * Level reference: Nitori 35
@@ -1349,7 +1349,7 @@
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (if not equipped) (M) **Training Egg** (2) </span>
 		* <span class="equip-add"> **Komachi**: </span>
-			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferriage Fog 1 -> 5 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 9 </span>
 * Level reference: Reisen 39
