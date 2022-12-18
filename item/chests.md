@@ -76,7 +76,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Goriki's Charm | O |
 | Light Crystal | O |
 | Oni's Panties x2 | O |
-| Piche's Bauble | X |
+| Ephemeral Bauble | X |
 | Poison Resistance Ring | X |
 | Rosebush Robe | O |
 | Sirloin | O |
@@ -163,7 +163,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly<br>Tome of Reincarnation x2 | X |
-| Blade Cuisinart | ? |
+| Legendary Blender | ? |
 | Bone Stake | O |
 | Bottle of Hyperspace | O |
 | Concept of Everything x2 | X |
@@ -213,7 +213,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Items Discovery Weekly x3<br>Growing Egg<br>Violent Green Rupee<br>Glaive of Pain | O |
+| Items Discovery Weekly x3<br>Training Egg<br>Violent Green Rupee<br>Glaive of Pain | O |
 | 720 Money | X |
 | 788 Money | O |
 | 880 Money | O |
@@ -221,7 +221,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Biggest Sword Ever | O |
 | Chario Boots | O |
 | Chitin Shell x5 | X |
-| Damascus Shield | X |
+| Damascus Dread Shield | X |
 | Cuckri | X |
 | Hero's Medal | O |
 | Lambda Driver | O |
@@ -229,7 +229,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Magic Iron Shield | X |
 | Magician's Proof | O |
 | Mana Flower | X |
-| Piche's Bauble x2 | X |
+| Ephemeral Bauble x2 | X |
 | Recovery Armband | X |
 | Spellbook - High Hurricane | O |
 | Stone of Awakening | O |
@@ -282,7 +282,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Herbalist's Proof | O |
 | Lv70 Lover Snapper's Scale | X |
 | Midgard's Tooth | X |
-| Portable Oscillation Cannon | O |
+| Portable Vibrocannon | O |
 | Pure Sake Wild Boar | X |
 | Reinforced Leather Armor | X |
 | Stone of Awakening | O |
@@ -302,7 +302,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Century's Jacket | X |
 | Chargin' Targe | X |
 | Fighter's Soul x3 | X |
-| Forbidden Tablt | X |
+| Forbidden Tablet | X |
 | Glaive of Pain | ? |
 | Great Hammer | O |
 | HQ Sake Deer | X |
@@ -326,11 +326,11 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 | Tome of Insight - EVA x2<br>Tome of Insight - ACC x2<br>Tome of Insight - AFF x2<br>Olzhas Shamshir x2 | O |
 | 1500 Money | X |
-| Blade Cuisinart | X |
-| Damascus Shield | X |
+| Legendary Blender | X |
+| Damascus Dread Shield | X |
 | Energy Pack | O |
 | Grand Dragon Medal | X |
-| Growing Egg | ? |
+| Training Egg | ? |
 | Lambda Driver | O |
 | Love Machine 3322 | X |
 | Priest's Crystal Ball x3 | X |
@@ -378,7 +378,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Courtesan's Sorrow | X |
 | Dark Magic Grimoire | X |
 | Demon Core | X |
-| Excorising Staff | X |
+| Staff of Exorcism | X |
 | First Aid Kit | O |
 | Forbidden Tablet | X |
 | Insect's Rainbow Wings x2 | X |
@@ -386,7 +386,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Kalar's Crystal | X |
 | Micron's Magic Book | O |
 | Mysterious Structure x2 | X |
-| Nosferatu Tome | X |
+| Life Drain Tome | X |
 | Reinforced Leather Armor | X |
 | The Bee | X |
 | Treasure Chest Key | X |
@@ -414,7 +414,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Master's Emblem | X |
 | Meteor Drive | O |
 | Modified Taser | X |
-| Portable Oscillation Cannon | X |
+| Portable Vibrocannon | X |
 | Purple Orb | X |
 | Ribbon | X |
 | Star of the Just | X |
@@ -466,10 +466,10 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | 2500 Money | X |
 | Big Bang Wave Cannon | X |
 | Dark Magic Grimoire | X |
-| Excorising Staff | X |
+| Staff of Exorcism | X |
 | Experimental MIRV | X |
 | Glaive of Pain | X |
-| Growing Egg | X |
+| Training Egg | X |
 | Luster Candy | X |
 | Meteor Drive | O |
 | Olzhas Shamshir | X |
@@ -518,8 +518,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Life Gem x2 | X |
 | Master's Emblem | X |
 | Micron's Magic Book | X |
-| Nosferatu Tome | X |
-| Portable Oscillation Cannon | X |
+| Life Drain Tome | X |
+| Portable Vibrocannon | X |
 | Rainbow Light x2 | X |
 | Ribbon | X |
 | Shining Dragon's Soul x2 | X |
@@ -605,7 +605,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tokyo Metronome x2 | 15F/18F | Out of way |
 | Primal Armor x2 | 16F/20F | Useless, out of way |
 | Experimental MIRV x2 | 17F/20F | Out of way |
-| Growing Egg x1 | 17F | Out of way |
+| Training Egg x1 | 17F | Out of way |
 | Gaia's Orb x1 | 18F | Out of way |
 | Yogurt Doll x1 | 18F | Already have one, out of way |
 | Micron's Magic Book x1 | 19F | Out of way |
@@ -634,7 +634,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Big Bang Wave Cannon x1 | 13F/17F | Already have one, out of way |
 | The Bee x2 | 14F/20F | Useless, out of way |
 | Asura Blade x3 | 15F/16F/18F | Already have one, out of way |
-| Portable Oscillation Cannon x2 | 15F/19F | Already have one, out of way |
+| Portable Vibrocannon x2 | 15F/19F | Already have one, out of way |
 | Divine Barrier x2 | 16F/18F | Already have one, out of way |
 | Star World Bracelet x1 | 16F | Useless, out of way |
 | Wash Basin Set x2 | 16F/20F | Out of way |

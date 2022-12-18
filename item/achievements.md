@@ -130,8 +130,8 @@ Suika is really good but it's hard to justify dropping 50k buying bad items just
 
 * 052 - Collect 20 Materials (Booster v0.8)
 * 053 - Collect 40 Materials (Green Dream)
-* 054 - Collect 60 Materials (Portable Oscillation Cannon)
-* 055 - Collect 78 Materials (Nosferatu Tome)
+* 054 - Collect 60 Materials (Portable Vibrocannon)
+* 055 - Collect 78 Materials (Life Drain Tome)
 * P26 - Collect 96 Materials (Fighting Jewel)
 * P27 - Collect 100 Materials (Affection Jewel x5)
 
@@ -148,7 +148,7 @@ All the rewards are kinda bad for when you get them, but these will happen natur
 
 The chest keys and money make these very grind worthy achievements, but it can be quite challenging to acquire them all since lots of forging and random enemy drops are necessary. The plus disk rewards are very underwhelming.
 
-* 060 - Get 10000 EXP in 1 Trip (Growth Egg)
+* 060 - Get 10000 EXP in 1 Trip (Training Egg)
 
 Very good reward for something as simple as doing some grinding on 10/11F. Should happen naturally later in the game when EXP gets inflated.
 
@@ -164,7 +164,7 @@ Easy achievements to get if you're already playing around with Tomes of Reincarn
 
 These should happen naturally as you play, and the rewards are pretty bad, too. The plus disk one, however, is really useful.
 
-* 065 - Raise a Character's MP past 50 (Star of Elendil)
+* 065 - Raise a Character's MP past 50 (Star of the Just)
 * 066 - Raise a Character's TP past 50 (Energy Gem x3)
 
 Very easy to get once you acquire an Exorcising Staff and a Tokyo Metronome, just slap those on Maintenance Nitori with some gem boosts. Rewards are okay, can be really good depending on how early you get them.
@@ -246,7 +246,7 @@ All of these happen naturally as you're doing the postgame stuff. Really good re
 
 Rewards aren't that interesting, but these all happen naturally when playing Plus Disk so it's kinda expected.
 
-* P21 - Collect 1 Awakening Item (Zenith Dragon's Heart)
+* P21 - Collect 1 Awakening Item (Supreme Dragon's Heart)
 * P22 - Collect 20 Awakening Items (Destructive Falcon Sword)
 * P23 - Collect All Awakening Items (Orihalcum)
 
