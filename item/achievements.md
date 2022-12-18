@@ -54,7 +54,7 @@ The first one might happen naturally with some materials, but you need to go out
 
 * 019 - Have 10000 Money (Tin Watering Can)
 * 020 - Have 100000 Money (Money-Growing Tree)
-* 021 - Have 1000000 Money (Dark Will)
+* 021 - Have 1000000 Money (Dark Determination)
 * P10 - Have 10000000 Money (Ethos of Bodybuilding 1)
 * P11 - Have 100000000 Money (Adamantite)
 

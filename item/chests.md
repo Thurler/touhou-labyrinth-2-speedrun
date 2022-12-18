@@ -405,7 +405,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Asura Blade | X |
 | Chario Boots | X |
 | Dark Magic Grimoire | O |
-| Dark Will | X |
+| Dark Determination | X |
 | Energy Pack | O |
 | First Aid Kit | O |
 | Fragment of Mithril x2 | X |
@@ -596,7 +596,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Reflex Booster Augment x1 | 12F | Out of way |
 | Exorcising Staff x2 | 14F/17F | Out of way |
 | Chario Boots x1 | 15F | Already have one, out of way |
-| Dark Will x1 | 15F | Out of way |
+| Dark Determination x1 | 15F | Out of way |
 | Modified Taser x1 | 15F | Useless, needs FOE kill |
 | Ribbon x2 | 15F<br>19F | Needs 88 crafts<br>Out of way |
 | Medal Shattering Youkai Axe x2 | 15F/19F | Out of way |
