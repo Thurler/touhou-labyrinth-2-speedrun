@@ -1621,8 +1621,7 @@
 		* <span class="hakurei-shrine"> Reimu, Kourin </span>
 		* <span class="hakurei-shrine"> Cirno, Minoriko(HP) </span>
 		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Aya(HP) </span>
-		* <span class="hakurei-shrine"> Kasen, Rin(SPD) </span>
+		* <span class="hakurei-shrine"> Nitori, Aya(HP), Kasen </span>
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
@@ -1637,7 +1636,6 @@
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Kourin** </span>
-		* <span class="human-village"> Swap **Reisen -> Rin** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Sanae / Kasen** </span>
 	* Equipment:
@@ -1654,17 +1652,11 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (if Cinderforge drop) (1) **Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Green Dream** (2) </span>
-		* <span class="equip-add"> **Rin**: </span>
-			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
-			* <span class="equip-add"> (2) **Bone Stake** (3) </span>
-			* <span class="equip-add"> (3) **Getitup V** (4) </span>
-			* <span class="equip-add"> (M) **Great Hammer** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: HP High Boost 2 -> 5 / MND High Boost 0 -> 1 </span>
 		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 0 -> 1 </span>
 		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 3 </span>
-		* <span class="learn-skill"> **Rin**: Cat's Walk 1 -> 7 / Extra Attack 0 -> 1 </span>
 		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 / MAG Boost 0 -> 3 </span>
 		* <span class="learn-skill"> **Iku**: Lightning Fish 2 -> 3 </span>
 		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 5 </span>
@@ -1699,7 +1691,7 @@
 ## <a id="Header-5-8"></a>Silver Mail Fight
 
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Rin / Nitori / Chen / Kasen** </span>
+	* <span class="form-change"> Form Change: **Aya / Nitori / Chen / Kasen** </span>
 * Enter the dungeon (10F) and go west to fight FOE
 * **FOE Boss Fight - Silver Mail (Lv36)**
 	* Rin spams Cat's Walk
@@ -1717,8 +1709,8 @@
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rin -> Parsee** </span>
-		* <span class="human-village"> Swap **Minoriko -> Satori** </span>
+		* <span class="human-village"> Swap **Minoriko -> Parsee** </span>
+		* <span class="human-village"> Swap **Reisen -> Satori** </span>
 		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi / Parsee** </span>
