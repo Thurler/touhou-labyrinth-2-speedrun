@@ -1738,28 +1738,28 @@
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-remove"> **Reimu**: </span>
 			* <span class="equip-remove"> (1) **Remove** </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
+			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
+			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
+		* <span class="equip-add"> **Yuuka**: </span>
+			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (2) **Sirloin** (3) </span>
+			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Satori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
 			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3) </span>
 			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
-		* <span class="equip-add"> **Yuuka**: </span>
-			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
-			* <span class="equip-add"> (2) **Sirloin** (3) </span>
-			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
-			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
-		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
-			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
-			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (2) **Star of the Just** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 5 / Frontline Guard 0 -> 1 / Regeneration 0 -> 1 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 8 </span>
-		* <span class="learn-skill"> **Satori**: Spell Recollection 0 -> 5 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / High Stakes 0 -> 2 </span>
+		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: Spell Recollection 3 -> 5 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 4 </span>
+		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 </span>
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 
