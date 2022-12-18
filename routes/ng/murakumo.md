@@ -1818,13 +1818,13 @@
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori(ATK), Aya(SPD) </span>
+		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Parsee / Aya / Satori / Yuuka** </span>
 		* <span class="subclass-add"> **Parsee** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Monk** subclass </span>
-		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Yuyuko -> Kourin** </span>
 		* <span class="human-village"> Swap **Reisen -> Komachi** </span>
@@ -1936,21 +1936,21 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Komachi -> Cirno** </span>
+		* <span class="human-village"> Swap **Parsee -> Cirno** </span>
 		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
-		* <span class="human-village"> Swap **Parsee -> Iku** </span>
+		* <span class="human-village"> Swap **Komachi -> Iku** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Satori / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Kourin**: </span>
 			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (1) **Meteor Drive** (5) </span>
-			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (1) **Meteor Drive** (5) </span>
+			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
 		* <span class="learn-skill"> **Cirno**: Frontline Guard 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: Weird Creatures 0 -> 2 / Effective Formation 0 -> 2 / HP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
