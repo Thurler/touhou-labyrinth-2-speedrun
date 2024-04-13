@@ -262,7 +262,7 @@
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 8 -> 10 </span>
 		* <span class="learn-skill"> **Rumia**: Piercing Attack 1 -> 2 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 2 -> 3 </span>
-* Level reference: Reimu 7
+* Level reference: Reimu 8
 * Enter the dungeon (3F)
 
 ![](img/murakumo/03-01-switchoff.png)
