@@ -547,7 +547,7 @@
 			* <span class="equip-add"> (if Kaguya drop) (3) **Glow Crystal** (3) </span>
 		* <span class="equip-add"> **Wriggle**: </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
-			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
+			* <span class="equip-add"> (2) **Crazy Milk** (1) </span>
 			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
