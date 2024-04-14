@@ -63,9 +63,9 @@ Hina is a mandatory boss blocking the stairs to 6F. She is very strong and very 
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Hina is an incredibly difficult foe since we have no reliable way to fight her "honestly" with raw power. She just hits too hard and there's no reliable way to damage her for lots of damage like we did with Komachi. Her biggest threat is having a 50% chance to cast AoE spells on phase 1, and 68% on phase 2, not to mention the 6% chance to just wall you entirely with fresh buffs on her. Our only reliable way to kill her is via PSN, waiting for it to tick damage while Parsee tanks everything with 900+ MND.
+Hina is an incredibly difficult foe since we have no reliable way to fight her "honestly" with raw power. She just hits too hard and there's no reliable way to damage her for lots of damage like we did with Komachi. Her biggest threat is having a 50% chance to cast AoE spells on phase 1, and 68% on phase 2, not to mention the 6% chance to just wall you entirely with fresh buffs on her. Our only reliable way to kill her is via PSN, waiting for it to tick damage while Parsee tanks everything with 800+ MND.
 
-Parsee can take any hit with 0 damage so long as Hina is not buffed, and will take a decent chunk of damage if she isn't buffed after Hina buffs herself. This is all thanks to library bonus, level up bonus and FIR affinity equipment. Reimu is very important here to reapply the MND bonus on Parsee soon before Hina procs her buffs on herself. Parsee must carefully time her switches so that Reimu and Wriggle can come in, do their thing, then immediately get switched back out before Hina takes another turn. Around 6000 ATB is a safe range for unbuffed Hina, and buffed Hina is never safe, so don't bother. It's better to wait for buff decay than to risk losing Reimu or Wriggle.
+Parsee can take any hit with 0 damage so long as Hina is not buffed, and will take a decent chunk of damage if she isn't buffed after Hina buffs herself. This is all thanks to library bonus, level up bonus and FIR affinity equipment. Reimu is very important here to reapply the MND bonus on Parsee soon before Hina procs her buffs on herself. Parsee must carefully time her switches so that Reimu and Wriggle can come in, do their thing, then immediately get switched back out before Hina takes another turn. Around 6000 ATB is a safe range for unbuffed Hina, and buffed Hina is never safe, so don't bother. It's better to wait for buff decay than to risk losing Reimu or Wriggle. Komachi can be swapped in on occasion to deal some big damage with Scythe that Chooses the Dead, which targets Hina's weakness. Komachi is far from the best damage dealer, but 2 casts of StCtD should match a Super Scope in damage output here.
 
 One important quirk with her AI that Parsee can exploit: if Parsee casts Midnight Anathema Ritual right after Biorhythm, Spinning Around More than Usual takes priority over Curse Reversal, so she will choose to buff herself instead of reverse her debuffs, which will result in very mild buffs (no more than 10%) compared to the full 30%. This can also help Parsee take less damage. The chance to proc TRR/SIL is 66%, and thus the chance that at least one procs is 88.44%, so make sure you hit that Anathema Ritual before Curse Reversal.
 
@@ -73,7 +73,7 @@ After the second Biorhythm and after some buff decay, swap in Nitori when she's 
 
 Front: Parsee / Rumia / Reimu / Wriggle
 
-Back: Marisa / Keine / Nitori
+Back: Marisa / Keine / Nitori / Komachi
 
 Should be noted that Rumia, Marisa and Keine are used as sacrifices so Parsee is left solo in the frontlines. This saves on turn time since there will be less menuing and concentrating to do. Marisa and Rumia can deal chip damage too with her spells while they don't die. Keine can further boost Parsee's buffs with Three Treasures - Mirror. The fight is then divided into three phases, detailed below:
 
@@ -103,6 +103,7 @@ With Hina's HP down to 25%, swap in other characters and when Hina's ATB allows 
 
 * Swap in other characters until Hina's ATB is <6000 on a turn
 * Swap in Nitori and Super Scope 3D
+* Komachi and Scythe that Chooses the Dead is another option
 * Use whatever you have to finish her off if she survives Scope
 
 [Back to index page](../index.md)

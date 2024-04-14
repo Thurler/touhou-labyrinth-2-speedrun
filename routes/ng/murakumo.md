@@ -562,10 +562,9 @@
 	* Parsee sponges all the hits and does the switching
 	* Wriggle spams Comet on Earth
 	* **Sacrifice Rumia, Marisa and Keine at start**
-	* Watch Hina's ATB to switch in Minoriko to buff/heal
-		* Reimu can also buff/heal and tank a hit
+	* Watch Hina's ATB to switch in Reimu/Minoriko to buff/heal
 	* On Biorhythm of Misfortune God, cast Midnight Anathema Ritual
-	* On second cast of biorhythm, damage race
+	* Can swap in Nitori and Komachi for big damage chunks
 	* For finer details see Hina's [Boss Info](../../enemy/hina.md)
 * Go up and take the 6F relay, then go back to Gensokyo
 
