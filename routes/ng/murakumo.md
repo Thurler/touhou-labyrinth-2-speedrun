@@ -650,12 +650,18 @@
 
 ![](img/murakumo/06-02-tenshi.png)
 
-* When you reach the destination, farm until out of MP
+* When you reach the destination, farm until Parsee Lv18
 
 ## <a id="Header-2-6"></a>Kraken Fight
 
 * When you're back to Genokyo, visit the facilities:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
+		* <span class="hakurei-shrine"> Reimu, Marisa, Rumia </span>
+		* <span class="hakurei-shrine"> Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee </span>
+		* <span class="hakurei-shrine"> Aya, Kasen </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Kasen**: HP/DEF 10 -> 20 </span>
 		* <span class="subclass-add"> **Wriggle** learns **Toxicologist** subclass </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Nitori / Parsee** </span>
@@ -663,12 +669,19 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
-			* <span class="equip-add"> (2) (if dropped) Cuckri (3) </span>
+			* <span class="equip-add"> (2) (if dropped) Legendary Blender (3) </span>
 		* <span class="equip-add"> **Momiji**: </span>
 			* <span class="equip-add"> (3) **Lv70 Lover Snapper's Scale** (2) </span>
 			* <span class="equip-add"> (2) **Love Machine 3322** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Wriggle**: Enhanced Toxins 0 -> 2 / Numbing Incense 0 -> 3 </span>
+		* <span class="learn-skill"> **Momiji**: Far Distances 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Flames of Jealousy 1 -> 2 </span>
+		* <span class="learn-skill"> **Wriggle**: Enhanced Toxins 0 -> 2 / Numbing Incense 0 -> 2 </span>
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 7 -> 8 </span>
+		* <span class="learn-skill"> **Reimu**: MP Boost 3 -> 5 </span>
+		* <span class="learn-skill"> **Rumia**: Darkness Manipulation 1 -> 2 </span>
+* Level reference: Parsee 18
 * Enter the dungeon (5F)
 <hr>
 
