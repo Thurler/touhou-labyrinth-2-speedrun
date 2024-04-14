@@ -616,10 +616,12 @@
 			* <span class="equip-add"> (1) **Bracer of Power** (1) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 7 -> 8 </span>
+		* <span class="learn-skill"> **Nitori**: Kappa Ecology Observation 0 -> 1 </span>
 		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest 0 -> 2 / Tengu Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 </span>
-* Level reference: Nitori 17
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 1 </span>
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 5 -> 6 </span>
+* Level reference: Nitori 15
 * Enter the dungeon (6F)
 
 ![](img/murakumo/06-01-relay.png)
