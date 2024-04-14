@@ -616,11 +616,11 @@
 			* <span class="equip-add"> (1) **Bracer of Power** (1) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 5 -> 6 </span>
 		* <span class="learn-skill"> **Nitori**: Kappa Ecology Observation 0 -> 1 </span>
 		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest 0 -> 2 / Tengu Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 1 </span>
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 5 -> 6 </span>
 * Level reference: Nitori 15
 * Enter the dungeon (6F)
 
@@ -629,14 +629,12 @@
 * When you reach the destination, backtrack to 5F part with FOE and farm
 * Go back to Gensokyo after farming and visit the facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa </span>
-		* <span class="hakurei-shrine"> Momiji, Rumia, Minoriko </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Wriggle, Aya, Kasen </span>
+		* <span class="hakurei-shrine"> Reimu, Marisa, Rumia </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori, Parsee </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee, Kasen </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Forge **Getitup V** </span>
-*  Open the menu and take the following actions:
+* Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (3) **Getitup V** (4) </span>
@@ -646,14 +644,7 @@
 			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (if free slot) (3) **Bone Stake** (3) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 8 -> 10 </span>
-		* <span class="learn-skill"> **Kasen**: Impact Attack 0 -> 1 </span>
-		* <span class="learn-skill"> **Nitori**: Kappa Ecology Observation 1 -> 2 </span>
-		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 1 -> 2 </span>
-		* <span class="learn-skill"> **Reimu**: MP Boost 4 -> 5 </span>
-		* <span class="learn-skill"> **Rumia**: Darkness Manipulation 1 -> 2 </span>
-		* <span class="learn-skill"> **Marisa**: Magic Training 1 -> 2 </span>
-		* <span class="learn-skill"> **Parsee**: Flames of Jealousy 1 -> 2 / MP Boost 0 -> 1 </span>
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 6 -> 7 </span>
 * Level reference: Nitori 20
 * Enter the dungeon (6F Center)
 
