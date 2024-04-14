@@ -563,7 +563,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Possible Skips | 5 |
 | Combined Total | 145 |
 
-## <a id="neglected-list"></a>Useful Neglected Treasures List
+## <a id="neglected-list"></a>Neglected Treasures List
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
