@@ -708,8 +708,10 @@
 * **Boss Fight - Blue Orchid (Lv23)**
 	* Aya uses DGA on Wriggle to inflict HVY
 	* Wriggle then switches herself out for Nitori
-	* Kasen and Parsee do the TRR combo
-	* Aya and Nitori swap Kasen/Parsee with Chen for IA pivoting
+	* Kasen spams Higekiri's Cursed Arm
+	* Parsee uses JotK -> Midnight Anathema -> JotK
+	* Aya DGA on Parsee after first JotK, then buffs Kasen
+	* Nitori Super Scopes after 3 buffs
 	* For finer details see Blue Orchid's [Boss Info](../../enemy/orchid.md)
 * Go back to Gensokyo
 

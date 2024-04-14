@@ -49,23 +49,27 @@ Blue Orchid is a mandatory boss fight to recruit Utsuho. This fight is easily ch
 
 This fight would normally be very hard to deal with, thanks to the boss' absurdly high DEF and MND. We would need to wait until its 3rd or so Shell Melter turn to be able to damage it consistently. But since by this time we have access to subclasses, we can make some character a Toxicologist and use the subclass' skill to get a 100% proc rate HVY on the boss, cutting its DEF in half. Paired with the damage boosts we get from skills, we can deal a severe amount of damage to the boss before it even gets to its first Shell Melter.
 
-The front line consists of Kasen / Wriggle / Aya / Parsee, with Nitori and Chen on the back line. Kasen and Parsee do their TRR combo, thanks to the boss' 0 TRR resistance, and Wriggle applies HVY before the fight even starts with Aya's help in Divine Grandson's Advent. Nitori and Aya then switch Kasen/Parsee with Chen for Instant Attack pivot switching.
+The front line consists of Kasen / Wriggle / Aya / Parsee, with Nitori on the back line. Kasen and Parsee do their TRR combo, thanks to the boss' 0 TRR resistance, and Wriggle applies HVY before the fight even starts with Aya's help in Divine Grandson's Advent. Aya helps manipulate turn order as Parsee and Kasen deal massive damage. The important skills for this fight are:
 
-* Instant Attack on Chen so she can Instant Attack pivot
 * Gensokyo's Fastest Lessons on Aya so she can DGA Wriggle turn 1
 * Enhanced Toxins on Wriggle so HVY stays for a bit longer
 * Maintenance on Nitori for obvious reasons
-* Kappa's Ecology Observation on Nitori for 20% damage boost to the entire front line
+* Kappa's Ecology Observation on Nitori for 10/20% damage boost to the entire front line
 * Parsee's Flames of Jealousy for 30% extra damage for her and Kasen
 * Parsee's Final Blow for 32% extra damage on Jealousy of the Kind
 
 If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Cursed Arm, and Parsee a 105.92% boost on Jealousy of the Kind, and since the Orchid has 0 TRR resistance, Kasen is guaranteed to TRR every hit, allowing for the easy TRR combo to deal massive damage. Very few things can go wrong during this fight, the flowchart is very consistent:
 
-* Aya uses Divine Grandson's Advent on Wriggle
-* Wriggle uses Numbling Incense and switches herself for Nitori
-* Kasen spams Higekiri's Cursed Arm
-* Parsee spams Jealousy of the Kind when TRR is in place
-* Nitori/Aya swap Kasen/Parsee with Chen for IA pivot as needed
-* Nitori uses Super Scope at the end to try and speed up the fight a bit
+* Aya DGA on Wriggle
+* Wriggle Numbing Incense
+* Kasen Higekiri
+* Parsee Jealousy of the Kind
+* Wriggle self swaps for Nitori
+* Aya DGA on Parsee
+* Parsee Midnight Anathema Ritual
+* Kasen Higekiri on loop
+* Parsee Jealousy of the Kind
+* Nitori buffs 3 times then Super Scope
+* Aya buffs Kasen's SPD
 
 [Back to index page](../index.md)
