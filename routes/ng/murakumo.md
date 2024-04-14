@@ -422,8 +422,9 @@
 
 ![](img/murakumo/04-01-explore.png)
 
+* After getting the Violent Green Rupee, farm for a bit
 * After reaching 5F, do the blue outline path
-* Before going down to 3F, farm until frontline is out of MP
+* If Nitori won't reach Lv13, farm before going down to 3F
 
 ## <a id="Header-2-2"></a>Explore 5F
 
@@ -442,11 +443,9 @@
 			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 2 -> 4 </span>
-		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 0 -> 1 </span>
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 2 -> 3 </span>
 		* <span class="learn-skill"> **Rumia**: Darkness Manipulation 0 -> 1 </span>
 		* <span class="learn-skill"> **Reimu**: MP Boost 1 -> 2 </span>
-		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 1 </span>
 * Level reference: Nitori 13
 * Enter the dungeon (5F)
 
@@ -472,10 +471,12 @@
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 0 -> 1 </span>
 		* <span class="learn-skill"> **Nitori**: Kappa Ecology Observation 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: HP High Boost 0 -> 1 </span>
 		* <span class="learn-skill"> **Reimu**: MP Boost 2 -> 4 </span>
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 4 -> 6 </span>
+		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 1 </span>
 * Level reference: Nitori 16
 * Enter the dungeon (2F Center)
 <hr>
