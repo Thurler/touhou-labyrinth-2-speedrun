@@ -553,7 +553,7 @@
 			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
 			* <span class="equip-add"> (2) **Bracer of Power** (1) </span>
 			* <span class="equip-add"> (3) **Bracer of Power** (1) </span>
-* Level reference: Reimu 16 / Komachi 15
+* Level reference: Nitori 14
 * Enter the dungeon (5F South)
 <hr>
 
