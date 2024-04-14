@@ -521,20 +521,20 @@
 ## <a id="Header-2-4"></a>Hina Fight
 
 * When you're back at Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonus </span>
-		* <span class="hakurei-shrine"> Ignore Youmu and Cirno </span>
-		* <span class="hakurei-shrine"> Komachi SPD </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
+		* <span class="hakurei-shrine"> Reimu, Marisa, Keine </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori, Kasen </span>
+		* <span class="hakurei-shrine"> Komachi ATK/SPD (Need 106) </span>
 		* <span class="hakurei-shrine"> Parsee MND </span>
 		* <span class="hakurei-shrine"> Wriggle HP </span>
-	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-library"> **Komachi**: ATK 0 -> 20 / SPD 0 -> 10 </span>
-		* <span class="magic-library"> **Parsee**: HP/MND 0 -> 30 </span>
-		* <span class="magic-library"> **Kasen**: HP/DEF 10 -> 20 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Youmu -> Wriggle** </span>
 		* <span class="human-village"> Swap **Cirno -> Parsee** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Buy **Cypress Stick, Booster v0.8, Crazy Milk** </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-library"> **Komachi**: ATK 0 -> 20</span>
+		* <span class="magic-library"> **Parsee**: HP/MND 0 -> 30 </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Parsee / Rumia / Reimu / Wriggle** </span>
 	* Equipment:
@@ -553,9 +553,6 @@
 			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
 			* <span class="equip-add"> (2) **Bracer of Power** (1) </span>
 			* <span class="equip-add"> (3) **Bracer of Power** (1) </span>
-	* Learn Skills:
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 1 </span>
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 6 -> 7 </span>
 * Level reference: Reimu 16 / Komachi 15
 * Enter the dungeon (5F South)
 <hr>
