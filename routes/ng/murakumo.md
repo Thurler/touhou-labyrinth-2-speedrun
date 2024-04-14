@@ -562,6 +562,7 @@
 	* Parsee sponges all the hits and does the switching
 	* Wriggle spams Comet on Earth
 	* **Sacrifice Rumia, Marisa and Keine at start**
+	* Keep Parsee in slot 2 for switches on same SPD setups
 	* Watch Hina's ATB to switch in Reimu/Minoriko to buff/heal
 	* On Biorhythm of Misfortune God, cast Midnight Anathema Ritual
 	* Can swap in Nitori and Komachi for big damage chunks
