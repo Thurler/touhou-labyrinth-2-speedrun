@@ -451,8 +451,8 @@
 
 ![](img/murakumo/05-01-explore.png)
 
-* When you reach the warp, go back to Gensokyo
-* When you reach the destination, farm as much as you can
+* When you reach the warp, go back to Gensokyo after spending MP
+* When you reach the destination, farm until out of MP
 
 ## <a id="Header-2-3"></a>Wriggle Side Quest
 
@@ -478,6 +478,7 @@
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 4 -> 6 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 1 </span>
 * Level reference: Nitori 16
+* Level reference: Nitori 14
 * Enter the dungeon (2F Center)
 <hr>
 
