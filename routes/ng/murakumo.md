@@ -458,7 +458,6 @@
 
 * When you're back to Gensokyo, visit the facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-item"> Use **Tome of Insight - Vitality** on **Kourin** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Keine / Nitori** </span>
 	* Equipment:
@@ -471,13 +470,9 @@
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 0 -> 1 </span>
-		* <span class="learn-skill"> **Nitori**: Kappa Ecology Observation 0 -> 1 </span>
-		* <span class="learn-skill"> **Kourin**: HP High Boost 0 -> 1 </span>
-		* <span class="learn-skill"> **Reimu**: MP Boost 2 -> 4 </span>
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 4 -> 6 </span>
+		* <span class="learn-skill"> **Reimu**: MP Boost 2 -> 3 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 1 </span>
-* Level reference: Nitori 16
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 4 -> 5 </span>
 * Level reference: Nitori 14
 * Enter the dungeon (2F Center)
 <hr>
