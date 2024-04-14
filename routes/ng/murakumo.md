@@ -661,6 +661,8 @@
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
 		* <span class="hakurei-shrine"> Aya, Kasen </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Chen**: ATK 0 -> 30 </span>
+		* <span class="magic-library"> **Parsee**: ATK 0 -> 30 </span>
 		* <span class="magic-library"> **Kasen**: HP/DEF 10 -> 20 </span>
 		* <span class="subclass-add"> **Wriggle** learns **Toxicologist** subclass </span>
 * Open the menu and take the following actions:
@@ -691,7 +693,7 @@
 	* Parsee spams Jealousy of the Kind and Lovely
 	* Nitori self buffs and then uses Super Scope 3D
 	* Momiji swaps Kasen and Parsee with Chen for Instant Attack pivoting
-	* Keine can join to buff if Nitori dies
+	* Momiji swaps self with Aya when Nitori will Super Scope
 	* For finer details see Kraken's [Boss Info](../../enemy/kraken.md)
 * Exit the dungeon and go back to Gensokyo
 
@@ -717,7 +719,6 @@
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="magic-reset"> **Reset Nitori / Wriggle** </span>
 		* <span class="subclass-add"> **Chen** learns **Warrior** subclass </span>
-		* <span class="magic-library"> **Chen**: ATK 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Keine** </span>
 * Open the menu and take the following action:

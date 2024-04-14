@@ -60,5 +60,6 @@ If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Curse
 * Parsee spams Jealousy of the Kind when TRR is in place
 * Nitori self buffs until 2 Higekiri hits, then Super Scopes
 * Momiji swaps Kasen/Parsee with Chen for IA pivot as needed
+* Momiji swaps self with Aya when Nitori will Super Scope
 
 [Back to index page](../index.md)
