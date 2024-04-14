@@ -626,7 +626,7 @@
 
 ![](img/murakumo/06-01-relay.png)
 
-* When you reach the destination, backtrack to 5F part with FOE and farm
+* When you reach the destination, farm until out of MP
 * Go back to Gensokyo after farming and visit the facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Reimu, Marisa, Rumia </span>
@@ -645,12 +645,12 @@
 			* <span class="equip-add"> (if free slot) (3) **Bone Stake** (3) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 6 -> 7 </span>
-* Level reference: Nitori 20
+* Level reference: Nitori 16
 * Enter the dungeon (6F Center)
 
 ![](img/murakumo/06-02-tenshi.png)
 
-* When you reach the destination, simply go back to Gensokyo
+* When you reach the destination, farm until out of MP
 
 ## <a id="Header-2-6"></a>Kraken Fight
 
