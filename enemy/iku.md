@@ -55,52 +55,33 @@ Iku blocks your way to the second half of stratum 3, and packs a bunch of very p
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-There's a lot of setup before the fight to maximize our damage output. The key characters for this fight defensively are Parsee, Aya and Sanae. Reimu also plays a small role using her AoE buff and heal on an emergency. Parsee is the main tank and switcher, since she barely takes any damage from Iku's attacks. Aya helps mitigate damage with her Ability to Manipulate Wind, though she can't take more than a few hits before dying. Sanae plays the role of main buffer and healer, and acts as a secondary tank since her WND affinity and MND stat are high enough to tank several hits.
+There's a lot of setup before the fight to maximize our damage output. The key characters in the fight are Sanae, Reimu, Aya, Chen, Wriggle, Nitori and Satori. The only offensive member is Nitori, everyone else is playing the support role here.
 
-Offensively, Nitori, Kasen and Chen do a very solid job. Early on Kasen can debuff Iku's SPD with Higekiri's Cursed Arm, though it's not too reliable since there's only a 50% chance to proc. We use it mostly as our first damage source for 3k-5k damage per hit. Nitori gets buffed early on and then is dragged in by the time the damage race starts, dealing 7k+ per hit depending on her buff status, thanks to the added 20% bonus from Kappa's Ecology Observation. Chen can act as a final source of damage with Instant Attack + Kimontonkou after Iku debuffs her own DEF.
+Wriggle inflicts PSN at the start of the fight, to deal passive damage as we setup Nitori for success. The chance to proc with a maxed out Comet on Earth is 88%, so it is very reliable. Aya will setup Wriggle to act first at the start of the fight, making sure we maximize our PSN damage.
 
-Iku's basic spells offer little to no threat with the lineup used, unless you get very unlucky with targetting and she repeatedly PARs Sanae or Kasen. After her buff, however, every spell can kill anyone that isn't Parsee, so be careful when her turn approaches during the damage rush. The first Light Dragon's Sigh will completely assassinate everyone, except for Parsee and Sanae. Aya can survive as well and mitigate damage to those 2, assuming she is at full HP. The fight is separated into 4 phases, detailed below:
+Nitori is the central piece of the fight, boasting Maintenance and Overheating to increase her damage output exponentially as the fight goes on. She will spam regular attack until she gets 5 stacks of Overheat, and then unleash 2 fully powered Extending Arms, which should kill Iku from around 60% with the proper buffs and skills in place. If the fight goes well, we don't even see her threshold moves.
 
-**PHASE 1 - Buffing**
+Sanae, Reimu and Aya work together to buff Nitori as much as possible while Overheat stacks up. Sanae can spam Miracle Fruit, Reimu can dish out heals and defensive buffs to keep everyone alive in Iku's first phase. Aya can swap Reimu and Sanae around via IA pivoting, that's where Chen can come in to help. Aya can also distribute SPD buffs on turns when she doesn't have anyone to IA pivot.
 
-The main goal at the start of the fight is to buff Nitori before Iku stats piling up damage. This will allow us to swap in Nitori later to deal obscene amounts of damage with no buffing later on. Aya buffs Reimu's and Sanae's SPD so they can more easily cast their buffs and recover from PAR. Keine comes in to help buff Nitori along ith Sanae, ideally setting Nitori's ATK to >70% buff. Swap Nitori with Kasen to begin the damage phase.
+Now talking about skills to help Nitori get the 2 hit kill, Sanae brings Youkai Buster Lv2 for a 20% boost, and Satori brings Trauma Recollection Lv2 for another 24% boost. Defensively, Aya has Ability to Manipulate Wind to help mitigate WND damage from Iku, which helps increase survivability. Sometimes Iku will target slots 3/4 and kill Aya/Nitori, or you'll get unlucky with PAR and Reimu will be unable to heal. Depending on how early on these things happen, it's still possible to finish the setup, as long as Nitori is alive.
 
-* Aya buffs Reimu and Sanae
-* Reimu uses Great Hakurei Barrier
-* Swap Reimu with Keine, Aya with Nitori
-* Buff Nitori for a while until her ATK is over 70%
-	* Sanae uses Miracle Fruit to buff
-	* Keine uses Three Treasures - Sword to buff
-	* Nitori can buff herself with Portable Versatile Machine
-* Swap Nitori with Kasen
+When it's time to go for the kill, Satori comes in and can copy Sanae's Miracle Fruit for further healing. Aya can DGA Nitori for extra turns, and dish out SPD buffs in case the turns don't exactly line up for the kill. If for some reason Iku lives and you eat a Light Dragon's Sigh, assuming you survive, you can pick up the kill with Kasen and Chen, so don't give up! A quick breakdown of the fight would go like this:
 
-**PHASE 2 - Kasen**
-
-Next we want to deal as much damage with Kasen as possible. We buff her just like we did Nitori and just spam Higekiri's Cursed Arm, hoping for SPD debuffs. Sanae must heal whoever gets PAR'd or too debuffed, and Parsee can help by Instant Attack pivoting with Chen. If there's nothing better to do, Parsee can try to proc SIL on Iku with Midnight Anathema Ritual (42%).
-
-* Kasen spams Higekiri's Cursed Arm
-* Keine spams Three Treasures - Sword
-* Sanae juggles Miracle Fruit on Kasen and heals
-* Parsee tries to proc SIL with Midnight Anathema Ritual
-* Parsee also switches Chen with whoever needs IA pivoting
-
-**PHASE 3 - Light Dragon's Sigh**
-
-When Kasen runs out of MP, depending on how much damage was dealt there will still be time to do a small damage rush, but you need to be ready to back out of it if it turns out she was already below 55% HP. Aya swaps in where Keine was, and Kourin where Kasen was. They will then swap in Nitori so she can spam Extending Arm as much as possible before Light Dragon's Sigh. Kourin can swap her in with 9100 ATB, and Aya can make her act twice with Divine Grandson's Advent. Kourin may die to LDS, but certainly not Nitori, so make sure she's not there when Iku gets a turn.
-
-* Swap Keine with Aya, Kasen with Kourin
-* Put Nitori in slot 4 to attack with Extending Arm
-* Aya can Divine Grandson's Advent her for another hit
-* Parsee switches her out, Kourin back in
-* Lineup Parsee/Aya/Komachi/Sanae for Light Dragon's Sigh
-
-**PHASE 4 - Whiskers of the Dragon God**
-
-After LDS, depending on how much HP is left, you may choose to either play it safe by switching in Reimu for healing, or just swap in Nitori, Kasen and Chen to finish her off. The fact that she debuffs all of her defenses also helps immensely to do it before she kills you with her now impossibly high SPD.
-
-* Swap in Reimu so she can use Exorcising Border
-* Swap Kourin back in to damage rush with Nitori
-* Chen and Kasen deal massive damage now that she is debuffed
-* Improvise until you win
+* **PHASE 1 - PSN + Buffing**
+	* Aya DGA on Wriggle, uses Comet on Earth
+	* Wriggle swaps self for Reimu
+	* Sanae spams Miracle Fruit on Nitori
+	* Nitori spams regular attack to build Overheat
+	* Reimu and Aya juggle buff/heals with IA pivot
+* **PHASE 2 - Overheat 5 Kill**
+	* Swap Reimu with Satori
+	* Nitori Extending Arm
+	* Aya DGA Nitori
+	* Nitori Extending Arm
+	* Sanae and Satori buff Nitori if possible
+* **PHASE 3 - Emergency**
+	* If not dead and someone lived, swap in Kasen and Chen
+	* Spam Higekiri's Cursed Arm
+	* Spam Kimontonkou + PSW
 
 [Back to index page](../index.md)

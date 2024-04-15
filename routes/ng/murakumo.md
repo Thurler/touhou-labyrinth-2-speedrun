@@ -865,8 +865,7 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa </span>
-		* <span class="hakurei-shrine"> Rumia, Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Reimu, Komachi, Chen </span>
 		* <span class="hakurei-shrine"> Nitori, Parsee, Wriggle </span>
 		* <span class="hakurei-shrine"> Mokou, Aya(HP) </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
@@ -876,7 +875,7 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
 		* <span class="magic-library"> **Reimu**: HP 10 -> 30 </span>
-		* <span class="magic-library"> **Nitori**: HP 0 -> 30 </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 30 / ATK 40 -> 50 </span>
 		* <span class="magic-library"> **Aya**: HP 0 -> 30 </span>
 		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -896,43 +895,33 @@
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 3 / Youkai Buster 0 -> 2 / Last Wish 0 -> 1 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 2 / Youkai Buster 0 -> 2 / Last Wish 0 -> 1 </span>
 		* <span class="learn-skill"> **Wriggle**: Comet on Earth 1 -> 5 </span>
-		* <span class="learn-skill"> **Aya**: Ability Manip Wind 1 -> 2 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Overheating 0 -> 1 / Mind Body One 0 -> 1 </span>
-		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
-		* <span class="learn-skill"> **Satori**: Trauma Recollection 0 -> 2 / Spell Card Recollection 0 -> 3 </span>
-		* <span class="learn-skill"> **Mokou**: Resurrection 2 -> 3 </span>
-		* <span class="learn-skill"> **Chen**: Beat Down 0 -> 1 </span>
-* Level reference: Nitori 26
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Overheating 0 -> 1 </span>
+		* <span class="learn-skill"> **Satori**: Trauma Recollection 0 -> 2 / Spell Card Recollection 0 -> 2 </span>
+		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 </span>
+* Level reference: Nitori 22
 * Enter the dungeon (8F South)
 <hr>
 
 * Head right to fight Iku
 * **Boss Fight - Iku Nagae (Lv29)**
-	* **Phase 1 - Buffing**
-		* Aya buffs Reimu and Sanae
-		* Reimu uses GHB
-		* Swap Reimu with Keine, Aya with Nitori
-		* Buff Nitori for a while
-		* Swap Nitori with Kasen
-	* **Phase 2 - Kasen**
-		* Kasen spams Higekiri's Cursed Arm
-		* Keine spams 3ST - Sword
-		* Sanae juggles Miracle Fruit on Kasen and heals
-		* Parsee switches Chen with whoever needs IA pivoting
-		* Chen can Kimontonkou + PSW
-	* **Phase 3 - Light Dragon's Sigh**
-		* Swap Keine with Aya, Kasen with Kourin
-		* Put Nitori in slot 4 to attack with Extending Arm
-		* Aya can DGA her for another hit
-		* Parsee switches her out, Kourin back in
-		* Lineup Parsee/Aya/Komachi/Sanae for Light Dragon's Sigh
-	* **Phase 4 - Whiskers of the Dragon God**
-		* Swap in Reimu so she can use Exorcising Border
-		* Swap Kourin back in to damage rush with Nitori
-		* Chen and Kasen deal massive damage now that she is debuffed
-		* Improvise until you win
+	* **Phase 1 - PSN + Buffing**
+		* Aya DGA on Wriggle, uses Comet on Earth
+		* Wriggle swaps self for Reimu
+		* Sanae spams Miracle Fruit on Nitori
+		* Nitori spams regular attack to build Overheat
+		* Reimu and Aya juggle buff/heals with IA pivot
+	* **Phase 2 - Overheat 5 Kill**
+		* Swap Reimu with Satori
+		* Nitori Extending Arm
+		* Aya DGA Nitori
+		* Nitori Extending Arm
+		* Sanae and Satori buff Nitori if possible
+	* **Phase 3 - Emergency**
+		* If not dead and someone lived, swap in Kasen and Chen
+		* Spam Higekiri's Cursed Arm
+		* Spam Kimontonkou + PSW
 	* For finer details see Iku's [Boss Info](../../enemy/iku.md)
 * Go back to Gensokyo to heal
 
