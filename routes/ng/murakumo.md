@@ -718,15 +718,19 @@
 ## <a id="Header-2-8"></a>Mokou Side Quest
 
 * When back at Gensokyo and use these facilities:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+		* <span class="hakurei-item"> Use **Training Manual x1** on **Nitori** </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
-		* <span class="magic-reset"> **Reset Nitori / Wriggle** </span>
+		* <span class="magic-reset"> **Reset Chen / Nitori / Wriggle** </span>
 		* <span class="subclass-add"> **Chen** learns **Warrior** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Keine** </span>
 * Open the menu and take the following action:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Keine** </span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 8 -> 9 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability to Manip Water 0 -> 2 </span>
+* Level reference: Nitori 19
 * Enter the dungeon (4F Northeast)
 <hr>
 
@@ -750,7 +754,9 @@
 ## <a id="Header-2-9"></a>Tenshi 1 Fight
 
 * When you're back, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
+		* <span class="hakurei-shrine"> Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee, Kasen </span>
 		* <span class="hakurei-shrine"> Mokou ATK </span>
 		* <span class="hakurei-shrine"> Utsuho MAG </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -779,11 +785,13 @@
 			* <span class="equip-add"> (1) **Life Fragment** (1) </span>
 			* <span class="equip-add"> (2) **Purple Metallic Armor** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Utsuho**: MP Boost 0 -> 5 / Blazing 0 -> 2 </span>
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 9 -> 10 </span>
+		* <span class="learn-skill"> **Utsuho**: MP Boost 0 -> 4 / Blazing 0 -> 2 </span>
 		* <span class="learn-skill"> **Chen**: Enhanced Row Attack 0 -> 3 </span>
-		* <span class="learn-skill"> **Momiji**: Instant Attack: 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: Fighting Spirit 1 -> 2 </span>
 		* <span class="learn-skill"> **Mokou**: Blazing 0 -> 2 / Resurrection 0 -> 2 </span>
-* Level reference: Nitori 21
+		* <span class="learn-skill"> **Marisa**: Magic Training 1 -> 2 </span>
+* Level reference: Nitori 19
 * Enter the dungeon (6F)
 <hr>
 
@@ -802,15 +810,9 @@
 
 ![](img/murakumo/07-01-west.png)
 
-* When you reach the destination, farm until wipe
+* When you reach the destination, farm until out of MP
 * Go back to Gensokyo and use this facility
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa </span>
-		* <span class="hakurei-shrine"> Momiji, Rumia </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Mokou, Aya </span>
-		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Utsuho**: </span>
@@ -826,19 +828,21 @@
 			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
-* Level reference: Nitori 22
+		* <span class="learn-skill"> **Utsuho**: MP Boost 4 -> 5 </span>
+* Level reference: Nitori 20
 * Enter the dungeon (7F)
 
 ![](img/murakumo/07-02-east.png)
 
-* When you reach the destination, farm until wipe
+* When you reach the destination, farm until out of MP
 
 ## <a id="Header-3-2"></a>Explore 8F (Part 1)
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
 		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Mokou </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee </span>
+		* <span class="hakurei-shrine"> Mokou, Aya </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
@@ -850,14 +854,12 @@
 			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (2) **Energy Tank** (1) </span>
-	* Learn Skills:
-		* <span class="learn-skill"> **Reimu**: Armored YinYang Orb 1 -> 2 </span>
-* Level reference: Nitori 24
+* Level reference: Nitori 21
 * Enter the dungeon (8F)
 
 ![](img/murakumo/08-01-preiku.png)
 
-* When you recruit Sanae, farm until wipe
+* When you recruit Sanae, farm until out of MP
 
 ## <a id="Header-3-3"></a>Iku Fight
 
