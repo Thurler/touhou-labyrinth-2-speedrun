@@ -875,7 +875,7 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
 		* <span class="magic-library"> **Reimu**: HP 10 -> 30 </span>
-		* <span class="magic-library"> **Nitori**: HP 0 -> 30 / ATK 40 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 30 / ATK 40 -> 50 / SPD 0 -> 20 </span>
 		* <span class="magic-library"> **Aya**: HP 0 -> 30 </span>
 		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -974,7 +974,7 @@
 
 ![](img/murakumo/09-01-west.png)
 
-* When you reach the destination event go back to Gensokyo
+* When you reach the destination event, farm until out of MP
 * When you're back at Gensokyo, use the shrine and then do a menu:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* Equipment:
@@ -986,12 +986,12 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (2) **Hero's Medal** (2) </span>
 			* <span class="equip-add"> (1) **Diva's Apron** (1) </span>
-* Level reference: Nitori 29
+* Level reference: Nitori 24
 * Enter the dungeon (9F)
 
 ![](img/murakumo/09-02-east.png)
 
-* When you reach the destination farm until wipe
+* When you reach the destination farm until out of MP
 
 ## <a id="Header-3-6"></a>Tenshi 2 Fight
 
