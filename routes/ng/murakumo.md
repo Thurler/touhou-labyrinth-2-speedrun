@@ -1009,7 +1009,7 @@
 		* <span class="hakurei-shrine"> Satori, Reisen(HP) </span>
 		* <span class="hakurei-shrine"> Sanae(MAG), Iku(MAG) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> Reset **Marisa / Chen / Nitori / Aya** </span>
+		* <span class="magic-reset"> Reset **Marisa / Rumia / Minoriko / Chen / Nitori / Aya** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Reisen** learns **Hexer** subclass </span>
@@ -1050,16 +1050,15 @@
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Sanae**: Last Wish 1 -> 2 </span>
-		* <span class="learn-skill"> **Minoriko**: SPD Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest Lessons 0 -> 2 / Tengu's Wind 0 -> 2 / HP Boost 0 -> 4 </span>
-		* <span class="learn-skill"> **Reisen**: MP Boost 0 -> 4 / Enhanced Hexes 0 -> 2 / Intense Vertigo 0 -> 1 </span>
-		* <span class="learn-skill"> **Kasen**: Fighting Spirit 1 -> 2 </span>
-		* <span class="learn-skill"> **Rumia**: Youkai Knowledge 0 -> 2 </span>
-		* <span class="learn-skill"> **Iku**: MAG Boost 0 -> 2 / Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
-		* <span class="learn-skill"> **Reimu**: Final Prayer 0 -> 1 </span>
-		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Art of Battlemage 0 -> 5 / MP Boost 0 -> 2 </span>
-		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 4 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
-* Level reference: Nitori 29
+		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 0 -> 2 / SPD Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest Lessons 0 -> 2 / Tengu's Wind 0 -> 2 / HP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Reisen**: MP Boost 0 -> 2 / Enhanced Hexes 0 -> 2 / Intense Vertigo 0 -> 1 </span>
+		* <span class="learn-skill"> **Rumia**: Youkai Knowledge 0 -> 2 / Darkness Manipulation 0 -> 2</span>
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
+		* <span class="learn-skill"> **Reimu**: Armored YinYang Orb 1 -> 2 </span>
+		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Art of Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 3 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
+* Level reference: Nitori 25
 * Enter the dungeon (9F)
 <hr>
 
