@@ -1014,7 +1014,7 @@
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Reisen** learns **Hexer** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
-		* <span class="magic-library"> **Nitori**: HP 30 -> 50 / DEF 0 -> 50 / SPD 0 -> 30 </span>
+		* <span class="magic-library"> **Nitori**: HP 30 -> 40 / DEF 0 -> 30 / SPD 20 -> 30 </span>
 		* <span class="magic-library"> **Iku**: MAG/SPD 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Utsuho -> Minoriko** </span>
@@ -1115,10 +1115,10 @@
 			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi** Short Life Expectancy 1 -> 3 </span>
+		* <span class="learn-skill"> **Komachi** Short Life Expectancy 1 -> 2 </span>
 		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Maintenance 0 -> 1 </span>
 		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 / Beat Down 0 -> 1 / Enhanced Row Attack 0 -> 3 </span>
-* Level reference: Nitori 30
+* Level reference: Nitori 26
 * Enter the dungeon (10F)
 
 ![](img/murakumo/10-01-north.png)
