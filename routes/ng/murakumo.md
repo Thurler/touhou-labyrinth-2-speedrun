@@ -983,9 +983,6 @@
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
 			* <span class="equip-add"> (1) **Star of the Just** (5) </span>
-		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (2) **Hero's Medal** (2) </span>
-			* <span class="equip-add"> (1) **Diva's Apron** (1) </span>
 * Level reference: Nitori 24
 * Enter the dungeon (9F)
 
