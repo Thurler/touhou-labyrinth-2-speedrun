@@ -944,16 +944,14 @@
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (if Iku drop) (1) **Shinai of Spirits** (1) </span>
-		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Mind Body One 0 -> 1 </span>
-* Level reference: Nitori 26
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 </span>
+* Level reference: Nitori 23
 * Enter the dungeon (8F South)
 
 ![](img/murakumo/08-02-postiku.png)
 
-* When you reach 9F, get the locked chest and farm until wipe
+* When you reach 9F, get the locked chest and farm until out of MP
 
 ## <a id="Header-3-5"></a>Explore 9F
 
@@ -970,7 +968,8 @@
 			* <span class="equip-add"> (2) **Asura Blade** (4) </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Training Egg** (1) </span>
-* Level reference: Nitori 28
+			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
+* Level reference: Nitori 23
 * Enter the dungeon (9F)
 
 ![](img/murakumo/09-01-west.png)
