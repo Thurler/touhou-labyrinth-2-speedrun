@@ -1123,7 +1123,7 @@
 
 ![](img/murakumo/10-01-north.png)
 
-* After getting last treasure, farm until wipe
+* After getting last treasure, farm until Nitori out of MP
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters</span>
 * Open the menu and take the following actions:
@@ -1133,14 +1133,12 @@
 			* <span class="equip-add"> (2) **Tisiphone Edge** (4) </span>
 		* <span class="equip-add"> **Chen**: </span>
 			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
-	* Learn Skills:
-		* <span class="learn-skill"> **Chen** Beat Down 1 -> 2 </span>
-* Level reference: Nitori 31
+* Level reference: Nitori 27
 * Enter the dungeon (10F)
 
 ![](img/murakumo/10-02-south.png)
 
-* When you reach the destination, farm until wipe
+* When you reach the destination, farm until Nitori out of MP
 
 ## <a id="Header-4-2"></a>Gold Hymn Fight
 
@@ -1176,9 +1174,9 @@
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 3 -> 5 </span>
-		* <span class="learn-skill"> **Iku**: Heavenly Maiden Blow 0 -> 1 </span>
+		* <span class="learn-skill"> **Reimu**: Final Prayer 0 -> 1 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 3 -> 5 </span>
-* Level reference: Nitori 32
+* Level reference: Nitori 28
 * Enter the dungeon (10F) and head east for FOE
 <hr>
 
@@ -1196,12 +1194,13 @@
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori/Aya to HP </span>
+		* <span class="hakurei-item"> Use **Training Manual x1** on **Komachi** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Komachi / Nitori / Sanae** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass  </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Nitori**: ATK 40 -> 80 </span>
-		* <span class="magic-library"> **Reisen**: HP 0 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: HP 40 -> 50 / ATK 50 -> 60 / DEF 30 -> 50 </span>
+		* <span class="magic-library"> **Reisen**: HP 0 -> 20 </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Komachi / Reisen** </span>
 	* Equipment:
@@ -1210,11 +1209,11 @@
 			* <span class="equip-add"> (2) **Aegis Button** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 5 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
-		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 1 / HP Boost 4 -> 5 </span>
-		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 2 / Ferriage Fog 1 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferriage Fog 1 -> 5 </span>
 		* <span class="learn-skill"> **Sanae**: Youkai Buster 0 -> 2 / Miracle Fruit 1 -> 5 </span>
 * Enter the dungeon (10F southwest) and head for the boss
-* Level reference: Nitori 32
+* Level reference: Nitori 29
 <hr>
 
 * **Boss Fight - Remilia Scarlet & Sakuya Izayoi (Lv43)**
@@ -1261,11 +1260,10 @@
 			* <span class="equip-add"> (if Remilia dropped) (1) **Glaive of Pain** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 3 </span>
-		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / HP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Ability Manip Water 0 -> 2 / Maintenance 0 -> 1 </span>
+		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / HP Boost 0 -> 4 </span>
+		* <span class="learn-skill"> **Nitori**: Ability Manip Water 0 -> 2 / Maintenance 0 -> 1 </span>
 		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Lightning Fish 0 -> 1 / Area Attack 0 -> 1 </span>
-		* <span class="learn-skill"> **Reimu**: Final Prayer 1 -> 2 </span>
-* Level reference: Nitori 33
+* Level reference: Nitori 30
 * Enter the dungeon (11F)
 
 ![](img/murakumo/11-01-west.png)
@@ -1283,11 +1281,10 @@
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Cooling Down 1 -> 2</span>
-* Level reference: Nitori 35
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 </span>
+		* <span class="learn-skill"> **Chen**: Beat Down 1 -> 2 </span>
+* Level reference: Nitori 31
 * Enter the dungeon (11F)
 
 ![](img/murakumo/11-02-southeast.png)
@@ -1304,7 +1301,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (3) **Meteor Drive** (5) </span>
-* Level reference: Nitori 38
+* Level reference: Nitori 32
 * Enter the dungeon (12F)
 
 ![](img/murakumo/12-01-west.png)
@@ -1318,12 +1315,12 @@
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
-* Level reference: Nitori 39
+* Level reference: Nitori 33
 * Enter the dungeon (12F)
 
 ![](img/murakumo/12-02-east.png)
 
-* Once you get to the relay point, grind until Wriggle 120 BP on 11F
+* Once you get to the relay point, farm until Nitori wipe
 
 ## <a id="Header-4-6"></a>Golden Mirror Fight
 
@@ -1333,17 +1330,15 @@
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi** </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Wriggle -> Reisen** </span>
+		* <span class="human-village"> Swap **Cirno -> Reisen** </span>
 * Open the menu and take the following actions:
 	* * <span class="form-change"> Form Change: **Kasen / Aya / Komachi / Reisen** </span>
 	* Equipment:
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (if not equipped) (M) **Training Egg** (2) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Ferriage Fog 1 -> 5 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 9 </span>
-* Level reference: Reisen 39
+		* <span class="learn-skill"> **Komachi**: Ferriage Fog 1 -> 5 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 5 </span>
+* Level reference: Reisen 34
 * Enter the dungeon (12F west) and go fight the Mirror
 <hr>
 
@@ -1379,8 +1374,8 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 5 </span>
-* Level reference: Nitori 40
+		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 3 </span>
+* Level reference: Nitori 36
 * Enter the dungeon (12F)
 
 ![](img/murakumo/12-03-south.png)
@@ -1393,19 +1388,27 @@
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 		* <span class="hakurei-item"> Use **Wisdom Gems** on **Iku** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Iku** </span>
+		* <span class="magic-reset"> **Reset Sanae / Iku** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
+		* <span class="human-village"> Swap **Chen -> Suwako** </span>
+* Open the menu and take the following actions:
+	* Equipment:
+		* <span class="equip-add"> **Suwako**: </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
+		* <span class="human-village"> **Human Village**: </span>
+			* <span class="human-village"> Swap **Suwako -> Chen** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Sanae**: Last Wish 0 -> 2 </span>
+		* <span class="learn-skill"> **Sanae**: Last Wish 0 -> 2 / Youkai Buster 0 -> 1 / Miracle Fruit 1 -> 5 </span>
 		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Enhanced Buffing 0 -> 1 / Art of the Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Reimu**: Final Prayer 1 -> 2 </span>
 		* <span class="learn-skill"> **Iku**: Enhanced Attack 0 -> 1 / Mind Body 0 -> 2 / Magic Beating 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
-* Level reference: Aya 40
+* Level reference: Aya 34
 * Enter the dungeon (12F depths) and fight Tenshi
 <hr>
 
@@ -1431,6 +1434,7 @@
 		* Swap in Reisen
 		* Yuyuko spams Saigyouji Flawless Nirvana
 		* Keep Yuyuko and Reisen alive
+		* Komachi can work as a backup
 	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi3.md)
 * When you're done, move to 13F and take the relay circle
 
@@ -1454,7 +1458,7 @@
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 5 </span>
 		* <span class="learn-skill"> **Iku**: Area Attack 0 -> 1 / Lightning Fish 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
-* Level reference: Nitori 41
+* Level reference: Nitori 37
 * Enter the dungeon (13F)
 
 ![](img/murakumo/13-01-east.png)
