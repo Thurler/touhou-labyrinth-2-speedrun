@@ -1456,8 +1456,8 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (if Murakumo DTH) (1) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 5 </span>
-		* <span class="learn-skill"> **Iku**: Area Attack 0 -> 1 / Lightning Fish 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 4 </span>
+		* <span class="learn-skill"> **Iku**: Area Attack 0 -> 1 / Lightning Fish 0 -> 1 / Hagoromo Sky 0 -> 2 </span>
 * Level reference: Nitori 37
 * Enter the dungeon (13F)
 
@@ -1474,7 +1474,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
-* Level reference: Nitori 44
+* Level reference: Nitori 38
 * Enter the dungeon (14F center east)
 
 ![](img/murakumo/14-01-east.png)
@@ -1489,6 +1489,7 @@
 		* <span class="hakurei-shrine"> Nitori(HP), Parsee </span>
 		* <span class="hakurei-shrine"> Aya, Kasen </span>
 		* <span class="hakurei-shrine"> Reisen(SPD), Sanae, Iku </span>
+		* <span class="hakurei-item"> Use **Magic Gem x3** on **Nitori** if available </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Cirno, Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
@@ -1496,6 +1497,7 @@
 		* <span class="magic-library"> **Kasen**: ATK 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Komachi -> Parsee** </span>
+		* <span class="human-village"> Swap **Rumia -> Cirno** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Sanae / Parsee** </span>
 	* Equipment:
@@ -1505,17 +1507,19 @@
 			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (2) **Hero's Medal** (4) </span>
 			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 			* <span class="equip-add"> (1) **Pride** (4) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (1) **War Mask of the Butcher** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: MND Boost 0 -> 5 / AFF Boost 0 -> 5 / Maintenance 0 -> 1 / Cooling Down 0 -> 1 </span>
-		* <span class="learn-skill"> **Parsee**: Grudge Returning 1 -> 5 / MP Boost 1 -> 4 </span>
+		* <span class="learn-skill"> **Nitori**: MND Boost 0 -> 5 / AFF Boost 0 -> 5 / Maintenance 0 -> 1 / Overheating 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Grudge Returning 1 -> 5 </span>
 		* <span class="learn-skill"> **Cirno**: Blizzard Blowout 0 -> 5 </span>
-		* <span class="learn-skill"> **Kasen**: SPD Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Iku**: Lightning Fish 1 -> 2 </span>
 		* <span class="learn-skill"> **Chen**: Mind Body One 0 -> 2 </span>
-* Level reference: Nitori 46
+		* <span class="learn-skill"> **Kasen**: SPD Boost 0 -> 5 </span>
+* Level reference: Nitori 40
 * Enter the dungeon (14F east) and go fight the boss
 <hr>
 
