@@ -1506,7 +1506,8 @@
 			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
 			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
 		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (if Cinderforge drop) (3) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (otherwise) (3) **Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Hero's Medal** (4) </span>
 			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 			* <span class="equip-add"> (1) **Pride** (4) </span>
@@ -1556,6 +1557,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Training Egg** (2) </span>
+			* <span class="equip-add"> (if Cinderforge drop) (3) **Glaive of Pain** (5) </span>
 * After that, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
@@ -1571,19 +1573,19 @@
 			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 2 / Ability Manip Water 0 -> 2 / Maintenance 0 -> 1 </span>
-* Level reference: Nitori 46
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Ability Manip Water 0 -> 2 / Maintenance 0 -> 1 </span>
+* Level reference: Nitori 41
 * Enter the dungeon (13F) and reset the temperature
 
 ![](img/murakumo/13-02-west.png)
 
-* After getting the 14F relay, farm until Nitori wipe
+* After getting the 14F relay, get leftmost treasure and farm until Nitori wipe
 
 ## <a id="Header-5-5"></a>Explore 14F (Part 2)
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Level reference: Nitori 48
+* Level reference: Nitori 43
 * Enter the dungeon (14F center west)
 
 ![](img/murakumo/14-02-west.png)
@@ -1604,14 +1606,14 @@
 
 ## <a id="Header-5-7"></a>Yuuka Side Quest
 
-* When you're back on Gensokyo, re-enter the dungeon to do Yuuka events
-* Level reference: Nitori 50
+* When you're back on Gensokyo, re-enter the dungeon farm Minoriko BP
+* Need 400 BP on her, 3 per battle in 1F with her in front
+* Level reference: Nitori 44
 * Locations: (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
 ![](img/murakumo/15-03-yuuka.png)
 
 * When you're done with all events, go back to Gensokyo
-* If Nitori isn't around Lv50, farm on 15F
 * When you're back on Gensokyo, use these facilities:
 	* <span class="nitori-shop"> **Nitori Shop**: Sell every material </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
@@ -1620,7 +1622,6 @@
 		* <span class="hakurei-shrine"> Komachi, Chen </span>
 		* <span class="hakurei-shrine"> Nitori, Aya(HP), Kasen </span>
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
-		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Marisa** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
@@ -1632,7 +1633,10 @@
 		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rumia -> Kourin** </span>
+		* <span class="human-village"> Swap **Wriggle -> Kourin** </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Use special items </span>
+		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Tome of Insight - Vitality** on **Kourin** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Sanae / Kasen** </span>
 	* Equipment:
@@ -1647,16 +1651,17 @@
 			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
 			* <span class="equip-add"> (1) **Green Dream** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (if Cinderforge drop) (1) **Glaive of Pain** (5) </span>
+			* <span class="equip-add"> (if Cinderforge drop) (1) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (otherwise) (1) **Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Green Dream** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kourin**: HP High Boost 2 -> 5 / MND High Boost 0 -> 1 </span>
-		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: HP High Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Sanae**: Youkai Buster 1 -> 2 </span>
 		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 3 </span>
-		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 / MAG Boost 0 -> 3 </span>
-		* <span class="learn-skill"> **Iku**: Lightning Fish 2 -> 3 </span>
-		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 3 -> 5 / EVA Boost 3 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 </span>
 * Enter the dungeon (9F) and unlock Yuuka's room
 <hr>
 
