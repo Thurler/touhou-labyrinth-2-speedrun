@@ -1628,9 +1628,8 @@
 		* <span class="subclass-add"> **Minoriko** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
-		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
-		* <span class="magic-library"> **Aya**: SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Wriggle -> Kourin** </span>
@@ -1659,9 +1658,9 @@
 		* <span class="learn-skill"> **Sanae**: Youkai Buster 1 -> 2 </span>
 		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Aya**: HP Boost 3 -> 5 / EVA Boost 3 -> 5 </span>
-		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 4 -> 5 / EVA Boost 3 -> 5 </span>
 		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 2 </span>
 * Enter the dungeon (9F) and unlock Yuuka's room
 <hr>
 
@@ -1693,7 +1692,7 @@
 ## <a id="Header-5-8"></a>Silver Mail Fight
 
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Nitori / Chen / Kasen** </span>
+	* <span class="form-change"> Form Change: **Aya / Nitori / Sanae / Kasen** </span>
 * Enter the dungeon (10F) and go west to fight FOE
 * **FOE Boss Fight - Silver Mail (Lv36)**
 	* Rin spams Cat's Walk
@@ -1722,20 +1721,19 @@
 		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
 		* <span class="magic-library"> **Satori**: HP/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Yuuka**: HP/SPD 0 -> 50 </span>
-		* <span class="magic-library"> **Parsee**: HP/MND 30 -> 50 / SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Parsee**: SPD 0 -> 70 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
 		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
 		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
 		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
-		* <span class="hakurei-item"> Use **Training Manual x6** on **Satori** </span>
 		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Cirno / Reimu / Kasen** </span>
 	* Equipment:
 		* <span class="equip-remove"> **Nitori**: </span>
-			* <span class="equip-remove"> (if no Cinderforge) (1) **Remove** </span>
+			* <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-remove"> **Reimu**: </span>
@@ -1744,28 +1742,38 @@
 			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
 			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
+			* <span class="equip-add"> (if Cinderforge drop) (3) **Cinderforge Sword** (5) </span>
 		* <span class="equip-add"> **Yuuka**: </span>
 			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
 			* <span class="equip-add"> (2) **Sirloin** (3) </span>
 			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (2) **Star of the Just** (5) </span>
 		* <span class="equip-add"> **Satori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
 			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3) </span>
 			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
-		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (2) **Star of the Just** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 5 / Frontline Guard 0 -> 1 / Regeneration 0 -> 1 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 8 </span>
+		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 5 / Frontline Guard 0 -> 1 / Regeneration 0 -> 1 / Ferry Wages 0 -> 10 </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / High Stakes 0 -> 2 </span>
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Satori**: Spell Recollection 3 -> 5 / Small MP Recovery 0 -> 1 / MP Boost 0 -> 4 </span>
-		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 
 * **Boss Fight - Yuyuko Saigyouji (Lv60)**
+	* **Thresholds (0 gems):**
+		* 20% buff = 2.637M / 2.498M
+		* 50% buff = 1.985M / 1.880M
+	* **Thresholds (5 gems):**
+		* 20% buff = 2.433M / 2.256M
+		* 50% buff = 1.831M / 1.697M
+	* **Thresholds (10 gems):**
+		* 20% buff = 2.202M / 2.053M
+		* 50% buff = 1.657M / 1.544M
 	* **Phase 1 - TRR Proc**
 		* Swap in Chen -> Sanae -> Parsee
 		* Sanae uses Miracle Fruit on Parsee
@@ -1778,9 +1786,7 @@
 		* Komachi IA pivots Yuuka and Satori
 		* Sanae juggles healing and IA pivoting
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 1.2-2.0 million (6600+ ATK)
-			* 1.22 million with Sanae buff
-			* 2.06 million without Sanae buff
+		* TRR reaches threshold
 		* Swap in Chen -> Parsee on slots 3 and 4
 		* Sanae uses Miracle Fruit on Parsee once
 		* Chen uses Herb of Awakening on Parsee

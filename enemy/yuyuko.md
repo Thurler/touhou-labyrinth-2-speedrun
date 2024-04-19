@@ -73,7 +73,7 @@ Yuyuko is a mandatory boss on 14F that unlocks a rock seal guarding the way to Y
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflict TRR on her, then spam Beauty of Nature with Yuuka and Satori to scale up TRR duration, then kill her in one hit of Jealousy of the Kind. Since Yuyuko has 0 TRR resist, it's trivial to proc it on her and scale it up, but her 300 DRK affinity means we'll have to spend a considerable amount of time scaling it up. In order to make this process faster, we minmax every multiplier we can on Parsee and dump all money on her ATK, so that we only really need to stack TRR to around 1.2 million duration, ideally. Some details on how we got to that number:
+Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflict TRR on her, then spam Beauty of Nature with Yuuka and Satori to scale up TRR duration, then kill her in one hit of Jealousy of the Kind. Since Yuyuko has 0 TRR resist, it's trivial to proc it on her and scale it up, but her 300 DRK affinity means we'll have to spend a considerable amount of time scaling it up. In order to make this process faster, we minmax every multiplier we can on Parsee and dump all money on her ATK, so that we only really need to stack TRR to around 1.5\~2 million duration, ideally. Some details on how we got to that number:
 
 * Jealousy of the Kind Formula = 2.5 \* (2.5 \* ATK - 0.5 \* DEF) \* (1.0 + (0.01 \* (TRR / 2500)))
 * Spell level 5 multiplier = 1.2
@@ -84,25 +84,30 @@ Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflic
 * Affinity multiplier = 0.3333
 * Yuyuko's HP = 394400
 * Yuyuko's DEF = 4000
-* Parsee's approximate ATK = 6600
 
-Final formula = 2.8938624 \* (16500 - 2000) \* (1.0 + (0.01 \* (TRR / 2500)))
+Final formula:
+* TRR = (HP \* 250000 / (ATKF - DEFF)) - 250000
+* TRR = (98600000000 / (ATK \* 7.234656 - 5788)) - 250000
 
-* Isolating for TRR, assuming Parsee has a 50% ATK buff:
-	* 394400 = 2.8938624 \* 22750 \* (1.0 + (0.01 \* (TRR / 2500)))
-	* 5.990734411787043 = 1.0 + (0.01 \* (TRR / 2500))
-	* 4.990734411787043 = 0.01 \* (TRR / 2500)
-	* 499.0734411787043 = TRR / 2500
-	* TRR = 1247683
+Where:
+* MULT = Product of all multipliers = 2.8938624
+* ATKF = Parsee's approximate ATK \* 2.5 \* MULT = ATK \* 7.234656
+* DEFF = Target's DEF \* 0.5 \* MULT = 5788
 
-* Isolating for TRR, assuming Parsee has no buffs:
-	* 394400 = 2.8938624 \* 14500 \* (1.0 + (0.01 \* (TRR / 2500)))
-	* 9.399202947590044 = 1.0 + (0.01 \* (TRR / 2500))
-	* 8.399202947590044 = 0.01 \* (TRR / 2500)
-	* 839.9202947590044 = TRR / 2500
-	* TRR = 2099800
+* Parsee's approximate ATK (0 gems):
+	* No buffs = 4600 / 4800 -> 3.337M / 3.158M
+	* 20% buff = 5520 / 5760 -> 2.637M / 2.498M
+	* 50% buff = 6900 / 7200 -> 1.985M / 1.880M
+* Parsee's approximate ATK (5 gems):
+	* No buffs = 4900 / 5200 -> 3.075M / 2.848M
+	* 20% buff = 5880 / 6240 -> 2.433M / 2.256M
+	* 50% buff = 7350 / 7800 -> 1.831M / 1.697M
+* Parsee's approximate ATK (10 gems):
+	* No buffs = 5300 / 5600 -> 2.779M / 2.590M
+	* 20% buff = 6360 / 6720 -> 2.202M / 2.053M
+	* 50% buff = 7950 / 8400 -> 1.657M / 1.544M
 
-Realistically, Parsee will always have some buffs on her from the beginning of the fight, so 2 million is a more realistic figure to aim at if Sanae can't buff Parsee at the very end. It might seem like it would take forever to stack TRR that high, but remember Beauty of Nature applies a multiplier to the current value, so it grows exponentially. The difference between 1.2M and 2M should be 2-3 casts, hardly any time loss.
+Note how different the thresholds become with more Fighting Gems and with the Cinderforge Sword equipped. The 20% buff thresholds are provided as a more risky but realistic goal to aim for if Sanae dies, since Parsee should always have some buffs from the beginning of the fight. The 50% is also a generous estimate since after a second Miracle Fruit, Parsee ends up with over 60% buffs. These difference might seem a bit huge, but remember Beauty of Nature applies a multiplier to the current value, so it grows exponentially. The difference between 1.6M and 3M should be only 3 casts.
 
 In order to keep everyone alive and well while we stup the TRR stack, Komachi is left on slot 1 to tank most hits and Sanae on slot 2 to share some buffs and heals. It's very important to keep Yuuka and Satori alive and near max HP, since Yuyuko is perfectly capable of 2 shotting each of them. Buffs can also help Satori and Yuuka move faster, speeding up the fight a bit. Chen is also essential in this fight to apply Herb of Awakening and IA pivot Yuuka and Satori right after they cast Beauty of Nature. Satori gets pretty much infinite MP thanks to Small MP recovery, so you'll never really be hard pressed for BoN casts.
 
@@ -120,7 +125,7 @@ The goal is to survive Saigyouji Flawless Nirvana, swap in the setup frontline a
 
 **PHASE 2 - Beauty of Nature**
 
-Here we simply stackc TRR as high as we can, stopping around 1.2 million for the optimal setup. IA pivoting and careful healing/buffing is essential here:
+Here we simply stackc TRR as high as we can, stopping around the corresponding threshold for the gems and equip situation for the optimal setup. IA pivoting and careful healing/buffing is essential here:
 
 * Yuuka and Satori spam Beauty of Nature
 * Swap Chen with Sanae
@@ -131,9 +136,7 @@ Here we simply stackc TRR as high as we can, stopping around 1.2 million for the
 
 Make sure you have everything ready before firing off Jealousy of the Kind - if Yuyuko survives you lose everything as she sweeps you with her strong spells:
 
-* TRR reaches 1.2-2.0 million (6600+ ATK)
-	* 1.22 million with Sanae buff
-	* 2.06 million without Sanae buff
+* TRR reaches the desired threshold
 * Swap in Chen -> Parsee on slots 3 and 4
 * Sanae uses Miracle Fruit on Parsee once
 * Chen uses Herb of Awakening on Parsee
