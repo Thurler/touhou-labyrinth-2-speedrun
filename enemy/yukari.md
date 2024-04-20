@@ -76,6 +76,40 @@ Yukari is a mandatory boss blocking the stairs to 16F. She has access to many sp
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Temporary text
+* Jealousy of the Kind Formula = 2.5 \* (2.5 \* ATK - 0.5 \* DEF) \* (1.0 + (0.01 \* (TRR / 2500)))
+* Spell level 5 multiplier = 1.2
+* Final Blow multiplier = 1.32
+* Flames of Jealousy multiplier = 1.3
+* Herb of Awakening multiplier = 1.36
+* Youkai Buster multiplier = 1.2
+* Affinity multiplier = 1.0
+* Yukari's HP = 480000
+* Yukari's DEF = 6400
+
+Final formula:
+* TRR = (HP \* 250000 / (ATKF - DEFF)) - 250000
+* TRR = (120000000000 / (ATK \* 17.5032 - 22405)) - 250000 (no YB)
+* TRR = (120000000000 / (ATK \* 21.00384 - 26885)) - 250000 (YB)
+
+Where:
+* MULT = Product of all multipliers = 7.00128 (no YB) / 8.401536 (YB)
+* ATKF = Parsee's approximate ATK \* 2.5 \* MULT = ATK \* 17.5032 (no YB) / 21.00384 (YB)
+* DEFF = Target's DEF \* 0.5 \* MULT = 22405 (no YB) / 26885 (YB)
+
+* Parsee's approximate ATK (0 gems):
+	* No buffs = 5000 / 5300 -> 1.593M / 1.456M (No YB)
+	                            1.286M / 1.172M (YB)
+	* 30% buff = 6500 / 6890 -> 1.064M / 973K (No YB)
+	                            845K / 769K (YB)
+* Parsee's approximate ATK (5 gems):
+	* No buffs = 5400 / 5700 -> 1.415M / 1.302M (No YB)
+	                            1.137M / 1.043M (YB)
+	* 30% buff = 7020 / 7410 -> 945K / 869K (No YB)
+	                            746K / 683K (YB)
+* Parsee's approximate ATK (10 gems):
+	* No buffs = 5800 / 6100 -> 1.267M / 1.173M (No YB)
+	                            1.014M / 936K (YB)
+	* 30% buff = 7540 / 7930 -> 846K / 781K (No YB)
+	                            663K / 610K (YB)
 
 [Back to index page](../index.md)

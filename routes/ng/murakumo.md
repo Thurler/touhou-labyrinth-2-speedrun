@@ -1818,21 +1818,21 @@
 	* Aya DGAs Yuyuko for try #1
 		* DGA again for try #2
 	* For finer details see Azure Giant's [Boss Info](../../enemy/azuregiant.md)
-* Level reference: Nitori 49
+* Level reference: Nitori 46
 * When you're done, go back to Gensokyo
 
 ## <a id="Header-5-11"></a> Yukari Fight
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Nitori(ATK), Aya(SPD) </span>
-		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** </span>
+		* <span class="hakurei-item"> Use **Tome of Insight - Attack** on **Parsee** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Parsee / Aya / Satori / Yuuka** </span>
 		* <span class="subclass-add"> **Parsee** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Monk** subclass </span>
+		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Yuyuko -> Kourin** </span>
 		* <span class="human-village"> Swap **Reisen -> Komachi** </span>
@@ -1853,18 +1853,36 @@
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Ironclad Strat 0 -> 10 / Raid Maneuver 0 -> 1 </span>
-		* <span class="learn-skill"> **Parsee**: Fast Dash 0 -> 1 / Jealousy of the Kind 1 -> 5 / Flames of Jealousy 0 -> 2 / Final Blow 0 -> 2 </span>
-		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 / HP Boost 0 -> 2 </span>
-		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 5 / Fast Dash 0 -> 1 </span>
-		* <span class="learn-skill"> **Kourin**: Effective Formation 0 -> 2 / First Aid 1 -> 2 / HP Boost 0 -> 5 / MND Boost 0 -> 1 </span>
-		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 1 -> 2 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 2 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Ironclad Strat 0 -> 10 / Raid Maneuver 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Fast Dash 0 -> 1 / Jealousy of the Kind 1 -> 5 / Flames of Jealousy 0 -> 2 / Final Blow 0 -> 2 / ATK Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 3 / Fast Dash 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Effective Formation 0 -> 2 / First Aid 1 -> 2 / HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 0 -> 1 </span>
 * Enter the dungeon (15F)
 
 ![](img/murakumo/15-04-yukari.png)
 
 * When you get to the relay point, re-enter the dungeon and fight Yukari
 * **Boss Fight - Yukari Yakumo (Lv66)**
+	* **Thresholds (0 gems / No YB):**
+		* No buffs = 1.593M / 1.456M
+		* 30% buff = 1.064M / 973K
+	* **Thresholds (0 gems / YB):**
+		* No buffs = 1.286M / 1.172M
+		* 30% buff = 845K / 769K
+	* **Thresholds (5 gems / No YB):**
+		* No buffs = 1.415M / 1.302M
+		* 30% buff = 945K / 869K
+	* **Thresholds (5 gems / YB):**
+		* No buffs = 1.137M / 1.043M
+		* 30% buff = 746K / 683K
+	* **Thresholds (10 gems / No YB):**
+		* No buffs = 1.267M / 1.173M
+		* 30% buff = 846K / 781K
+	* **Thresholds (10 gems / YB):**
+		* No buffs = 1.014M / 936K
+		* 30% buff = 663K / 610K
 	* **Phase 1 - TRR Proc**
 		* Reset if less than 2 full ATBs
 			* 14.06 / 38.94 / 35.94 / 11.06
@@ -1879,12 +1897,7 @@
 		* Kourin swaps Satori and Sanae as needed
 		* Sanae heals everyone with Yasaka's Divine Wind
 	* **Phase 3 - Jealousy of the Kind**
-		* TRR reaches 470-802k (Sanae in front)
-			* 470k after Sanae buff
-			* 802k if no buff
-		* TRR reaches 610-1000k (Sanae dead/back)
-			* 610k after Sanae buff
-			* 1.01 million if no buff
+		* TRR reaches threshold
 		* Move Sanae to slot 1, swap in Parsee in slot 4
 		* Sanae uses Miracle Fruit on Parsee
 		* Swap in Chen whenever
@@ -1942,6 +1955,7 @@
 		* <span class="subclass-add"> **Satori** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+		* <span class="hakurei-shrine"> Nitori(ATK) </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Parsee -> Cirno** </span>
