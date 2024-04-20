@@ -1765,9 +1765,6 @@
 <hr>
 
 * **Boss Fight - Yuyuko Saigyouji (Lv60)**
-	* **Thresholds (0 gems):**
-		* 20% buff = 2.637M / 2.498M
-		* 50% buff = 1.985M / 1.880M
 	* **Thresholds (5 gems):**
 		* 20% buff = 2.433M / 2.256M
 		* 50% buff = 1.831M / 1.697M
@@ -1865,12 +1862,6 @@
 
 * When you get to the relay point, re-enter the dungeon and fight Yukari
 * **Boss Fight - Yukari Yakumo (Lv66)**
-	* **Thresholds (0 gems / No YB):**
-		* No buffs = 1.593M / 1.456M
-		* 30% buff = 1.064M / 973K
-	* **Thresholds (0 gems / YB):**
-		* No buffs = 1.286M / 1.172M
-		* 30% buff = 845K / 769K
 	* **Thresholds (5 gems / No YB):**
 		* No buffs = 1.415M / 1.302M
 		* 30% buff = 945K / 869K
@@ -1922,18 +1913,8 @@
 
 ## <a id="Header-6-2"></a>Explore 17F (Part 1)
 
-* Once you're back in Gensokyo, use these facilities:
-	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
-		* <span class="magic-reset"> **Reset Aya** </span>
-		* <span class="subclass-add"> **Aya** learns **Diva** subclass </span>
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: </span>
-		* <span class="hakurei-item"> Use **Training Manual x7** on **Aya** </span>
-* Open the menu and take the following actions:
-	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Silent Melody 0 -> 3 / Melody Fortune 0 -> 1 / Dance Cochlea 0 -> 5 </span>
 * Enter the dungeon (17F)
-* Leave after getting the treasures on northwest and southwest ends
+* Leave after getting the treasures on northern end
 
 ![](img/murakumo/17-01-goddess.png)
 
@@ -1948,57 +1929,50 @@
 			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Kourin / Satori / Iku / Yuuka** </span>
-		* <span class="subclass-add"> **Kourin** learns **Diva** subclass </span>
-		* <span class="subclass-add"> **Cirno** learns **Guardian** subclass </span>
+		* <span class="magic-reset"> **Reset Satori / Iku** </span>
+		* <span class="magic-reset"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
-		* <span class="subclass-add"> **Satori** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori(ATK) </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Tome of Insight - Attack** on **Nitori** </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Parsee -> Cirno** </span>
-		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
-		* <span class="human-village"> Swap **Komachi -> Iku** </span>
+		* <span class="human-village"> Swap **Parsee -> Iku** </span>
+		* <span class="human-village"> Swap **Komachi -> Yukari** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Cirno / Kourin / Satori / Reisen** </span>
+	* <span class="form-change"> Form Change: **Aya / Sanae / Iku / Yukari** </span>
 	* Equipment:
-		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
-			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
-	* Learn Skills:
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **Meteor Drive** (5) </span>
-			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
-		* <span class="learn-skill"> **Cirno**: Frontline Guard 0 -> 1 </span>
-		* <span class="learn-skill"> **Kourin**: Weird Creatures 0 -> 2 / Effective Formation 0 -> 2 / HP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Nitori**: Mind Body as One 0 -> 2 / Cooling Down 0 -> 2 / Maintenance 0 -> 1 </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (if Cinderforge drop) (1) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (otherwise) (1) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (2) **Glaive of Pain** (4) </span>
+	* Learn Skills:
+		* <span class="learn-skill"> **Iku**: Thundercloud Stickleback 1 -> 5 / Supple Hagoromo 0 -> 2 / Lightning Fight 0 -> 1 </span>
+		* <span class="learn-skill"> **Yukari**: Yukari's Spiriting Away 1 -> 5 / Manipulation of Boundaries 0 -> 2 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: Mind Body as One 0 -> 2 / Overheating 0 -> 1 / Maintenance 0 -> 1 / ATK Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / Spell Card Recollection 0 -> 1 </span>
 * Enter the dungeon (16F Center) and go fight the boss
 <hr>
 
 * **Boss Fight - Goddess of Fertility (Lv72)**
-	* **Phase 1 - Diva Setup**
-		* Let Cirno die to trigger Blizzard Blowout
-		* If Cirno survives first turn, use Icicle Fall
-			* Reisen spams Discarder to bring boss down to 50%
-			* Use another Icicle Fall if not there
-		* Swap in Aya where Cirno was
-		* Reisen uses Lunatic Red Eyes once
-		* Aya spams Dance of the Cochlea until boss is at 0 ATB
-		* Swap Reisen with Iku
-		* Iku uses Elekiter Dragon Palace once
-		* Swap Iku with Nitori
-	* **Phase 2 - Super Scoping**
-		* Nitori self buffs until ready, then concentrates
-		* Kourin uses Battle Command on Nitori
-		* Satori uses Art of the Battlemage on Nitori
-		* Nitori uses Super Scope
-		* Aya uses DGA on Nitori
-		* Nitori uses Super Scope
+	* **Phase 1 - Victory**
+		* DGA Yukari at start
+		* If Iku gets a turn, EDP for DEF debuff
+		* Yukari's Spiriting Away
+		* Swap Yukari with Nitori
+		* Miracle Fruit Nitori
+		* Swap Sanae with Chen
+		* Herb of Awakening Nitori
+		* Swap Chen with Satori
+		* Super Scope
+		* Thundercloud Stickleback Nitori
+		* DGA Nitori
+		* Super Scope
 	* For finer details see Goddess of Fertility's [Boss Info](../../enemy/goddess.md)
 * Go back to Gensokyo to heal after the fight
 
