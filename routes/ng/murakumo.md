@@ -1978,14 +1978,6 @@
 
 ## <a id="Header-6-4"></a>Explore 17F (Part 2)
 
-* When you're back on Gensokyo, use these facilities:
-	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Cirno -> Rumia** </span>
-* Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Kourin / Satori / Reisen** </span>
-	* Equipment:
-		* <span class="equip-remove"> **Aya**: </span>
-			* <span class="equip-remove"> (M) **Remove** </span>
 * Enter the dungeon (17F)
 
 ![](img/murakumo/17-02-final.png)
