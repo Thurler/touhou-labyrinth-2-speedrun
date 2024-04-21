@@ -1998,53 +1998,97 @@
 	* Equipment:
 		* <span class="equip-remove"> **Kourin**:</span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
+		* <span class="equip-remove"> **Kasen**:</span>
+			* <span class="equip-remove"> (M) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-item"> Nitori, Aya </span>
-		* <span class="hakurei-item"> Suwako(SPD) </span>
-		* <span class="hakurei-item"> Use **Training Manual x4** on **Nitori** </span>
+		* <span class="hakurei-item"> Nitori(ATK) </span>
+		* <span class="hakurei-item"> Use **Training Manual xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Magic Gem x1** on **Satori** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reincarnate"> **Reincarnate Kourin** </span>
+		* <span class="subclass-add"> **Satori** learns **Magician** subclass </span>
 		* <span class="subclass-add"> **Suwako** learns **Herbalist** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Kourin -> Cirno** </span>
 		* <span class="human-village"> Swap **Yuuka -> Suwako** </span>
-		* <span class="human-village"> Swap **Rumia -> Yuyuko** </span>
+		* <span class="human-village"> Swap **Kasen -> Yuyuko** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Cirno / Yuyuko / Reisen** </span>
+	* <span class="form-change"> Form Change: **Yuyuko / Aya / Satori / Yukari** </span>
 	* Equipment:
+		* <span class="equip-remove"> **Chen**: </span>
+			* <span class="equip-remove"> (M) **Remove** </span>
 		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+		* <span class="equip-add"> **Satori**: </span>
+			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+			* <span class="equip-add"> (1) **The Arch** (4) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
 		* <span class="equip-add"> **Suwako**: </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
-			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
-			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (3) **Full Custom** (2) </span>
+			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
+			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Overheating 0 -> 1 </span>
-		* <span class="learn-skill"> **Kasen**: Guts 0 -> 2 </span>
-		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Yuyuko**: MP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Satori**: Magic Transfer 0 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Fast Attack 0 -> 2 </span>
+		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 / MP Boost 0 -> 4 </span>
 * Enter the dungeon (18F North)
 <hr>
 
 * **Boss Fight - Golden Orb Trio (Lv76)**
-	* **Phase 1 - Diva Setup**
-		* Aya DGAs Yuyuko turn 1 for Saigyouji Flawless Nirvana
-		* Aya swaps self for Kasen
-		* Cirno swaps Yuyuko with Satori
-		* Stall until Cirno dies
-		* Swap in Chen -> Aya
-		* Aya awaps Chen with Suwako
-		* Satori swaps Reisen with Nitori
-	* **Phase 2 - Extending Arm**
-		* Suwako and Satori spam Art of the Battlemage on Nitori
-		* Nitori spams Extending Arm
-		* **DO NOT IA PIVOT NITORI**, she'll lose Overheat stack
-		* Aya spams Dance of Cochlea and supports Nitori
-	* **Phase 3 - Super Scope**
-		* Aya DGAs Nitori
-		* Nitori ends it with Super Scope
+	* **Phase 1 - DTH Reverse Time**
+		- If Yuyuko or Satori start with full ATB:
+			- DGA non-full ATB one / Waste Aya turn
+			- Saigyouji Flawless Nirvana
+			- DTH proc: goto **Setup 3**
+		- Otherwise:
+			- DGA Satori
+		- Yukari's Spiriting Away
+		- Saigyouji Flawless Nirvana
+		- DTH proc: goto **Setup 1**
+		- DGA Yuyuko
+		- Saigyouji Flawless Nirvana
+		- KILL: goto **Setup 2**
+		- Retry
+	* **Phase 2 - Team Setup 1**
+		- Swap Satori -> Chen
+		- Swap Yuyuko -> Nitori
+		- Yukari's Spiriting Away
+		- Swap Yukari -> Iku
+		- Waste Aya turn
+		- Herb of Awakening Nitori
+	* **Phase 2 - Team Setup 2**
+		- Yukari's Spiriting Away
+		- Swap Yukari -> Chen
+		- Swap Yuyuko -> Nitori
+		- Swap Satori -> Iku
+		- Herb of Awakening Nitori
+	* **Phase 2 - Team Setup 3**
+		- Yukari's Spiriting Away
+		- Swap Satori -> Chen
+		- Swap Yuyuko -> Nitori
+		- Herb of Awakening Nitori
+		- Swap Yukari -> Iku
+	* **Phase 3 - Victory**
+		- Swap Chen -> Satori
+		- Thundercloud Stickleback Nitori
+		- Super Scope Forward Time
+		- DGA Nitori
+		- Super Scope Forward Time
+		- Magic Transfer
+		- Thundercloud Stickleback Nitori
+		- DGA Nitori
+		- Concentrate
+		- Swap Iku -> Suwako
+		- Waste Satori turn
+		- Concentrate / Waste Aya turn (6 MP needed)
+		- Herb of Awakening Nitori
+		- Extending Arm
+		- Waste Satori turn
+		- DGA Nitori
+		- Extending Arm
 	* For finer details see Golden Orb Trio's [Boss Info](../../enemy/goldenorbs.md)
 * Go back to Gensokyo to heal after the fight
 
