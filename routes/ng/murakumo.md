@@ -2096,11 +2096,7 @@
 
 ## <a id="Header-7-1"></a>Explore 19F North / 20F West
 
-* When you're back on Gensokyo, use these facilities:
-	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Cirno -> Rumia** </span>
-* Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Suwako / Yuyuko / Reisen** </span>
+* When you're back on Gensokyo, open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Tin Watering Can** (1) </span>
