@@ -2124,99 +2124,120 @@
 
 ## <a id="Header-7-3"></a>High Magatama Fight
 
-* When you're back at Gensokyo, open the menu and take the following actions:
-	* Equipment:
-		* <span class="equip-remove"> **Suwako**:</span>
-			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
-	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Komachi / Rin** </span>
-		* <span class="magic-reincarnate"> **Reincarnate Nitori / Satori** </span>
-		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
-		* <span class="subclass-add"> **Rin** learns **Magician** subclass </span>
-		* <span class="subclass-add"> **Satori** learns **Enchanter** subclass </span>
-		* <span class="magic-library"> **Aya**: SPD 50 -> 150 </span>
-		* <span class="magic-library"> **Rin**: SPD 0 -> 100 </span>
-		* <span class="magic-library"> **Satori**: SPD 0 -> 50 </span>
-		* <span class="magic-library"> **Nitori**: SPD 0 -> 50 </span>
-		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Suwako -> Cirno** </span>
-		* <span class="human-village"> Swap **Yuyuko -> Rin** </span>
+		* <span class="human-village"> Swap **Yuyuko -> Parsee** </span>
+		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Aya / Reisen** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Kourin / Nitori / Sanae / Iku** </span>
+		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
+		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
+		* <span class="subclass-add"> **Reisen** learns **Herbalist** subclass </span>
+		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Nitori(ATK), Rin, Satori(HP), Reisen, Iku(SPD) </span>
-		* <span class="hakurei-shrine"> Delevel Rumia, Cirno, Kasen </span>
-		* <span class="hakurei-item"> Use **Training Manual x13** on **Nitori** </span>
-		* <span class="hakurei-item"> Use **Magic gems** on **Aya** and **Rin** </span>
-		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
-		* <span class="hakurei-item"> Use **Swiftness gems** on **Aya** and **Nitori** </span>
+		* <span class="hakurei-shrine"> Parsee(ATK) </span>
+		* <span class="hakurei-shrine"> Delevel Reimu, Kourin, Nitori </span>
+		* <span class="hakurei-item"> Use **Training Manual xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Magic Gems xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Fighting Gems xALL** on **Parsee** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Aya / Reimu / Sanae / Satori** </span>
+	* <span class="form-change"> Form Change: **Satori / Iku / Aya / Yukari** </span>
 	* Equipment:
-		* <span class="equip-add"> **Rin**: </span>
-			* <span class="equip-add"> (3) **Wallbreaker Armband** (5) </span>
-			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
-			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
-		* <span class="equip-add"> **Aya**: </span>
-			* <span class="equip-add"> (M) **Gaia's Orb** (1) </span>
-		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
-			* <span class="equip-add"> (3) **Astral Dominae** (5) </span>
 		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (M) **Yogurt Doll** (2) </span>
+			* <span class="equip-remove"> (1, 2) **Remove**</span>
+		* <span class="equip-add"> **Suwako**: </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
+			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
+			* <span class="equip-add"> (if Cinderforge drop) (2) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (otherwise) (2) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (3) **Glaive of Pain** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Enhanced Buffing 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Overheat 0 -> 1 / Cooling Down 0 -> 2 / Mind Body One 0 -> 2 </span>
-		* <span class="learn-skill"> **Rin**: Magic Conservation 0 -> 1 / Magic Transfer 0 -> 5 / Magic Circuit 0 -> 5 </span>
+		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 / Elekiter Palace 1 -> 3 / Thundercloud Stickleback 1 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Inspirational Plan 0 -> 1 / Furious Scheme 0 -> 10 </span>
+		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 / Intense Vertigo 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Grudge Returning 1 -> 5 / High Stakes 0 -> 2 / All Nothing 0 -> 1 / MP Boost 0 -> MAX </span>
 * Enter the dungeon (20F East)
 <hr>
 
 * **Boss Fight - Magatama of the High God (Lv88)**
-	* **Phase 1 - Diva Setup**
-		* Aya buffs own SPD, then Sanae's, then swaps self for Cirno
-		* Wait for Cirno to die and hope someone lives
-	* **Phase 2 - Nitori Attack**
-		* Swap in Chen into slot 2, then Aya into 1
-		* Aya spams Dance of Cochlea
-			* Concentrate when boss ATB < 7000
-		* Sanae spams buffs on Nitori
-		* Iku comes in to debuff boss
-		* Nitori spams Super Scope 3D
+	* **Phase 1 - Victory**
+		* DGA Satori
+		* Yukari's Spiriting Away
+		* Elekiter Dragon Palace
+		* Swap Satori -> Parsee
+		* Yukari's Spiriting Away
+		* Swap Yukari -> Chen
+		* Thundercloud Stickleback
+		* Swap Iku -> Reisen
+		* Herb of Awakening
+		* Swap Chen -> Satori
+		* Placebo Effect
+		* Grudge Returning
+		* DGA Parsee
+		* Grudge Returning
+		* Magic Transfer
+		* Swap Satori -> Chen
+		* Placebo Effect
+		* Herb of Awakening
+		* DGA Parsee
+		* Swap Chen -> Satori
+		* Jealousy of the Kind and Lovely
 	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
 * Go back to Gensokyo to heal after the fight
 
 ## <a id="Header-7-4"></a>High Mirror Fight
 
-* Back on Gensokyo, open the menu and take these actions:
-	* <span class="form-change"> Form Change: **Reimu / Aya / Sanae / Satori** </span>
+* When you're back on Gensokyo, use these facilities:
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Suwako** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
+		* <span class="subclass-add"> **Suwako** learns **Gambler** subclass </span>
+		* <span class="magic-library"> **Aya**: SPD 0 -> 40 </span>
+		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level Single Characters </span>
+		* <span class="hakurei-shrine"> Aya(SPD) / Suwako(ATK) </span>
+		* <span class="hakurei-item"> Use **Training Manual xALL** on **Suwako** </span>
+		* <span class="hakurei-item"> Use **Fighting Gems xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Tome of Insight - Speed** on **Aya** </span>
+* Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Cinderforge Sword** (5) </span>
+		* <span class="equip-add"> **Aya**: </span>
+			* <span class="equip-add"> (M) **Chariot Boots** (2) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
+			* <span class="equip-remove"> (1, 2, 3) **Remove**</span>
+		* <span class="equip-add"> **Suwako**: </span>
+			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
+			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
+			* <span class="equip-add"> (if Cinderforge drop) (2) **Cinderforge Sword** (5) </span>
+			* <span class="equip-add"> (otherwise) (2) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
+	* Learn Skills:
+		* <span class="learn-skill"> **Aya**: SPD Boost 0 -> 4 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Last Wish 0 -> 2 / MAG Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Suwako**: Earth Creation 0 -> 2 / Froggy Power 0 -> 2 / High Stakes 0 -> 2 / Long Arm Leg 1 -> 5 / Moriya Believer 0 -> 2 </span>
 * Enter the dungeon (20F West)
 <hr>
 
 * **Boss Fight - Mirror of the High God (Lv87)**
-	* **Phase 1 - Diva Setup**
-		* Aya uses DGA on Reimu
-		* Reimu uses Great Hakurei Barrier
-		* Aya/Satori/Sanae/Aya Concentrate
-		* Reimu swaps self with Cirno
-		* Aya concentrates again
-		* Cirno swaps Aya with Reimu
-		* Satori swaps self with Kasen
-		* Wait for Cirno to die and hope someone lives
-	* **Phase 2 - Nitori Attack**
-		* Swap in Aya and lock the boss with Dance of Cochlea
-		* Swap in Rin on survivor's turn
-		* Swap in Nitori
-		* Sanae buffs Nitori for a while then swaps for Satori
-		* Iku comes in to debuff boss
-		* Aya spams Dance of Cochlea
-			* Concentrate when boss ATB < 6500
-			* Can also swap Chen in if MP is fine for Herb of Awakening
-		* Rin manages everyone's MP
-		* Satori buffs Nitori
-		* Nitori builds Overheat stacks then spams Waterfall
+	* **Phase 1 - Victory**
+		* DGA Satori
+		* Yukari's Spiriting Away
+		* Elekiter Dragon Palace
+		* Swap Satori -> Suwako
+		* Yukari's Spiriting Away
+		* Swap Yukari -> Chen
+		* Thundercloud Stickleback
+		* Swap Iku -> Sanae
+		* Herb of Awakening
+		* Swap Chen -> Satori
+		* Miracle Fruit
+		* Long Arm and Long Leg
+		* DGA Suwako
+		* Long Arm and Long Leg
 	* For finer details see High Mirror's [Boss Info](../../enemy/highmirror.md)
 * Go back to Gensokyo to heal after the fight
 
