@@ -66,10 +66,10 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Bludgeon | ? |
+| Bludgeon | O |
 | Concept of Attributes | O |
-| Crepe Mariette | O |
-| Crepe Mariette | O |
+| Crepe Mariette | X |
+| Crepe Mariette | X |
 | Energy Gem | X |
 | Eyetrack Orbitars | X |
 | Fairy's Soul | O |
@@ -82,9 +82,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Sirloin | O |
 | Training Manual | O |
 | Two Face's Coin | X |
-| Floor Total | 10 |
-| Possible Skips | 1 |
-| Combined Total | 20 |
+| Floor Total | 9 |
+| Possible Skips | 0 |
+| Combined Total | 19 |
 
 #### <a id="floor-3"></a>Floor 3
 
@@ -106,8 +106,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Swiftness Gem | O |
 | Tome of Reincarnation | O |
 | Floor Total | 12 |
-| Possible Skips | 1 |
-| Combined Total | 32 |
+| Possible Skips | 0 |
+| Combined Total | 31 |
 
 #### <a id="floor-4"></a>Floor 4
 
@@ -133,8 +133,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Ultrafast Granite Keystone | O |
 | Violet Green Rupee | O |
 | Floor Total | 5 |
-| Possible Skips | 1 |
-| Combined Total | 37 |
+| Possible Skips | 0 |
+| Combined Total | 36 |
 
 #### <a id="floor-5"></a>Floor 5
 
@@ -155,15 +155,15 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Yamabiko Necklace | X |
 | Floor Total | 5 |
-| Possible Skips | 1 |
-| Combined Total | 42 |
+| Possible Skips | 0 |
+| Combined Total | 41 |
 
 #### <a id="floor-6"></a>Floor 6
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
 | Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly<br>Tome of Reincarnation x2 | X |
-| Legendary Blender | ? |
+| Legendary Blender | O |
 | Bone Stake | O |
 | Bottle of Hyperspace | O |
 | Concept of Everything x2 | X |
@@ -177,8 +177,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Pale Wing Thruster | O |
 | Purple Dragon Crystal | X |
 | Stone of Awakening | O |
-| Floor Total | 9 |
-| Possible Skips | 2 |
+| Floor Total | 10 |
+| Possible Skips | 0 |
 | Combined Total | 51 |
 
 #### <a id="floor-7"></a>Floor 7
@@ -188,7 +188,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Elixir of Mages<br>Asura Blade<br>Tome of Insight - AFF<br>Tome of Insight - RES | O |
 | 1000 Money | X |
 | Booster v0.8 | X |
-| Card [Ruler of Heavens] | O |
+| Card [Ruler of Heavens] | X |
 | Energy Tank | O |
 | Glow Crystal | O |
 | Great Tree's Sap x2 | X |
@@ -205,9 +205,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Super-Hard Rye Bread | O |
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
-| Floor Total | 10 |
-| Possible Skips | 2 |
-| Combined Total | 61 |
+| Floor Total | 9 |
+| Possible Skips | 0 |
+| Combined Total | 60 |
 
 #### <a id="floor-8"></a>Floor 8
 
@@ -223,7 +223,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Chitin Shell x5 | X |
 | Damascus Dread Shield | X |
 | Cuckri | X |
-| Hero's Medal | O |
+| Hero's Medal | X |
 | Lambda Driver | O |
 | Lapis Lazuli Light | X |
 | Magic Iron Shield | X |
@@ -231,14 +231,14 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Mana Flower | X |
 | Ephemeral Bauble x2 | X |
 | Recovery Armband | X |
-| Spellbook - High Hurricane | O |
+| Spellbook - High Hurricane | X |
 | Stone of Awakening | O |
 | Symbol of Faith | O |
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | X |
-| Floor Total | 13 |
-| Possible Skips | 2 |
-| Combined Total | 74 |
+| Floor Total | 11 |
+| Possible Skips | 0 |
+| Combined Total | 71 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -249,7 +249,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | 1000 Money | O |
 | Card [Ruler of Heavens] | X |
 | Century's Jacket | O |
-| Diva's Apron | O |
+| Diva's Apron | X |
 | Happy Hat | X |
 | Luster Candy | X |
 | Pale Wing Thruster | O |
@@ -262,9 +262,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Water Cutting Sword | O |
 | Youkai's Fire Blowgun x2 | X |
-| Floor Total | 10 |
-| Possible Skips | 2 |
-| Combined Total | 85 |
+| Floor Total | 9 |
+| Possible Skips | 0 |
+| Combined Total | 80 |
 
 #### <a id="floor-10"></a>Floor 10
 
@@ -289,8 +289,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
 | Floor Total | 8 |
-| Possible Skips | 2 |
-| Combined Total | 93 |
+| Possible Skips | 0 |
+| Combined Total | 88 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -303,8 +303,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Chargin' Targe | X |
 | Fighter's Soul x3 | X |
 | Forbidden Tablet | X |
-| Glaive of Pain | ? |
-| Great Hammer | O |
+| Glaive of Pain | O |
+| Great Hammer | X |
 | HQ Sake Deer | X |
 | Lapis Lazuli Light x2 | X |
 | Pride | X |
@@ -317,8 +317,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
 | Floor Total | 10 |
-| Possible Skips | 3 |
-| Combined Total | 103 |
+| Possible Skips | 0 |
+| Combined Total | 98 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -330,7 +330,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Damascus Dread Shield | X |
 | Energy Pack | O |
 | Grand Dragon Medal | X |
-| Training Egg | ? |
+| Training Egg | X |
 | Lambda Driver | O |
 | Love Machine 3322 | X |
 | Priest's Crystal Ball x3 | X |
@@ -344,8 +344,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
 | Floor Total | 8 |
-| Possible Skips | 4 |
-| Combined Total | 111 |
+| Possible Skips | 0 |
+| Combined Total | 106 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -359,15 +359,15 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Courtesan's Sorrow | X |
 | Drum | X |
 | Eternal Ice x3 | X |
-| Yogurt Doll | O |
+| Yogurt Doll | X |
 | Love Machine 3322 | X |
 | Pale Wing Thruster | X |
 | Pride | X |
 | T-45d Power Armor | X |
 | Training Manual | X |
-| Floor Total | 2 |
-| Possible Skips | 4 |
-| Combined Total | 113 |
+| Floor Total | 1 |
+| Possible Skips | 0 |
+| Combined Total | 107 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -393,8 +393,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wallbreaker Armband | O |
 | Wisdom Gem | X |
 | Floor Total | 5 |
-| Possible Skips | 4 |
-| Combined Total | 118 |
+| Possible Skips | 0 |
+| Combined Total | 112 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -420,16 +420,16 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Star of the Just | X |
 | Star World Bracelet | O |
 | Stone of Awakening | O |
-| Stone of Awakening | O |
+| Stone of Awakening | X |
 | Stone of Awakening | X |
 | Tokyo Metronome | X |
 | Training Manual | X |
 | Training Manual | X |
 | Ultrafast Granite Keystone | X |
 | Medal Shattering Youkai Axe | X |
-| Floor Total | 9 |
-| Possible Skips | 4 |
-| Combined Total | 127 |
+| Floor Total | 8 |
+| Possible Skips | 0 |
+| Combined Total | 120 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -440,7 +440,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | 2140 Money | O |
 | Asura Blade | X |
 | Celestial's Hagoromo x2 | X |
-| Diva's Proof | O |
+| Diva's Proof | X |
 | Divine Barrier | X |
 | Drum | X |
 | Elixir of Mages | X |
@@ -451,12 +451,12 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Primal Armor | X |
 | Star World Bracelet | X |
 | Tome of Insight - MP | X |
-| Tome of Reincarnation | O |
+| Tome of Reincarnation | X |
 | Treasure Chest Key | O |
 | Wash Basin Set | X |
-| Floor Total | 6 |
-| Possible Skips | 4 |
-| Combined Total | 133 |
+| Floor Total | 4 |
+| Possible Skips | 0 |
+| Combined Total | 124 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -479,8 +479,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Water Cutting Sword | X |
 | Floor Total | 3 |
-| Possible Skips | 4 |
-| Combined Total | 136 |
+| Possible Skips | 0 |
+| Combined Total | 127 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -502,8 +502,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Transcendent's Proof | X |
 | Treasure Chest Key | X |
 | Floor Total | 4 |
-| Possible Skips | 4 |
-| Combined Total | 140 |
+| Possible Skips | 0 |
+| Combined Total | 131 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -531,8 +531,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 4 |
-| Possible Skips | 5 |
-| Combined Total | 144 |
+| Possible Skips | 1 |
+| Combined Total | 135 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -560,8 +560,8 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wash Basin Set | X |
 | Wisdom Gem | X |
 | Floor Total | 1 |
-| Possible Skips | 5 |
-| Combined Total | 145 |
+| Possible Skips | 1 |
+| Combined Total | 136 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -591,9 +591,12 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Elixir of Mages x2 | 10F/16F | Out of way |
 | Grand Dragon Medal x2 | 10F/12F | Out of way |
 | Pure Sake Wild Boar x1 | 10F | Needs Suika |
+| Great Hammer x1 | 11F | Useless |
 | HQ Sake Deer x1 | 11F | Needs Suika |
 | Pure HQ Sake Butterfly x1 | 12F | Needs Suika |
 | Reflex Booster Augment x1 | 12F | Out of way |
+| Training Egg x2 | 12F/17F | Out of way |
+| Yogurt Doll x2 | 13F/18F | Useless, out of way |
 | Exorcising Staff x2 | 14F/17F | Out of way |
 | Chario Boots x1 | 15F | Already have one, out of way |
 | Dark Determination x1 | 15F | Out of way |
@@ -605,17 +608,19 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tokyo Metronome x2 | 15F/18F | Out of way |
 | Primal Armor x2 | 16F/20F | Useless, out of way |
 | Experimental MIRV x2 | 17F/20F | Out of way |
-| Training Egg x1 | 17F | Out of way |
 | Gaia's Orb x1 | 18F | Out of way |
-| Yogurt Doll x1 | 18F | Already have one, out of way |
 | Micron's Magic Book x1 | 19F | Out of way |
 | **Sub Equip** | - | - |
 | Power Bracer x1 | 1F | Out of way |
 | Cantrip Book x1 | 1F | Out of way |
+| Crepe Mariette x2 | 2F | Useless |
 | Water Cutting Sword x2 | 5F<br>17F | Needs 10k money on hand<br>Useless |
+| Card [Ruler of Heavens] x2 | 7F/9F | Useless, out of way |
 | Cuckri x1 | 8F | Out of way |
+| Hero's Medal x1 | 8F | Useless |
 | Mana Flower x1 | 8F | Out of way |
-| Card [Ruler of Heavens] x1 | 9F | Useless, out of way |
+| Spellbook - High Hurricane x1 | 8F | Useless |
+| Diva's Apron x1 | 9F | Useless |
 | Happy Hat x1 | 9F | Out of way |
 | Lv70 Lover Snapper's Scale x1 | 10F | Useless, out of way |
 | Century's Old Jacket x1 | 11F | Out of way |
@@ -688,13 +693,14 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tome of Insight - DEF x2 | 4F<br>19F | Needs key<br>Out of way |
 | Tome of Insight - MAG x1 | 4F | Needs key |
 | Tome of Insight - MND x1 | 4F | Needs key |
-| Tome of Reincarnation x2 | 6F<br>20F | Needs key<br>Out of way |
+| Tome of Reincarnation x4 | 6F<br>16F/20F | Needs key<br>Useless, out of way |
 | Training Manual x6 | 13F/15F/17F/19F/20F | Out of way |
 | Money-Growing Tree x2 | 1F/6F | Needs key |
 | Midnight Oil Set x3 | 1F/6F<br>4F | Needs key<br>Needs FOE kill |
 | Items Discovery Weekly x2 | 1F/6F | Needs key |
 | Treasure Chest Key x4 | 7F<br>14F/18F/20F | Needs FOE kill<br>Useless, out of way |
-| Stone of Awakening x1 | 15F | Out of way |
+| Stone of Awakening x2 | 15F | Out of way |
+| Diva's Proof | 16F | Useless, out of way |
 | Transcendent's Proof | 18F | Useless, out of way |
 
 [Back to index page](../index.md)
