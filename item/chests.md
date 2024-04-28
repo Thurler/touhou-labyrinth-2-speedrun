@@ -437,7 +437,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | :---: | :---: | :---: |
 | Astral Dominae<br>Tome of Reincarnation x4<br>Magic Gem x3<br>Wisdom Gem x3 | O |
 | 2000 Money | O |
-| 2140 Money | O |
+| 2140 Money | X |
 | Asura Blade | X |
 | Celestial's Hagoromo x2 | X |
 | Diva's Proof | X |
@@ -454,9 +454,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tome of Reincarnation | X |
 | Treasure Chest Key | O |
 | Wash Basin Set | X |
-| Floor Total | 4 |
+| Floor Total | 3 |
 | Possible Skips | 0 |
-| Combined Total | 124 |
+| Combined Total | 123 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -480,7 +480,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Floor Total | 3 |
 | Possible Skips | 0 |
-| Combined Total | 127 |
+| Combined Total | 126 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -503,7 +503,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Floor Total | 4 |
 | Possible Skips | 0 |
-| Combined Total | 131 |
+| Combined Total | 130 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -532,7 +532,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 4 |
 | Possible Skips | 1 |
-| Combined Total | 135 |
+| Combined Total | 134 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -561,7 +561,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wisdom Gem | X |
 | Floor Total | 1 |
 | Possible Skips | 1 |
-| Combined Total | 136 |
+| Combined Total | 135 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
@@ -575,6 +575,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | 1000 Money | 7F | Out of way |
 | 1500 Money | 12F | Out of way |
 | 1800 Money | 15F | Out of way |
+| 2140 Money | 16F | Out of way |
 | 2250 Money | 17F | Out of way |
 | 2500 Money | 17F | Out of way |
 | 3200 Money | 18F | Out of way |
