@@ -2350,6 +2350,12 @@
 <hr>
 
 * **Boss Fight - Ame-no-Murakumo (Lv100)**
+	* **Thresholds (7-N / 7-Y or 10-N / 10-Y):**
+		* No buffs -> 4.104M / 3.644M / 3.272M (WITH debuff)
+		* 30% buff -> 2.316M / 2.103M / 1.923M (WITH debuff)
+		* 50% buff -> 1.765M / 1.612M / 1.481M (WITH debuff)
+		* 80% buff -> 1.274M / 1.168M / 1.076M (WITH debuff)
+		* 80% buff -> 1.953M / 1.739M / 1.563M (NO debuff)
 	* **Phase 1 - Setup**
 		* Eirin or Satori need to start with 10k ATB (52% each - 76.96%)
 		* Aya DGA Eirin or Satori (skips if both at 10k already)
@@ -2371,7 +2377,7 @@
 		* Kourin swaps Satori with Sanae and back
 		* Improvise if anyone dies
 	* **Phase 3 - Jealousy**
-		* TRR reaches threashold
+		* TRR reaches threshold
 		* Absolutely need Trauma Recollection, HoA and buff on Parsee
 		* Put Parsee in slot 4 and get Sanae to buff her
 			* Sacrificing Sanae is a good option
