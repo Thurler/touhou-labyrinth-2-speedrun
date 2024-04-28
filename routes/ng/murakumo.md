@@ -27,12 +27,14 @@
 	* [Mokou Side Quest](#Header-2-8)
 	* [Tenshi 1 Fight](#Header-2-9)
 * [Jungle Stratum](#Header-3) (7F ~ 9F)
-	* [Explore 7F](#Header-3-1)
+	* [Explore 7F (West)](#Header-3-1)
 	* [Explore 8F (Part 1)](#Header-3-2)
-	* [Iku Fight](#Header-3-3)
+	* [Explore 7F (East)](#Header-3-3)
 	* [Explore 8F (Part 2)](#Header-3-4)
-	* [Explore 9F](#Header-3-5)
-	* [Tenshi 2 Fight](#Header-3-6)
+	* [Iku Fight](#Header-3-5)
+	* [Explore 8F (Part 3)](#Header-3-6)
+	* [Explore 9F](#Header-3-7)
+	* [Tenshi 2 Fight](#Header-3-8)
 * [Desert Stratum](#Header-4) (10F ~ 12F)
 	* [Explore 10F](#Header-4-1)
 	* [Gold Hymn Fight](#Header-4-2)
@@ -804,13 +806,16 @@
 
 # <a id="Header-3"></a>Jungle Stratum (7F ~ 9F)
 
-## <a id="Header-3-1"></a>Explore 7F
+## <a id="Header-3-1"></a>Explore 7F (West)
 
 * When you're back, enter the dungeon (7F)
 
 ![](img/murakumo/07-01-west.png)
 
 * When you reach the destination, farm until out of MP
+
+## <a id="Header-3-2"></a>Explore 8F (Part 1)
+
 * Go back to Gensokyo and use this facility
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
@@ -818,10 +823,6 @@
 		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (2) **Glow Crystal** (3) </span>
 			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (2) **Legendary Blender** (3) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
 		* <span class="equip-add"> **Mokou**: </span>
@@ -830,13 +831,34 @@
 		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Utsuho**: MP Boost 4 -> 5 </span>
 * Level reference: Nitori 20
+* Enter the dungeon (8F)
+
+![](img/murakumo/08-01-relay.png)
+
+* When you reach the destinations, farm until out of MP
+
+## <a id="Header-3-3"></a>Explore 7F (East)
+
+* Go back to Gensokyo and use this facility
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+* Enter the dungeon (8F)
+
+![](img/murakumo/07-02-locked.png)
+
+* When you reach the destination, go back to Gensokyo immediately
+* Open the menu and take the following actions:
+	* Equipment:
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (2) **Legendary Blender** (3) </span>
 * Enter the dungeon (7F)
 
-![](img/murakumo/07-02-east.png)
+![](img/murakumo/07-03-east.png)
 
 * When you reach the destination, farm until out of MP
 
-## <a id="Header-3-2"></a>Explore 8F (Part 1)
+## <a id="Header-3-4"></a>Explore 8F (Part 2)
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
@@ -857,11 +879,11 @@
 * Level reference: Nitori 21
 * Enter the dungeon (8F)
 
-![](img/murakumo/08-01-preiku.png)
+![](img/murakumo/08-02-preiku.png)
 
 * When you recruit Sanae, farm until out of MP
 
-## <a id="Header-3-3"></a>Iku Fight
+## <a id="Header-3-5"></a>Iku Fight
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
@@ -925,7 +947,7 @@
 	* For finer details see Iku's [Boss Info](../../enemy/iku.md)
 * Go back to Gensokyo to heal
 
-## <a id="Header-3-4"></a>Explore 8F (Part 2)
+## <a id="Header-3-6"></a>Explore 8F (Part 3)
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
@@ -953,7 +975,7 @@
 
 * When you reach 9F, get the locked chest and farm until out of MP
 
-## <a id="Header-3-5"></a>Explore 9F
+## <a id="Header-3-7"></a>Explore 9F
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
@@ -990,7 +1012,7 @@
 
 * When you reach the destination farm until out of MP
 
-## <a id="Header-3-6"></a>Tenshi 2 Fight
+## <a id="Header-3-8"></a>Tenshi 2 Fight
 
 * When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
