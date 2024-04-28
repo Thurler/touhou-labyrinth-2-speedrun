@@ -94,10 +94,6 @@ Where:
 * ATKF = Parsee's approximate ATK \* 2.5 \* MULT = ATK \* 7.234656
 * DEFF = Target's DEF \* 0.5 \* MULT = 5788
 
-* Parsee's approximate ATK (0 gems):
-	* No buffs = 4600 / 4800 -> 3.337M / 3.158M
-	* 20% buff = 5520 / 5760 -> 2.637M / 2.498M
-	* 50% buff = 6900 / 7200 -> 1.985M / 1.880M
 * Parsee's approximate ATK (5 gems):
 	* No buffs = 4900 / 5200 -> 3.075M / 2.848M
 	* 20% buff = 5880 / 6240 -> 2.433M / 2.256M
