@@ -1626,7 +1626,6 @@
 		* <span class="magic-reset"> **Reset Marisa** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Minoriko** learns **Enchanter** subclass </span>
-		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
@@ -2267,7 +2266,6 @@
 		* <span class="subclass-add"> **Aya** learns **Herbalist** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Eirin** learns **Monk** subclass </span>
-		* <span class="subclass-add"> **Sanae** learns **Enchanter** subclass </span>
 		* <span class="subclass-add"> **Yukari** learns **Strategist** subclass </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Kourin - HP </span>
@@ -2334,7 +2332,7 @@
 		* <span class="learn-skill"> **Yukari**: MP Boost 0 -> 5 / Yukari Spiriting Away 1 -> 5 / Raid Maneuver 0 -> 1 </span>
 		* <span class="learn-skill"> **Nitori**: Absolute Defensive 0 -> 1 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 / DEF/AFF Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Kourin**: DEF Boost 0 -> 5 / Formation Change 0 -> 2 / Absolute Defensive 0 -> 1 </span>
-		* <span class="learn-skill"> **Sanae**: Heart Compassion 0 -> 4 </span>
+		* <span class="learn-skill"> **Sanae**: Yasaka Wind 1 -> 3 </span>
 		* <span class="learn-skill"> **Chen**: EVA Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Yuuka**: HP/MP Boost 0 -> 5 / Extra Attack 0 -> 2 / Majesty 0 -> 2 / Strong Foe 0 -> 1 </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealous of the Kind and Lovely 1 -> 5 / High Stakes 0 -> 2 / All or Nothing 0 -> 2 </span>
