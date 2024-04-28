@@ -92,6 +92,42 @@ Ame-no-Murakumo is the main story final boss on 20F. The fight has 3 phases, but
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Temporary text
+* Jealousy of the Kind Formula = 2.5 \* (2.5 \* ATK - 0.5 \* DEF) \* (1.0 + (0.01 \* (TRR / 2500)))
+* Spell level 5 multiplier = 1.2
+* Final Blow multiplier = 1.32
+* Flames of Jealousy multiplier = 1.3
+* Herb of Awakening multiplier = 1.36
+* Trauma Recollection multiplier = 1.24
+* Affinity multiplier = 1.333
+* Murakumo's HP = 1280000
+* Murakumo's DEF = 56000
+* Murakumo's DEF w/ HVY = 28000
+* Murakumo's DEF w/ HVY and 40% DBF = 16800
+
+Final formula:
+* TRR = (HP \* 250000 / (ATKF - DEFF)) - 250000
+* TRR = (320000000000 / (ATK \* 28.938625 - 162056)) - 250000 (NO debuff)
+* TRR = (320000000000 / (ATK \* 28.938625 - 97234)) - 250000 (WITH debuff)
+
+Where:
+* MULT = Product of all multipliers = 11.57545
+* ATKF = Parsee's approximate ATK \* 2.5 \* MULT = ATK \* 28.938625
+* DEFF = Target's DEF \* 0.5 \* MULT = 162056 (NO debuff) / 97234 (WITH debuff)
+
+Buff possibilities:
+* 80% -> MAX, requires 2 buffs
+* 50% -> After last wish or thundercloud
+* 30% -> After miracle fruit only
+* None -> YOLO
+
+* Parsee's approximate ATK (7-N / 7-Y or 10-N / 10-Y):
+	* No buffs = 5900 / 6200 / 6500 -> 4.104M / 3.644M / 3.272M (WITH debuff)
+	                                   36.7M / 18.2M / 12.1M (NO debuff)
+	* 30% buff = 7670 / 8060 / 8450 -> 2.316M / 2.103M / 1.923M (WITH debuff)
+	                                   5.092M / 4.246M / 3.630M (NO debuff)
+	* 50% buff = 8850 / 9300 / 9750 -> 1.765M / 1.612M / 1.481M (WITH debuff)
+	                                   3.153M / 2.739M / 2.415M (NO debuff)
+	* 80% buff = 10620 / 11160 / 11700 -> 1.274M / 1.168M / 1.076M (WITH debuff)
+	                                      1.953M / 1.739M / 1.563M (NO debuff)
 
 [Back to index page](../index.md)
