@@ -315,34 +315,33 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 39 | 5F | Unique monsters for Aya |
 | 63 | 5F | Item Drops are inconsistent, but this sucks anyway |
 | 67 | 5F | Hina shopping for Symbol of Faith |
-| 02 | 6F | Grinding on 6F |
 | 29 | 6F | Subclass get |
 | 53 | 6F | Materials are inconsistent, but we only need this on 15F |
-| 19 | 7F | Grinding on 7F |
-| 87 | 7F | Grinding on 7F |
-| 78 | 7F | 60 chests get |
-| 82 | 7F | Open locked chest |
+| 26 | 6F | Boost before Kraken fight |
+| 78 | 8F | 60 chests get |
+| 02 | 8F | Grinding on 8F |
+| 82 | 8F | Open locked chest |
 | 75 | 8F | Exploring 7F Part 2 |
-| 26 | 8F | Boost before Iku fight |
-| 45 | 8F | Iku is the 24th character |
 | 13 | 8F | Main Equips |
+| 61 | 8F | Boost before Iku fight |
+| 45 | 8F | Iku is the 24th character |
 | 57 | 9F | Sub Equips |
-| 49 | 9F | Chen Lv30 |
-| 61 | 9F | Boost before Tenshi fight |
+| 19 | 9F | Grinding on 9F |
 | 09 | 10F | Just play the game |
+| 87 | 10F | Grinding on 10F |
+| 49 | 10F | Chen Lv30 |
 | 40 | 10F | Unique monsters |
-| 60 | 11F | Grinding on 11F |
 | 79 | 11F | 100 chests get |
-| 54 | 12F | Materials |
-| 90 | 14F | 1000BP on Nitori |
+| 60 | 11F | Grinding on 11F |
+| 54 | 13F | Materials |
+| 14 | 15F | Main Equips are inconsistent, don't count on this |
 | 70 | 15F | Sell before Yuuka |
 | 71 | 15F | Sell before Yuuka |
 | 35 | 15F | Silver Mail FOE |
-| 14 | 15F | Main Equips are inconsistent, don't count on this |
-| 05 | 16F | Escape with Aya |
-| 25 | 18F | Just enter the dungeon |
-| 58 | 18F | Sub Equips are inconsistent, don't count on this |
+| 05 | 17F | Escape with Aya |
 | 41 | 18F | Unique monsters |
+| 25 | 19F | Just enter the dungeon |
+| 58 | 19F | Sub Equips are inconsistent, don't count on this |
 | 27 | 20F | Upgrade stats before High Mirror |
 | 20 | 20F | Reset money before Murakumo |
 | 72 | 20F | Sell before Murakumo |
