@@ -234,7 +234,6 @@
 	* Equipment:
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (3) **DX Mecha Model** (1)</span>
-			* <span class="equip-add"> (if no Exorcism) (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 7 -> 8 </span>
 * Level reference: Reimu 6
@@ -319,7 +318,6 @@
 * Back at Gensokyo, visit the facilities:
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Forge until you recruit Nitori </span>
-		* <span class="nitori-shop"> Buy **Cypress Stick x1** </span>
 	* <span class="human-village"> **Human Village**: Include Nitori in party (slot 11) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin** </span>
@@ -336,6 +334,7 @@
 		* <span class="equip-add"> **Marisa**: </span>
 			* <span class="equip-add"> (M) **Remove**</span>
 		* <span class="equip-add"> **Momiji**: </span>
+			* <span class="equip-add"> (M) **Remove**</span>
 			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3)</span>
 		* <span class="equip-add"> **Keine**: </span>
 			* <span class="equip-add"> (3) **Heater Muffler** (2)</span>
@@ -412,11 +411,9 @@
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Minoriko / Nitori** </span>
 	* Equipment:
 		* <span class="equip-remove"> **Momiji**: </span>
-			* <span class="equip-remove"> (M, 2, 3) **Remove**</span>
+			* <span class="equip-remove"> (2, 3) **Remove**</span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (3) **Sirloin** (3) </span>
-		* <span class="equip-add"> **Minoriko**: </span>
-			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 2 </span>
 * Level reference: Nitori 11
@@ -526,7 +523,7 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Reimu, Marisa, Keine </span>
 		* <span class="hakurei-shrine"> Komachi, Nitori, Kasen </span>
-		* <span class="hakurei-shrine"> Komachi ATK/SPD (Need 106) </span>
+		* <span class="hakurei-shrine"> Komachi ATK </span>
 		* <span class="hakurei-shrine"> Parsee MND </span>
 		* <span class="hakurei-shrine"> Wriggle HP </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -535,11 +532,13 @@
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Buy **Cypress Stick, Booster v0.8, Crazy Milk** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-library"> **Komachi**: ATK 0 -> 20</span>
+		* <span class="magic-library"> **Komachi**: ATK/SPD 0 -> 20 (Need 107)</span>
 		* <span class="magic-library"> **Parsee**: HP/MND 0 -> 30 </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Parsee / Rumia / Reimu / Wriggle** </span>
 	* Equipment:
+		* <span class="equip-add"> **Minoriko**: </span>
+			* <span class="equip-remove"> (2) **Remove** </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 			* <span class="equip-add"> (1) **Symbol of Faith** (1) </span>
@@ -762,13 +761,15 @@
 		* <span class="hakurei-shrine"> Mokou ATK </span>
 		* <span class="hakurei-shrine"> Utsuho MAG </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Minoriko -> Rumia** </span>
+		* <span class="human-village"> Swap **Momiji -> Rumia** </span>
 		* <span class="human-village"> Swap **Wriggle -> Mokou** </span>
 		* <span class="human-village"> Swap **Keine -> Utsuho** </span>
 		* <span class="human-village"> Unequip non-party characters </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
 	* Equipment:
+		* <span class="equip-add"> **Minoriko**: </span>
+			* <span class="equip-remove"> (1, 3) **Remove** </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 			* <span class="equip-remove"> (3) **Remove** </span>
@@ -783,9 +784,6 @@
 			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
 		* <span class="equip-add"> **Mokou**: </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
-			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (1) **Life Fragment** (1) </span>
-			* <span class="equip-add"> (2) **Purple Metallic Armor** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 9 -> 10 </span>
 		* <span class="learn-skill"> **Utsuho**: MP Boost 0 -> 4 / Blazing 0 -> 2 </span>
@@ -902,8 +900,8 @@
 		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Utsuho -> Wriggle** </span>
-		* <span class="human-village"> Swap **Rumia -> Satori** </span>
-		* <span class="human-village"> Swap **Momiji -> Sanae** </span>
+		* <span class="human-village"> Swap **Minoriko -> Satori** </span>
+		* <span class="human-village"> Swap **Rumia -> Sanae** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Buy **Source of Magic x1** </span>
 * Open the menu and take the following actions:
@@ -955,7 +953,8 @@
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Wriggle -> Rumia** </span>
+		* <span class="human-village"> Swap **Sanae -> Rumia** </span>
+		* <span class="human-village"> Swap **Wriggle -> Minoriko** </span>
 		* <span class="human-village"> Swap **Satori -> Utsuho** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
@@ -971,7 +970,7 @@
 * Level reference: Nitori 23
 * Enter the dungeon (8F South)
 
-![](img/murakumo/08-02-postiku.png)
+![](img/murakumo/08-03-postiku.png)
 
 * When you reach 9F, get the locked chest and farm until out of MP
 
@@ -1000,8 +999,6 @@
 * When you're back at Gensokyo, use the shrine and then do a menu:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* Equipment:
-		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
 			* <span class="equip-add"> (1) **Star of the Just** (5) </span>
@@ -1039,8 +1036,8 @@
 		* <span class="magic-library"> **Nitori**: HP 30 -> 40 / DEF 0 -> 30 / SPD 20 -> 30 </span>
 		* <span class="magic-library"> **Iku**: MAG/SPD 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Utsuho -> Minoriko** </span>
-		* <span class="human-village"> Swap **Chen -> Reisen** </span>
+		* <span class="human-village"> Swap **Utsuho -> Reisen** </span>
+		* <span class="human-village"> Swap **Chen -> Sanae** </span>
 		* <span class="human-village"> Swap **Mokou -> Iku** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
@@ -1052,6 +1049,8 @@
 			* <span class="equip-add"> (1) **Purple Metallic Armor** (1) </span>
 			* <span class="equip-add"> (2) **Goriki's Charm** (2) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (3) **Cuckri** (3) </span>
 			* <span class="equip-add"> (2) **Super-Hard Rye Bread** (3) </span>
@@ -1114,7 +1113,11 @@
 
 ## <a id="Header-4-1"></a>Explore 10F
 
-* When you're back at Gensokyo, use these facilities:
+* When you're back at Gensokyo, open the menu and take the following actions:
+	* Equipment:
+		* <span class="equip-remove"> **Reisen**: </span>
+			* <span class="equip-remove"> (M) **Remove** </span>
+* After that, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Rumia, Chen </span>
 		* <span class="hakurei-shrine"> Nitori(ATK) </span>
@@ -1123,7 +1126,9 @@
 		* <span class="subclass-add"> **Chen** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Reisen -> Cirno** </span>
 		* <span class="human-village"> Swap **Marisa -> Chen** </span>
+		* <span class="human-village"> Swap **Parsee -> Wriggle** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Chen** </span>
 	* Equipment:
@@ -1174,7 +1179,6 @@
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Keine** </span>
-		* <span class="human-village"> Swap **Parsee -> Cirno** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Keine / Kasen / Nitori / Aya** </span>
 	* Equipment:
@@ -1223,6 +1227,8 @@
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
 		* <span class="magic-library"> **Nitori**: HP 40 -> 50 / ATK 50 -> 60 / DEF 30 -> 50 </span>
 		* <span class="magic-library"> **Reisen**: HP 0 -> 20 </span>
+	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Keine -> Reisen** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Komachi / Reisen** </span>
 	* Equipment:
@@ -1268,8 +1274,7 @@
 		* <span class="subclass-add"> **Aya** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Keine -> Rumia** </span>
-		* <span class="human-village"> Swap **Reisen -> Wriggle** </span>
+		* <span class="human-village"> Swap **Reisen -> Rumia** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
@@ -1348,7 +1353,7 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Aya(HP), Reisen </span>
+		* <span class="hakurei-shrine"> Komachi(SPD), Aya(HP), Reisen </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi** </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -1472,6 +1477,7 @@
 		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Marisa -> Rumia** </span>
+		* <span class="human-village"> Swap **Reisen -> Cirno** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
@@ -1506,6 +1512,7 @@
 ## <a id="Header-5-3"></a>Memorized Knowledge Fight
 
 * When you're back on Gensokyo, use these facilities:
+	* <span class="nitori-shop"> **Nitori Shop**: Sell every material </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Cirno, Komachi, Chen </span>
 		* <span class="hakurei-shrine"> Nitori(HP), Parsee </span>
@@ -1515,11 +1522,11 @@
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Cirno, Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Parsee**: ATK 0 -> 50 </span>
 		* <span class="magic-library"> **Kasen**: ATK 0 -> 50 </span>
+		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Komachi -> Parsee** </span>
-		* <span class="human-village"> Swap **Rumia -> Cirno** </span>
+		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Sanae / Parsee** </span>
 	* Equipment:
@@ -1531,17 +1538,17 @@
 			* <span class="equip-add"> (if Cinderforge drop) (3) **Cinderforge Sword** (5) </span>
 			* <span class="equip-add"> (otherwise) (3) **Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Hero's Medal** (4) </span>
-			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 			* <span class="equip-add"> (1) **Pride** (4) </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (1) **War Mask of the Butcher** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: MND Boost 0 -> 5 / AFF Boost 0 -> 5 / Maintenance 0 -> 1 / Overheating 0 -> 1 </span>
 		* <span class="learn-skill"> **Parsee**: Grudge Returning 1 -> 5 </span>
-		* <span class="learn-skill"> **Cirno**: Blizzard Blowout 0 -> 5 </span>
 		* <span class="learn-skill"> **Iku**: Lightning Fish 1 -> 2 </span>
-		* <span class="learn-skill"> **Chen**: Mind Body One 0 -> 2 </span>
 		* <span class="learn-skill"> **Kasen**: SPD Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Cirno**: Blizzard Blowout 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: Mind Body One 0 -> 2 </span>
 * Level reference: Nitori 40
 * Enter the dungeon (14F east) and go fight the boss
 <hr>
@@ -1588,6 +1595,7 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Parsee -> Komachi** </span>
+		* <span class="human-village"> Swap **Reisen -> Rumia** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
@@ -1646,6 +1654,7 @@
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Marisa** </span>
+		* <span class="magic-reset"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Minoriko** learns **Enchanter** subclass </span>
 		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
@@ -1679,8 +1688,8 @@
 		* <span class="learn-skill"> **Sanae**: Youkai Buster 1 -> 2 </span>
 		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Aya**: HP Boost 4 -> 5 / EVA Boost 3 -> 5 </span>
 		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 4 -> 5 / EVA Boost 3 -> 5 </span>
 		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 2 </span>
 * Enter the dungeon (9F) and unlock Yuuka's room
 <hr>
@@ -1732,10 +1741,10 @@
 * When you're back on Gensokyo, use these facilities:
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Minoriko -> Parsee** </span>
-		* <span class="human-village"> Swap **Reisen -> Satori** </span>
+		* <span class="human-village"> Swap **Rumia -> Satori** </span>
 		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi / Parsee** </span>
+		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori, Kasen** </span>
 		* <span class="subclass-add"> **Chen** learns **Herbalist** subclass </span>
 		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
@@ -1769,19 +1778,19 @@
 			* <span class="equip-add"> (2) **Sirloin** (3) </span>
 			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
-		* <span class="equip-add"> **Sanae**: </span>
-			* <span class="equip-add"> (2) **Star of the Just** (5) </span>
 		* <span class="equip-add"> **Satori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
 			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3) </span>
 			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+		* <span class="equip-add"> **Sanae**: </span>
+			* <span class="equip-add"> (2) **Star of the Just** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 5 / Frontline Guard 0 -> 1 / Regeneration 0 -> 1 / Ferry Wages 0 -> 10 </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / High Stakes 0 -> 2 </span>
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 
@@ -1876,7 +1885,6 @@
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 3 / Fast Dash 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: Effective Formation 0 -> 2 / First Aid 1 -> 2 / HP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Sanae**: Enhanced Buffing 0 -> 1 </span>
 * Enter the dungeon (15F)
 
 ![](img/murakumo/15-04-yukari.png)
@@ -2178,8 +2186,8 @@
 	* Learn Skills:
 		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 / Elekiter Palace 1 -> 3 / Thundercloud Stickleback 1 -> 5 </span>
 		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Inspirational Plan 0 -> 1 / Furious Scheme 0 -> 10 </span>
-		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 / Intense Vertigo 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Grudge Returning 1 -> 5 / High Stakes 0 -> 2 / All Nothing 0 -> 1 / MP Boost 0 -> MAX </span>
+		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 / Intense Vertigo 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
 * Enter the dungeon (20F East)
 <hr>
 
@@ -2216,8 +2224,8 @@
 		* <span class="magic-reset"> **Reset Suwako** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Suwako** learns **Gambler** subclass </span>
-		* <span class="magic-library"> **Aya**: SPD 0 -> 40 </span>
-		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
+		* <span class="magic-library"> **Aya**: SPD 0 -> 50 (Need 251) </span>
+		* <span class="magic-library"> **Suwako**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level Single Characters </span>
 		* <span class="hakurei-shrine"> Aya(SPD) / Suwako(ATK) </span>
 		* <span class="hakurei-item"> Use **Training Manual xALL** on **Suwako** </span>
@@ -2238,8 +2246,8 @@
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: SPD Boost 0 -> 4 </span>
-		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Last Wish 0 -> 2 / MAG Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Suwako**: Earth Creation 0 -> 2 / Froggy Power 0 -> 2 / High Stakes 0 -> 2 / Long Arm Leg 1 -> 5 / Moriya Believer 0 -> 2 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Last Wish 0 -> 2 / MAG Boost 0 -> 5 </span>
 * Enter the dungeon (20F West)
 <hr>
 
@@ -2328,17 +2336,11 @@
 			* <span class="equip-add"> (1) **Intama** (2) </span>
 			* <span class="equip-add"> (2) **Grand Master Breaker** (5) </span>
 			* <span class="equip-add"> (3) **Divine Barrier** (5) </span>
-		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
-			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
-			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
 		* <span class="equip-add"> **Kourin**: </span>
 			* <span class="equip-add"> (3) **Megasphere** (5) </span>
 			* <span class="equip-add"> (2) **Megasphere** (5) </span>
 			* <span class="equip-add"> (1) **Intama** (2) </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (1) **The Arch** (4) </span>
 		* <span class="equip-add"> **Yuuka**: </span>
 			* <span class="equip-add"> (2) **Megasphere** / **Energy Pack** (5) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
@@ -2347,6 +2349,12 @@
 			* <span class="equip-add"> (1) **Holy Sword of Justice** (5) </span>
 			* <span class="equip-add"> (2) **Cinderforge Sword** (5) </span>
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
+		* <span class="equip-add"> **Iku**: </span>
+			* <span class="equip-add"> (3) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
+			* <span class="equip-add"> (1) **Wash Basin Set** (5) </span>
+		* <span class="equip-add"> **Chen**: </span>
+			* <span class="equip-add"> (1) **The Arch** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Eirin**: Fast Dash 0 -> 1 </span>
 		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 5 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Herb of Awakening 0 -> 5 </span>
@@ -2354,10 +2362,10 @@
 		* <span class="learn-skill"> **Yukari**: MP Boost 0 -> 5 / Yukari Spiriting Away 1 -> 5 / Raid Maneuver 0 -> 1 </span>
 		* <span class="learn-skill"> **Nitori**: Absolute Defensive 0 -> 1 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 / DEF/AFF Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Kourin**: DEF Boost 0 -> 5 / Formation Change 0 -> 2 / Absolute Defensive 0 -> 1 </span>
-		* <span class="learn-skill"> **Sanae**: Yasaka Wind 1 -> 3 </span>
-		* <span class="learn-skill"> **Chen**: EVA Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Yuuka**: HP/MP Boost 0 -> 5 / Extra Attack 0 -> 2 / Majesty 0 -> 2 / Strong Foe 0 -> 1 </span>
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealous of the Kind and Lovely 1 -> 5 / High Stakes 0 -> 2 / All or Nothing 0 -> 2 </span>
+		* <span class="learn-skill"> **Sanae**: Yasaka Wind 1 -> 3 </span>
+		* <span class="learn-skill"> **Chen**: EVA Boost 0 -> 5 </span>
 * Visit the following facilities to finish:
 	* <span class="nitori-shop"> **Nitori Shop**: Sell everything </span>
 	* <span class="magic-library"> **Magic Library**: </span>
@@ -2365,6 +2373,7 @@
 		* <span class="magic-library"> **Nitori**: HP/DEF/SPD 0 -> 100 </span>
 		* <span class="magic-library"> **Satori**: HP/SPD 50 -> 100 </span>
 		* <span class="magic-library"> **Yuuka**: HP/SPD 50 -> 100 / DEF 0 -> 100 </span>
+		* <span class="magic-library"> **Parsee**: SPD 0 -> 50 (Need 156) </span>
 		* <span class="magic-library"> **Parsee**: Spend all money on ATK </span>
 * Enter the dungeon (20F Depths)
 <hr>
