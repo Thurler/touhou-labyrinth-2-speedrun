@@ -433,18 +433,21 @@
 ## <a id="Header-2-2"></a>Explore 5F
 
 * Back at Genokyo, visit these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonuses </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
+		* <span class="hakurei-shrine"> Marisa, Rumia </span>
+		* <span class="hakurei-shrine"> Minoriko, Komachi </span>
+		* <span class="hakurei-shrine"> Nitori, Kasen </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (if dropped) (3) Legendary Blender (3) </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (2) **Ultrafast Granite Keystone** (3) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (2) **Light Crystal** (3) </span>
 			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (if dropped) (3) Legendary Blender (3) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 2 -> 4 </span>
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 2 -> 3 </span>
@@ -526,11 +529,9 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa, Keine </span>
-		* <span class="hakurei-shrine"> Komachi, Nitori, Kasen </span>
-		* <span class="hakurei-shrine"> Komachi ATK </span>
-		* <span class="hakurei-shrine"> Parsee MND </span>
-		* <span class="hakurei-shrine"> Wriggle HP </span>
+		* <span class="hakurei-shrine"> Reimu, Keine </span>
+		* <span class="hakurei-shrine"> Komachi (ATK), Nitori </span>
+		* <span class="hakurei-shrine"> Parsee (MND), Wriggle (HP), Kasen </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Youmu -> Wriggle** </span>
 		* <span class="human-village"> Swap **Cirno -> Parsee** </span>
@@ -552,9 +553,9 @@
 		* <span class="equip-add"> **Rumia**: </span>
 			* <span class="equip-add"> (if Kaguya drop) (3) **Glow Crystal** (3) </span>
 		* <span class="equip-add"> **Wriggle**: </span>
-			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
-			* <span class="equip-add"> (2) **Crazy Milk** (1) </span>
-			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
+			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
+			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
+			* <span class="equip-add"> (1) **Crazy Milk** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
 			* <span class="equip-add"> (2) **Bracer of Power** (1) </span>
@@ -593,7 +594,7 @@
 
 * Go back to Gensokyo and use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
-		* <span class="hakurei-shrine"> Komachi HP </span>
+		* <span class="hakurei-shrine"> Komachi (HP) </span>
 		* <span class="hakurei-shrine"> Chen, Parsee, Aya ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Kourin -> Chen** </span>
@@ -662,7 +663,6 @@
 
 * When you're back to Genokyo, visit the facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa, Rumia </span>
 		* <span class="hakurei-shrine"> Komachi, Chen </span>
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
 		* <span class="hakurei-shrine"> Aya, Kasen </span>
@@ -761,10 +761,9 @@
 
 * When you're back, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee, Kasen </span>
-		* <span class="hakurei-shrine"> Mokou ATK </span>
-		* <span class="hakurei-shrine"> Utsuho MAG </span>
+		* <span class="hakurei-shrine"> Marisa, Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee </span>
+		* <span class="hakurei-shrine"> Mokou (ATK), Kasen, Utsuho (MAG) </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Momiji -> Rumia** </span>
 		* <span class="human-village"> Swap **Wriggle -> Mokou** </span>
