@@ -335,6 +335,7 @@
 			* <span class="equip-add"> (M) **Remove**</span>
 		* <span class="equip-add"> **Momiji**: </span>
 			* <span class="equip-add"> (M) **Remove**</span>
+			* <span class="equip-add"> (3) **Life Fragment** (1)</span>
 			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3)</span>
 		* <span class="equip-add"> **Keine**: </span>
 			* <span class="equip-add"> (3) **Heater Muffler** (2)</span>
@@ -349,6 +350,8 @@
 			* <span class="equip-add"> (2) (if dropped) Super-Hard Rye Bread (3)</span>
 			* <span class="equip-add"> (2) **Bracer of Power** (1)</span>
 			* <span class="equip-add"> (3) **Wash Basin Set** (5)</span>
+		* <span class="equip-add"> **Kourin**: </span>
+			* <span class="equip-add"> (3) **Sirloin** (3)</span>
 		* <span class="equip-add"> **Youmu**: </span>
 			* <span class="equip-add"> (3) **Bulletproof Armor** (1)</span>
 			* <span class="equip-add"> (2) **Life Fragment** (1)</span>
@@ -411,7 +414,9 @@
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Minoriko / Nitori** </span>
 	* Equipment:
 		* <span class="equip-remove"> **Momiji**: </span>
-			* <span class="equip-remove"> (2, 3) **Remove**</span>
+			* <span class="equip-remove"> (2) **Remove**</span>
+		* <span class="equip-remove"> **Kourin**: </span>
+			* <span class="equip-remove"> (3) **Remove**</span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (3) **Sirloin** (3) </span>
 	* Learn Skills:
