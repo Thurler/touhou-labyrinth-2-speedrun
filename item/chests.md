@@ -55,7 +55,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Lucky Horseshoe | O |
 | Manga Meat | O |
 | Miko Board | X |
-| Piece of Heart | O |
+| Life Fragment | O |
 | Power Bracer | X |
 | Steadfast Ring | X |
 | Floor Total | 10 |
