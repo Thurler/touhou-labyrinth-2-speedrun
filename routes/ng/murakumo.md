@@ -1981,7 +1981,7 @@
 			* <span class="equip-add"> (otherwise) (1) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (2) **Glaive of Pain** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Iku**: Thundercloud Stickleback 1 -> 5 / Supple Hagoromo 0 -> 2 / Lightning Fight 0 -> 1 </span>
+		* <span class="learn-skill"> **Iku**: Thundercloud Stickleback 1 -> 5 / Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 </span>
 		* <span class="learn-skill"> **Yukari**: Yukari's Spiriting Away 1 -> 5 / Manipulation of Boundaries 0 -> 2 / MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Nitori**: Mind Body as One 0 -> 2 / Overheating 0 -> 1 / Maintenance 0 -> 1 / ATK Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / Spell Card Recollection 0 -> 1 </span>
