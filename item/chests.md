@@ -244,7 +244,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Medal Shattering Youkai Axe<br>Tome of Insight - SPD x2<br>Swiftness Gem<br>Star of the Just | O |
+| Medal Shattering Youkai Axe<br>Tome of Insight - SPD x2<br>Swiftness Gem x2<br>Star of the Just | O |
 | 900 Money | O |
 | 1000 Money | O |
 | Card [Ruler of Heavens] | X |
