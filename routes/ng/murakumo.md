@@ -1727,10 +1727,7 @@
 	* <span class="form-change"> Form Change: **Aya / Nitori / Sanae / Kasen** </span>
 * Enter the dungeon (10F) and go west to fight FOE
 * **FOE Boss Fight - Silver Mail (Lv36)**
-	* Rin spams Cat's Walk
-	* Nitori uses Super Scope 3D
-	* Chen uses Kimontonkou + PSW
-	* Kasen spams Higekiri's Cursed Arm
+	* Aya DGA Nitori into Super Scope 3D, twice
 	* For finer details see Silver Mail's [Boss Info](../../enemy/silvermail.md)
 * When you're done, take the treasure and go back to Gensokyo
 
@@ -1756,6 +1753,7 @@
 		* <span class="magic-library"> **Parsee**: SPD 0 -> 70 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
+		* <span class="hakurei-shrine"> Switch Komachi to HP </span>
 		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
 		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
 		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
