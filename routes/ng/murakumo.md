@@ -414,8 +414,6 @@
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Minoriko / Nitori** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Momiji**: </span>
-			* <span class="equip-remove"> (2) **Remove**</span>
 		* <span class="equip-remove"> **Kourin**: </span>
 			* <span class="equip-remove"> (3) **Remove**</span>
 		* <span class="equip-add"> **Komachi**: </span>
