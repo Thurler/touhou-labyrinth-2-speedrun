@@ -870,12 +870,12 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Utsuho**: </span>
-			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (2) **Energy Tank** (1) </span>
+		* <span class="equip-add"> **Utsuho**: </span>
+			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
 * Level reference: Nitori 21
 * Enter the dungeon (8F)
 
