@@ -150,6 +150,7 @@
 			* <span class="equip-add"> (2) **Biggest Sword Ever** (1)</span>
 			* <span class="equip-add"> (1) **Bludgeon** (3)</span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Momiji**: Ability to See Far Distances 0 -> 1 </span>
 		* <span class="learn-skill"> **Reimu**: Yin-Yang Orb 1 -> 2 </span>
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 4 -> 5 </span>
 * Level reference: Reimu 3
@@ -259,7 +260,6 @@
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (if no Exorcism) (2) **Light Crystal** (3)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Momiji**: Accelerate 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 8 -> 10 </span>
 		* <span class="learn-skill"> **Rumia**: Piercing Attack 1 -> 2 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 2 -> 3 </span>
