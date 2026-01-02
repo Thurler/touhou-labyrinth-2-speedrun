@@ -360,6 +360,7 @@
 			* <span class="equip-add"> (1) **Mana Flower** (1)</span>
 			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Momiji**: Ability to See Far Distances 1 -> 2 </span>
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 1 -> 2 </span>
 		* <span class="learn-skill"> **Reimu**: Armored Yin-Yang Orb 0 -> 1 / MP Boost 0 -> 1 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 </span>
