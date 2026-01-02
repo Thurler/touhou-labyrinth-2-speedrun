@@ -681,7 +681,6 @@
 			* <span class="equip-add"> (3) **Lv70 Lover Snapper's Scale** (2) </span>
 			* <span class="equip-add"> (2) **Love Machine 3322** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Momiji**: Far Distances 0 -> 1 </span>
 		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
 		* <span class="learn-skill"> **Parsee**: Flames of Jealousy 1 -> 2 </span>
 		* <span class="learn-skill"> **Wriggle**: Enhanced Toxins 0 -> 2 / Numbing Incense 0 -> 2 </span>
