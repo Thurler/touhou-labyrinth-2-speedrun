@@ -1031,7 +1031,7 @@
 		* <span class="hakurei-shrine"> Sanae(MAG), Iku(MAG) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Marisa / Rumia / Minoriko / Chen / Nitori / Aya** </span>
-		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
+		* <span class="subclass-add"> **Marisa** learns **Enhancer** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Reisen** learns **Hexer** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
@@ -1418,7 +1418,7 @@
 		* <span class="hakurei-item"> Use **Wisdom Gems** on **Iku** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Sanae / Iku** </span>
-		* <span class="subclass-add"> **Marisa** learns **Enchanter** subclass </span>
+		* <span class="subclass-add"> **Marisa** learns **Enhancer** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
@@ -1658,7 +1658,7 @@
 		* <span class="magic-reset"> **Reset Marisa** </span>
 		* <span class="magic-reset"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
-		* <span class="subclass-add"> **Minoriko** learns **Enchanter** subclass </span>
+		* <span class="subclass-add"> **Minoriko** learns **Enhancer** subclass </span>
 		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
