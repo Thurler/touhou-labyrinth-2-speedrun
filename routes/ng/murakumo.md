@@ -599,7 +599,7 @@
 		* <span class="human-village"> Swap **Kourin -> Chen** </span>
 		* <span class="human-village"> Swap **Keine -> Aya** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Buy **Cypress Stick x2** </span>
+		* <span class="nitori-shop"> Buy **Cypress Stick x1** </span>
 *  Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Aya** </span>
 	* Equipment:
@@ -1875,7 +1875,7 @@
 		* <span class="equip-remove"> **Cirno**: </span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
 		* <span class="equip-add"> **Kourin**: </span>
-			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
+			* <span class="equip-add"> (M) **Chariot Boots** (2) </span>
 			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
@@ -2229,7 +2229,7 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level Single Characters </span>
 		* <span class="hakurei-shrine"> Aya(SPD) / Suwako(ATK) </span>
 		* <span class="hakurei-item"> Use **Training Manual xALL** on **Suwako** </span>
-		* <span class="hakurei-item"> Use **Fighting Gems xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Fighting Gems xALL** on **Suwako** </span>
 		* <span class="hakurei-item"> Use **Tome of Insight - Speed** on **Aya** </span>
 * Open the menu and take the following actions:
 	* Equipment:
@@ -2340,7 +2340,7 @@
 			* <span class="equip-add"> (3) **Megasphere** (5) </span>
 			* <span class="equip-add"> (2) **Megasphere** (5) </span>
 			* <span class="equip-add"> (1) **Intama** (2) </span>
-			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
+			* <span class="equip-add"> (M) **Chariot Boots** (2) </span>
 		* <span class="equip-add"> **Yuuka**: </span>
 			* <span class="equip-add"> (2) **Megasphere** / **Energy Pack** (5) </span>
 			* <span class="equip-add"> (3) **Intama** (2) </span>
