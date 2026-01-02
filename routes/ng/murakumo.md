@@ -311,7 +311,7 @@
 
 ![](img/murakumo/03-03-komachi.png)
 
-* When you reach the relay point, farm 60 battles in 1F
+* When you reach the relay point, farm 60 battles in 1F's rare spot
 * Prolong grind if you don't have materials for 10 total crafts
 <hr>
 
@@ -368,7 +368,7 @@
 		* <span class="learn-skill"> **Youmu**: Netherworld Dweller 1 -> 2 </span>
 		* <span class="learn-skill"> **Minoriko**: Rapid Charge 0 -> 1 </span>
 		* <span class="learn-skill"> **Marisa**: MP Boost 2 -> 5 </span>
-* Level reference: Reimu 10
+* Level reference: Reimu 11
 * Enter the dungeon (3F Center)
 <hr>
 
