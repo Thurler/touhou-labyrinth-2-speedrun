@@ -299,18 +299,19 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 73 | 1F | Just walk around |
 | 07 | 1F | Wipe while grinding |
 | 08 | 1F | Wipe to Youmu to get Kasen early |
+| 31 | 2F | Beat Chrysomallos |
 | 74 | 2F | Just walk around |
 | 89 | 2F | 100BP on the starting characters |
-| 31 | 2F | Beat Chrysomallos |
 | 01 | 3F | Grinding on 3F |
 | 24 | 3F | Just enter the dungeon |
-| 77 | 3F | 30 chests get |
-| 52 | 3F | Materials |
-| 83 | 3F | Recruit Nitori |
-| 22 | 3F | Grind while farming materials for Nitori |
-| 84 | 3F | Recruit Nitori |
 | 48 | 3F | Reimu Lv10 |
+| 83 | 3F | Recruit Nitori |
+| 52 | 3F | Materials |
+| 22 | 3F | Grind while farming materials for Nitori |
+| 87 | 3F | Grind while farming materials for Nitori |
+| 84 | 3F | Recruit Nitori |
 | 44 | 3F | Komachi is the 12th character |
+| 77 | 4F | 30 chests get |
 | 56 | 4F | Sub Equips |
 | 39 | 5F | Unique monsters for Aya |
 | 63 | 5F | Item Drops are inconsistent, but this sucks anyway |
@@ -318,31 +319,31 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 29 | 6F | Subclass get |
 | 53 | 6F | Materials are inconsistent, but we only need this on 15F |
 | 26 | 6F | Boost before Kraken fight |
-| 78 | 8F | 60 chests get |
 | 02 | 8F | Grinding on 8F |
 | 82 | 8F | Open locked chest |
-| 75 | 8F | Exploring 7F Part 2 |
-| 13 | 8F | Main Equips |
+| 78 | 8F | 60 chests get |
 | 61 | 8F | Boost before Iku fight |
+| 13 | 8F | Main Equips |
 | 45 | 8F | Iku is the 24th character |
-| 57 | 9F | Sub Equips |
+| 75 | 8F | Exploring 8F Part 2 |
 | 19 | 9F | Grinding on 9F |
+| 57 | 9F | Sub Equips |
 | 09 | 10F | Just play the game |
-| 87 | 10F | Grinding on 10F |
 | 49 | 10F | Chen Lv30 |
 | 40 | 10F | Unique monsters |
-| 79 | 11F | 100 chests get |
 | 60 | 11F | Grinding on 11F |
+| 79 | 12F | 100 chests get |
 | 54 | 13F | Materials |
+| 70 | 14F | Sell before MemKnowledge |
+| 71 | 14F | Sell before MemKnowledge |
+| 91 | 14F | Grinding on 14F Part 2, inconsistent |
 | 14 | 15F | Main Equips are inconsistent, don't count on this |
-| 70 | 15F | Sell before Yuuka |
-| 71 | 15F | Sell before Yuuka |
 | 35 | 15F | Silver Mail FOE |
-| 05 | 17F | Escape with Aya |
 | 41 | 18F | Unique monsters |
-| 25 | 19F | Just enter the dungeon |
-| 58 | 19F | Sub Equips are inconsistent, don't count on this |
-| 27 | 20F | Upgrade stats before High Mirror |
+| 05 | 19F | Escape with Aya |
+| 27 | 20F | Upgrade stats before High Magatama |
+| 25 | 20F | Just enter the dungeon |
+| 58 | 20F | Sub Equips are inconsistent, don't count on this |
 | 20 | 20F | Reset money before Murakumo |
 | 72 | 20F | Sell before Murakumo |
 
