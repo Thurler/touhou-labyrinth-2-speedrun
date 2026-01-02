@@ -1587,8 +1587,8 @@
 * When you're back on Gensokyo, do the following menu:
 	* Equipment:
 		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-remove"> (3) **Remove**</span>
 			* <span class="equip-add"> (M) **Training Egg** (2) </span>
-			* <span class="equip-add"> (if Cinderforge drop) (3) **Glaive of Pain** (5) </span>
 * After that, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
