@@ -448,7 +448,7 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 2 -> 4 </span>
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 3 -> 4 </span>
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 2 -> 3 </span>
 		* <span class="learn-skill"> **Rumia**: Darkness Manipulation 0 -> 1 </span>
 		* <span class="learn-skill"> **Reimu**: MP Boost 1 -> 2 </span>
