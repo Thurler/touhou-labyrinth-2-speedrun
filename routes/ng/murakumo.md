@@ -419,8 +419,8 @@
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (3) **Sirloin** (3) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 2 </span>
-* Level reference: Nitori 11
+		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 3 </span>
+* Level reference: Nitori 12
 * Enter the dungeon (4F)
 
 ![](img/murakumo/04-01-explore.png)
