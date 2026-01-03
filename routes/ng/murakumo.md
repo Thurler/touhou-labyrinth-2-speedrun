@@ -599,7 +599,7 @@
 		* <span class="human-village"> Swap **Kourin -> Chen** </span>
 		* <span class="human-village"> Swap **Keine -> Aya** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Buy **Cypress Stick x1** </span>
+		* <span class="nitori-shop"> Buy **Cypress Stick x2** </span>
 *  Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Aya** </span>
 	* Equipment:
