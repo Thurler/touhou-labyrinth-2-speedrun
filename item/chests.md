@@ -218,7 +218,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | 788 Money | O |
 | 880 Money | O |
 | Big Bang Wave Cannon | O |
-| Biggest Sword Ever | O |
+| Biggest Sword Ever | X |
 | Chario Boots | O |
 | Chitin Shell x5 | X |
 | Damascus Dread Shield | X |
@@ -236,9 +236,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Symbol of Faith | O |
 | Treasure Chest Key | O |
 | Ultrafast Granite Keystone | X |
-| Floor Total | 11 |
+| Floor Total | 10 |
 | Possible Skips | 0 |
-| Combined Total | 71 |
+| Combined Total | 70 |
 
 #### <a id="floor-9"></a>Floor 9
 
@@ -264,7 +264,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Youkai's Fire Blowgun x2 | X |
 | Floor Total | 9 |
 | Possible Skips | 0 |
-| Combined Total | 80 |
+| Combined Total | 79 |
 
 #### <a id="floor-10"></a>Floor 10
 
@@ -290,7 +290,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | O |
 | Floor Total | 8 |
 | Possible Skips | 0 |
-| Combined Total | 88 |
+| Combined Total | 87 |
 
 #### <a id="floor-11"></a>Floor 11
 
@@ -318,7 +318,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Yggdrasil Dew | O |
 | Floor Total | 10 |
 | Possible Skips | 0 |
-| Combined Total | 98 |
+| Combined Total | 97 |
 
 #### <a id="floor-12"></a>Floor 12
 
@@ -345,7 +345,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wallbreaker Armband | O |
 | Floor Total | 8 |
 | Possible Skips | 0 |
-| Combined Total | 106 |
+| Combined Total | 105 |
 
 #### <a id="floor-13"></a>Floor 13
 
@@ -367,7 +367,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Training Manual | X |
 | Floor Total | 1 |
 | Possible Skips | 0 |
-| Combined Total | 107 |
+| Combined Total | 106 |
 
 #### <a id="floor-14"></a>Floor 14
 
@@ -394,7 +394,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wisdom Gem | X |
 | Floor Total | 5 |
 | Possible Skips | 0 |
-| Combined Total | 112 |
+| Combined Total | 111 |
 
 #### <a id="floor-15"></a>Floor 15
 
@@ -429,7 +429,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 8 |
 | Possible Skips | 0 |
-| Combined Total | 120 |
+| Combined Total | 119 |
 
 #### <a id="floor-16"></a>Floor 16
 
@@ -456,7 +456,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wash Basin Set | X |
 | Floor Total | 3 |
 | Possible Skips | 0 |
-| Combined Total | 123 |
+| Combined Total | 122 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -480,7 +480,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Floor Total | 3 |
 | Possible Skips | 0 |
-| Combined Total | 126 |
+| Combined Total | 125 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -503,7 +503,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Floor Total | 4 |
 | Possible Skips | 0 |
-| Combined Total | 130 |
+| Combined Total | 129 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -532,7 +532,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 4 |
 | Possible Skips | 1 |
-| Combined Total | 134 |
+| Combined Total | 133 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -561,7 +561,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wisdom Gem | X |
 | Floor Total | 1 |
 | Possible Skips | 1 |
-| Combined Total | 135 |
+| Combined Total | 134 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
