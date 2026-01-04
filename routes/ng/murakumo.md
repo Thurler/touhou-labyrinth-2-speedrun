@@ -636,8 +636,8 @@
 * Go back to Gensokyo after farming and visit the facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Reimu, Marisa, Rumia </span>
-		* <span class="hakurei-shrine"> Komachi, Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee, Kasen </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori </span>
+		* <span class="hakurei-shrine"> Parsee, Kasen </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Forge **Getitup V** </span>
 * Open the menu and take the following actions:
