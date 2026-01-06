@@ -119,11 +119,6 @@
 
 ![](img/murakumo/01-02-cirnochen.png)
 
-* **Boss Fight - Chen Encounter (Lv4)**
-	* Momiji spams Expellee's Canaan
-	* Keine spams 3ST - Sword
-	* Reimu spams Fantasy Seal
-	* Marisa uses Master Spark
 * When you reach the destination, farm until wipe
 
 ## <a id="Header-1-2"></a>Youmu Fight
@@ -249,6 +244,8 @@
 
 * Back at Gensokyo, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonuses </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Keine** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: Buy 1 Cypress Stick </span>
 * Open the menu and take the following actions:
 	* Equipment:
@@ -261,6 +258,7 @@
 			* <span class="equip-add"> (if no Exorcism) (2) **Light Crystal** (3)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kourin**: Shopkeeper 8 -> 10 </span>
+		* <span class="learn-skill"> **Keine**: Historian's School 0 -> 1 </span>
 		* <span class="learn-skill"> **Rumia**: Piercing Attack 1 -> 2 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 2 -> 3 </span>
 * Level reference: Reimu 8
@@ -268,8 +266,6 @@
 
 ![](img/murakumo/03-01-switchoff.png)
 
-* **Boss Fight - Chen Encounter (Lv6)**
-	* Just beat it with what you have
 * Exit the dungeon back to Gensokyo
 
 ## <a id="Header-1-7"></a>Alaya-Vijnana Fight
@@ -287,8 +283,6 @@
 
 ![](img/murakumo/03-02-switchon.png)
 
-* **Boss Fight - Chen Encounter (Lv10)**
-	* Just beat it with what you have
 * Before entering the fight with Alaya-Vijana, do the following menu:
 * <span class="form-change"> Form Change: **Momiji / Kasen** </span>
 * **Boss Fight - Alaya-Vijnana (Lv11)**
