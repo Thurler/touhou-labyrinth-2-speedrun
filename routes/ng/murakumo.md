@@ -318,7 +318,7 @@
 		* <span class="magic-library"> **Reimu**: HP/DEF/MND 0 -> 10 </span>
 		* <span class="magic-library"> **Momiji**: HP/DEF 0 -> 20 </span>
 		* <span class="magic-library"> **Nitori**: ATK 0 -> 40 </span>
-		* <span class="magic-library"> **Kasen**: HP/DEF/MND 0 -> 10 </span>
+		* <span class="magic-library"> **Kasen**: HP/DEF/MND 0 -> 10 / ATK  -> 20 </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonuses </span>
 		* <span class="hakurei-shrine"> Nitori ATK </span>
 		* <span class="hakurei-item"> Use **Training Manual x3** on **Nitori** </span>
