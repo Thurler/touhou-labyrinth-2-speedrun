@@ -473,8 +473,9 @@
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Reimu**: MP Boost 2 -> 3 </span>
-		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 1 </span>
+		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
+		* <span class="learn-skill"> **Keine**: MP Boost 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 5 -> 6 </span>
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 4 -> 5 </span>
 * Level reference: Nitori 14
 * Enter the dungeon (2F Center)
