@@ -219,7 +219,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | 880 Money | O |
 | Big Bang Wave Cannon | O |
 | Biggest Sword Ever | X |
-| Chario Boots | O |
+| Chariot Boots | O |
 | Chitin Shell x5 | X |
 | Damascus Dread Shield | X |
 | Cuckri | X |
