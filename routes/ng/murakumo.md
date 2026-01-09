@@ -804,17 +804,14 @@
 
 * Go back to Gensokyo and use this facility
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Kasen**: SPD 20 -> 25 (Need 117) </span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Utsuho**: </span>
-			* <span class="equip-add"> (2) **Glow Crystal** (3) </span>
-			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
-		* <span class="equip-add"> **Kasen**: </span>
-			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
-		* <span class="equip-add"> **Mokou**: </span>
-			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
+			* <span class="equip-add"> (3) **Glow Crystal** (3) </span>
+			* <span class="equip-add"> (if dropped) (2) Mana Flower (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Utsuho**: MP Boost 4 -> 5 </span>
 * Level reference: Nitori 20
 * Enter the dungeon (8F)
@@ -836,8 +833,6 @@
 	* Equipment:
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Asura Blade** (4) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (2) **Legendary Blender** (3) </span>
 * Enter the dungeon (7F)
 
 ![](img/murakumo/07-03-east.png)
@@ -903,6 +898,7 @@
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 2 / Youkai Buster 0 -> 2 / Last Wish 0 -> 1 </span>
 		* <span class="learn-skill"> **Wriggle**: Comet on Earth 1 -> 5 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Overheating 0 -> 1 </span>
