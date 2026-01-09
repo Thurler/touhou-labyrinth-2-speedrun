@@ -202,12 +202,12 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Stormy Selenite x2 | X |
 | Strong Rugged Horns x2 | X |
 | Strong Rugged Horns x2 | X |
-| Super-Hard Rye Bread | O |
+| Super-Hard Rye Bread | X |
 | Symbol of Faith | O |
 | Treasure Chest Key | X |
-| Floor Total | 9 |
+| Floor Total | 8 |
 | Possible Skips | 0 |
-| Combined Total | 60 |
+| Combined Total | 58 |
 
 #### <a id="floor-8"></a>Floor 8
 
