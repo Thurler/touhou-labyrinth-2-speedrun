@@ -404,6 +404,8 @@
 * Back at Genokyo, visit these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
 		* <span class="hakurei-shrine"> Komachi HP </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Kourin, Keine** </span>
 	* <span class="human-village"> **Human Village**: Include Komachi in party (slot 12) </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Minoriko / Nitori** </span>
@@ -414,6 +416,8 @@
 			* <span class="equip-add"> (3) **Sirloin** (3) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 3 </span>
+		* <span class="learn-skill"> **Kourin**: Shopowner 0 -> 10 / Shopkeeper 0 -> 3 </span>
+		* <span class="learn-skill"> **Keine**: Historian School 0 -> 1 </span>
 * Level reference: Nitori 12
 * Enter the dungeon (4F)
 
