@@ -447,9 +447,8 @@
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 3 -> 4 </span>
-		* <span class="learn-skill"> **Keine**: 3ST - Sword 2 -> 3 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 3 -> 5 </span>
 		* <span class="learn-skill"> **Rumia**: Darkness Manipulation 0 -> 1 </span>
-		* <span class="learn-skill"> **Reimu**: MP Boost 1 -> 2 </span>
 * Level reference: Nitori 13
 * Enter the dungeon (5F)
 
