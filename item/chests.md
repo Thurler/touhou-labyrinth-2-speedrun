@@ -134,7 +134,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Violet Green Rupee | O |
 | Floor Total | 5 |
 | Possible Skips | 0 |
-| Combined Total | 36 |
+| Combined Total | 35 |
 
 #### <a id="floor-5"></a>Floor 5
 
@@ -154,9 +154,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Shoes of Happiness | O |
 | Water Cutting Sword | X |
 | Yamabiko Necklace | X |
-| Floor Total | 5 |
+| Floor Total | 4 |
 | Possible Skips | 0 |
-| Combined Total | 41 |
+| Combined Total | 39 |
 
 #### <a id="floor-6"></a>Floor 6
 
