@@ -640,7 +640,8 @@
 			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (if free slot) (3) **Bone Stake** (3) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 6 -> 7 </span>
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 7 -> 8 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 8 -> 9 </span>
 * Level reference: Nitori 16
 * Enter the dungeon (6F Center)
 
