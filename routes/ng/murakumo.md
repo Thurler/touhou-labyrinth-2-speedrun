@@ -358,7 +358,7 @@
 		* <span class="learn-skill"> **Keine**: 3ST - Sword 1 -> 2 / MP Boost 0 -> 2 </span>
 		* <span class="learn-skill"> **Reimu**: MP Boost 0 -> 1 / Armored Yin-Yang Orb 0 -> 1 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 </span>
-		* <span class="learn-skill"> **Kourin**: Effective Formation Change 0 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: Effective Formation Change 0 -> 2 / Shopkeeper 0 -> 3 </span>
 		* <span class="learn-skill"> **Kasen**: Guts 1 -> 2 </span>
 		* <span class="learn-skill"> **Youmu**: Netherworld Dweller 1 -> 2 </span>
 		* <span class="learn-skill"> **Minoriko**: Rapid Charge 0 -> 1 </span>
