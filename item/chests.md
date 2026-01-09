@@ -177,9 +177,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Pale Wing Thruster | O |
 | Purple Dragon Crystal | X |
 | Stone of Awakening | O |
-| Floor Total | 10 |
+| Floor Total | 11 |
 | Possible Skips | 0 |
-| Combined Total | 51 |
+| Combined Total | 50 |
 
 #### <a id="floor-7"></a>Floor 7
 
