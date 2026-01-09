@@ -238,7 +238,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Ultrafast Granite Keystone | X |
 | Floor Total | 10 |
 | Possible Skips | 0 |
-| Combined Total | 70 |
+| Combined Total | 68 |
 
 #### <a id="floor-9"></a>Floor 9
 

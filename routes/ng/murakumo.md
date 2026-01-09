@@ -822,8 +822,6 @@
 
 ## <a id="Header-3-3"></a>Explore 7F (East)
 
-* Go back to Gensokyo and use this facility
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Enter the dungeon (8F)
 
 ![](img/murakumo/07-02-locked.png)
@@ -837,18 +835,15 @@
 
 ![](img/murakumo/07-03-east.png)
 
-* When you reach the destination, farm until out of MP
+* When you reach the destinations, go back to Gensokyo immediately
 
 ## <a id="Header-3-4"></a>Explore 8F (Part 2)
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Mokou, Aya </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori </span>
+		* <span class="hakurei-shrine"> Parsee, Aya </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
-	* <span class="magic-library"> **Magic Library**:  </span>
-		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
@@ -862,7 +857,7 @@
 
 ![](img/murakumo/08-02-preiku.png)
 
-* When you recruit Sanae, farm until out of MP
+* When you recruit Sanae, farm until Nitori Lv22
 
 ## <a id="Header-3-5"></a>Iku Fight
 
