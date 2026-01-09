@@ -526,17 +526,17 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu, Keine </span>
-		* <span class="hakurei-shrine"> Komachi (ATK), Nitori </span>
-		* <span class="hakurei-shrine"> Parsee (MND), Wriggle (HP), Kasen </span>
+		* <span class="hakurei-shrine"> Reimu, Komachi (ATK) </span>
+		* <span class="hakurei-shrine"> Nitori, Parsee (MND) </span>
+		* <span class="hakurei-shrine"> Wriggle (HP), Kasen </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-library"> **Komachi**: ATK/SPD 0 -> 20 (Need 107)</span>
+		* <span class="magic-library"> **Parsee**: HP/MND 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Youmu -> Wriggle** </span>
 		* <span class="human-village"> Swap **Cirno -> Parsee** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Buy **Cypress Stick, Booster v0.8, Crazy Milk** </span>
-	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-library"> **Komachi**: ATK/SPD 0 -> 20 (Need 107)</span>
-		* <span class="magic-library"> **Parsee**: HP/MND 0 -> 30 </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Parsee / Rumia / Reimu / Wriggle** </span>
 	* Equipment:
@@ -557,7 +557,7 @@
 			* <span class="equip-add"> (1) **DX Mecha Model** (1) </span>
 			* <span class="equip-add"> (2) **Bracer of Power** (1) </span>
 			* <span class="equip-add"> (3) **Bracer of Power** (1) </span>
-* Level reference: Nitori 14
+* Level reference: Nitori 15
 * Enter the dungeon (5F South)
 <hr>
 
