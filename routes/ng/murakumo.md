@@ -582,7 +582,7 @@
 
 * **FOE Boss Fight - Lesser Golem (Lv14)**
 	* Spam strongest moves, you're overlevelled
-* Recruit **Chen** and take treasures
+* Take treasures behind the FOE
 * Go back to Gensokyo and re-enter the dungeon through (4F)
 <hr>
 
@@ -592,12 +592,9 @@
 * Go back to Gensokyo and use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
 		* <span class="hakurei-shrine"> Komachi (HP) </span>
-		* <span class="hakurei-shrine"> Chen, Parsee, Aya ATK </span>
+		* <span class="hakurei-shrine"> Parsee, Aya ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Kourin -> Chen** </span>
-		* <span class="human-village"> Swap **Keine -> Aya** </span>
-	* <span class="nitori-shop"> **Nitori Shop**: </span>
-		* <span class="nitori-shop"> Buy **Cypress Stick x2** </span>
+		* <span class="human-village"> Swap **Momiji -> Aya** </span>
 *  Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Aya** </span>
 	* Equipment:
@@ -615,17 +612,12 @@
 			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (2) **Bone Stake** (3) </span>
 			* <span class="equip-add"> (if Komachi drop) (3) **Bone Stake** (3) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
-			* <span class="equip-add"> (1) **Bracer of Power** (1) </span>
-			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 5 -> 6 </span>
+		* <span class="learn-skill"> **Komachi**: Ferry Wages 5 -> 7 </span>
 		* <span class="learn-skill"> **Nitori**: Kappa Ecology Observation 0 -> 1 </span>
 		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest 0 -> 2 / Tengu Wind 0 -> 1 </span>
-		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 1 </span>
-* Level reference: Nitori 15
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 6 -> 8 </span>
+* Level reference: Nitori 16
 * Enter the dungeon (6F)
 
 ![](img/murakumo/06-01-relay.png)
@@ -680,7 +672,7 @@
 			* <span class="equip-add"> (2) **Love Machine 3322** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
-		* <span class="learn-skill"> **Parsee**: Flames of Jealousy 1 -> 2 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 1 -> 2 </span>
 		* <span class="learn-skill"> **Wriggle**: Enhanced Toxins 0 -> 2 / Numbing Incense 0 -> 2 </span>
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 7 -> 8 </span>
 		* <span class="learn-skill"> **Reimu**: MP Boost 3 -> 5 </span>
