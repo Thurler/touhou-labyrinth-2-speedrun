@@ -78,13 +78,13 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Oni's Panties x2 | O |
 | Ephemeral Bauble | X |
 | Poison Resistance Ring | X |
-| Rosebush Robe | O |
+| Rosebush Robe | X |
 | Sirloin | O |
 | Training Manual | O |
 | Two Face's Coin | X |
-| Floor Total | 9 |
+| Floor Total | 8 |
 | Possible Skips | 0 |
-| Combined Total | 19 |
+| Combined Total | 18 |
 
 #### <a id="floor-3"></a>Floor 3
 
@@ -107,7 +107,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tome of Reincarnation | O |
 | Floor Total | 12 |
 | Possible Skips | 0 |
-| Combined Total | 31 |
+| Combined Total | 30 |
 
 #### <a id="floor-4"></a>Floor 4
 
@@ -140,7 +140,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training Manual x2 | O |
+| Tome of Insight - HP<br>Tome of Insight - MP<br>Tome of Insight - TP<br>Training Manual x2 | X |
 | Biggest Sword Ever | O |
 | Concept of Everything x2 | X |
 | Eternal Ice x2 | X |
@@ -162,7 +162,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 
 | Contents | AnM | AnM+ |
 | :---: | :---: | :---: |
-| Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly<br>Tome of Reincarnation x2 | X |
+| Money-Growing Tree<br>Midnight Oil Set<br>Items Discovery Weekly<br>Tome of Reincarnation x2 | O |
 | Legendary Blender | O |
 | Bone Stake | O |
 | Bottle of Hyperspace | O |
