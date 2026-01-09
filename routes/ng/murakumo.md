@@ -332,9 +332,9 @@
 			* <span class="equip-add"> (3) **Life Fragment** (1)</span>
 			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3)</span>
 		* <span class="equip-add"> **Keine**: </span>
-			* <span class="equip-add"> (3) **Heater Muffler** (2)</span>
+			* <span class="equip-add"> (1) **Heater Muffler** (2)</span>
 			* <span class="equip-add"> (2) **Gokiri's Charm** (2)</span>
-			* <span class="equip-add"> (1) **Lucky Horseshoe** (2)</span>
+			* <span class="equip-add"> (3) **Lucky Horseshoe** (2)</span>
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3)</span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1)</span>
