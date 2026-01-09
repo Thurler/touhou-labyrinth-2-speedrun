@@ -314,7 +314,7 @@
 		* <span class="nitori-shop"> Forge until you recruit Nitori </span>
 	* <span class="human-village"> **Human Village**: Include Nitori in party (slot 11) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Kourin** </span>
+		* <span class="magic-reset"> **Reset Kourin, Keine** </span>
 		* <span class="magic-library"> **Reimu**: HP/DEF/MND 0 -> 10 </span>
 		* <span class="magic-library"> **Momiji**: HP/DEF 0 -> 20 </span>
 		* <span class="magic-library"> **Nitori**: ATK 0 -> 40 </span>
@@ -355,8 +355,8 @@
 			* <span class="equip-add"> (2) **Crepe Mariette** (1)</span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Momiji**: Ability to See Far Distances 1 -> 2 </span>
-		* <span class="learn-skill"> **Keine**: 3ST - Sword 1 -> 2 </span>
-		* <span class="learn-skill"> **Reimu**: Armored Yin-Yang Orb 0 -> 1 / MP Boost 0 -> 1 </span>
+		* <span class="learn-skill"> **Keine**: 3ST - Sword 1 -> 2 / MP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Reimu**: MP Boost 0 -> 1 / Armored Yin-Yang Orb 0 -> 1 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: Effective Formation Change 0 -> 2 </span>
 		* <span class="learn-skill"> **Kasen**: Guts 1 -> 2 </span>
