@@ -863,23 +863,30 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee, Wriggle </span>
-		* <span class="hakurei-shrine"> Mokou, Aya(HP) </span>
+		* <span class="hakurei-shrine"> Reimu, Momiji (SPD) </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori </span>
+		* <span class="hakurei-shrine"> Parsee, Wriggle, Aya(HP) </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
 		* <span class="hakurei-shrine"> Satori(HP), Sanae(HP) </span>
+		* <span class="hakurei-item"> Use **Life Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Fighting Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Protection Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Affection Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Nitori** </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
+		* <span class="subclass-add"> **Sanae** learns **Healer** subclass </span>
 		* <span class="magic-library"> **Reimu**: HP 10 -> 30 </span>
-		* <span class="magic-library"> **Nitori**: HP 0 -> 30 / ATK 40 -> 50 / SPD 0 -> 20 </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 30 / ATK 40 -> 50 / SPD 10 -> 20 </span>
 		* <span class="magic-library"> **Aya**: HP 0 -> 30 </span>
 		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Utsuho -> Wriggle** </span>
-		* <span class="human-village"> Swap **Minoriko -> Satori** </span>
-		* <span class="human-village"> Swap **Rumia -> Sanae** </span>
+		* <span class="human-village"> Swap **Minoriko -> Reimu** </span>
+		* <span class="human-village"> Swap **Marisa -> Momiji** </span>
+		* <span class="human-village"> Swap **Rumia -> Satori** </span>
+		* <span class="human-village"> Swap **Utsuho -> Sanae** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Buy **Source of Magic x1** </span>
 * Open the menu and take the following actions:
@@ -892,13 +899,27 @@
 			* <span class="equip-add"> (1) **Big Bang Wave Cannon** (4) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
+		* <span class="equip-remove"> **Keine**: </span>
+			* <span class="equip-remove"> (1, 2, 3) **Remove** </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 2 / Youkai Buster 0 -> 2 / Last Wish 0 -> 1 </span>
 		* <span class="learn-skill"> **Wriggle**: Comet on Earth 1 -> 5 </span>
+		* <span class="learn-skill"> **Aya**: Ability to Manipulate Wind 0 -> 1 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Overheating 0 -> 1 </span>
+		* <span class="learn-skill"> **Reimu**: MP Boost 1 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: Trauma Recollection 0 -> 2 / Spell Card Recollection 0 -> 2 </span>
-		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 </span>
+		* <span class="learn-skill"> **Momiji**: Instant Attack 0 -> 1 </span>
+* Use these facilities again:
+	* <span class="nitori-shop"> **Nitori Shop**: </span>
+		* <span class="nitori-shop"> Sell every material </span>
+		* <span class="nitori-shop"> Sell every subequip except: </span>
+			* <span class="nitori-shop"> Booster v0.8 </span>
+			* <span class="nitori-shop"> Green Dream </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Kasen**: ATK 30 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 * Level reference: Nitori 22
 * Enter the dungeon (8F South)
 <hr>
@@ -918,9 +939,9 @@
 		* Nitori Extending Arm
 		* Sanae and Satori buff Nitori if possible
 	* **Phase 3 - Emergency**
-		* If not dead and someone lived, swap in Kasen and Chen
+		* If not dead and someone lived, swap in Kasen and Parsee
 		* Spam Higekiri's Cursed Arm
-		* Spam Kimontonkou + PSW
+		* Spam Grudge Returning
 	* For finer details see Iku's [Boss Info](../../enemy/iku.md)
 * Go back to Gensokyo to heal
 
