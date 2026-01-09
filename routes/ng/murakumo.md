@@ -547,8 +547,6 @@
 			* <span class="equip-add"> (1) **Symbol of Faith** (1) </span>
 			* <span class="equip-add"> (2) **Crepe Mariette** (1) </span>
 			* <span class="equip-add"> (3) **Love Machine 3322** (2) </span>
-		* <span class="equip-add"> **Rumia**: </span>
-			* <span class="equip-add"> (if Kaguya drop) (3) **Glow Crystal** (3) </span>
 		* <span class="equip-add"> **Wriggle**: </span>
 			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
@@ -651,16 +649,20 @@
 
 ## <a id="Header-2-6"></a>Kraken Fight
 
+* Before you do any menuing, do the following action:
+	* Equipment:
+		* <span class="equip-remove"> **Reimu**: </span>
+			* <span class="equip-remove"> (M) **Remove** </span>
 * When you're back to Genokyo, visit the facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
 		* <span class="hakurei-shrine"> Aya, Kasen </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
-		* <span class="magic-library"> **Chen**: ATK 0 -> 30 </span>
 		* <span class="magic-library"> **Parsee**: ATK 0 -> 30 </span>
 		* <span class="magic-library"> **Kasen**: HP/DEF 10 -> 20 </span>
 		* <span class="subclass-add"> **Wriggle** learns **Toxicologist** subclass </span>
+	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Reimu -> Momiji** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Momiji / Kasen / Nitori / Parsee** </span>
 	* Equipment:
@@ -672,11 +674,8 @@
 			* <span class="equip-add"> (3) **Lv70 Lover Snapper's Scale** (2) </span>
 			* <span class="equip-add"> (2) **Love Machine 3322** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kasen**: Fighting Spirit 0 -> 1 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 1 -> 2 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 </span>
 		* <span class="learn-skill"> **Wriggle**: Enhanced Toxins 0 -> 2 / Numbing Incense 0 -> 2 </span>
-		* <span class="learn-skill"> **Komachi**: Ferry Wages 7 -> 8 </span>
-		* <span class="learn-skill"> **Reimu**: MP Boost 3 -> 5 </span>
 		* <span class="learn-skill"> **Rumia**: Darkness Manipulation 1 -> 2 </span>
 * Level reference: Parsee 18
 * Enter the dungeon (5F)
@@ -687,7 +686,6 @@
 	* Kasen spams Higekiri's Cursed Arm
 	* Parsee spams Jealousy of the Kind and Lovely
 	* Nitori self buffs and then uses Super Scope 3D
-	* Momiji swaps Kasen and Parsee with Chen for Instant Attack pivoting
 	* Momiji swaps self with Aya when Nitori will Super Scope
 	* For finer details see Kraken's [Boss Info](../../enemy/kraken.md)
 * Exit the dungeon and go back to Gensokyo
@@ -702,11 +700,11 @@
 * Take the lower shortcut and fight the Orchid boss
 * **Boss Fight - Blue Orchid (Lv23)**
 	* Aya uses DGA on Wriggle to inflict HVY
-	* Wriggle then switches herself out for Nitori
 	* Kasen spams Higekiri's Cursed Arm
 	* Parsee uses JotK -> Midnight Anathema -> JotK
+	* Wriggle then switches herself out for Nitori
 	* Aya DGA on Parsee after first JotK, then buffs Kasen
-	* Nitori Super Scopes after 3 buffs
+	* Nitori Super Scopes immediately
 	* For finer details see Blue Orchid's [Boss Info](../../enemy/orchid.md)
 * Go back to Gensokyo
 
@@ -716,15 +714,14 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-item"> Use **Training Manual x1** on **Nitori** </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
-		* <span class="magic-reset"> **Reset Chen / Nitori / Wriggle** </span>
-		* <span class="subclass-add"> **Chen** learns **Warrior** subclass </span>
-	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rumia -> Keine** </span>
+		* <span class="magic-reset"> **Reset Nitori / Wriggle** </span>
+		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 * Open the menu and take the following action:
 	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Keine** </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 8 -> 9 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability to Manip Water 0 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 9 -> 10 </span>
 * Level reference: Nitori 19
 * Enter the dungeon (4F Northeast)
 <hr>
@@ -750,40 +747,38 @@
 
 * When you're back, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Marisa, Komachi, Chen </span>
+		* <span class="hakurei-shrine"> Marisa, Komachi </span>
 		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Mokou (ATK), Kasen, Utsuho (MAG) </span>
+		* <span class="hakurei-shrine"> Kasen, Utsuho (MAG) </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Nitori**: SPD 0 -> 10 </span>
+		* <span class="magic-library"> **Kasen**: ATK 20 -> 30 / SPD 0 -> 20 </span>
+		* <span class="magic-library"> **Utsuho**: MAG 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Momiji -> Rumia** </span>
-		* <span class="human-village"> Swap **Wriggle -> Mokou** </span>
-		* <span class="human-village"> Swap **Keine -> Utsuho** </span>
+		* <span class="human-village"> Swap **Momiji -> Utsuho** </span>
 		* <span class="human-village"> Unequip non-party characters </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
+	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Utsuho** </span>
 	* Equipment:
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-remove"> (1, 3) **Remove** </span>
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
-			* <span class="equip-remove"> (3) **Remove** </span>
 		* <span class="equip-remove"> **Aya**: </span>
 			* <span class="equip-remove"> (only if no Komachi drop) (3) **Remove** </span>
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **Bone Stake** (3) </span>
 		* <span class="equip-add"> **Utsuho**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (1) **Mana Flower** (1) </span>
-			* <span class="equip-add"> (if dropped) (3) Mana Flower (1) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (1) **Biggest Sword Ever** (1) </span>
-			* <span class="equip-add"> (3) **Bone Stake** (3) </span>
-		* <span class="equip-add"> **Mokou**: </span>
+			* <span class="equip-add"> (if dropped) (2) Mana Flower (1) </span>
+			* <span class="equip-add"> (if dropped) (3) Glow Crystal (3) </span>
 			* <span class="equip-add"> (3) **Super-Hard Rye Bread** (3) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferry Wages 9 -> 10 </span>
-		* <span class="learn-skill"> **Utsuho**: MP Boost 0 -> 4 / Blazing 0 -> 2 </span>
-		* <span class="learn-skill"> **Chen**: Enhanced Row Attack 0 -> 3 </span>
 		* <span class="learn-skill"> **Kasen**: Fighting Spirit 1 -> 2 </span>
-		* <span class="learn-skill"> **Mokou**: Blazing 0 -> 2 / Resurrection 0 -> 2 </span>
-		* <span class="learn-skill"> **Marisa**: Magic Training 1 -> 2 </span>
+		* <span class="learn-skill"> **Utsuho**: MP Boost 0 -> 4 / Blazing 0 -> 2 </span>
+		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 </span>
 * Level reference: Nitori 19
 * Enter the dungeon (6F)
 <hr>
