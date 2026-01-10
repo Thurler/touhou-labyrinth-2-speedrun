@@ -981,8 +981,7 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Mokou </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori </span>
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
 * Open the menu and take the following actions:
 	* Equipment:
@@ -998,12 +997,8 @@
 ![](img/murakumo/09-01-west.png)
 
 * When you reach the destination event, farm until out of MP
-* When you're back at Gensokyo, use the shrine and then do a menu:
+* When you're back at Gensokyo, use the shrine:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-	* Equipment:
-		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
-			* <span class="equip-add"> (1) **Star of the Just** (5) </span>
 * Level reference: Nitori 24
 * Enter the dungeon (9F)
 
@@ -1017,46 +1012,48 @@
 	* Equipment:
 		* <span class="equip-remove"> **Utsuho**: </span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
-		* <span class="equip-remove"> **Mokou**: </span>
-			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
 <hr>
 
 * Use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa(SPD) </span>
-		* <span class="hakurei-shrine"> Minoriko, Komachi </span>
-		* <span class="hakurei-shrine"> Nitori(HP), Parsee </span>
-		* <span class="hakurei-shrine"> Aya(ATK), Kasen </span>
-		* <span class="hakurei-shrine"> Satori, Reisen(HP) </span>
-		* <span class="hakurei-shrine"> Sanae(MAG), Iku(MAG) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> Reset **Marisa / Rumia / Minoriko / Chen / Nitori / Aya** </span>
+		* <span class="magic-reset"> Reset **Marisa / Rumia / Minoriko** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Nitori / Parsee** </span>
+		* <span class="magic-reset"> Reset **Aya / Sanae** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enhancer** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Reisen** learns **Hexer** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
-		* <span class="magic-library"> **Nitori**: HP 30 -> 40 / DEF 0 -> 30 / SPD 20 -> 30 </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 40 / DEF 0 -> 30 / SPD 0 -> 30 </span>
 		* <span class="magic-library"> **Iku**: MAG/SPD 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Utsuho -> Reisen** </span>
-		* <span class="human-village"> Swap **Chen -> Sanae** </span>
-		* <span class="human-village"> Swap **Mokou -> Iku** </span>
+		* <span class="human-village"> Swap **Wriggle -> Reimu** </span>
+		* <span class="human-village"> Swap **Parsee -> Reisen** </span>
+		* <span class="human-village"> Swap **Kasen -> Sanae** </span>
+		* <span class="human-village"> Swap **Utsuho -> Iku** </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
+		* <span class="hakurei-shrine"> Reimu, Marisa(SPD) </span>
+		* <span class="hakurei-shrine"> Minoriko, Komachi </span>
+		* <span class="hakurei-shrine"> Nitori(HP), Aya(ATK) </span>
+		* <span class="hakurei-shrine"> Kasen, Reisen(HP) </span>
+		* <span class="hakurei-shrine"> Sanae(MAG), Iku(MAG) </span>
+		* <span class="hakurei-item"> Use **Life Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Magic Gem xALL** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Protection Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Wisdom Gem xALL** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Iku** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Equipment:
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
+			* <span class="equip-add"> (1) **Star of the Just** (5) </span>
 		* <span class="equip-remove"> **Marisa**: </span>
 			* <span class="equip-remove"> (1) **Remove** </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (M) **First Aid Kit** (2) </span>
-			* <span class="equip-add"> (1) **Purple Metallic Armor** (1) </span>
-			* <span class="equip-add"> (2) **Goriki's Charm** (2) </span>
-			* <span class="equip-add"> (3) **Intama** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (3) **Century's End Jacket** (4) </span>
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (3) **Cuckri** (3) </span>
 			* <span class="equip-add"> (2) **Super-Hard Rye Bread** (3) </span>
-			* <span class="equip-add"> (1) **Super-Hard Rye Bread** (3) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **The Arch** (4) </span>
 		* <span class="equip-add"> **Reisen**: </span>
@@ -1064,6 +1061,11 @@
 			* <span class="equip-add"> (2) **Pale Wing Thruster** (2) </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (M) **First Aid Kit** (2) </span>
+			* <span class="equip-add"> (1) **Purple Metallic Armor** (1) </span>
+			* <span class="equip-add"> (2) **Goriki's Charm** (2) </span>
+			* <span class="equip-add"> (3) **Intama** (2) </span>
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 			* <span class="equip-add"> (3) **Mana Flower** (1) </span>
@@ -1072,15 +1074,23 @@
 		* <span class="equip-add"> **Marisa**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Sanae**: Last Wish 1 -> 2 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 2 / Youkai Buster 0 -> 2 / Last Wish 0 -> 2 </span>
 		* <span class="learn-skill"> **Minoriko**: Ability Control Harvests 0 -> 2 / SPD Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Aya**: Gensokyo's Fastest Lessons 0 -> 2 / Tengu's Wind 0 -> 2 / HP Boost 0 -> 2 </span>
-		* <span class="learn-skill"> **Reisen**: MP Boost 0 -> 2 / Enhanced Hexes 0 -> 2 / Intense Vertigo 0 -> 1 </span>
-		* <span class="learn-skill"> **Rumia**: Youkai Knowledge 0 -> 2 / Darkness Manipulation 0 -> 2</span>
-		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 2 / Gensokyo's Fastest Lessons 0 -> 2 / Tengu's Wind 0 -> 2 </span>
+		* <span class="learn-skill"> **Reisen**: Intense Vertigo 0 -> 1 / Enhanced Hexes 0 -> 2 / MP Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Rumia**: Darkness Manipulation 0 -> 2 / Youkai Knowledge 0 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Frontline Guard 0 -> 1 / DEF Boost 0 -> 1 </span>
 		* <span class="learn-skill"> **Reimu**: Armored YinYang Orb 1 -> 2 </span>
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Art of Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 3 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
+* Use these facilities again:
+	* <span class="nitori-shop"> **Nitori Shop**: </span>
+		* <span class="nitori-shop"> Sell every material </span>
+		* <span class="nitori-shop"> Sell every subequip except: </span>
+			* <span class="nitori-shop"> Booster v0.8 </span>
+			* <span class="nitori-shop"> Green Dream </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
 * Level reference: Nitori 25
 * Enter the dungeon (9F)
 <hr>
