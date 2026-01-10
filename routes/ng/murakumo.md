@@ -1171,10 +1171,8 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (if no Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
+			* <span class="equip-add"> (if no Tenshi drop) (1) **Tisiphone Edge** (4) </span>
 			* <span class="equip-add"> (2) **Tisiphone Edge** (4) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
 * Level reference: Nitori 27
 * Enter the dungeon (10F)
 

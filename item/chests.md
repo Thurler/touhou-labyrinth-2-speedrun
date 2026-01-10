@@ -276,21 +276,21 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Demon Core | X |
 | Elixir of Mages | X |
 | Frozen Eyes | X |
-| Getitup V | O |
+| Getitup V | X |
 | Glittering Jewel x2 | X |
 | Grand Dragon Medal | X |
 | Herbalist's Proof | O |
 | Lv70 Lover Snapper's Scale | X |
 | Midgard's Tooth | X |
-| Portable Vibrocannon | O |
+| Portable Vibrocannon | X |
 | Pure Sake Wild Boar | X |
 | Reinforced Leather Armor | X |
 | Stone of Awakening | O |
 | Tisiphone Edge | O |
 | Treasure Chest Key | O |
-| Floor Total | 8 |
+| Floor Total | 6 |
 | Possible Skips | 0 |
-| Combined Total | 87 |
+| Combined Total | 83 |
 
 #### <a id="floor-11"></a>Floor 11
 
