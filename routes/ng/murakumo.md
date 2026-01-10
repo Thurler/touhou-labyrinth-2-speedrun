@@ -1412,9 +1412,7 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
-	* Learn Skills:
-		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 3 </span>
-* Level reference: Nitori 36
+* Level reference: Nitori 33
 * Enter the dungeon (12F)
 
 ![](img/murakumo/12-03-south.png)
@@ -1422,32 +1420,28 @@
 * Once you've reached the relay point, go back to Gensokyo
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu, Marisa </span>
-		* <span class="hakurei-shrine"> Komachi, Nitori, Aya </span>
+		* <span class="hakurei-shrine"> Marisa, Komachi </span>
+		* <span class="hakurei-shrine"> Nitori, Aya </span>
 		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
-		* <span class="hakurei-item"> Use **Wisdom Gems** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Training Manual xALL** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Wisdom Gem xALL** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Iku** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Sanae / Iku** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enhancer** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Sorcerer** subclass </span>
+		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rumia -> Marisa** </span>
-		* <span class="human-village"> Swap **Chen -> Suwako** </span>
-* Open the menu and take the following actions:
-	* Equipment:
-		* <span class="equip-add"> **Suwako**: </span>
-			* <span class="equip-add"> (M) **Training Egg** (2) </span>
-		* <span class="human-village"> **Human Village**: </span>
-			* <span class="human-village"> Swap **Suwako -> Chen** </span>
+		* <span class="human-village"> Swap **Nitori -> Marisa** </span>
+		* <span class="human-village"> Swap **Cirno -> Sanae** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Sanae**: Last Wish 0 -> 2 / Youkai Buster 0 -> 1 / Miracle Fruit 1 -> 5 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Youkai Buster 0 -> 1 / Last Wish 0 -> 2 </span>
 		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Enhanced Buffing 0 -> 1 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Reimu**: Final Prayer 1 -> 2 </span>
-		* <span class="learn-skill"> **Iku**: Enhanced Attack 0 -> 1 / Mind Body 0 -> 2 / Magic Beating 0 -> 2 / Hagoromo Sky 0 -> 2 </span>
-* Level reference: Aya 34
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Magic Beating 0 -> 2 / Mind Body 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Assault 0 -> 1 </span>
+* Level reference: Aya 33
 * Enter the dungeon (12F depths) and fight Tenshi
 <hr>
 
