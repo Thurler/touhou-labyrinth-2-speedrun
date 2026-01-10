@@ -1336,7 +1336,7 @@
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Komachi, Chen, Nitori </span>
+		* <span class="hakurei-shrine"> Komachi, Nitori </span>
 		* <span class="hakurei-shrine"> Aya, Kasen, Iku </span>
 * Open the menu and take the following actions:
 	* Equipment:
@@ -1347,21 +1347,19 @@
 
 ![](img/murakumo/12-01-west.png)
 
-* Once you get to the relay point, go back to Gensokyo
+* Once you get to the relay point, go back to Gensokyo immediately
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
-		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (2) **Lambda Driver** (4) </span>
 * Level reference: Nitori 33
 * Enter the dungeon (12F)
 
 ![](img/murakumo/12-02-east.png)
 
-* Once you get to the relay point, farm until Nitori wipe
+* Once you get to the relay point, go back to Gensokyo immediately
 
 ## <a id="Header-4-6"></a>Golden Mirror Fight
 
