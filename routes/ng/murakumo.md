@@ -899,8 +899,12 @@
 			* <span class="equip-add"> (1) **Big Bang Wave Cannon** (4) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
+		* <span class="equip-add"> **Reimu**: </span>
+			* <span class="equip-add"> (1) **Symbol of Faith** (1) </span>
+			* <span class="equip-add"> (2) **Ultrafast Granite Keystone** (3) </span>
+			* <span class="equip-add"> (3) **Cuckri** (3) </span>
 		* <span class="equip-remove"> **Keine**: </span>
-			* <span class="equip-remove"> (1, 2, 3) **Remove** </span>
+			* <span class="equip-remove"> (3, 2, 1) **Remove** </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
 	* Learn Skills:
