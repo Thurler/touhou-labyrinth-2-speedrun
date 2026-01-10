@@ -953,18 +953,17 @@
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Sanae -> Rumia** </span>
-		* <span class="human-village"> Swap **Wriggle -> Minoriko** </span>
+		* <span class="human-village"> Swap **Sanae -> Marisa** </span>
+		* <span class="human-village"> Swap **Reimu -> Rumia** </span>
+		* <span class="human-village"> Swap **Momiji -> Minoriko** </span>
 		* <span class="human-village"> Swap **Satori -> Utsuho** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Komachi / Utsuho / Nitori / Chen** </span>
+	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Utsuho** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (if Iku drop) (1) **Shinai of Spirits** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 </span>
 * Level reference: Nitori 23
@@ -983,13 +982,12 @@
 		* <span class="hakurei-shrine"> Kasen, Utsuho </span>
 * Open the menu and take the following actions:
 	* Equipment:
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Training Egg** (1) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (2) **Asura Blade** (4) </span>
-		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Training Egg** (1) </span>
-			* <span class="equip-add"> (3) **Biggest Sword Ever** (1) </span>
 * Level reference: Nitori 23
 * Enter the dungeon (9F)
 
