@@ -1178,22 +1178,18 @@
 
 ![](img/murakumo/10-02-south.png)
 
-* When you reach the destination, farm until Nitori out of MP
+* When you reach the destination, farm until Komachi 2000 EXP away from Lv27
 
 ## <a id="Header-4-2"></a>Gold Hymn Fight
 
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Reimu, Rumia </span>
-		* <span class="hakurei-shrine"> Cirno(SPD), Minoriko </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Parsee </span>
-		* <span class="hakurei-shrine"> Aya, Kasen </span>
-		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
-	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Rumia -> Keine** </span>
+		* <span class="hakurei-shrine"> Cirno(SPD), Komachi </span>
+		* <span class="hakurei-shrine"> Nitori, Aya </span>
+		* <span class="hakurei-shrine"> Kasen, Reisen </span>
+		* <span class="hakurei-shrine"> Sanae, Iku </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Keine / Kasen / Nitori / Aya** </span>
+	* <span class="form-change"> Form Change: **Keine / Kasen / Aya / Nitori** </span>
 	* Equipment:
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
@@ -1204,16 +1200,12 @@
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 			* <span class="equip-add"> (3) **Forbidden Tablet** (4) </span>
-		* <span class="equip-add"> **Reimu**: </span>
-			* <span class="equip-add"> (3) **Getitup V** (4) </span>
 		* <span class="equip-add"> **Cirno**: </span>
 			* <span class="equip-add"> (3) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (2) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Keine**: 3ST - Sword 3 -> 5 </span>
-		* <span class="learn-skill"> **Reimu**: Final Prayer 0 -> 1 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 3 -> 5 </span>
 * Level reference: Nitori 28
 * Enter the dungeon (10F) and head east for FOE
@@ -1234,27 +1226,44 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori/Aya to HP </span>
 		* <span class="hakurei-item"> Use **Training Manual x1** on **Komachi** </span>
+		* <span class="hakurei-item"> Use **Life Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Magic Gem xALL** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Protection Gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Wisdom Gem xALL** on **Iku** </span>
+		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Iku** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Komachi / Nitori / Sanae** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass  </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Nitori**: HP 40 -> 50 / ATK 50 -> 60 / DEF 30 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 50 / ATK 50 -> 60 / DEF 0 -> 50 </span>
 		* <span class="magic-library"> **Reisen**: HP 0 -> 20 </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Keine -> Reisen** </span>
+		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
+		* <span class="human-village"> Swap **Wriggle -> Sanae** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Komachi / Reisen** </span>
 	* Equipment:
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **Luster Candy** (4) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (2) **Aegis Button** (2) </span>
+		* <span class="equip-add"> **Reisen**: </span>
+			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 5 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
+		* <span class="learn-skill"> **Nitori**: DEF Boost 0 -> 3 / Frontline Guard 0 -> 1 / Maintenance 0 -> 1 </span>
 		* <span class="learn-skill"> **Aya**: EVA Boost 0 -> 2 </span>
 		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferriage Fog 1 -> 5 </span>
-		* <span class="learn-skill"> **Sanae**: Youkai Buster 0 -> 2 / Miracle Fruit 1 -> 5 </span>
+		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Youkai Buster 0 -> 2 </span>
+* Use these facilities again:
+	* <span class="nitori-shop"> **Nitori Shop**: </span>
+		* <span class="nitori-shop"> Sell every material </span>
+		* <span class="nitori-shop"> Sell every subequip except: </span>
+			* <span class="nitori-shop"> Green Dream </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
 * Enter the dungeon (10F southwest) and head for the boss
-* Level reference: Nitori 29
+* Level reference: Komachi 27
 <hr>
 
 * **Boss Fight - Remilia Scarlet & Sakuya Izayoi (Lv43)**
