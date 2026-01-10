@@ -308,17 +308,17 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | HQ Sake Deer | X |
 | Lapis Lazuli Light x2 | X |
 | Pride | X |
-| Purple Orb | O |
+| Purple Orb | X |
 | Scouter | X |
 | Shining Black Stone x2 | X |
 | Stone of Awakening | O |
 | Strange Meat Pie | O |
-| The Arch | O |
+| The Arch | X |
 | Treasure Chest Key | O |
 | Yggdrasil Dew | O |
-| Floor Total | 10 |
+| Floor Total | 8 |
 | Possible Skips | 0 |
-| Combined Total | 97 |
+| Combined Total | 91 |
 
 #### <a id="floor-12"></a>Floor 12
 
