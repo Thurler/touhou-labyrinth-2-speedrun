@@ -1297,6 +1297,7 @@
 		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Reisen -> Rumia** </span>
+		* <span class="human-village"> Swap **Sanae -> Wriggle** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
@@ -1305,8 +1306,6 @@
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (if Remilia dropped) (1) **Glaive of Pain** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 3 </span>
 		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / HP Boost 0 -> 4 </span>
