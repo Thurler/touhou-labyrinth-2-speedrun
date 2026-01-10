@@ -264,7 +264,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Youkai's Fire Blowgun x2 | X |
 | Floor Total | 9 |
 | Possible Skips | 0 |
-| Combined Total | 79 |
+| Combined Total | 77 |
 
 #### <a id="floor-10"></a>Floor 10
 
