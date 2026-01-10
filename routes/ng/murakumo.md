@@ -1342,7 +1342,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (3) **Meteor Drive** (5) </span>
-* Level reference: Nitori 32
+* Level reference: Nitori 31
 * Enter the dungeon (12F)
 
 ![](img/murakumo/12-01-west.png)
@@ -1354,7 +1354,7 @@
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
-* Level reference: Nitori 33
+* Level reference: Nitori 31
 * Enter the dungeon (12F)
 
 ![](img/murakumo/12-02-east.png)
@@ -1369,7 +1369,7 @@
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi** </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Cirno -> Reisen** </span>
+		* <span class="human-village"> Swap **Wriggle -> Reisen** </span>
 * Open the menu and take the following actions:
 	* * <span class="form-change"> Form Change: **Kasen / Aya / Komachi / Reisen** </span>
 	* Equipment:
@@ -1377,7 +1377,7 @@
 			* <span class="equip-add"> (3) **Energy Pack** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: Ferriage Fog 1 -> 5 / Shinigami Work 0 -> 1 / Ferry Wages 0 -> 5 </span>
-* Level reference: Reisen 34
+* Level reference: Reisen 31
 * Enter the dungeon (12F west) and go fight the Mirror
 <hr>
 
