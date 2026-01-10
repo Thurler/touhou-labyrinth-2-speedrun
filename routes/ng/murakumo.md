@@ -1316,28 +1316,21 @@
 
 ![](img/murakumo/11-01-west.png)
 
-* When you reach the destination, farm until Nitori wipe
+* When you reach the destination, go back to Gensokyo immediately
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 * Open the menu and take the following actions:
 	* Equipment:
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-add"> (if not dropped) (1) **Glaive of Pain** (4) </span>
-			* <span class="equip-add"> (3) **The Arch** (4) </span>
-			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
-	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 </span>
-		* <span class="learn-skill"> **Chen**: Beat Down 1 -> 2 </span>
-* Level reference: Nitori 31
+* Level reference: Nitori 30
 * Enter the dungeon (11F)
 
 ![](img/murakumo/11-02-southeast.png)
 
-* When you reach the 12F relay circle, farm until Nitori wipe on 11F
+* When you reach the 12F relay circle, go back to Gensokyo immediately
 
 ## <a id="Header-4-5"></a>Explore 12F
 
