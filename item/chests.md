@@ -331,7 +331,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Energy Pack | O |
 | Grand Dragon Medal | X |
 | Training Egg | X |
-| Lambda Driver | O |
+| Lambda Driver | X |
 | Love Machine 3322 | X |
 | Priest's Crystal Ball x3 | X |
 | Pure HQ Sake Butterfly | X |
@@ -343,9 +343,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Training Manual | O |
 | Treasure Chest Key | O |
 | Wallbreaker Armband | O |
-| Floor Total | 8 |
+| Floor Total | 7 |
 | Possible Skips | 0 |
-| Combined Total | 105 |
+| Combined Total | 98 |
 
 #### <a id="floor-13"></a>Floor 13
 
