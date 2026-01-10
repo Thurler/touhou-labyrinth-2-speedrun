@@ -1744,7 +1744,7 @@
 		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi** </span>
-		* <span class="magic-reincarnate"> **Reincarnate Nitori, Kasen** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Nitori / Kasen** </span>
 		* <span class="subclass-add"> **Chen** learns **Herbalist** subclass </span>
 		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
