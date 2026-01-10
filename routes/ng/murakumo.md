@@ -955,6 +955,7 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
 		* <span class="magic-reset"> Reset **Nitori** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Sanae -> Marisa** </span>
@@ -970,6 +971,8 @@
 			* <span class="equip-add"> (M) **Source of Magic** (1) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: Motivated Heart 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Motivated Heart 0 -> 2 </span>
 * Level reference: Nitori 23
 * Enter the dungeon (8F South)
 
@@ -1017,7 +1020,7 @@
 * Use these facilities:
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Marisa / Rumia / Minoriko** </span>
-		* <span class="magic-reincarnate"> **Reincarnate Nitori / Parsee** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Nitori** </span>
 		* <span class="magic-reset"> Reset **Aya / Sanae** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enhancer** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
@@ -1206,6 +1209,7 @@
 			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 	* Learn Skills:
+		* <span class="learn-skill"> **Kourin**: Motivated Heart 1 -> 2 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 3 -> 5 </span>
 * Level reference: Nitori 28
 * Enter the dungeon (10F) and head east for FOE
