@@ -1128,22 +1128,26 @@
 * When you're back at Gensokyo, open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-remove"> **Reisen**: </span>
-			* <span class="equip-remove"> (M) **Remove** </span>
+			* <span class="equip-remove"> (M, 1) **Remove** </span>
 * After that, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Rumia, Chen </span>
-		* <span class="hakurei-shrine"> Nitori(ATK) </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> Reset **Marisa / Nitori** </span>
-		* <span class="subclass-add"> **Chen** learns **Warrior** subclass </span>
+		* <span class="magic-reset"> Reset **Marisa** </span>
+		* <span class="magic-reincarnate"> Reincarnate **Nitori** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
+		* <span class="subclass-add"> **Kasen** learns **Monk** subclass </span>
+		* <span class="magic-library"> **Nitori**: ATK 0 -> 50 / SPD 0 -> 30 </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
+		* <span class="hakurei-shrine"> Nitori(ATK) </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Reisen -> Cirno** </span>
-		* <span class="human-village"> Swap **Marisa -> Chen** </span>
-		* <span class="human-village"> Swap **Parsee -> Wriggle** </span>
+		* <span class="human-village"> Swap **Sanae -> Cirno** </span>
+		* <span class="human-village"> Swap **Reimu -> Parsee** </span>
+		* <span class="human-village"> Swap **Marisa -> Wriggle** </span>
+		* <span class="human-village"> Swap **Reisen -> Kasen** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Komachi / Kasen / Nitori / Chen** </span>
+	* <span class="form-change"> Form Change: **Komachi / Kasen / Aya / Nitori** </span>
 	* Equipment:
+		* <span class="equip-add"> **Kasen**: </span>
+			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
 			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
@@ -1156,7 +1160,6 @@
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi** Short Life Expectancy 1 -> 2 </span>
 		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Maintenance 0 -> 1 </span>
-		* <span class="learn-skill"> **Chen**: Instant Attack 0 -> 1 / Beat Down 0 -> 1 / Enhanced Row Attack 0 -> 3 </span>
 * Level reference: Nitori 26
 * Enter the dungeon (10F)
 
