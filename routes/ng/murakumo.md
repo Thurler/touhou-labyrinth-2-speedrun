@@ -1488,38 +1488,40 @@
 		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Marisa -> Rumia** </span>
-		* <span class="human-village"> Swap **Reisen -> Cirno** </span>
+		* <span class="human-village"> Swap **Sanae -> Cirno** </span>
+		* <span class="human-village"> Swap **Rumia -> Nitori** </span>
+		* <span class="human-village"> Swap **Marisa -> Wriggle** </span>
+		* <span class="human-village"> Swap **Reisen -> Suwako** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (if Murakumo DTH) (1) **Cinderforge Sword** (5) </span>
+		* <span class="equip-add"> **Suwako**: </span>
+			* <span class="equip-add"> (M) **Shoes of Happiness** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Komachi**: Shinigami Work 0 -> 1 / Ferry Wages 0 -> 10 / Short Life Expectancy 1 -> 4 </span>
-		* <span class="learn-skill"> **Iku**: Area Attack 0 -> 1 / Lightning Fish 0 -> 1 / Hagoromo Sky 0 -> 2 </span>
-* Level reference: Nitori 37
+		* <span class="learn-skill"> **Komachi**: Short Life Expectancy 1 -> 4 / Ferry Wages 0 -> 10 / Shinigami Work 0 -> 1 </span>
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 </span>
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Lightning Fish 0 -> 1 / Area Attack 0 -> 1 </span>
+		* <span class="learn-skill"> **Suwako**: Motivated Heart 0 -> 2 </span>
+* Level reference: Nitori 35
 * Enter the dungeon (13F)
 
 ![](img/murakumo/13-01-east.png)
 
-* When you reach the -4 orb, re-enter the dungeon
-* When you reach the 14F relay circle, farm until Nitori wipe on 13F
-
-## <a id="Header-5-2"></a>Explore 14F (Part 1)
-
-* When you're back on Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+* When you reach the -4 orb, go back to Gensokyo
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (2) **Wash Basin Set** (5) </span>
-* Level reference: Nitori 38
-* Enter the dungeon (14F center east)
+* Enter the dungeon (13F)
+* When you reach the 14F relay circle, keep going until next relay point
+
+## <a id="Header-5-2"></a>Explore 14F (Part 1)
 
 ![](img/murakumo/14-01-east.png)
 
-* When you reach the relay circle, farm until Nitori wipe
+* When you reach the relay circle, go back to Gensokyo immediately
 
 ## <a id="Header-5-3"></a>Memorized Knowledge Fight
 
