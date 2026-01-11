@@ -1822,6 +1822,9 @@
 		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / High Stakes 0 -> 2 / Jealousy of the Kind 1 -> 5 </span>
 		* <span class="learn-skill"> **Momiji**: Herb of Awakening 0 -> 5 </span>
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
+* Use the shrine again to delevel:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Delevel characters </span>
+		* <span class="hakurei-shrine"> Delevel Reimu, Keine, Cirno, Kasen </span>
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 
