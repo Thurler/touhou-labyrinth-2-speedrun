@@ -296,9 +296,9 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Forge whatever you can, a general guide: </span>
-		  * <span class="nitori-shop"> Ephemeral Bauble x1 guaranteed </span>
-		  * <span class="nitori-shop"> Crepe Mariette x1 guaranteed </span>
-		  * <span class="nitori-shop"> Book of Stamp Bingo if dropped Chitin Shell </span>
+			* <span class="nitori-shop"> Ephemeral Bauble x1 guaranteed </span>
+			* <span class="nitori-shop"> Crepe Mariette x1 guaranteed </span>
+			* <span class="nitori-shop"> Book of Stamp Bingo if dropped Chitin Shell </span>
 		* <span class="nitori-shop"> Count how many forges you have, need 10 total on next trip </span>
 * Level reference: Reimu 10
 * Enter the dungeon (3F)
