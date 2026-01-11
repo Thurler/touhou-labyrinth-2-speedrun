@@ -451,7 +451,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Primal Armor | X |
 | Star World Bracelet | X |
 | Tome of Insight - MP | X |
-| Tome of Reincarnation | X |
+| Tome of Reincarnation | O |
 | Treasure Chest Key | O |
 | Wash Basin Set | X |
 | Floor Total | 3 |
@@ -554,7 +554,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Scouter | X |
 | Star of the Just | X |
 | The Bee | X |
-| Tome of Reincarnation | X |
+| Tome of Reincarnation | O |
 | Training Manual | X |
 | Treasure Chest Key | X |
 | Wash Basin Set | X |
