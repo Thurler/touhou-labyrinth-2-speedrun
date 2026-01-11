@@ -1180,7 +1180,7 @@
 
 ![](img/murakumo/10-02-south.png)
 
-* When you reach the destination, farm until Komachi 2000 EXP away from Lv27
+* When you reach the destination, farm until Nitori 2400 EXP away from Lv29
 
 ## <a id="Header-4-2"></a>Gold Hymn Fight
 
@@ -1234,6 +1234,7 @@
 		* <span class="hakurei-item"> Use **Protection Gem xALL** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Wisdom Gem xALL** on **Iku** </span>
 		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Iku** </span>
+		* <span class="hakurei-shrine"> Delevel Kourin, Keine </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> Reset **Komachi / Nitori / Sanae** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass  </span>
