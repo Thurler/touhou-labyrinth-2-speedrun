@@ -1656,8 +1656,9 @@
 
 ## <a id="Header-5-7"></a>Yuuka Side Quest
 
-* When you're back on Gensokyo, re-enter the dungeon farm Minoriko BP
-* Need 400 BP on her, 3 per battle in 1F with her in front
+* When you're back on Gensokyo, check Minoriko's BP
+	* Need 400 BP on her, 3 per battle in 14/15F with her in front
+	* <span class="form-change"> Form Change: **Aya / Nitori / Iku / Minoriko** </span>
 * Level reference: Nitori 44
 * Locations: (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
