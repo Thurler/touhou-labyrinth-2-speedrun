@@ -1657,61 +1657,60 @@
 ## <a id="Header-5-7"></a>Yuuka Side Quest
 
 * When you're back on Gensokyo, check Minoriko's BP
-	* Need 400 BP on her, 3 per battle in 14/15F with her in front
+	* Need 400 BP on her, 3 per battle in 14F with her in front
 	* <span class="form-change"> Form Change: **Aya / Nitori / Iku / Minoriko** </span>
-* Level reference: Nitori 44
+* Level reference: Nitori 43
 * Locations: (3F, 5F south, 8F south, 10F southwest, 14F center east hole)
 
 ![](img/murakumo/15-03-yuuka.png)
 
 * When you're done with all events, go back to Gensokyo
 * When you're back on Gensokyo, use these facilities:
-	* <span class="nitori-shop"> **Nitori Shop**: Sell every material </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonuses </span>
-		* <span class="hakurei-shrine"> Reimu, Kourin </span>
-		* <span class="hakurei-shrine"> Cirno, Minoriko(HP) </span>
-		* <span class="hakurei-shrine"> Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori, Aya(HP), Kasen </span>
-		* <span class="hakurei-shrine"> Reisen, Sanae, Iku </span>
+		* <span class="hakurei-shrine"> Kourin, Cirno </span>
+		* <span class="hakurei-shrine"> Minoriko(HP), Komachi </span>
+		* <span class="hakurei-shrine"> Nitori, Aya(HP) </span>
+		* <span class="hakurei-shrine"> Kasen, Sanae </span>
+		* <span class="hakurei-item"> Use **Life gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Fighting gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Affection gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Swiftness gem xALL** on **Nitori** </span>
+		* <span class="hakurei-item"> Use **Tome of Insight - Vitality** on **Kourin** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Marisa** </span>
+		* <span class="magic-reset"> **Reset Marisa, Kourin, Nitori** </span>
 		* <span class="magic-reset"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Minoriko** learns **Enhancer** subclass </span>
+		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Wriggle -> Kourin** </span>
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Use special items </span>
-		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
-		* <span class="hakurei-item"> Use **Tome of Insight - Vitality** on **Kourin** </span>
+		* <span class="human-village"> Swap **Wriggle -> Sanae** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Cirno / Kourin / Sanae / Kasen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Kourin**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
-			* <span class="equip-add"> (2) **Rosebush Robe** (2) </span>
+			* <span class="equip-add"> (2) **Green Dream** (2) </span>
 			* <span class="equip-add"> (3) **Star World Bracelet** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (2) **Green Dream** (2) </span>
 		* <span class="equip-add"> **Minoriko**: </span>
 			* <span class="equip-add"> (2) **Divine Barrier** (5) </span>
-			* <span class="equip-add"> (1) **Green Dream** (2) </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (if Cinderforge drop) (1) **Cinderforge Sword** (5) </span>
-			* <span class="equip-add"> (otherwise) (1) **Glaive of Pain** (5) </span>
-			* <span class="equip-add"> (2) **Green Dream** (2) </span>
+			* <span class="equip-add"> (1) **Rosebush Robe** (2) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kourin**: HP High Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Kourin**: HP High Boost 0 -> 5 / Effective Form Change 0 -> 2 </span>
 		* <span class="learn-skill"> **Sanae**: Youkai Buster 1 -> 2 </span>
 		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Overheating 0 -> 1 / Tension Up 0 -> 2 </span>
 		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Reimu**: HP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Aya**: HP Boost 4 -> 5 / EVA Boost 3 -> 5 </span>
-		* <span class="learn-skill"> **Chen**: ATK Boost 0 -> 2 </span>
+		* <span class="learn-skill"> **Parsee**: Motivated Heart 0 -> 2 </span>
+		* <span class="learn-skill"> **Aya**: HP Boost 4 -> 5 / EVA Boost 0 -> 5 </span>
 * Enter the dungeon (9F) and unlock Yuuka's room
 <hr>
 
@@ -1728,8 +1727,8 @@
 		* Swap Kasen with Nitori
 		* Sanae spams Miracle Fruit on Nitori
 		* Nitori spams Kappa Waterfall
-		* Occasionally swap Nitori with Chen
-		* Chen spams Kimontonkou + PSW
+		* Occasionally swap Nitori with Kasen
+		* Kasen spams Higekiri's Arm
 		* Occasionally swap Sanae with Aya
 		* Aya DGAs Nitori with good timing
 	* **Phase 3 - Master Spark**
