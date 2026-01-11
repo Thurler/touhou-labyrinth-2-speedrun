@@ -367,7 +367,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Training Manual | X |
 | Floor Total | 1 |
 | Possible Skips | 0 |
-| Combined Total | 106 |
+| Combined Total | 99 |
 
 #### <a id="floor-14"></a>Floor 14
 
