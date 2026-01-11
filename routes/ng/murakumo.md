@@ -1044,6 +1044,7 @@
 		* <span class="hakurei-item"> Use **Protection Gem xALL** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Wisdom Gem xALL** on **Iku** </span>
 		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Iku** </span>
+		* <span class="hakurei-shrine"> Delevel Kourin, Keine, Rumia </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Equipment:
@@ -1153,8 +1154,7 @@
 			* <span class="equip-add"> (1) **Pale Wing Thruster** (2) </span>
 		* <span class="equip-add"> **Iku**: </span>
 			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
-			* <span class="equip-add"> (if Tenshi drop) (1) **Portable Vibrocannon** (4) </span>
-			* <span class="equip-add"> (otherwise) (1) **Glow Crystal** (3) </span>
+			* <span class="equip-add"> (1) **Portable Vibrocannon** (4) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
@@ -1174,7 +1174,6 @@
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Iku**: </span>
-			* <span class="equip-add"> (if no Tenshi drop) (1) **Tisiphone Edge** (4) </span>
 			* <span class="equip-add"> (2) **Tisiphone Edge** (4) </span>
 * Level reference: Nitori 27
 * Enter the dungeon (10F)
