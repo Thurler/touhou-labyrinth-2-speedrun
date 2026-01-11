@@ -1600,40 +1600,42 @@
 
 ## <a id="Header-5-4"></a>Explore 13F (Part 2)
 
-* When you're back on Gensokyo, do the following menu:
+* When you're back on Gensokyo, visit the following facilities:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Nitori, Parsee** </span>
+		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
+		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
+	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Momiji -> Wriggle** </span>
+		* <span class="human-village"> Swap **Reisen -> Iku** </span>
+		* <span class="human-village"> Swap **Sanae -> Suwako** </span>
+* Open the menu and take the following actions:
+	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
 	* Equipment:
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-remove"> (3) **Remove**</span>
 			* <span class="equip-add"> (M) **Training Egg** (2) </span>
-* After that, visit the following facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
-	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Nitori** </span>
-		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
-	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Parsee -> Komachi** </span>
-		* <span class="human-village"> Swap **Reisen -> Rumia** </span>
-* Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Komachi / Aya / Nitori / Iku** </span>
-	* Equipment:
+		* <span class="equip-add"> **Suwako**: </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
 			* <span class="equip-add"> (2) **Getitup V** (4) </span>
+			* <span class="equip-add"> (1) **Cinderforge Sword / Glaive of Pain** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Ability Manip Water 0 -> 2 / Maintenance 0 -> 1 </span>
-* Level reference: Nitori 41
+		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Lightning Fish 0 -> 2 / Area Attack 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Motivated Heart 0 -> 2 </span>
+* Level reference: Nitori 37
 * Enter the dungeon (13F) and reset the temperature
 
 ![](img/murakumo/13-02-west.png)
 
-* After getting the 14F relay, get leftmost treasure and farm until Nitori wipe
+* After getting the 14F relay, get the leftmost treasure then leave
 
 ## <a id="Header-5-5"></a>Explore 14F (Part 2)
 
-* When you're back on Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
-* Level reference: Nitori 43
 * Enter the dungeon (14F center west)
 
 ![](img/murakumo/14-02-west.png)
