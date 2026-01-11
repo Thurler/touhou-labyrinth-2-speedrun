@@ -1044,7 +1044,6 @@
 		* <span class="hakurei-item"> Use **Protection Gem xALL** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Wisdom Gem xALL** on **Iku** </span>
 		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Iku** </span>
-		* <span class="hakurei-shrine"> Delevel Kourin, Keine, Rumia </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Sanae / Minoriko / Aya / Reisen** </span>
 	* Equipment:
@@ -1088,6 +1087,8 @@
 		* <span class="learn-skill"> **Iku**: Hagoromo Sky 0 -> 2 / Enhanced Attack 0 -> 1 / Mind Body One 0 -> 2 </span>
 		* <span class="learn-skill"> **Marisa**: Magic Training 0 -> 2 / Art of Battlemage 0 -> 5 </span>
 * Use these facilities again:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Delevel characters </span>
+		* <span class="hakurei-shrine"> Delevel Kourin, Keine, Rumia </span>
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
 		* <span class="nitori-shop"> Sell every material </span>
 		* <span class="nitori-shop"> Sell every subequip except: </span>
