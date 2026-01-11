@@ -1860,11 +1860,12 @@
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Aya(SPD), Reisen, Yuyuko(SPD) </span>
+		* <span class="hakurei-shrine"> Delevel Kourin, Cirno </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Komachi -> Reisen** </span>
-		* <span class="human-village"> Swap **Iku -> Yuyuko** </span>
+		* <span class="human-village"> Swap **Reimu -> Reisen** </span>
+		* <span class="human-village"> Swap **Kasen -> Yuyuko** </span>
 * Open the menu and take the following actions:
-	* <span class="form-change"> Form Change: **Nitori / Aya / Yuyuko / Reisen** </span>
+	* <span class="form-change"> Form Change: **Kourin / Aya / Yuyuko / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Yuyuko**: </span>
 			* <span class="equip-add"> (M) **Dark Determination** (2) </span>
@@ -1879,7 +1880,7 @@
 	* Aya DGAs Yuyuko for try #1
 		* DGA again for try #2
 	* For finer details see Azure Giant's [Boss Info](../../enemy/azuregiant.md)
-* Level reference: Nitori 46
+* Level reference: Aya 43
 * When you're done, go back to Gensokyo
 
 ## <a id="Header-5-11"></a> Yukari Fight
