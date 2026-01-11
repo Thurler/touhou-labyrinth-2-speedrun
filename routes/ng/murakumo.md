@@ -1867,7 +1867,7 @@
 	* <span class="form-change"> Form Change: **Nitori / Aya / Yuyuko / Reisen** </span>
 	* Equipment:
 		* <span class="equip-add"> **Yuyuko**: </span>
-			* <span class="equip-add"> (if dropped) (M) **Dark Determination** (2) </span>
+			* <span class="equip-add"> (M) **Dark Determination** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Yuyuko**: Saigyouji Flawless Nirvana 1 -> 5 </span>
 * Enter the dungeon (15F center) and go fight the Giant
