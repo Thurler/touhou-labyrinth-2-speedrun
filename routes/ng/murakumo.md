@@ -1370,6 +1370,7 @@
 * When you're back at Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Komachi(SPD), Aya(HP), Reisen </span>
+		* <span class="hakurei-shrine"> Delevel Kourin, Keine, Rumia </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Komachi** </span>
 	* <span class="human-village"> **Human Village**: </span>
@@ -1430,6 +1431,7 @@
 		* <span class="hakurei-item"> Use **Training Manual xALL** on **Iku** </span>
 		* <span class="hakurei-item"> Use **Wisdom Gem xALL** on **Iku** </span>
 		* <span class="hakurei-item"> Use **Swiftness Gem xALL** on **Iku** </span>
+		* <span class="hakurei-shrine"> Delevel Kourin, Keine, Rumia </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Sanae / Iku** </span>
 		* <span class="subclass-add"> **Marisa** learns **Enhancer** subclass </span>
