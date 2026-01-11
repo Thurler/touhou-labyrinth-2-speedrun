@@ -1685,7 +1685,6 @@
 		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
-		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Wriggle -> Sanae** </span>
 * Open the menu and take the following actions:
@@ -1711,6 +1710,14 @@
 		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
 		* <span class="learn-skill"> **Parsee**: Motivated Heart 0 -> 2 </span>
 		* <span class="learn-skill"> **Aya**: HP Boost 4 -> 5 / EVA Boost 0 -> 5 </span>
+* Use these facilities again:
+	* <span class="nitori-shop"> **Nitori Shop**: </span>
+		* <span class="nitori-shop"> Sell every material </span>
+		* <span class="nitori-shop"> Sell every subequip except: </span>
+			* <span class="nitori-shop"> Dark Magic Grimoire </span>
+			* <span class="nitori-shop"> Intama </span>
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 * Enter the dungeon (9F) and unlock Yuuka's room
 <hr>
 
