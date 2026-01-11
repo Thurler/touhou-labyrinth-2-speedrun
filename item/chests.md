@@ -394,7 +394,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wisdom Gem | X |
 | Floor Total | 5 |
 | Possible Skips | 0 |
-| Combined Total | 111 |
+| Combined Total | 104 |
 
 #### <a id="floor-15"></a>Floor 15
 

@@ -1526,21 +1526,24 @@
 ## <a id="Header-5-3"></a>Memorized Knowledge Fight
 
 * When you're back on Gensokyo, use these facilities:
-	* <span class="nitori-shop"> **Nitori Shop**: Sell every material </span>
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
-		* <span class="hakurei-shrine"> Cirno, Komachi, Chen </span>
-		* <span class="hakurei-shrine"> Nitori(HP), Parsee </span>
-		* <span class="hakurei-shrine"> Aya, Kasen </span>
-		* <span class="hakurei-shrine"> Reisen(SPD), Sanae, Iku </span>
-		* <span class="hakurei-item"> Use **Magic Gem x3** on **Nitori** if available </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Cirno, Nitori** </span>
+		* <span class="magic-reset"> **Reset Cirno, Nitori, Parsee** </span>
+		* <span class="magic-reset"> **Reincarnate Iku** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Kasen**: ATK 0 -> 50 </span>
+		* <span class="magic-library"> **Iku**: MAG/SPD 0 -> 50 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
+		* <span class="hakurei-shrine"> Momiji, Komachi, Nitori(HP) </span>
+		* <span class="hakurei-shrine"> Parsee (ATK), Aya </span>
+		* <span class="hakurei-shrine"> Kasen, Reisen(SPD) </span>
+		* <span class="hakurei-shrine"> Sanae, Iku (MAG) </span>
+		* <span class="hakurei-item"> Use **Training Manual xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Magic Gem xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Fighting Gem xALL** on **Parsee** </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Komachi -> Parsee** </span>
-		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
+		* <span class="human-village"> Swap **Iku -> Momiji** </span>
+		* <span class="human-village"> Swap **Wriggle -> Reisen** </span>
+		* <span class="human-village"> Swap **Suwako -> Sanae** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Nitori / Aya / Sanae / Parsee** </span>
 	* Equipment:
@@ -1551,19 +1554,20 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (if Cinderforge drop) (3) **Cinderforge Sword** (5) </span>
 			* <span class="equip-add"> (otherwise) (3) **Glaive of Pain** (5) </span>
-			* <span class="equip-add"> (2) **Hero's Medal** (4) </span>
-			* <span class="equip-add"> (1) **Pride** (4) </span>
+			* <span class="equip-add"> (2) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 		* <span class="equip-add"> **Kasen**: </span>
 			* <span class="equip-add"> (1) **War Mask of the Butcher** (5) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Nitori**: MND Boost 0 -> 5 / AFF Boost 0 -> 5 / Maintenance 0 -> 1 / Overheating 0 -> 1 </span>
-		* <span class="learn-skill"> **Parsee**: Grudge Returning 1 -> 5 </span>
-		* <span class="learn-skill"> **Iku**: Lightning Fish 1 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: MND Boost 0 -> 5 / AFF Boost 0 -> 5 / Maintenance 0 -> 1 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Grudge Returning 1 -> 5 </span>
 		* <span class="learn-skill"> **Kasen**: SPD Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Cirno**: Blizzard Blowout 0 -> 5 </span>
-		* <span class="learn-skill"> **Chen**: Mind Body One 0 -> 2 </span>
-* Level reference: Nitori 40
+* Before entering the dungeon, revisit the shrine:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Delevel characters </span>
+		* <span class="hakurei-shrine"> Delevel Kourin, Keine, Cirno, Minoriko, Komachi </span>
+* Level reference: Nitori 36
 * Enter the dungeon (14F east) and go fight the boss
 <hr>
 
@@ -1578,19 +1582,19 @@
 		* If TRR proc'd:
 			* Nitori swaps Sanae with Cirno
 			* Parsee uses Jealousy of the Kind and Lovely
-		* Form Change Nitori / Reimu / Cirno / Iku
+		* Form Change Nitori / Kourin / Cirno / Keine
 	* **Phase 2 - Quick Kill**
-		* Nitori swaps in Chen, who swaps in Parsee
+		* Nitori swaps in Momiji, who swaps in Parsee
 		* Parsee concentrates
 		* Nitori swaps in Sanae
-		* Chen swaps self with Reisen
+		* Momiji swaps self with Reisen
 		* Sanae spams Miracle Fruit on Parsee
 		* Nitori and Reisen IA pivot Sanae and Parsee
 		* Parsee uses Grudge Returning
 		* If TRR does not proc:
 			* Concentrate -> Grudge Returning until proc
 		* Parsee uses Jealousy of the Kind and Lovely
-		* At low HP, Nitori, Kasen and Chen finish
+		* At low HP, Nitori and Kasen finish
 	* For finer details see Memorized Knowledge's [Boss Info](../../enemy/knowledge.md)
 * When you're done, simply go back to Gensokyo
 
