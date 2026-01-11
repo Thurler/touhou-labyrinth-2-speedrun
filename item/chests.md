@@ -429,7 +429,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 8 |
 | Possible Skips | 0 |
-| Combined Total | 119 |
+| Combined Total | 112 |
 
 #### <a id="floor-16"></a>Floor 16
 
