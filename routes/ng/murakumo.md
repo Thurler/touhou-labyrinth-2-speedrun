@@ -1763,15 +1763,18 @@
 	* Equipment:
 		* <span class="equip-remove"> **Kourin**:</span>
 			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
+		* <span class="equip-remove"> **Nitori**: </span>
+			* <span class="equip-remove"> (1) **Remove** </span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Minoriko -> Parsee** </span>
-		* <span class="human-village"> Swap **Rumia -> Satori** </span>
-		* <span class="human-village"> Swap **Kourin -> Yuuka** </span>
+		* <span class="human-village"> Swap **Iku -> Reimu** </span>
+		* <span class="human-village"> Swap **Nitori -> Momiji** </span>
+		* <span class="human-village"> Swap **Minoriko -> Satori** </span>
+		* <span class="human-village"> Swap **Suwako -> Yuuka** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Kourin / Minoriko / Chen / Komachi** </span>
+		* <span class="magic-reset"> **Reset Kourin / Minoriko / Komachi / Parsee** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Nitori / Kasen** </span>
-		* <span class="subclass-add"> **Chen** learns **Herbalist** subclass </span>
+		* <span class="subclass-add"> **Momiji** learns **Herbalist** subclass </span>
 		* <span class="subclass-add"> **Komachi** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
 		* <span class="magic-library"> **Satori**: HP/SPD 0 -> 50 </span>
@@ -1779,44 +1782,46 @@
 		* <span class="magic-library"> **Parsee**: SPD 0 -> 70 </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
+		* <span class="hakurei-shrine"> Switch Momiji to SPD </span>
 		* <span class="hakurei-shrine"> Switch Komachi to HP </span>
-		* <span class="hakurei-shrine"> Switch Chen to SPD </span>
 		* <span class="hakurei-shrine"> Switch Parsee to ATK </span>
 		* <span class="hakurei-shrine"> Satori, Yuuka HP </span>
-		* <span class="hakurei-item"> Use **Training Manuals** on **Parsee** </span>
-		* <span class="hakurei-item"> Use **Fighting gems** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Training Manual xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Life gem xALL** on **Sanae** </span>
+		* <span class="hakurei-item"> Use **Fighting gem xALL** on **Parsee** </span>
+		* <span class="hakurei-item"> Use **Wisdom gem xALL** on **Sanae** </span>
+		* <span class="hakurei-item"> Use **Affection gem xALL** on **Sanae** </span>
+		* <span class="hakurei-item"> Use **Swiftness gem xALL** on **Sanae** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Komachi / Cirno / Reimu / Kasen** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Nitori**: </span>
-			* <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-remove"> **Reimu**: </span>
 			* <span class="equip-remove"> (1) **Remove** </span>
-		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
-			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
-			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
-			* <span class="equip-add"> (if Cinderforge drop) (3) **Cinderforge Sword** (5) </span>
-		* <span class="equip-add"> **Yuuka**: </span>
-			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
-			* <span class="equip-add"> (2) **Sirloin** (3) </span>
-			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
-			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Satori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
 			* <span class="equip-add"> (2) **Courtesan's Sorrow** (3) </span>
 			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+		* <span class="equip-add"> **Parsee**: </span>
+			* <span class="equip-add"> (3) **Cinderforge Sword / Glaive of Pain** (5) </span>
+			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 		* <span class="equip-add"> **Sanae**: </span>
 			* <span class="equip-add"> (2) **Star of the Just** (5) </span>
+		* <span class="equip-add"> **Yuuka**: </span>
+			* <span class="equip-add"> (1) **Energy Pack** (5) </span>
+			* <span class="equip-add"> (2) **Sirloin** (3) </span>
+			* <span class="equip-add"> (3) **Dark Magic Grimoire** (2) </span>
+			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Komachi**: HP Boost 0 -> 5 / Frontline Guard 0 -> 1 / Regeneration 0 -> 1 / Ferry Wages 0 -> 10 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Jealousy of the Kind 1 -> 5 / High Stakes 0 -> 2 </span>
-		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Reimu**: Final Prayer 0 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: Shopowner 0 -> 10 / Shopkeeper 0 -> 10 / Motivated Heart 0 -> 2 </span>
 		* <span class="learn-skill"> **Satori**: Small MP Recovery 0 -> 1 / MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Chen**: SPD Boost 0 -> 5 / Instant Attack 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / High Stakes 0 -> 2 / Jealousy of the Kind 1 -> 5 </span>
+		* <span class="learn-skill"> **Momiji**: Herb of Awakening 0 -> 5 </span>
+		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / HP/MP Boost 0 -> 5 </span>
 * Enter the dungeon (15F) and go fight Yuyuko
 <hr>
 
@@ -1828,21 +1833,21 @@
 		* 20% buff = 2.202M / 2.053M
 		* 50% buff = 1.657M / 1.544M
 	* **Phase 1 - TRR Proc**
-		* Swap in Chen -> Sanae -> Parsee
+		* Swap in Momiji -> Sanae -> Parsee
 		* Sanae uses Miracle Fruit on Parsee
 		* Swap Sanae for Yuuka
 		* Parsee uses Midnight Anathema Ritual
 		* Swap Parsee with Satori
 	* **Phase 2 - Beauty of Nature**
 		* Yuuka and Satori spam Beauty of Nature
-		* Swap Chen with Sanae
+		* Swap Momiji with Sanae
 		* Komachi IA pivots Yuuka and Satori
 		* Sanae juggles healing and IA pivoting
 	* **Phase 3 - Jealousy of the Kind**
 		* TRR reaches threshold
-		* Swap in Chen -> Parsee on slots 3 and 4
+		* Swap in Momiji -> Parsee on slots 3 and 4
 		* Sanae uses Miracle Fruit on Parsee once
-		* Chen uses Herb of Awakening on Parsee
+		* Momiji uses Herb of Awakening on Parsee
 		* Parsee delays her turn if needed then Jealousy of the Kind
 	* For finer details see Yuyuko's [Boss Info](../../enemy/yuyuko.md)
 * When you're done, go back to Gensokyo
