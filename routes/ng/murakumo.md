@@ -2270,11 +2270,9 @@
 		* DGA Parsee
 		* Grudge Returning
 		* Magic Transfer
-		* Swap Satori -> Momiji
 		* Placebo Effect
+		* Waste Aya turn
 		* Herb of Awakening
-		* DGA Parsee
-		* Swap Momiji -> Satori
 		* Jealousy of the Kind and Lovely
 	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
 * Go back to Gensokyo to heal after the fight
