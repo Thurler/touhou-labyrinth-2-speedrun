@@ -1982,12 +1982,12 @@
 
 ![](img/murakumo/16-01-explore.png)
 
-* When you reach the 17F relay point, go back to Gensokyo
+* When you reach the 17F relay point, keep going
 
 ## <a id="Header-6-2"></a>Explore 17F (Part 1)
 
 * Enter the dungeon (17F)
-* Leave after getting the treasures on northern end
+* Leave after getting the treasure on northern end
 
 ![](img/murakumo/17-01-goddess.png)
 
@@ -1995,31 +1995,33 @@
 
 ## <a id="Header-6-3"></a>Goddess of Fertility Fight
 
-* Before you do any menuing, do the following action:
-	* Equipment:
-		* <span class="equip-remove"> **Parsee**: </span>
-			* <span class="equip-remove"> (3) **Remove** </span>
-			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 * When you're back on Gensokyo, use these facilities:
+	* <span class="nitori-shop"> **Nitori Shop**: </span>
+		* <span class="nitori-shop"> Sell 1x Star of the Just (5) </span>
+		* <span class="nitori-shop"> Sell 1x Wash Basin Set (5) </span>
+	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Rumia -> Iku** </span>
+		* <span class="human-village"> Swap **Suwako -> Yukari** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Satori / Iku** </span>
+		* <span class="magic-reset"> **Reset Kourin** </span>
 		* <span class="magic-reset"> **Reincarnate Parsee** </span>
+		* <span class="magic-reset"> **Reset Satori / Iku** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Nitori(ATK) </span>
 		* <span class="hakurei-item"> Use **Fighting gems** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Tome of Insight - Attack** on **Nitori** </span>
-	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Parsee -> Iku** </span>
-		* <span class="human-village"> Swap **Komachi -> Yukari** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Sanae / Iku / Yukari** </span>
 	* Equipment:
-		* <span class="equip-add"> **Chen**: </span>
-			* <span class="equip-remove"> (1) **Remove** </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (1) **Meteor Drive** (5) </span>
+		* <span class="equip-add"> **Yukari**: </span>
+			* <span class="equip-add"> (M) **Cypress Stick** (1) </span>
+		* <span class="equip-remove"> **Parsee**: </span>
+			* <span class="equip-add"> (M) **Training Egg** (2) </span>
+			* <span class="equip-remove"> (1, 2, 3) **Remove** </span>
 		* <span class="equip-add"> **Nitori**: </span>
 			* <span class="equip-add"> (if Cinderforge drop) (1) **Cinderforge Sword** (5) </span>
 			* <span class="equip-add"> (otherwise) (1) **Glaive of Pain** (4) </span>
@@ -2027,8 +2029,14 @@
 	* Learn Skills:
 		* <span class="learn-skill"> **Iku**: Thundercloud Stickleback 1 -> 5 / Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 </span>
 		* <span class="learn-skill"> **Yukari**: Yukari's Spiriting Away 1 -> 5 / Manipulation of Boundaries 0 -> 2 / MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Nitori**: Mind Body as One 0 -> 2 / Overheating 0 -> 1 / Maintenance 0 -> 1 / ATK Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Trauma Recollection 0 -> 2 / Small MP Recovery 0 -> 1 / Spell Card Recollection 0 -> 1 </span>
+		* <span class="learn-skill"> **Kourin**: Shopowner 0 -> 10 / Shopkeeper 0 -> 10 </span>
+		* <span class="learn-skill"> **Parsee**: Motivated Heart 0 -> 2 </span>
+		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Overheating 0 -> 1 / Mind Body as One 0 -> 2 / ATK Boost 0 -> 5 </span>
+* Before entering the dungeon, revisit the shrine:
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Delevel characters </span>
+		* <span class="hakurei-shrine"> Level unification 1 </span>
+		* <span class="hakurei-shrine"> Level Nitori / Aya / Iku </span>
 * Enter the dungeon (16F Center) and go fight the boss
 <hr>
 
@@ -2039,9 +2047,9 @@
 		* Yukari's Spiriting Away
 		* Swap Yukari with Nitori
 		* Miracle Fruit Nitori
-		* Swap Sanae with Chen
+		* Swap Sanae with Momiji
 		* Herb of Awakening Nitori
-		* Swap Chen with Satori
+		* Swap Momiji with Satori
 		* Super Scope
 		* Thundercloud Stickleback Nitori
 		* DGA Nitori
