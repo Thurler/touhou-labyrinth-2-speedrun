@@ -1886,29 +1886,38 @@
 ## <a id="Header-5-11"></a> Yukari Fight
 
 * When you're back on Gensokyo, use these facilities:
-	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
+	* <span class="nitori-shop"> **Nitori Shop**: </span>
+		* <span class="nitori-shop"> Sell 1x Getitup V (4) </span>
+		* <span class="nitori-shop"> Sell 1x Asura Blade (4) </span>
+		* <span class="nitori-shop"> Sell 1x Lambda Driver (4) </span>
+	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
+		* <span class="hakurei-shrine"> Kourin, Cirno </span>
+		* <span class="hakurei-shrine"> Komachi, Parsee </span>
+		* <span class="hakurei-shrine"> Aya, Satori </span>
+		* <span class="hakurei-shrine"> Sanae, Yuuka </span>
 		* <span class="hakurei-item"> Use **Tome of Insight - Attack** on **Parsee** </span>
+		* <span class="hakurei-shrine"> Delevel Keine, Cirno, Nitori, Suwako </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Parsee / Aya / Satori / Yuuka** </span>
+		* <span class="magic-reset"> **Reset Kourin / Parsee / Aya / Satori / Yuuka** </span>
 		* <span class="subclass-add"> **Parsee** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Monk** subclass </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Yuyuko -> Kourin** </span>
-		* <span class="human-village"> Swap **Reisen -> Komachi** </span>
+		* <span class="human-village"> Swap **Yuyuko -> Nitori** </span>
+		* <span class="human-village"> Swap **Reisen -> Suwako** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Aya / Parsee / Yuuka / Satori** </span>
 	* Equipment:
+		* <span class="equip-remove"> **Cirno**: </span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (M) **Violent Green Rupee** (2) </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-add"> **Satori**: </span>
 			* <span class="equip-add"> (2) **Meteor Drive** (5) </span>
-		* <span class="equip-remove"> **Cirno**: </span>
-			* <span class="equip-remove"> (M, 1, 2, 3) **Remove** </span>
 		* <span class="equip-add"> **Kourin**: </span>
 			* <span class="equip-add"> (M) **Chariot Boots** (2) </span>
 			* <span class="equip-add"> (1) **Booster v0.8** (2) </span>
@@ -1918,7 +1927,7 @@
 		* <span class="learn-skill"> **Aya**: HP Boost 0 -> 2 / Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Ironclad Strat 0 -> 10 / Raid Maneuver 0 -> 1 </span>
 		* <span class="learn-skill"> **Parsee**: Fast Dash 0 -> 1 / Jealousy of the Kind 1 -> 5 / Flames of Jealousy 0 -> 2 / Final Blow 0 -> 2 / ATK Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 </span>
-		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 3 / Fast Dash 0 -> 1 </span>
+		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 2 / Fast Dash 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: Effective Formation 0 -> 2 / First Aid 1 -> 2 / HP Boost 0 -> 5 </span>
 * Enter the dungeon (15F)
 
@@ -1955,8 +1964,8 @@
 		* TRR reaches threshold
 		* Move Sanae to slot 1, swap in Parsee in slot 4
 		* Sanae uses Miracle Fruit on Parsee
-		* Swap in Chen whenever
-		* Chen uses Herb of Awakening on Parsee
+		* Swap in Momiji whenever
+		* Momiji uses Herb of Awakening on Parsee
 		* Parsee delays her turn if needed then Jealousy of the Kind
 	* For finer details see Yukari's [Boss Info](../../enemy/yukari.md)
 * After defeating her, get the 16F relay point and go back to Gensokyo
