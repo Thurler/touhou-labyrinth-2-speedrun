@@ -1284,7 +1284,6 @@
 		* Reisen spams LRE until MND debuff is big enough, can also Discarder
 		* Iku spams EDP until DEF debuff is big enough
 		* Sanae must heal Nitori, can buff Iku for extra damage, stay out for Youkai Buster
-		* Chen does IA pivoting and Kimontonkou + PSW for damage when DEF debuff present
 		* Reimu is a good source of emergency damage with Yin-Yang, if buffed
 	* For finer details see RemiSaku's [Boss Info](../../enemy/sakuremi.md)
 * Take the stairs to 11F and get the relay circle, then retreat to Gensokyo
@@ -2281,8 +2280,8 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Suwako** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
+		* <span class="magic-reset"> **Reset Suwako** </span>
 		* <span class="subclass-add"> **Suwako** learns **Gambler** subclass </span>
 		* <span class="magic-library"> **Aya**: SPD 0 -> 50 (Need 251) </span>
 		* <span class="magic-library"> **Suwako**: Use all money on ATK </span>
@@ -2306,8 +2305,8 @@
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: SPD Boost 0 -> 4 </span>
-		* <span class="learn-skill"> **Suwako**: Earth Creation 0 -> 2 / Froggy Power 0 -> 2 / High Stakes 0 -> 2 / Long Arm Leg 1 -> 5 / Moriya Believer 0 -> 2 </span>
-		* <span class="learn-skill"> **Sanae**: Miracle Fruit 1 -> 5 / Last Wish 0 -> 2 / MAG Boost 0 -> 5 </span>
+		* <span class="learn-skill"> **Sanae**: MAG Boost 0 -> 5 / Last Wish 0 -> 2 / Miracle Fruit 1 -> 5 </span>
+		* <span class="learn-skill"> **Suwako**: Long Arm Leg 1 -> 5 / High Stakes 0 -> 2 / Earth Creation 0 -> 2 / Froggy Power 0 -> 2 / Moriya Believer 0 -> MAX </span>
 * Enter the dungeon (20F West)
 <hr>
 
@@ -2318,14 +2317,14 @@
 		* Elekiter Dragon Palace
 		* Swap Satori -> Suwako
 		* Yukari's Spiriting Away
-		* Swap Yukari -> Chen
+		* Swap Yukari -> Momiji
 		* Thundercloud Stickleback
 		* Swap Iku -> Sanae
 		* Herb of Awakening
-		* Swap Chen -> Satori
-		* Miracle Fruit
+		* Swap Momiji -> Satori
 		* Long Arm and Long Leg
 		* DGA Suwako
+		* Miracle Fruit
 		* Long Arm and Long Leg
 	* For finer details see High Mirror's [Boss Info](../../enemy/highmirror.md)
 * Go back to Gensokyo to heal after the fight
