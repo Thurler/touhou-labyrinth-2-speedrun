@@ -512,7 +512,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | 3600 Money | X |
 | 4000 Money | X |
 | Astral Dominae | X |
-| Energy Pack | ? |
+| Energy Pack | X |
 | Grand Master Breaker Title | O |
 | Intama | O |
 | Life Gem x2 | X |
@@ -531,7 +531,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | War Mask of the Butcher | X |
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 4 |
-| Possible Skips | 1 |
+| Possible Skips | 0 |
 | Combined Total | 127 |
 
 #### <a id="floor-20"></a>Floor 20
@@ -560,7 +560,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Wash Basin Set | X |
 | Wisdom Gem | X |
 | Floor Total | 2 |
-| Possible Skips | 1 |
+| Possible Skips | 0 |
 | Combined Total | 129 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
