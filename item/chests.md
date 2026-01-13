@@ -454,9 +454,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Tome of Reincarnation | O |
 | Treasure Chest Key | O |
 | Wash Basin Set | X |
-| Floor Total | 3 |
+| Floor Total | 4 |
 | Possible Skips | 0 |
-| Combined Total | 122 |
+| Combined Total | 116 |
 
 #### <a id="floor-17"></a>Floor 17
 
@@ -480,7 +480,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Water Cutting Sword | X |
 | Floor Total | 3 |
 | Possible Skips | 0 |
-| Combined Total | 125 |
+| Combined Total | 119 |
 
 #### <a id="floor-18"></a>Floor 18
 
@@ -503,7 +503,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Floor Total | 4 |
 | Possible Skips | 0 |
-| Combined Total | 129 |
+| Combined Total | 123 |
 
 #### <a id="floor-19"></a>Floor 19
 
@@ -532,7 +532,7 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Medal Shattering Youkai Axe | X |
 | Floor Total | 4 |
 | Possible Skips | 1 |
-| Combined Total | 133 |
+| Combined Total | 127 |
 
 #### <a id="floor-20"></a>Floor 20
 
@@ -559,9 +559,9 @@ Any treasure located in floor A that can only be obtained after reaching floor B
 | Treasure Chest Key | X |
 | Wash Basin Set | X |
 | Wisdom Gem | X |
-| Floor Total | 1 |
+| Floor Total | 2 |
 | Possible Skips | 1 |
-| Combined Total | 134 |
+| Combined Total | 129 |
 
 ## <a id="neglected-list"></a>Neglected Treasures List
 
