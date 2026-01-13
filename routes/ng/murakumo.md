@@ -2217,21 +2217,21 @@
 
 * When you're back on Gensokyo, use these facilities:
 	* <span class="human-village"> **Human Village**: </span>
-		* <span class="human-village"> Swap **Yuyuko -> Parsee** </span>
 		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Aya / Reisen** </span>
-		* <span class="magic-reincarnate"> **Reincarnate Kourin / Nitori / Sanae / Iku** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Kourin / Nitori** </span>
+		* <span class="magic-reset"> **Reset Parsee / Aya / Reisen** </span>
+		* <span class="magic-reincarnate"> **Reincarnate Sanae / Iku** </span>
 		* <span class="subclass-add"> **Parsee** learns **Gambler** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
 		* <span class="subclass-add"> **Reisen** learns **Herbalist** subclass </span>
 		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Parsee(ATK) </span>
-		* <span class="hakurei-shrine"> Delevel Reimu, Kourin, Nitori </span>
 		* <span class="hakurei-item"> Use **Training Manual xALL** on **Parsee** </span>
 		* <span class="hakurei-item"> Use **Magic Gems xALL** on **Parsee** </span>
 		* <span class="hakurei-item"> Use **Fighting Gems xALL** on **Parsee** </span>
+		* <span class="hakurei-shrine"> Delevel Keine, Nitori, Suwako </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Satori / Iku / Aya / Yukari** </span>
 	* Equipment:
@@ -2246,10 +2246,10 @@
 			* <span class="equip-add"> (otherwise) (2) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (3) **Glaive of Pain** (4) </span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 / Elekiter Palace 1 -> 3 / Thundercloud Stickleback 1 -> 5 </span>
+		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 / Thundercloud Stickleback 1 -> 5 / Elekiter Palace 1 -> 3 </span>
 		* <span class="learn-skill"> **Aya**: Gensokyo Fastest 0 -> 2 / Tengu Wind 0 -> 2 / Inspirational Plan 0 -> 1 / Furious Scheme 0 -> 10 </span>
-		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Grudge Returning 1 -> 5 / High Stakes 0 -> 2 / All Nothing 0 -> 1 / MP Boost 0 -> MAX </span>
 		* <span class="learn-skill"> **Reisen**: SPD Boost 0 -> 5 / Intense Vertigo 0 -> 1 / Herb of Awakening 0 -> 5 / Placebo Effect 0 -> 5 </span>
+		* <span class="learn-skill"> **Parsee**: Final Blow 0 -> 2 / Flames of Jealousy 0 -> 2 / Grudge Returning 1 -> 5 / High Stakes 0 -> 2 / All Nothing 0 -> 1 / MP Boost 0 -> MAX </span>
 * Enter the dungeon (20F East)
 <hr>
 
