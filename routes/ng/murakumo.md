@@ -1857,6 +1857,10 @@
 
 ## <a id="Header-5-10"></a>Azure Giant Fight
 
+* Before you do any menuing, do the following action:
+	* Equipment:
+		* <span class="equip-remove"> **Kasen**:</span>
+			* <span class="equip-remove"> (M) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-shrine"> Aya(SPD), Reisen, Yuyuko(SPD) </span>
@@ -2059,6 +2063,13 @@
 
 ## <a id="Header-6-4"></a>Explore 17F (Part 2)
 
+* Before you do any menuing, do the following action:
+	* Equipment:
+		* <span class="equip-remove"> **Kourin**:</span>
+			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
+* When you're back on Gensokyo, use these facilities:
+	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Kourin -> Rumia** </span>
 * Enter the dungeon (17F)
 
 ![](img/murakumo/17-02-final.png)
@@ -2075,46 +2086,41 @@
 
 ## <a id="Header-6-6"></a>Golden Orbs Fight
 
-* Before you do any menuing, do the following action:
-	* Equipment:
-		* <span class="equip-remove"> **Kourin**:</span>
-			* <span class="equip-remove"> (M, 1, 2, 3) **Remove**</span>
-		* <span class="equip-remove"> **Kasen**:</span>
-			* <span class="equip-remove"> (M) **Remove**</span>
 * When you're back on Gensokyo, use these facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply bonus </span>
 		* <span class="hakurei-item"> Nitori(ATK) </span>
 		* <span class="hakurei-item"> Use **Training Manual xALL** on **Nitori** </span>
 		* <span class="hakurei-item"> Use **Magic Gem x1** on **Satori** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Suwako** </span>
 		* <span class="subclass-add"> **Satori** learns **Magician** subclass </span>
 		* <span class="subclass-add"> **Suwako** learns **Herbalist** subclass </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Yuuka -> Suwako** </span>
-		* <span class="human-village"> Swap **Kasen -> Yuyuko** </span>
+		* <span class="human-village"> Swap **Rumia -> Yuyuko** </span>
 * Open the menu and take the following actions:
 	* <span class="form-change"> Form Change: **Yuyuko / Aya / Satori / Yukari** </span>
 	* Equipment:
-		* <span class="equip-remove"> **Chen**: </span>
+		* <span class="equip-remove"> **Iku**: </span>
 			* <span class="equip-remove"> (M) **Remove** </span>
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 		* <span class="equip-add"> **Satori**: </span>
 			* <span class="equip-add"> (M) **Purple Orb** (1) </span>
 			* <span class="equip-add"> (1) **The Arch** (4) </span>
-		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
 		* <span class="equip-add"> **Suwako**: </span>
 			* <span class="equip-add"> (M) **Chario Boots** (2) </span>
 			* <span class="equip-add"> (3) **Full Custom** (2) </span>
 			* <span class="equip-add"> (2) **Wallbreaker Armband** (5) </span>
 			* <span class="equip-add"> (1) **Wallbreaker Armband** (5) </span>
+		* <span class="equip-add"> **Nitori**: </span>
+			* <span class="equip-add"> (3) **Water Cutting Sword** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Yuyuko**: MP Boost 0 -> 2 </span>
 		* <span class="learn-skill"> **Satori**: Magic Transfer 0 -> 2 </span>
-		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Fast Attack 0 -> 2 </span>
 		* <span class="learn-skill"> **Suwako**: Froggy Power 0 -> 2 / Placebo Effect 0 -> 5 / Herb of Awakening 0 -> 5 / MP Boost 0 -> 4 </span>
+		* <span class="learn-skill"> **Nitori**: Cooling Down 0 -> 1 / Fast Attack 0 -> 2 </span>
 * Enter the dungeon (18F North)
 <hr>
 
@@ -2134,7 +2140,7 @@
 		- KILL: goto **Setup 2**
 		- Retry
 	* **Phase 2 - Team Setup 1**
-		- Swap Satori -> Chen
+		- Swap Satori -> Momiji
 		- Swap Yuyuko -> Nitori
 		- Yukari's Spiriting Away
 		- Swap Yukari -> Iku
@@ -2142,18 +2148,18 @@
 		- Herb of Awakening Nitori
 	* **Phase 2 - Team Setup 2**
 		- Yukari's Spiriting Away
-		- Swap Yukari -> Chen
+		- Swap Yukari -> Momiji
 		- Swap Yuyuko -> Nitori
 		- Swap Satori -> Iku
 		- Herb of Awakening Nitori
 	* **Phase 2 - Team Setup 3**
 		- Yukari's Spiriting Away
-		- Swap Satori -> Chen
+		- Swap Satori -> Momiji
 		- Swap Yuyuko -> Nitori
 		- Herb of Awakening Nitori
 		- Swap Yukari -> Iku
 	* **Phase 3 - Victory**
-		- Swap Chen -> Satori
+		- Swap Momiji -> Satori
 		- Thundercloud Stickleback Nitori
 		- Super Scope Forward Time
 		- DGA Nitori
@@ -2177,7 +2183,11 @@
 
 ## <a id="Header-7-1"></a>Explore 19F North / 20F West
 
-* When you're back on Gensokyo, open the menu and take the following actions:
+* When you're back on Gensokyo, use these facilities:
+	* <span class="human-village"> **Human Village**: </span>
+		* <span class="human-village"> Swap **Yuyuko -> Rumia** </span>
+* And then, open the menu and take the following actions:
+	* <span class="form-change"> Form Change: **Komachi / Aya / Satori / Yukari** </span>
 	* Equipment:
 		* <span class="equip-add"> **Aya**: </span>
 			* <span class="equip-add"> (M) **Tin Watering Can** (1) </span>
@@ -2250,21 +2260,21 @@
 		* Elekiter Dragon Palace
 		* Swap Satori -> Parsee
 		* Yukari's Spiriting Away
-		* Swap Yukari -> Chen
+		* Swap Yukari -> Momiji
 		* Thundercloud Stickleback
 		* Swap Iku -> Reisen
 		* Herb of Awakening
-		* Swap Chen -> Satori
+		* Swap Momiji -> Satori
 		* Placebo Effect
 		* Grudge Returning
 		* DGA Parsee
 		* Grudge Returning
 		* Magic Transfer
-		* Swap Satori -> Chen
+		* Swap Satori -> Momiji
 		* Placebo Effect
 		* Herb of Awakening
 		* DGA Parsee
-		* Swap Chen -> Satori
+		* Swap Momiji -> Satori
 		* Jealousy of the Kind and Lovely
 	* For finer details see High Magatama's [Boss Info](../../enemy/highmagatama.md)
 * Go back to Gensokyo to heal after the fight
