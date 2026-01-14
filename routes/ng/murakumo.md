@@ -704,12 +704,17 @@
 
 * Take the lower shortcut and fight the Orchid boss
 * **Boss Fight - Blue Orchid (Lv23)**
-	* Aya uses DGA on Wriggle to inflict HVY
-	* Kasen spams Higekiri's Cursed Arm
-	* Parsee uses JotK -> Midnight Anathema -> JotK
-	* Wriggle then switches herself out for Nitori
-	* Aya DGA on Parsee after first JotK, then buffs Kasen
-	* Nitori Super Scopes immediately
+	* DGA Wriggle
+	* Numbing Incense
+	* Higekiri's Cursed Arm
+	* Jealousy of the Kind
+	* Swap Wriggle -> Nitori
+	* DGA Parsee
+	* Midnight Anathema
+	* Super Scope 3D
+	* Higekiri's Cursed Arm
+	* Jealousy of the Kind
+	* Higekiri's Cursed Arm
 	* For finer details see Blue Orchid's [Boss Info](../../enemy/orchid.md)
 * Go back to Gensokyo
 
