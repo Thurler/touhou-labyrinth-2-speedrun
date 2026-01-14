@@ -316,33 +316,32 @@ All of these happen naturally as you're doing the plus postgame stuff. Really go
 | 39 | 5F | Unique monsters for Aya |
 | 63 | 5F | Item Drops are inconsistent, but this sucks anyway |
 | 67 | 5F | Hina shopping for Symbol of Faith |
+| 26 | 5F | Boost before Hina fight |
 | 29 | 6F | Subclass get |
 | 53 | 6F | Materials are inconsistent, but we only need this on 15F |
-| 26 | 6F | Boost before Kraken fight |
+| 61 | 6F | Kasen boost before 7F |
 | 02 | 8F | Grinding on 8F |
 | 82 | 8F | Open locked chest |
 | 78 | 8F | 60 chests get |
-| 61 | 8F | Boost before Iku fight |
 | 13 | 8F | Main Equips |
-| 45 | 8F | Iku is the 24th character |
-| 75 | 8F | Exploring 8F Part 2 |
-| 19 | 9F | Grinding on 9F |
-| 57 | 9F | Sub Equips |
-| 09 | 10F | Just play the game |
-| 49 | 10F | Chen Lv30 |
+| 70 | 8F | Sell before Iku |
+| 75 | 9F | Exploring 9F |
+| 19 | 9F | Tenshi 2 reincarnations |
+| 57 | 10F | Sub Equips |
 | 40 | 10F | Unique monsters |
-| 60 | 11F | Grinding on 11F |
-| 79 | 12F | 100 chests get |
-| 54 | 13F | Materials |
-| 70 | 14F | Sell before MemKnowledge |
-| 71 | 14F | Sell before MemKnowledge |
-| 91 | 14F | Grinding on 14F Part 2, inconsistent |
+| 45 | 10F | Kaguya is the 24th character |
+| 49 | 10F | Cirno Lv30 |
+| 71 | 10F | Sell before Remilia |
+| 09 | 10F | Just play the game |
+| 54 | 14F | Materials |
+| 79 | 14F | 100 chests get |
+| 60 | 14F | Memorized Knowledge drop |
 | 14 | 15F | Main Equips are inconsistent, don't count on this |
+| 91 | 15F | Grinding Minoriko, inconsistent |
 | 35 | 15F | Silver Mail FOE |
+| 27 | 15F | Upgrade stats before Yuyuko |
 | 41 | 18F | Unique monsters |
 | 05 | 19F | Escape with Aya |
-| 27 | 20F | Upgrade stats before High Magatama |
-| 25 | 20F | Just enter the dungeon |
 | 58 | 20F | Sub Equips are inconsistent, don't count on this |
 | 20 | 20F | Reset money before Murakumo |
 | 72 | 20F | Sell before Murakumo |
