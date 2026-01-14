@@ -1296,8 +1296,8 @@
 		* Swap in Cirno to debuff SPD with Icicle Fall
 		* Reisen spams LRE until MND debuff is big enough, can also Discarder
 		* Iku spams EDP until DEF debuff is big enough
-		* Sanae must heal Nitori, can buff Iku for extra damage, stay out for Youkai Buster
-		* Reimu is a good source of emergency damage with Yin-Yang, if buffed
+		* Sanae must buff Iku for extra damage, stay out for Youkai Buster
+		* Kasen acts as a secondary attacker for when DEF debuff is present
 	* For finer details see RemiSaku's [Boss Info](../../enemy/sakuremi.md)
 * Take the stairs to 11F and get the relay circle, then retreat to Gensokyo
 
@@ -1466,18 +1466,20 @@
 
 * **Boss Fight - Tenshi Hinanawi (Lv50)**
 	* **Phase 1 - Sacrifice**
-		* Aya buffs Minoriko SPD twice
-		* Minoriko swaps Aya for Iku
-		* Reisen uses Lunatic Red Eyes
-		* Sanae uses Miracle Fruit on Iku
-		* Minoriko swaps Reisen for Marisa
-		* Iku uses Attack
-		* Minoriko uses Owotoshi Harvester on Sanae
-		* Sanae dies to Sword of Hisou, triggering Last Wish
+		* Sarutahiko Guidance Minoriko
+		* Sarutahiko Guidance Minoriko
+		* Swap Aya -> Iku
+		* Lunatic Red Eyes
+		* Miracle Fruit Iku
+		* Swap Reisen -> Marisa
+		* Iku attack
+		* Owotoshi Harvest Sanae
+		* IF Tenshi PAR'd self:
+			* Stall for Sanae's death
 	* **Phase 2 - Quick Kill**
 		* Iku spams Attack
 		* Marisa spams Art of the Battlemage on Iku
-		* Minoriko swaps in Aya then self with Reisen
+		* Minoriko swaps in Aya then self with Reisen/Rumia
 		* Marisa spams Art of the Battlemage on Iku
 		* Reisen spams Lunatic Red Eyes
 		* Aya spams DGA on Iku
@@ -1487,6 +1489,7 @@
 		* Yuyuko spams Saigyouji Flawless Nirvana
 		* Keep Yuyuko and Reisen alive
 		* Komachi can work as a backup
+		* Aya can speed up attempts
 	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi3.md)
 * When you're done, move to 13F and take the relay circle
 
