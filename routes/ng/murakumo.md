@@ -154,11 +154,12 @@
 
 * Move up to Youmu's boss icon and fight her
 * **Boss Fight - Youmu Konpaku (Lv5)**
-	* Kasen spams Higekiri's Cursed Arm
-	* Reimu uses Great Hakurei Barrier once
-	* Keine spams 3ST - Sword
-	* Momiji does Attack -> Switch Reimu for Marisa -> Rabies Bite
-	* Marisa spams Magic Missile
+	* Higekiri's Cursed Arm
+	* Momiji attack
+	* 3ST - Sword
+	* Great Hakurei Barrier
+	* Switch Reimu -> Marisa
+	* Spam attacks (Higekiri, Missile, Bite) and buffs (3ST Sword)
 	* For finer details see Youmu's [Boss Info](../../enemy/youmu.md)
 * Exit the dungeon when you beat Youmu
 
@@ -211,13 +212,16 @@
 <hr>
 
 * **FOE Boss Fight - Chrysomallos (Lv9)**
-	* Kasen spams Higekiri's Cursed Arm
-	* Reimu uses Great Hakurei Barrier once
-	* Keine spams 3ST - Sword
-	* Momiji does switching as needed
-	* Marisa uses Buff -> Buff -> MP Heal -> Master Spark
-		* If Marisa gets TRR just spam Magic Missile
-	* Reimu and Rumia can also deal reliable damage
+	* Momiji waits for Reimu
+	* Higekiri's Cursed Arm
+	* 3ST - Sword
+	* Great Hakurei Barrier
+	* Swap Reimu -> Marisa
+	* Spam attacks and Keine buffs
+		* Marisa: Buff x2 -> Focus -> Master Spark (Missile if TRR)
+		* Kasen: Higekiri's Cursed Arm
+		* Reimu: Fantasy Seal
+		* Rumia: Moonlight Ray
 	* For finer details see Chrysomallos' [Boss Info](../../enemy/chrysomallos.md)
 * Keep going up and take both treasures in 1F, then exit the dungeon
 
@@ -369,31 +373,32 @@
 
 * **Boss Fight - Komachi Onozuka (Lv12)**
 	* **Phase 1 - Buffing**
-		* Momiji attacks to delay turn
-		* Nitori spams Portable Machine
-		* Keine uses 3ST - Sword
-		* Reimu uses Great Hakurei Barrier
-		* Momiji swaps Nitori for Kasen
+		* Portable Machine
+		* Momiji attack
+		* 3ST - Sword
+		* Great Hakurei Barrier
+		* Portable Machine x2
+		* Swap Nitori -> Kasen
 	* **Phase 2 - Kasen**
-		* Keine spams 3ST - Sword
-		* Reimu uses Exorcising Border
-		* Kasen spams Diving Waltz of the Raijuu
-		* Momiji swaps Keine with Kasen
-		* Momiji swaps Reimu with Minoriko
-		* Minoriko juggles buff/heal/damage
+		* 3ST - Sword
+		* Exorcising Border
+		* Swap Reimu -> Minoriko
+		* Diving Waltz of the Raijuu
+		* 3ST - Sword
+		* Buff/Heal Momiji
+		* Swap Keine <-> Kasen
+		* Juggle attacks / buffs / debuffs / heals
+			* Swap Keine -> Cirno when out of MP
 	* **Phase 3 - Kourin/Nitori**
-		* Momiji swaps no MP Keine with Cirno
-		* Cirno uses Icicle Fall
-		* Minoriko swaps self with Kourin
-		* Momiji swaps no MP Kasen with Youmu
-		* Kourin swaps Cirno with Nitori
-		* Nitori spams Extending Arm
-		* Momiji/Kourin combo swap Nitori to renew her ATB
+		* Swap Cirno -> Nitori when SPD debuff
+		* Swap Minoriko -> Kourin after
+		* Extending Arm / Diving Waltz of the Raijuu
+		* Swap Nitori -> any -> Nitori
 	* **Phase 4 - Narrow Confines of Avici**
-		* Swap Nitori for Reimu when Komachi below 40%
-		* Reimu uses Great Hakurei Barrier
-		* Tank the Confines of Avici
-		* Resume combo swap with Nitori
+		* Swap Nitori -> Reimu when Komachi below 40%
+		* Buff/Heal to tank Confines of Avici
+		* Spam strongest attacks available
+		* Swap Youmu in for extra passive damage
 	* For finer details see Komachi' [Boss Info](../../enemy/komachi.md)
 * Take the stairs to 4F, get the relay point and exit the dungeon
 
