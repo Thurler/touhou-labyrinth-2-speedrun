@@ -122,7 +122,7 @@ The rewards are all ass, but that's to be expected of something that just comes 
 * P24 - Reach Level 500 on a Character (Infinity Gem x3)
 * P25 - Reach Level 1000 on a Character (Infinity Gem x5)
 
-The amount of money makes grinding to 100 very worth it, although it's a pretty long run so that's debatable at best. Should happen naturally on the longer categories. The plus disk rewards are very underwhelming.
+By the time you reach the specified levels, the rewards are all easily farmable elsewhere, or are outclassed by better gear. It will happen naturally with the game's progress though, so can't complain too much.
 
 * 051 - Buy 3 Refined Sakes (Suika joins)
 
@@ -150,7 +150,7 @@ The chest keys and money make these very grind worthy achievements, but it can b
 
 * 060 - Get 10000 EXP in 1 Trip (Training Egg)
 
-Very good reward for something as simple as doing some grinding on 10/11F. Should happen naturally later in the game when EXP gets inflated.
+Very good reward for something as simple as doing some grinding on 10/11F. Should happen naturally later in the game when EXP gets inflated, if not grinding early.
 
 * 061 - Boost Library Levels 100 Times for a Character (Tome of Insight - Vitality)
 * 062 - Boost Library Levels 750 Times for a Character (Treasure Chest Key)
@@ -167,7 +167,7 @@ These should happen naturally as you play, and the rewards are pretty bad, too. 
 * 065 - Raise a Character's MP past 50 (Star of the Just)
 * 066 - Raise a Character's TP past 50 (Energy Gem x3)
 
-Very easy to get once you acquire an Exorcising Staff and a Tokyo Metronome, just slap those on Maintenance Nitori with some gem boosts. Rewards are okay, can be really good depending on how early you get them.
+Very easy to get once you acquire an Exorcising Staff and a Tokyo Metronome, just slap those on Maintenance Nitori with some gem boosts. Rewards are alright for something so easily achieved.
 
 * 067 - Spend 2000 Money in Shop (Symbol of Faith)
 * 068 - Spend 20000 Money in Shop (Money-Growing Tree)
@@ -195,7 +195,7 @@ Bad rewards for something that happens naturally as you play.
 * 081 - Open 256 Treasure Chests (50000 Money)
 * P42 - Open 500 Treasure Chests (Energy Jewel)
 
-Amazing rewards to reward going out of our way when exploring. We try to get exactly 256 chests by the time we reach the High Mirror on 20F so we can minmax our way through it. The plus disk one is very underwhelming compared to how useful the others were.
+Good rewards to reward going out of our way when exploring, except for the plus disk one. It's hard to justify going out of the way for so many treasures, though.
 
 * 082 - Open 3 Locked Treasure Chests (Midnight Oil Set)
 
@@ -207,7 +207,7 @@ Pretty bad reward for something that happens naturally.
 * 086 - Craft 100 Items (Training Manual)
 * P43 - Craft 255 Items (Wisdom Jewel)
 
-Amazing rewards, shame crafting is so oddly specific. We grind the Nitori achievement as fast as we can to use her power to smite the early game stuff. The plus disk one is kinda underwhelming.
+Good rewards, shame crafting is so oddly specific. We grind the Nitori achievement as fast as we can to use her power to smite the early game stuff. The plus disk one is kinda underwhelming.
 
 * 087 - Get 12 Item Drops in 1 Trip (Tome of Inishgt - Attack)
 * 088 - Get 36 Item Drops in 1 Trip (Master's Emblem)
