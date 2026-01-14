@@ -941,17 +941,18 @@
 * Head right to fight Iku
 * **Boss Fight - Iku Nagae (Lv29)**
 	* **Phase 1 - PSN + Buffing**
-		* Aya DGA on Wriggle, uses Comet on Earth
-		* Wriggle swaps self for Reimu
+		* DGA Wriggle
+		* Comet on Earth
+		* Swap Wriggle -> Reimu
 		* Sanae spams Miracle Fruit on Nitori
 		* Nitori spams regular attack to build Overheat
 		* Reimu and Aya juggle buff/heals with IA pivot
 	* **Phase 2 - Overheat 5 Kill**
 		* Swap Reimu with Satori
+		* Sanae and Satori buff Nitori if possible
 		* Nitori Extending Arm
 		* Aya DGA Nitori
 		* Nitori Extending Arm
-		* Sanae and Satori buff Nitori if possible
 	* **Phase 3 - Emergency**
 		* If not dead and someone lived, swap in Kasen and Parsee
 		* Spam Higekiri's Cursed Arm
@@ -1113,25 +1114,27 @@
 * Head north to fight Tenshi
 * **Boss Fight - Tenshi Hinanawi (Lv36)**
 	* **Phase 1 - Sacrifice**
-		* Aya buffs Minoriko SPD twice
-		* Minoriko swaps Aya for Iku
-		* Reisen uses Lunatic Red Eyes
-		* Sanae uses Miracle Fruit on Iku
-		* Minoriko swaps Reisen for Marisa
-		* Iku uses Attack
-		* Minoriko uses Owotoshi Harvester on Sanae
-		* Sanae dies to Sword of Hisou, triggering Last Wish
+		* Sarutahiko Guidance Minoriko
+		* Sarutahiko Guidance Minoriko
+		* Swap Aya -> Iku
+		* Lunatic Red Eyes
+		* Miracle Fruit Iku
+		* Swap Reisen -> Marisa
+		* Iku attack
+		* Owotoshi Harvest Sanae
+		* IF Tenshi PAR'd self:
+			* Stall for Sanae's death
 	* **Phase 2 - Concentrate**
-		* Marisa swaps in Nitori
 		* Iku spams Attack
+		* Swap Nitori
 		* Nitori spams Portable Versatile Machine / Concentrate
 		* Minoriko juggles Nitori's buffs and heals
 		* Marisa spams Art of the Battlemage on Iku
-		* On concentrate, make lineup Nitori / Reimu / Komachi
+		* When near concentrate, swap Minoriko for Rumia/Reisen
+		* Lineup must be Nitori / Reimu / Komachi on nuke
 	* **Phase 3 - State of Enlightenment**
 		* Repeat phase 2 loop until State of Enlightenment
-		* Swap Marisa for Reisen so she can debuff MND with LRE
-		* Swap Marisa back and repeat phase 2
+		* Aya can join in to DGA Iku
 	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi2.md)
 * Take the stairs to 10F and get the relay point
 * Go back to Gensokyo to heal
