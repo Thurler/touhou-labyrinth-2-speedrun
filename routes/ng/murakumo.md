@@ -1253,8 +1253,6 @@
 		* <span class="magic-reset"> Reset **Komachi / Nitori / Sanae** </span>
 		* <span class="subclass-add"> **Nitori** learns **Guardian** subclass  </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
-		* <span class="magic-library"> **Nitori**: HP 0 -> 50 / ATK 50 -> 60 / DEF 0 -> 50 </span>
-		* <span class="magic-library"> **Reisen**: HP 0 -> 20 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Rumia -> Reisen** </span>
 		* <span class="human-village"> Swap **Wriggle -> Sanae** </span>
@@ -1279,6 +1277,8 @@
 		* <span class="nitori-shop"> Sell every subequip except: </span>
 			* <span class="nitori-shop"> Green Dream </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 50 / ATK 50 -> 60 / DEF 0 -> 50 </span>
+		* <span class="magic-library"> **Reisen**: HP 0 -> 20 </span>
 		* <span class="magic-library"> **Iku**: Use all money on MAG </span>
 * Enter the dungeon (10F southwest) and head for the boss
 * Level reference: Komachi 27
@@ -2299,8 +2299,6 @@
 		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
 		* <span class="magic-reset"> **Reset Suwako** </span>
 		* <span class="subclass-add"> **Suwako** learns **Gambler** subclass </span>
-		* <span class="magic-library"> **Aya**: SPD 0 -> 50 (Need 251) </span>
-		* <span class="magic-library"> **Suwako**: Use all money on ATK </span>
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level Single Characters </span>
 		* <span class="hakurei-shrine"> Aya(SPD) / Suwako(ATK) </span>
 		* <span class="hakurei-item"> Use **Training Manual xALL** on **Suwako** </span>
@@ -2323,6 +2321,10 @@
 		* <span class="learn-skill"> **Aya**: SPD Boost 0 -> 4 </span>
 		* <span class="learn-skill"> **Sanae**: MAG Boost 0 -> 5 / Last Wish 0 -> 2 / Miracle Fruit 1 -> 5 </span>
 		* <span class="learn-skill"> **Suwako**: Long Arm Leg 1 -> 5 / High Stakes 0 -> 2 / Earth Creation 0 -> 2 / Froggy Power 0 -> 2 / Moriya Believer 0 -> MAX </span>
+* Before entering the dungeon, revisit the library:
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-library"> **Aya**: SPD 0 -> 50 (Need 251) </span>
+		* <span class="magic-library"> **Suwako**: Use all money on ATK </span>
 * Enter the dungeon (20F West)
 <hr>
 
