@@ -248,8 +248,6 @@
 
 * Back at Gensokyo, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply all bonuses </span>
-	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Keine** </span>
 	* <span class="nitori-shop"> **Nitori Shop**: Buy 1 Cypress Stick </span>
 * Open the menu and take the following actions:
 	* Equipment:
@@ -261,11 +259,9 @@
 		* <span class="equip-add"> **Reimu**: </span>
 			* <span class="equip-add"> (if no Exorcism) (2) **Light Crystal** (3)</span>
 	* Learn Skills:
-		* <span class="learn-skill"> **Kourin**: Shopkeeper 8 -> 10 </span>
-		* <span class="learn-skill"> **Keine**: Historian's School 0 -> 1 </span>
-		* <span class="learn-skill"> **Rumia**: Piercing Attack 1 -> 2 </span>
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 8 -> 9 </span>
 		* <span class="learn-skill"> **Cirno**: Icicle Fall 2 -> 3 </span>
-* Level reference: Reimu 8
+* Level reference: Reimu 7
 * Enter the dungeon (3F)
 
 ![](img/murakumo/03-01-switchoff.png)
@@ -277,12 +273,18 @@
 * Back at Gensokyo, visit the following facilities:
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters, apply new bonus </span>
 		* <span class="hakurei-shrine"> Minoriko MAG </span>
+	* <span class="magic-library"> **Magic Library**: </span>
+		* <span class="magic-reset"> **Reset Keine** </span>
 	* <span class="human-village"> **Human Village**: Include Minoriko in party (slot 10) </span>
 * Open the menu and take the following actions:
 	* Equipment:
 		* <span class="equip-add"> **Marisa**: </span>
 			* <span class="equip-add"> (3) **Glow Crystal** (3)</span>
-* Level reference: Reimu 9
+	* Learn Skills:
+		* <span class="learn-skill"> **Kourin**: Shopkeeper 9 -> 10 </span>
+		* <span class="learn-skill"> **Keine**: Historian's School 0 -> 1 </span>
+		* <span class="learn-skill"> **Rumia**: Piercing Attack 1 -> 2 </span>
+* Level reference: Reimu 8
 * Enter the dungeon (3F)
 
 ![](img/murakumo/03-02-switchon.png)
@@ -304,7 +306,7 @@
 			* <span class="nitori-shop"> Crepe Mariette x1 guaranteed </span>
 			* <span class="nitori-shop"> Book of Stamp Bingo if dropped Chitin Shell </span>
 		* <span class="nitori-shop"> Count how many forges you have, need 10 total on next trip </span>
-* Level reference: Reimu 10
+* Level reference: Reimu 9
 * Enter the dungeon (3F)
 
 ![](img/murakumo/03-03-komachi.png)
