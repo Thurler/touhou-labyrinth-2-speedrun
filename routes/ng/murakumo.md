@@ -1489,9 +1489,9 @@
 		* **REMOVE REISEN FROM FRONT BEFORE KILL**
 	* **Phase 3 - Murakumo DTH**
 		* Swap in Reisen
-		* Yuyuko spams Saigyouji Flawless Nirvana
+		* Yuyuko spams Saigyouji Flawless Nirvana (28% with Reisen, 8% otherwise)
 		* Keep Yuyuko and Reisen alive
-		* Komachi can work as a backup
+		* Komachi can work as a backup (9% with Reisen)
 		* Aya can speed up attempts
 	* For finer details see Tenshi's [Boss Info](../../enemy/tenshi3.md)
 * When you're done, move to 13F and take the relay circle
