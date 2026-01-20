@@ -20,9 +20,12 @@ Sakuya and Remilia block your way to the 11F stairs, and are one of the only man
 
 ## <a id="script-sakuya"></a>AI Script - Sakuya
 
-* Once, if Remilia is alive and below 50% HP:
+* Once, if Remilia is alive with less than 50% HP:
 	* Private Square
 	* Private Square
+* Once, if Remilia is dead and below 66% HP and hasn't used Private Square:
+  * Concentrate
+  * Private Square
 * If Remilia is alive:
 	* 30% chance to Misdirection or Regular Attack
 	* 20% chance to Daze
@@ -100,7 +103,7 @@ As mentioned in the summary, the strat is to proc DTH on Sakuya and then juggle 
 
 In order to do all that reliably, we'll need Komachi and Reisen in front, and we'll add in Guardian Nitori to sponge Remilia's attacks, as well as Aya to use DGA on Komachi and get more Ferriage in the Deep Fog casts out there. After dispatching Sakuya, Remilia will be stuck on a Spear/Tepes loop, which is perfectly manageable since Nitori can tank those very easily, specially with buffs.
 
-In order to defeat Remilia, we must first dispel her buffs and debuff her SPD so that her damage output becomes more manageable. We use Cirno to debuff SPD, and Reisen to debuff everything else, but mostly MND. Iku can then come in to deal high damage to a MND debuffed Remilia, and also debuff her DEF in the process. With such debuff in place, Nitori can snipe in a Super Scope after being buffed, and Chen can come in to Kimontonkou + PSW spam for really high FIR damage, which Remilia is weak to. For healing and support, we add in Sanae and Reimu, whose mission is to keep Nitori healthy and everyone else buffed for maximum damage. Aya plays the switcher support role.
+In order to defeat Remilia, we must first dispel her buffs and debuff her SPD so that her damage output becomes more manageable. We use Cirno to debuff SPD, and Reisen to debuff everything else, but mostly MND. Iku can then come in to deal high damage to a MND debuffed Remilia, and also debuff her DEF in the process. With such debuff in place, Nitori can snipe in a Super Scope after being buffed, and Kasen can come in to Diving Waltz of Raijuu spam for some extra damage. For healing and support, we add in Sanae, whose mission is to keep Nitori healthy and everyone else buffed for maximum damage, while providing passive damage increase via Youkai Buster. Aya plays the switcher support role that occasionally dodges a hit.
 
 **PHASE 1 - Sakuya DTH**
 
@@ -122,10 +125,8 @@ After Sakuya dies, you should debuff Remilia to maximize your damage output and 
 * Nitori manages her own buffs and uses Super Scope when DEF debuff is at max
 * Aya switches characters around and buffs SPD as needed
 * Cirno spams Icicle Fall whenever Remilia's SPD debuff is too low
-* Reisen spams Lunatic Red Eyes whenever Remilia rebuffs herself
-* Iku spams Elekiter Dragon Palace whenever Reisen procs the MND debuff
-* Chen uses Kimontonkou + PSW after Iku debuffs DEF
-* Sanae comes in to heal Nitori and buff Iku/Chen as needed
-* Reimu can provide emergency buffs, healing and damage in a pinch
+* Reisen spams Lunatic Red Eyes / Discarder whenever Remilia rebuffs herself
+* Iku spams Elekiter Dragon Palace
+* Sanae stays in to heal Nitori and buff Iku as needed
 
 [Back to index page](../index.md)

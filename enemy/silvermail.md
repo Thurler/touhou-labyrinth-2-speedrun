@@ -32,11 +32,6 @@ Silver Mail is one of the 10F FOE you can choose to fight. It guards the Herbali
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Since it is so easy to keep the boss in permanent SHK, we spam Rin's Cat Walk to keep applying SHK on it. For damage, since we show up overlevelled for this, just spam Nitori's and Chen's stronger spells. The strategy is to basically 1-2 turn it:
-
-* Rin spams Cat's Walk
-* Nitori spams Super Scope 3D
-* Kasen spams Higekiri's Cursed Arm
-* Chen uses Kimontonkou then spams Phoenix Spread Wings
+Since we only need Herbalist's buffs for the Yuuka fight, we skip this fight and only return to it when we are overlevelled, meaning we can ignore any gimmicks and just kill it in two casts of Nitori's Super Scope, accelerated by Aya's Divine Grandson's Advent.
 
 [Back to index page](../index.md)

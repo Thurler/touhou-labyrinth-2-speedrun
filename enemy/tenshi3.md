@@ -8,7 +8,7 @@ This page explains the strategies employed against Tenshi on her third boss figh
 
 ## Quick Summary
 
-Tenshi this time acts as the fourth stratum's boss, and thanks to overpowered skills, she's very easy to kill this time. Tenshi still has an absurd DEF/MND count, making her very hard to damage reliably, so debuffs and defense ignoring spells are the way to victory. Her AI can be very easily manipulated to spam the same attack over and over, but you'll need a very powerful tank to take the nuke on every turn Tenshi gets. After defeating her you get to face Ame-no-Murakumo, who can very easily be hit with DTH for an easy Cinderforge Sword and Orb of Gaia.
+Tenshi this time acts as the fourth stratum's boss, and thanks to overpowered skills, she's very easy to kill this time. Tenshi still has an absurd DEF/MND count, making her very hard to damage reliably, so debuffs and defense ignoring spells are the way to victory. Her AI can be very easily manipulated to spam the same attack over and over, but you'll need a very powerful tank to take the nuke on every turn Tenshi gets. After defeating her you get to face Ame-no-Murakumo, who can very easily be hit with DTH for an easy Cinderforge Sword and Gaia's Orb.
 
 ## Quick Links
 * [AI Script](#script)
@@ -68,9 +68,9 @@ Tenshi this time acts as the fourth stratum's boss, and thanks to overpowered sk
 
 This fight with Tenshi requires a very specific setup to be done at such a low level, very similar to her previous one. Since she has a lot of DEF and MND the only reliable damage source are spells that penetrate her defenses, and the only one capable of doing that is Iku with her skills. It is technically possible to damage her by keeping her debuffed and HVY/SIL, but that is considerably slower than just spamming Iku's attacks that can fully penetrate Tenshi's defenses.
 
-Iku can ignore all of her MND if she has a 50% debuff on her, thanks to Heavenly Maiden's Blow, but that is not very reliable since the debuff wears off with time, not to mention now we have Violent Motherland to worry about. If we instead use her Normal Attack, we can make it ignore 80% of Tenshi's MND by using the Hagoromo Like Sky skill, and then boost her damage by applying the Sorcerer subclass' Enhanced Normal Attack skill. Other boosts in damage can come from Mind and Body as One (+10%), also from Sorcerer subclass, and Marisa's Magic Training skill (+30%), allowing Iku to easily deal over 9k damage per regular attack with minimal buffs, since now Tenshi no longer resists MYS.
+Iku can ignore all of her MND if she has a 50% debuff on her, thanks to Heavenly Maiden's Blow, but that is not very reliable since the debuff wears off with time, not to mention now we have Violent Motherland to worry about. If we instead use her Normal Attack, we can make it ignore 80% of Tenshi's MND by using the Hagoromo Like Sky skill, and then boost her damage by applying the Sorcerer subclass' Enhanced Normal Attack skill. Other boosts in damage can come from Mind and Body as One (+10%), also from Sorcerer subclass, and Marisa's Magic Training skill (+30%), as well as Rumia's Youkai Knowledge skill (+20%), allowing Iku to easily deal over 10k damage per regular attack with minimal buffs, since now Tenshi no longer resists MYS.
 
-Just like before, we subclass Marisa as an Enchanter, so that she can spam Art of the Battlemage on Iku to keep her offense strong. There are better buffs out there, but we need Marisa for the big 30% damage boost. Sanae can also buff Iku with Miracle Fruit or Last Wish, if we manage to KO her consistently.
+Just like before, we subclass Marisa as an Enhancer, so that she can spam Art of the Battlemage on Iku to keep her offense strong. There are better buffs out there, but we need Marisa for the big 30% damage boost. Sanae can also buff Iku with Miracle Fruit or Last Wish, if we manage to KO her consistently.
 
 This time, we deal so much damage to Tenshi so fast that we don't have to worry about our defenses at all, we can snag a quick kill on her before she even gets to use two offensive moves. We hit her into Concentrate threshold, then finish off the remaining HP before she can even cast Wild Dance. We'll also use Sanae, Minoriko and Reisen like last time. Sanae buffs Iku and dies to trigger Last Wish, Minoriko passively buffs MAG, and Reisen debuffs MND after we lock Tenshi into Concentrate.
 
@@ -100,7 +100,7 @@ At this point, we just keep buffing Iku in every possible way, dealing more and 
 
 **PHASE 3 - Ame-no-Murakumo DTH**
 
-This is not necessary, but can save quite some time on the run since a Cinderforge Sword is so good. Yuyuko spams Saigyouji Flawless Nirvana with Reisen in front, hopefully getting the DTH proc. Odds are 28%, thanks to SFN's 108% DTH rate, and Reisen reducing DTH resistance to 80.
+This is not necessary, but can save quite some time on the run since a Cinderforge Sword is so good. Yuyuko spams Saigyouji Flawless Nirvana with Reisen in front, hopefully getting the DTH proc. Odds are 28%, thanks to SFN's 108% DTH rate, and Reisen reducing DTH resistance to 80. Komachi can act as a secondary attacker at 9% odds, similar to the mirror and magatama.
 
 * Swap in Reisen
 * Yuyuko spams Saigyouji Flawless Nirvana
