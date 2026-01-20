@@ -8,7 +8,7 @@ This page explains the strategies employed against Yuuka on her boss fight. This
 
 ## Quick Summary
 
-Yuuka is an optional boss on 8F that is unlocked when you reach 13F, after seeing a bunch of BP events throughout the dungeon. Yuuka is mandatory to use TRR stacking, so we tend to use her a lot. Her fight can be very hard to deal with, thanks to her ability to heal every 3 turns. If you can damage rush her into Master Spark range though, it's an easy SHK win.
+Yuuka is an optional boss on 8F that is unlocked when you reach 13F, after seeing a bunch of BP events throughout the dungeon. Yuuka is mandatory to use TRR stacking, so we tend to use her a lot. Her fight can be very hard to deal with, thanks to her ability to heal every 3 turns. If you can damage rush her into Master Spark range though, it's an easy win.
 
 ## Quick Links
 * [AI Script](#script)

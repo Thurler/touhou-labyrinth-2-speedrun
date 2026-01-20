@@ -24,9 +24,9 @@ The Divine Beasts' Golden Mirror is a necessary boss to unlock the final part of
 	* World Devouring Calamity
 * Phase 1: Any HP
 	* Equal chance to use any of these moves:
-		* Blade Arrow
+		* Blade Arrow (A)
 		* Storm of Cutting Knives
-		* Magical Light
+		* Magical Light (A)
 		* Magical Blast
 		* Red Curse
 		* Purple Curse

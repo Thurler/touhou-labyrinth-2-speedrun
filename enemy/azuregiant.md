@@ -23,7 +23,7 @@ Glowing Azure Giant is a mandatory boss on 15F that guards a key item used to un
 * On turn 1:
 	* Azure Shining Body
 * Phase 1: Any HP
-	* 30% chance to either Regular Attack or Rasetsu Fist
+	* 30% chance to either Regular Attack (A) or Rasetsu Fist (D)
 	* 20% chance to either Great Roar or Earth Shaker
 
 ## <a id="attacks"></a>Attack List
@@ -45,6 +45,12 @@ Glowing Azure Giant is a mandatory boss on 15F that guards a key item used to un
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Temporary text
+As mentioned in the summary, the strat is to proc DTH on this thing before it can even move. We use Yuyuko and Reisen to do this, in a very similar setup used in 12F to deal with mirro and magatama. Yuyuko reaches 136 DTH with Dark Determination and Lv5 Saigyouji Flawless Nirvana, and Reisen reduces the boss's resistance to 80, giving us a final 56% chance to inflict DTH, accelerated by Aya:
+
+* Aya uses DGA on Yuyuko
+* Saigyouji Flawless Nirvana #1
+* Aya uses DGA on Yuyuko
+* Saigyouji Flawless Nirvana #2
+* Repeat until DTH procs or Reisen/Yuyuko die
 
 [Back to index page](../index.md)

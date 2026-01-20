@@ -27,19 +27,19 @@ Sakuya and Remilia block your way to the 11F stairs, and are one of the only man
   * Concentrate
   * Private Square
 * If Remilia is alive:
-	* 30% chance to Misdirection or Regular Attack
-	* 20% chance to Daze
+	* 30% chance to Misdirection or Regular Attack (A)
+	* 20% chance to Daze (A)
 	* 15% chance to Razor Wind
 	* 5% chance to Soul Sculpture
 * If Remilia is dead, follow this order:
 	* Soul Sculpture
-	* Killing Doll
+	* Killing Doll (A)
 	* Lunar Clock
 	* Soul Sculpture
 	* Use one of the following spells:
-		* 40% chance to Daze
+		* 40% chance to Daze (A)
 		* 25% chance to Leg Sweep
-		* 20% chance to Regular Attack
+		* 20% chance to Regular Attack (A)
 		* 15% chance to Storm of Blue Rain
 	* Lunar Clock
 
@@ -48,13 +48,13 @@ Sakuya and Remilia block your way to the 11F stairs, and are one of the only man
 * Once, if Sakuya is alive and below 50% HP:
 	* Blood Drain
 * If Sakuya is alive:
-	* 40% chance to Regular Attack
+	* 40% chance to Regular Attack (A)
 	* 25% chance to Row Attack
-	* 20% chance to Spear the Gungnir
-	* 15% chance to Slash Dive
+	* 20% chance to Spear the Gungnir (A)
+	* 15% chance to Slash Dive (A)
 * If Sakuya is dead, follow this order:
-	* Spear the Gungnir
-	* Spear the Gungnir
+	* Spear the Gungnir (A)
+	* Spear the Gungnir (A)
 	* Curse of Vlad Tepes
 
 ## <a id="attacks-sakuya"></a>Attack List - Sakuya

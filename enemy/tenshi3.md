@@ -27,12 +27,12 @@ Tenshi this time acts as the fourth stratum's boss, and thanks to overpowered sk
 * If Tenshi has a DEF or MND debuff:
 	* Violent Motherland
 * If ally has over 100% total buffs:
-	* Sword of Hisou
+	* Sword of Hisou (D)
 * Phase 1: Any HP
 	* Equal chance to use any of these moves:
-		* Regular Attack
-		* Ame-no-Murakumo Slash
-		* World Cration Press
+		* Regular Attack (A)
+		* Ame-no-Murakumo Slash (A)
+		* World Cration Press (A)
 		* Grass Knot
 		* Shadowstep
 		* Half Moon Slash

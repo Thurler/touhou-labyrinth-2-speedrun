@@ -24,12 +24,12 @@ The Magatama of Amber Fangs is a necessary boss to unlock the final part of 12F.
 	* World Devouring Destruction
 * Phase 1: Any HP
 	* Equal chance to use any of these moves:
-		* Regular Attack
+		* Regular Attack (A)
 		* Earthquake
 		* Half Moon Slash
 		* Razor Wind
-		* Paralyze
-		* Black Universe
+		* Paralyze (A)
+		* Black Universe (A)
 
 ## <a id="attacks"></a>Attack List
 
