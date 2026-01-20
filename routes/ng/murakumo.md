@@ -890,10 +890,6 @@
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Aya** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Sanae** learns **Healer** subclass </span>
-		* <span class="magic-library"> **Reimu**: HP 10 -> 30 </span>
-		* <span class="magic-library"> **Nitori**: HP 0 -> 30 / ATK 40 -> 50 / SPD 10 -> 20 </span>
-		* <span class="magic-library"> **Aya**: HP 0 -> 30 </span>
-		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Minoriko -> Reimu** </span>
 		* <span class="human-village"> Swap **Marisa -> Momiji** </span>
@@ -934,7 +930,11 @@
 			* <span class="nitori-shop"> Booster v0.8 </span>
 			* <span class="nitori-shop"> Green Dream </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Reimu**: HP 10 -> 30 </span>
+		* <span class="magic-library"> **Aya**: HP 0 -> 30 </span>
 		* <span class="magic-library"> **Kasen**: ATK 30 -> 50 </span>
+		* <span class="magic-library"> **Sanae**: HP 0 -> 30 </span>
+		* <span class="magic-library"> **Nitori**: HP 0 -> 30 / SPD 10 -> 20 </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 * Level reference: Nitori 22
 * Enter the dungeon (8F South)
