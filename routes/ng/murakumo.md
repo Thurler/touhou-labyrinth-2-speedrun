@@ -1812,7 +1812,7 @@
 		* <span class="equip-add"> **Komachi**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 		* <span class="equip-remove"> **Reimu**: </span>
-			* <span class="equip-remove"> (1) **Remove** </span>
+			* <span class="equip-remove"> (1, 3) **Remove** </span>
 		* <span class="equip-add"> **Satori**: </span>
 			* <span class="equip-add"> (M) **First-Aid Kit** (2) </span>
 			* <span class="equip-add"> (1) **Yggdrasil Dew** (1) </span>
@@ -1843,12 +1843,13 @@
 <hr>
 
 * **Boss Fight - Yuyuko Saigyouji (Lv60)**
-	* **Thresholds (5 gems):**
-		* 20% buff = 2.433M / 2.256M
-		* 50% buff = 1.831M / 1.697M
-	* **Thresholds (10 gems):**
-		* 20% buff = 2.202M / 2.053M
-		* 50% buff = 1.657M / 1.544M
+	* **ATK Thresholds (no buffs / 20% / 50%):**
+		* 4800 -> 3.306M / 2.618M / 1.973M
+		* 5000 -> 3.137M / 2.485M / 1.873M
+		* 5200 -> 2.983M / 2.365M / 1.782M
+		* 5400 -> 2.842M / 2.254M / 1.699M
+		* 5600 -> 2.713M / 2.153M / 1.622M
+		* 5800 -> 2.595M / 2.059M / 1.551M
 	* **Phase 1 - TRR Proc**
 		* Swap in Momiji -> Sanae -> Parsee
 		* Sanae uses Miracle Fruit on Parsee

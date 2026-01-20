@@ -25,21 +25,21 @@ Yuyuko is a mandatory boss on 14F that unlocks a rock seal guarding the way to Y
 * On turn 1:
 	* Saigyouji Flawless Nirvana
 * Phase 1: Over 50% HP
-	* 34% chance to Ghostly Dream's Butterfly
+	* 34% chance to Ghostly Dream's Butterfly (B)
 	* 11% chance to cast any of these:
-		* Dark Arrow
+		* Dark Arrow (B)
 		* Storm of Dark Flow
 		* Red Curse
 		* Purple Curse
-		* Allure of Death
-		* Destroy Magic
+		* Allure of Death (B)
+		* Destroy Magic (B)
 * Phase 2: Below 50% HP
-	* 16% chance to Ghostly Dream's Butterfly
+	* 16% chance to Ghostly Dream's Butterfly (B)
 	* 12% chance to either:
 		* Storm of Dark Flow
 		* Red Curse
 		* Purple Curse
-		* Destroy Magic
+		* Destroy Magic (B)
 		* Deadly Swallowtail Lance
 		* Ghastly Dream
 		* Flux of Yomotsu Hirasaka
@@ -73,10 +73,11 @@ Yuyuko is a mandatory boss on 14F that unlocks a rock seal guarding the way to Y
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflict TRR on her, then spam Beauty of Nature with Yuuka and Satori to scale up TRR duration, then kill her in one hit of Jealousy of the Kind. Since Yuyuko has 0 TRR resist, it's trivial to proc it on her and scale it up, but her 300 DRK affinity means we'll have to spend a considerable amount of time scaling it up. In order to make this process faster, we minmax every multiplier we can on Parsee and dump all money on her ATK, so that we only really need to stack TRR to around 1.5\~2 million duration, ideally. Some details on how we got to that number:
+Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflict TRR on her, then spam Beauty of Nature with Yuuka and Satori to scale up TRR duration, then kill her in one hit of Jealousy of the Kind. Since Yuyuko has 0 TRR resist, it's trivial to proc it on her and scale it up, but her 300 DRK affinity means we'll have to spend a considerable amount of time scaling it up. In order to make this process faster, we minmax every multiplier we can on Parsee and dump all money on her ATK, so that we only really need to stack TRR to around 1.5\~3.3 million duration, ideally. Some details on how we got to that number:
 
-* Jealousy of the Kind Formula = 2.5 \* (2.5 \* ATK - 0.5 \* DEF) \* (1.0 + (0.01 \* (TRR / 2500)))
-* Spell level 5 multiplier = 1.2
+```
+* Jealousy of the Kind Formula = 2.5 * (2.5 * ATK - 0.5 * DEF) * (1.0 + (0.01 * (TRR / 2500)))
+* Spell level 4 multiplier = 1.15
 * Final Blow multiplier = 1.32
 * Flames of Jealousy multiplier = 1.3
 * High Stakes multiplier = 1.24
@@ -86,22 +87,44 @@ Yuyuko is the first boss fight we will be TRR stacking on. The goal is to inflic
 * Yuyuko's DEF = 4000
 
 Final formula:
-* TRR = (HP \* 250000 / (ATKF - DEFF)) - 250000
-* TRR = (98600000000 / (ATK \* 7.234656 - 5788)) - 250000
+
+TRR = (HP * 250000 / (ATKF - DEFF)) - 250000
+TRR = (98600000000 / (ATK * 6.933212 - 5547)) - 250000
 
 Where:
-* MULT = Product of all multipliers = 2.8938624
-* ATKF = Parsee's approximate ATK \* 2.5 \* MULT = ATK \* 7.234656
-* DEFF = Target's DEF \* 0.5 \* MULT = 5788
+* MULT = Product of all multipliers = 2.7732848
+* ATKF = Parsee's approximate ATK * 2.5 * MULT = ATK * 6.933212
+* DEFF = Target's DEF * 0.5 * MULT = 5547
 
-* Parsee's approximate ATK (5 gems):
-	* No buffs = 4900 / 5200 -> 3.075M / 2.848M
-	* 20% buff = 5880 / 6240 -> 2.433M / 2.256M
-	* 50% buff = 7350 / 7800 -> 1.831M / 1.697M
-* Parsee's approximate ATK (10 gems):
-	* No buffs = 5300 / 5600 -> 2.779M / 2.590M
-	* 20% buff = 6360 / 6720 -> 2.202M / 2.053M
-	* 50% buff = 7950 / 8400 -> 1.657M / 1.544M
+ATK formula:
+
+* BASE = floor((Level + 4) * (Base + Subclass + Gem + Skill + Equip-G) + 4)
+* ATK = BASE * (1 + Equip + (LevelBonus * 0.03) + (Library * 0.02))
+
+Where:
+* Level = At least 44, usually is 45
+* Base = 11.4
+* Subclass = 0.4 (Gambler)
+* Gem = At least 7, could be 10 = 1.4~2
+* Skill = 0
+* Equip-G = 0
+* Equip = At least 2.28, could be 2.72 (Cinderforge + Glaive x2)
+* LevelBonus = At least 43, usually is 44
+* Library = At least 150, could be 175
+
+Best case: floor(49 * 13.8 + 4) * (8.54) = 680 * 8.54 = 5807
+Worst case: floor(48 * 13.2 + 4) * (7.57) = 637 * 7.57 = 4822
+With a 20% buff: 6968 ~ 5786
+With a 50% buff: 8710 ~ 7233
+
+Solving for ATK values:
+* 4800 -> 3.306M / 2.618M / 1.973M
+* 5000 -> 3.137M / 2.485M / 1.873M
+* 5200 -> 2.983M / 2.365M / 1.782M
+* 5400 -> 2.842M / 2.254M / 1.699M
+* 5600 -> 2.713M / 2.153M / 1.622M
+* 5800 -> 2.595M / 2.059M / 1.551M
+```
 
 Note how different the thresholds become with more Fighting Gems and with the Cinderforge Sword equipped. The 20% buff thresholds are provided as a more risky but realistic goal to aim for if Sanae dies, since Parsee should always have some buffs from the beginning of the fight. The 50% is also a generous estimate since after a second Miracle Fruit, Parsee ends up with over 60% buffs. These difference might seem a bit huge, but remember Beauty of Nature applies a multiplier to the current value, so it grows exponentially. The difference between 1.6M and 3M should be only 3 casts.
 
@@ -113,7 +136,7 @@ The only other point that needs attention is the opener, Saigyouji Flawless Nirv
 
 The goal is to survive Saigyouji Flawless Nirvana, swap in the setup frontline and proc TRR. Should be pretty easy, considering Yuyuko has no TRR resistance:
 
-* Swap in Chen -> Sanae -> Parsee
+* Swap in Momiji -> Sanae -> Parsee
 * Sanae uses Miracle Fruit on Parsee
 * Swap Sanae for Yuuka
 * Parsee uses Midnight Anathema Ritual
@@ -124,7 +147,7 @@ The goal is to survive Saigyouji Flawless Nirvana, swap in the setup frontline a
 Here we simply stackc TRR as high as we can, stopping around the corresponding threshold for the gems and equip situation for the optimal setup. IA pivoting and careful healing/buffing is essential here:
 
 * Yuuka and Satori spam Beauty of Nature
-* Swap Chen with Sanae
+* Swap Momiji with Sanae
 * Komachi IA pivots Yuuka and Satori
 * Sanae juggles healing and IA pivoting
 
@@ -133,9 +156,9 @@ Here we simply stackc TRR as high as we can, stopping around the corresponding t
 Make sure you have everything ready before firing off Jealousy of the Kind - if Yuyuko survives you lose everything as she sweeps you with her strong spells:
 
 * TRR reaches the desired threshold
-* Swap in Chen -> Parsee on slots 3 and 4
+* Swap in Momiji -> Parsee on slots 3 and 4
 * Sanae uses Miracle Fruit on Parsee once
-* Chen uses Herb of Awakening on Parsee
+* Momiji uses Herb of Awakening on Parsee
 * Parsee delays her turn if needed then Jealousy of the Kind
 
 [Back to index page](../index.md)
