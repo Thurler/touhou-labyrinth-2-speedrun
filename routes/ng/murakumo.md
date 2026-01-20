@@ -1753,15 +1753,11 @@
 		* Swap Kasen with Nitori
 		* Sanae spams Miracle Fruit on Nitori
 		* Nitori spams Kappa Waterfall
-		* Occasionally swap Nitori with Kasen
-		* Kasen spams Higekiri's Arm
 		* Occasionally swap Sanae with Aya
 		* Aya DGAs Nitori with good timing
 	* **Phase 3 - Master Spark**
-		* Either damage rush with Nitori or SHK spam
-		* Swap Minoriko with Rin
-		* Rin spams Cat's Walk
-		* Pray for SHK and keep dealing damage
+		* Damage rush with Nitori and Kasen
+		* If Master Spark is inevitable, tank with Kasen Guts
 	* For finer details see Yuuka's [Boss Info](../../enemy/yuuka.md)
 * When you're done, go back to Gensokyo
 
