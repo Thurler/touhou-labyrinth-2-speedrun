@@ -1622,9 +1622,11 @@
 	* <span class="hakurei-shrine"> **Hakurei Shrine**: Level All Characters </span>
 		* <span class="hakurei-shrine"> Change Nitori to ATK </span>
 	* <span class="magic-library"> **Magic Library**: </span>
-		* <span class="magic-reset"> **Reset Nitori, Parsee** </span>
+		* <span class="magic-reset"> **Reset Nitori** </span>
+		* <span class="magic-reset"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
 		* <span class="subclass-add"> **Iku** learns **Monk** subclass </span>
+		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Momiji -> Wriggle** </span>
 		* <span class="human-village"> Swap **Reisen -> Iku** </span>
@@ -1696,13 +1698,9 @@
 		* <span class="hakurei-item"> Use **Tome of Insight - Vitality** on **Kourin** </span>
 	* <span class="magic-library"> **Magic Library**: </span>
 		* <span class="magic-reset"> **Reset Marisa, Kourin, Nitori** </span>
-		* <span class="magic-reset"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Kourin** learns **Guardian** subclass </span>
 		* <span class="subclass-add"> **Minoriko** learns **Enhancer** subclass </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
-		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
-		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
-		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Wriggle -> Sanae** </span>
 * Open the menu and take the following actions:
@@ -1735,6 +1733,9 @@
 			* <span class="nitori-shop"> Dark Magic Grimoire </span>
 			* <span class="nitori-shop"> Intama </span>
 	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Kourin**: HP/MND/SPD 0 -> 50 </span>
+		* <span class="magic-library"> **Sanae**: HP 30 -> 50 / MND 0 -> 50 </span>
+		* <span class="magic-library"> **Nitori**: MND 0 -> 50 </span>
 		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 * Enter the dungeon (9F) and unlock Yuuka's room
 <hr>
