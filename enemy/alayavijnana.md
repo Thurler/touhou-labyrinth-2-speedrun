@@ -43,6 +43,6 @@ Alaya-Vijnana is a mandatory boss fight on 3F that guards the way to Komachi, an
 Since we have access to overlevelled Yukari and Yuyuko, the fight boils down to the following script:
 
 * Yukari spams Ran Yakumo+
-* Yuyuko uses Ghostly Butterfly twice, then Saigyouji Flawless Nirvana
+* Yuyuko uses Ghostly Butterfly and Regular Attack, then Saigyouji Flawless Nirvana
 
 [Back to index page](../index.md)

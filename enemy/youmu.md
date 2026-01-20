@@ -22,9 +22,9 @@ Youmu is the first real boss of the game, and she can be quite hard if you don't
 	* Slash Clearing the Six Senses at 80%
 	* Concentrate -> God's Slash of Karma Wind at 60% and 20%
 * Phase 1: Over 60% HP
-	* 50% chance to Regular Attack or Present Life Slash
+	* 50% chance to Regular Attack or Present Life Slash (A)
 * Phase 2: Below 60% HP
-	* 43% chance to Regular Attack or Present Life Slash
+	* 43% chance to Regular Attack or Present Life Slash (A)
 	* 14% chance to Slash Clearing the Six Senses
 
 ## <a id="attacks"></a>Attack List

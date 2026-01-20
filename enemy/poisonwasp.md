@@ -19,7 +19,7 @@ The Poison Wasp is an optional boss fight that is part of the Eientei side quest
 ## <a id="script"></a>AI Script
 
 * Odd turns:
-	* 60% chance to Ultravenomous Needles
+	* 60% chance to Ultravenomous Needles (A)
 	* 40% chance to Venomous Fog
 * Even turns:
 	* Storm of Yellow Drive

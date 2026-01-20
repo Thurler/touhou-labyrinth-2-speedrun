@@ -8,7 +8,7 @@ This page explains the strategies employed against Komachi on her boss fight. Th
 
 ## Quick Summary
 
-Komachi acts as the first stratum boss, and as such packs quite a punch on an unprepared party. She has access to DTH skills so protecting your main tank against that is pretty much required. She is very weak to NTR, making Nitori is your best choice for attacking here. She also has weaknesses to FIR and WND, and is very weak to PSN and SHK, opening up several options for NG+.
+Komachi acts as the first stratum boss, and as such packs quite a punch on an unprepared party. She has access to DTH skills so protecting your main tank against that is pretty much required. She is very weak to NTR, making Nitori your best choice for attacking here. She also has weaknesses to FIR and WND, and is very weak to PSN and SHK, opening up several options for NG+.
 
 ## Quick Links
 * [AI Script](#script)
@@ -20,32 +20,32 @@ Komachi acts as the first stratum boss, and as such packs quite a punch on an un
 
 * Threshold Moves:
 	* Narrow Confines of Avici at 40%
-	* Scythe that Chooses the Dead at 25%
+	* Scythe that Chooses the Dead at 25% (A)
 * Phase 1: Over 76% HP
-	* 40% chance to Short Life Expectancy
+	* 40% chance to Short Life Expectancy (D)
 	* 20% chance to either:
 		* Phantom Coldness
 		* Row Attack
-		* Regular Attack
+		* Regular Attack (A)
 * Phase 2: Between 34% and 76% HP
-	* 45% chance to Short Life Expectancy
+	* 45% chance to Short Life Expectancy (D)
 	* 25% chance to Ferriage in the Deep Fog
 	* 10% chance to either:
 		* Phantom Coldness
 		* Row Attack
-		* Regular Attack
+		* Regular Attack (A)
 * Phase 3: Between 16% and 34% HP
-	* 45% chance to Short Life Expectancy
+	* 45% chance to Short Life Expectancy (D)
 	* 15% chance to Ferriage in the Deep Fog
 	* 10% chance to either:
 		* Recover
 		* Phantom Coldness
 		* Row Attack
-		* Regular Attack
+		* Regular Attack (A)
 * Phase 4: Below 16% HP
-	* 40% chance to Short Life Expectancy
+	* 40% chance to Short Life Expectancy (D)
 	* 20% chance to either:
-		* Scythe that Chooses the Dead
+		* Scythe that Chooses the Dead (A)
 		* Ferriage in the Deep Fog
 		* Recover
 
@@ -78,7 +78,7 @@ There is a lot of setup for this fight. Since Komachi has a lot going for her an
 	* Maintenance + Wash Basin Set = OP
 	* Can also buff herself early in the fight
 * Momiji takes the main tank role thanks to her high HP and DEF
-	* Accelerate lets her play her switcher role more efficiently
+	* Ability to See Far Distances increases party ACC, improving consistency
 	* Courtesan's Sorrow boosts her low DTH so Short Life Expectancy doesn't proc DTH
 * Kasen deals good damage with Diving Waltz of the Raijuu
 	* Can also PAR and MND-debuff

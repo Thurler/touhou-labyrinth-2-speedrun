@@ -21,7 +21,7 @@ Chrysomallos is the first FOE you will face in the game, but unlike Etrian Odyss
 * Threshold Moves:
 	* Great Roar at 75% and 30%
 * Phase 1: Any HP
-	* 50% chance to Regular Attack or Row Attack
+	* 50% chance to Regular Attack or Row Attack (A)
 
 ## <a id="attacks"></a>Attack List
 

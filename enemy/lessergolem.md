@@ -19,7 +19,7 @@ The Lesser Golem is an FOE guarding the area with Chen and a few treasures, and 
 ## <a id="script"></a>AI Script
 
 * Phase 1: Any HP
-	* Regular Attack
+	* Regular Attack (A)
 
 ## <a id="attacks"></a>Attack List
 
