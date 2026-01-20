@@ -1289,7 +1289,7 @@
 
 * **Boss Fight - Remilia Scarlet & Sakuya Izayoi (Lv43)**
 	* **Phase 1 - DTH Sakuya**
-		* Aya DGA Komachi twice for Ferriage in Deep Fog DTH
+		* Aya DGA Komachi twice for Ferriage in Deep Fog DTH (15%)
 		* Reisen spams Lunatic Red Eyes
 		* Nitori buffs self with PVM
 		* No DTH proc or Reisen dead = reset
