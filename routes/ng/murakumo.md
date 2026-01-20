@@ -970,6 +970,7 @@
 		* <span class="magic-reset"> Reset **Nitori** </span>
 		* <span class="magic-reincarnate"> **Reincarnate Parsee** </span>
 		* <span class="subclass-add"> **Nitori** learns **Warrior** subclass </span>
+		* <span class="magic-library"> **Nitori**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Sanae -> Marisa** </span>
 		* <span class="human-village"> Swap **Reimu -> Rumia** </span>
