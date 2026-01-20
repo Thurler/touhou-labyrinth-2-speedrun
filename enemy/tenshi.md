@@ -21,7 +21,7 @@ Tenshi is a mandatory boss blocking the stairs to 7F. This fight is one of those
 * On turn 11:
 	* Escape
 * Other turns:
-	* Ame-no-Murakumo Slash
+	* Ame-no-Murakumo Slash (A)
 
 ## <a id="attacks"></a>Attack List
 

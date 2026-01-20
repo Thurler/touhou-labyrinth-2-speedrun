@@ -22,16 +22,16 @@ Mokou is an optional boss fight that continues the Eientei side quest. She has a
 	* Tsuki no Iwakasa's Curse at 75% and 25%
 	* Earth Shaker at 30%
 * Phase 1: Over 50% HP
-	* 20% chance to Fire Bird or Daze
+	* 20% chance to Fire Bird or Daze (A)
 	* 15% chance to either:
-		* Regular Attack
+		* Regular Attack (A)
 		* Row Attack
 		* Spark Storm
-		* Azure Arrow
+		* Azure Arrow (A)
 * Phase 2: Below 50% HP
-	* 30% chance to Fire Bird
-	* 25% chance to Row Attack or Azure Arrow
-	* 10% chance to Spark Storm or Regular Attack
+	* 30% chance to Fire Bird (A)
+	* 25% chance to Row Attack or Azure Arrow (A)
+	* 10% chance to Spark Storm or Regular Attack (A)
 * Phase 3: After revive
 	* Fujiyama Volcano
 

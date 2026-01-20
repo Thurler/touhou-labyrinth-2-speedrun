@@ -19,10 +19,10 @@ The Paralyzing Wasp is an optional boss fight that is part of the Eientei side q
 ## <a id="script"></a>AI Script
 
 * Odd turns:
-	* Ultraparalysis Needles
+	* Ultraparalysis Needles (D)
 * Even turns:
 	* 30% chance to Paralyzing Fog or Row Attack
-	* 20% chance to Storm of Yellow Drive or Regular Attack
+	* 20% chance to Storm of Yellow Drive or Regular Attack (A)
 
 ## <a id="attacks"></a>Attack List
 
@@ -41,7 +41,7 @@ The Paralyzing Wasp is an optional boss fight that is part of the Eientei side q
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-We actually show up at exactly the challenge level here, so this fight ends up being easy, but not completely free like the previous ones in the Eientei side quest. The fight is surprisingly simple, thanks to Nitori and Kasen being completely overpowered:
+We actually show up near the challenge level here, so this fight ends up being easy, but not completely free like the previous ones in the Eientei side quest. The fight is surprisingly simple, thanks to Nitori and Kasen being completely overpowered:
 
 * Kasen spams Higekiri's Cursed Arm
 * Nitori uses Portable Machine 3 times, then Super Scope 3D

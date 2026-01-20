@@ -22,9 +22,9 @@ Blue Orchid is a mandatory boss fight to recruit Utsuho. This fight is easily ch
 	* Shell Melter
 * Other turns:
 	* 20% chance to either:
-		* Dissolvent
+		* Dissolvent (A)
 		* Paralyzing Fog
-		* Azure Arrow
+		* Azure Arrow (B)
 		* Storm of Blue Rain
 		* Acid Rain
 
@@ -69,7 +69,7 @@ If you stack the damage bonus skills, Kasen gets a 56% boost on Higekiri's Curse
 * Parsee Midnight Anathema Ritual
 * Kasen Higekiri on loop
 * Parsee Jealousy of the Kind
-* Nitori buffs 3 times then Super Scope
+* Nitori immediately Super Scope
 * Aya buffs Kasen's SPD
 
 [Back to index page](../index.md)

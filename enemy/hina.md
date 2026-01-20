@@ -26,16 +26,16 @@ Hina is a mandatory boss blocking the stairs to 6F. She is very strong and very 
 	* Misfortune God's Biorhythm at 66% and 33%
 * Phase 1: Over 50% HP
 	* 19% chance to either:
-		* Red Arrow
-		* Dark Arrow
+		* Red Arrow (B)
+		* Dark Arrow (B)
 		* Spark Storm
 		* Storm of Dark Flow
 	* 12% chance to Pain Flow or Old Lady Ohgane's Fire
 * Phase 2: Below 50% HP
 	* 24% chance to Pain Flow or Old Lady Ohgane's Fire
 	* 18% chance to Spark Storm
-	* 14% chance to Red Arrow
-	* 12% chance to Dark Arrow or Storm of Dark Flow
+	* 14% chance to Red Arrow (B)
+	* 12% chance to Dark Arrow (B) or Storm of Dark Flow
 	* 6% chance to Misfortune God's Biorhythm
 
 ## <a id="attacks"></a>Attack List
@@ -65,7 +65,7 @@ Hina is a mandatory boss blocking the stairs to 6F. She is very strong and very 
 
 Hina is an incredibly difficult foe since we have no reliable way to fight her "honestly" with raw power. She just hits too hard and there's no reliable way to damage her for lots of damage like we did with Komachi. Her biggest threat is having a 50% chance to cast AoE spells on phase 1, and 68% on phase 2, not to mention the 6% chance to just wall you entirely with fresh buffs on her. Our only reliable way to kill her is via PSN, waiting for it to tick damage while Parsee tanks everything with 800+ MND.
 
-Parsee can take any hit with 0 damage so long as Hina is not buffed, and will take a decent chunk of damage if she isn't buffed after Hina buffs herself. This is all thanks to library bonus, level up bonus and FIR affinity equipment. Reimu is very important here to reapply the MND bonus on Parsee soon before Hina procs her buffs on herself. Parsee must carefully time her switches so that Reimu and Wriggle can come in, do their thing, then immediately get switched back out before Hina takes another turn. Around 6000 ATB is a safe range for unbuffed Hina, and buffed Hina is never safe, so don't bother. It's better to wait for buff decay than to risk losing Reimu or Wriggle.
+Parsee can take any hit with 0 damage so long as Hina is not buffed, and will take a decent chunk of damage if she isn't buffed after Hina buffs herself. This is all thanks to library bonus, level up bonus and FIR affinity equipment. Reimu is very important here to reapply the MND bonus on Parsee soon before Hina procs her buffs on herself. Parsee must carefully time her switches so that Reimu and Wriggle can come in, do their thing, then immediately get switched back out before Hina takes another turn. Around 6000 ATB is a safe range for unbuffed Hina, and freshly buffed Hina is almost never safe, so don't bother. It's better to wait for buff decay than to risk losing Reimu or Wriggle. Minoriko can kinda cover for Reimu, but she has a harder time surviving.
 
 Komachi can be swapped in on occasion to deal some big damage with Scythe that Chooses the Dead, which targets Hina's weakness. Komachi is far from the best damage dealer, but 2 casts of StCtD should match a Super Scope in damage output here. Crucially, however, is the fact that Komachi cannot be faster than Parsee - at best, she can match her SPD. Because of this, Parsee should stay at slot 2, and swap in Komachi into slot 1. This way, they gain the same ATB ticks and Komachi takes a turn before Parsee, so she can switch Komachi out.
 
