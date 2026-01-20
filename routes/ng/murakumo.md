@@ -1571,8 +1571,7 @@
 			* <span class="equip-add"> (1) **Olzhas Shamshir** (5) </span>
 			* <span class="equip-add"> (2) **Olzhas Shamshir** (5) </span>
 		* <span class="equip-add"> **Parsee**: </span>
-			* <span class="equip-add"> (if Cinderforge drop) (3) **Cinderforge Sword** (5) </span>
-			* <span class="equip-add"> (otherwise) (3) **Glaive of Pain** (5) </span>
+			* <span class="equip-add"> (3) **Cinderforge Sword / Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (1) **Glaive of Pain** (4) </span>
 			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
@@ -2045,8 +2044,7 @@
 			* <span class="equip-add"> (M) **Training Egg** (2) </span>
 			* <span class="equip-remove"> (1, 2, 3) **Remove** </span>
 		* <span class="equip-add"> **Nitori**: </span>
-			* <span class="equip-add"> (if Cinderforge drop) (1) **Cinderforge Sword** (5) </span>
-			* <span class="equip-add"> (otherwise) (1) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (1) **Cinderforge Sword / Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (2) **Glaive of Pain** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Iku**: Thundercloud Stickleback 1 -> 5 / Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 </span>
@@ -2260,8 +2258,7 @@
 		* <span class="equip-add"> **Parsee**: </span>
 			* <span class="equip-add"> (M) **Strange Meat Pie** (2) </span>
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
-			* <span class="equip-add"> (if Cinderforge drop) (2) **Cinderforge Sword** (5) </span>
-			* <span class="equip-add"> (otherwise) (2) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (2) **Cinderforge Sword / Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (3) **Glaive of Pain** (4) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Iku**: Supple Hagoromo 0 -> 2 / Lightning Fish 0 -> 1 / Thundercloud Stickleback 1 -> 5 / Elekiter Palace 1 -> 3 </span>
@@ -2317,8 +2314,7 @@
 		* <span class="equip-add"> **Suwako**: </span>
 			* <span class="equip-add"> (M) **Master's Emblem** (1) </span>
 			* <span class="equip-add"> (1) **Grand Master Breaker** (5) </span>
-			* <span class="equip-add"> (if Cinderforge drop) (2) **Cinderforge Sword** (5) </span>
-			* <span class="equip-add"> (otherwise) (2) **Glaive of Pain** (4) </span>
+			* <span class="equip-add"> (2) **Cinderforge Sword / Glaive of Pain** (5) </span>
 			* <span class="equip-add"> (3) **Cinderforge Sword** (5) </span>
 	* Learn Skills:
 		* <span class="learn-skill"> **Aya**: SPD Boost 0 -> 4 </span>
