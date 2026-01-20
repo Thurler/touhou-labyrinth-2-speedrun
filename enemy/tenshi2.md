@@ -24,12 +24,12 @@ Tenshi acts as the third stratum's boss, and this time you actually need to beat
 	* Concentrate -> Ame-no-Murakumo's Wild Dance at 70% and 30%
 	* State of Enlightenment at 50%
 * If ally has over 100% total buffs:
-	* Sword of Hisou
+	* Sword of Hisou (D)
 * Phase 1: Any HP
 	* 20% chance to either:
-		* Regular Attack
-		* Ame-no-Murakumo Slash
-		* World Cration Press
+		* Regular Attack (A)
+		* Ame-no-Murakumo Slash (A)
+		* World Cration Press (A)
 		* Grass Knot
 		* Shadowstep
 
@@ -56,15 +56,17 @@ Tenshi acts as the third stratum's boss, and this time you actually need to beat
 
 #### <a id="ng-murakumo"></a>Ame-no-Murakumo (NG)
 
-The real fight with Tenshi requires a very specific setup to be done at such a low level. Since she has a lot of DEF and MND the only reliable damage source are spells that penetrate her defenses, and the only one capable of doing that is Iku with her skills. It is technically possible to damage her by keeping her debuffed and HVY/SIL, but that is considerably slower than just spamming Iku's attacks that can fully penetrate Tenshi's defenses.
+The real fight with Tenshi requires a very specific setup to be done at such a low level. Since she has a lot of DEF and MND the only reliable damage source are spells that penetrate her defenses, and the only one capable of doing that is Iku with her skills. It is technically possible to damage her by keeping her debuffed and HVY/SIL, but that is considerably slower than just spamming Iku's attacks that can almost fully penetrate Tenshi's defenses.
 
 Iku can ignore all of her MND if she has a 50% debuff on her, thanks to Heavenly Maiden's Blow, but that is not very reliable since the debuff wears off with time, needing to be reapplied constantly. If we instead use her Normal Attack, we can make it ignore 80% of Tenshi's MND by using the Hagoromo Like Sky skill, and then boost her damage by applying the Sorcerer subclass' Enhanced Normal Attack skill. Other boosts in damage can come from Mind and Body as One (+10%), also from Sorcerer subclass, and Marisa's Magic Training skill (+30%), allowing Iku to easily deal over 3k damage per regular attack with minimal buffs.
 
-In order to integrate Marisa into the frontline, we subclass her as an Enchanter, so that she can spam Art of the Battlemage on Iku to keep her offense strong. There are better buffs out there, but we need Marisa for the big 30% damage boost. Sanae can also buff Iku with Miracle Fruit or Last Wish, if we manage to KO her consistently.
+In order to integrate Marisa into the frontline, we subclass her as an Enhancer, so that she can spam Art of the Battlemage on Iku to keep her offense strong. There are better buffs out there, but we need Marisa for the big 30% damage boost. Sanae can also buff Iku with Miracle Fruit or Last Wish, if we manage to KO her consistently.
 
 Defensively, Tenshi can be a pain to deal with, featuring spells that slow you down, inflict PAR, or just randomly target slots 3 and 4 for no reason with her nukes. Thankfully, we can manipulate her AI into getting stuck with Sword of Hisou on slot 1, not only allowing Iku to stay buffed, but also keeping everyone from harm. To do that, though, we need to put Nitori as a Guardian and buff her HP and DEF to levels where she can tank at least 2 Swords of Hisou, and having an Intama to raise her SPI affinity by 200 greatly helps, too. Now all we need is a dedicated healer and the front line is settled for victory.
 
-Nitori / Minoriko / Marisa / Iku is the front line we'll be using for most of the fight to damage Iku. Minoriko has enough MAG to fully heal Nitori and her healing spell does not have that much delay. She can also buff Nitori with very little delay, which is always a plus in case Sword of Hisou removes too many buffs. Other useful characters include Sanae, Aya and Reisen. Sanae buffs Iku with Miracle Fruit until she dies, triggering Last Wish and further buffing Iku to 100% in all stats. Aya can help at the start by boosting everyone's SPD to complete the setup before Tenshi gets a second turn. Reisen can reduce Tenshi's MND buff from State of Enlightenment, which helps Iku deal just a bit more damage. The three phases in this fight are described below:
+Nitori / Minoriko / Marisa / Iku is the front line we'll be using for most of the fight to damage Iku. Minoriko has enough MAG to fully heal Nitori and her healing spell does not have that much delay. She can also buff Nitori with very little delay, which is always a plus in case Sword of Hisou removes too many buffs. Other useful characters include Sanae, Aya, Rumia and Reisen.
+
+Sanae buffs Iku with Miracle Fruit until she dies, triggering Last Wish and further buffing Iku to 100% in all stats. Aya can help at the start by boosting everyone's SPD to complete the setup before Tenshi gets a second turn, and then later on give Iku more turns with Divine Grandson's Advent. Reisen can reduce Tenshi's MND buff from State of Enlightenment and silence her, which helps Iku deal just a bit more damage. Rumia comes in to further boost damage with her Youkai's Knowledge skill, adding 20% to Iku's damage output. The three phases in this fight are described below:
 
 **PHASE 1 - Sacrifice**
 
