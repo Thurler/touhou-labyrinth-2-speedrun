@@ -1966,18 +1966,19 @@
 		* No buffs = 1.014M / 936K
 		* 30% buff = 663K / 610K
 	* **Phase 1 - TRR Proc**
-		* Reset if less than 2 full ATBs
-			* 14.06 / 38.94 / 35.94 / 11.06
+		* Reset if less than 2 full ATBs (53% odds)
+			* 14.06 (3) / 38.94 (2) / 35.94 (1) / 11.06 (0)
 		* Aya DGAs whoever didnt get a full ATB
-			If everyone has a full ATB, Sarutahiko self
+			If everyone has a full ATB, waste turn
 		* Parsee uses Midnight Anathema Ritual (54% proc)
 		* Yuuka and Satori use Beauty of Nature
 		* Swap Parsee with Kourin
 	* **Phase 2 - Beauty of Nature**
+		* Aya IA pivots / DGAs Yuuka
 		* Yuuka and Satori spam Beauty of Nature
-		* Aya IA pivots Yuuka
 		* Kourin swaps Satori and Sanae as needed
 		* Sanae heals everyone with Yasaka's Divine Wind
+			 * Can swap Cirno in to fish for SPD debuff
 	* **Phase 3 - Jealousy of the Kind**
 		* TRR reaches threshold
 		* Move Sanae to slot 1, swap in Parsee in slot 4
