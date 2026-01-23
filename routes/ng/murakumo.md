@@ -1921,7 +1921,6 @@
 		* <span class="subclass-add"> **Aya** learns **Strategist** subclass </span>
 		* <span class="subclass-add"> **Satori** learns **Monk** subclass </span>
 		* <span class="subclass-add"> **Yuuka** learns **Monk** subclass </span>
-		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 	* <span class="human-village"> **Human Village**: </span>
 		* <span class="human-village"> Swap **Yuyuko -> Nitori** </span>
 		* <span class="human-village"> Swap **Reisen -> Suwako** </span>
@@ -1947,24 +1946,25 @@
 		* <span class="learn-skill"> **Yuuka**: Extra Attack 0 -> 2 / Fast Dash 0 -> 1 / MP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Satori**: MP Boost 0 -> 5 / Small MP Recovery 0 -> 1 / Spell Recollection 0 -> 2 / Fast Dash 0 -> 1 </span>
 		* <span class="learn-skill"> **Kourin**: Effective Formation 0 -> 2 / First Aid 1 -> 2 / HP Boost 0 -> 5 </span>
+* Use these facilities again:
+	* <span class="magic-library"> **Magic Library**:  </span>
+		* <span class="magic-library"> **Parsee**: Use all money on ATK </span>
 * Enter the dungeon (15F)
 
 ![](img/murakumo/15-04-yukari.png)
 
 * When you get to the relay point, re-enter the dungeon and fight Yukari
 * **Boss Fight - Yukari Yakumo (Lv66)**
-	* **Thresholds (5 gems / No YB):**
-		* No buffs = 1.415M / 1.302M
-		* 30% buff = 945K / 869K
-	* **Thresholds (5 gems / YB):**
-		* No buffs = 1.137M / 1.043M
-		* 30% buff = 746K / 683K
-	* **Thresholds (10 gems / No YB):**
-		* No buffs = 1.267M / 1.173M
-		* 30% buff = 846K / 781K
-	* **Thresholds (10 gems / YB):**
-		* No buffs = 1.014M / 936K
-		* 30% buff = 663K / 610K
+	* **ATK Thresholds (no buffs / 20% / 50% || [Youkai Buster] no buffs / 20%):**
+		* 5100 -> 1545k / 1167k / 827k || 1246k / 931k
+		* 5300 -> 1456k / 1100k / 778k || 1172k / 875k
+		* 5500 -> 1375k / 1039k / 734k || 1104k / 824k
+		* 5700 -> 1302k / 984k / 694k || 1043k / 778k
+		* 5900 -> 1234k / 933k / 656k || 987k / 736k
+		* 6100 -> 1173k / 886k / 622k || 936k / 696k
+		* 6300 -> 1116k / 842k / 590k || 889k / 660k
+		* 6500 -> 1064k / 802k / 560k || 845k / 627k
+		* 6700 -> 1015k / 765k / 532k || 805k / 596k
 	* **Phase 1 - TRR Proc**
 		* Reset if less than 2 full ATBs (53% odds)
 			* 14.06 (3) / 38.94 (2) / 35.94 (1) / 11.06 (0)
