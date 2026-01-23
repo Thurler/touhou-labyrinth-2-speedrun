@@ -1724,7 +1724,6 @@
 		* <span class="learn-skill"> **Kasen**: HP Boost 0 -> 5 </span>
 		* <span class="learn-skill"> **Nitori**: Maintenance 0 -> 1 / Ability Manip Water 0 -> 2 / Overheating 0 -> 1 / Tension Up 0 -> 2 </span>
 		* <span class="learn-skill"> **Minoriko**: Symbol of Harvest 0 -> 2 / Art of the Battlemage 0 -> 5 </span>
-		* <span class="learn-skill"> **Parsee**: Motivated Heart 0 -> 2 </span>
 		* <span class="learn-skill"> **Aya**: HP Boost 4 -> 5 / EVA Boost 0 -> 5 </span>
 * Use these facilities again:
 	* <span class="nitori-shop"> **Nitori Shop**: </span>
