@@ -1853,7 +1853,7 @@
 		* Swap in Momiji -> Sanae -> Parsee
 		* Sanae uses Miracle Fruit on Parsee
 		* Swap Sanae for Yuuka
-		* Parsee uses Midnight Anathema Ritual
+		* Parsee uses Midnight Anathema Ritual (86% to proc TRR)
 		* Swap Parsee with Satori
 	* **Phase 2 - Beauty of Nature**
 		* Yuuka and Satori spam Beauty of Nature
@@ -1894,7 +1894,7 @@
 
 * **Boss Fight - Glowing Azure Giant (Lv62)**
 	* **If Reisen dies or Yuyuko fails twice, reset**
-	* Hit the 48% DTH proc on Yuyuko's Saigyouji Flawless Nirvana
+	* Hit the 56% DTH proc on Yuyuko's Saigyouji Flawless Nirvana
 	* Aya DGAs Yuyuko for try #1
 		* DGA again for try #2
 	* For finer details see Azure Giant's [Boss Info](../../enemy/azuregiant.md)
