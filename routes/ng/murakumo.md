@@ -2473,7 +2473,7 @@
 		* Swap Parsee -> Cirno
 	* **Phase 2 - TRR Stack**
 		* Yuuka and Satori do BoN spam
-		* Nitori swaps Yuuka with Chen into Yuuka
+		* Nitori swaps Yuuka with Momiji into Yuuka
 		* Kourin swaps Satori with Sanae and back
 		* Improvise if anyone dies
 	* **Phase 3 - Jealousy**
