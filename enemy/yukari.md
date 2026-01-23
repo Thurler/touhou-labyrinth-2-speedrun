@@ -78,7 +78,7 @@ Yukari is a mandatory boss blocking the stairs to 16F. She has access to many sp
 
 Yukari is another boss we deal with by abusing TRR stacking. While she has 32 TRR resist, it's still a coin flip to inflict it with Parsee, making it consistent enough where it's a viable strategy. The real problem is preventing it from decaying too fast thanks to quicker recovery times with 32 resist. In order to do that, we manipulate the initiative so that Yuuka and Satori will immediately cast Beauty of Nature after Parsee, making sure the initial TRR duration is at least 70k before the ATB even starts to move.
 
-Thanks to her being neutral to DRK, we don't need to scale TRR that high, which is a godsend given that every turn she has a 40% chance to cast Black Universe on a random spot. That means 1 in 5 turns will be spent reducing Yuuka or Satori to 1 HP, forcing you to scramble to heal them before her next turn, since any AoE attack will KO them. The TRR duration must be around x~y thousand. Some details on how to get to that number:
+Thanks to her being neutral to DRK, we don't need to scale TRR that high, which is a godsend given that every turn she has a 40% chance to cast Black Universe on a random spot. That means 1 in 5 turns will be spent reducing Yuuka or Satori to 1 HP, forcing you to scramble to heal them before her next turn, since any AoE attack will KO them. The TRR duration must be around 532 thousand to 1.5 million. Some details on how to get to that number:
 
 ```
 * Jealousy of the Kind Formula = 2.5 * (ATKF - DEFF) * (1.0 + (0.01 * (TRR / 2500)))
@@ -152,5 +152,40 @@ Note how different the thresholds become depending on what investment Parsee man
 As you may notice, the main line is to get Yukari to the Youkai Buster + 20% buff threshold, and setup the appropriate frontline for the final blow. If Sanae dies while this is ongoing, the Last Wish buff makes it so Parsee can still one shot Yukari immediately, since the no Youkai Buster + 50% buff line has a lower threshold.
 
 A faster side line is to go for 1 extra Beauty of Nature after hitting the threshold, so that Parsee can immediately go for the kill after receiving Herb of Awakening and having Sanae in front. And finally, the line where Sanae dies early ahs a riskier component that relies on alternative buff methods, and a safer one that just has a higher threshold.
+
+The fight itself relies on a very specific early setup to make sure TRR sticks to Yukari, by classing Parsee, Satori and Yuuka to Monk, and Aya to Strategist. This gives us the highest initiative odds to make sure the three can get a move in before the first ATB tick. Yuuka getting Extra Attack procs helps immensely to make sure TRR doesn't decay initially. From there, it's as simple as surviving as best as one can before reaching the threshold:
+
+**PHASE 1 - TRR Proc**
+
+Having Parsee, Yuuka AND Satori with a full ATB is mandatory to make the setup work. Aya can DGA one of them with her free initiative to ensure the combo is pulled off smoothly:
+
+* Reset if less than 2 full ATBs (53% odds)
+	* 14.06 (3) / 38.94 (2) / 35.94 (1) / 11.06 (0)
+* Aya DGAs whoever didnt get a full ATB
+	If everyone has a full ATB, waste turn
+* Parsee uses Midnight Anathema Ritual (54% proc)
+* Yuuka and Satori use Beauty of Nature
+* Swap Parsee with Kourin
+
+**PHASE 2 - Beauty of Nature**
+
+Here we simply stackc TRR as high as we can, stopping around the corresponding threshold for the gems and equip situation for the optimal setup. IA pivoting and careful healing/buffing is essential here, with Kourin abusing his Form Change skill to get Sanae in to heal in an emergency. Aya can bring further initiative to Yuuka, and Cirno can slow down Yukari slightly with Blizzard Blowout:
+
+* Aya IA pivots / DGAs Yuuka
+* Yuuka and Satori spam Beauty of Nature
+* Kourin swaps Satori and Sanae as needed
+* Sanae heals everyone with Yasaka's Divine Wind
+	 * Can swap Cirno in to fish for SPD debuff
+
+**PHASE 3 - Jealousy of the Kind**
+
+Make sure you have everything ready before firing off Jealousy of the Kind - if Yuyuko survives you lose everything as she sweeps you with her strong spells:
+
+* TRR reaches threshold
+* Move Sanae to slot 1, swap in Parsee in slot 4
+* Sanae uses Miracle Fruit on Parsee
+* Swap in Momiji whenever
+* Momiji uses Herb of Awakening on Parsee
+* Parsee delays her turn if needed then Jealousy of the Kind
 
 [Back to index page](../index.md)
