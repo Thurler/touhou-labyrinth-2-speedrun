@@ -209,6 +209,6 @@ This section talks about speedrun data and information. If you want game-specifi
 
 | Time | IGT | Runner | Category | Video | Date | Description |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 5h35m34s | 4h48m00s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/watch?v=99ujqlHXi6Y) | Jan 18 2026 | Current WR for category |
+| 5h26m40s | 4h51m30s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/watch?v=zQQ-AVniko0) | Jan. 25 2026 | Current WR for category |
 | 9h56m38s | 9h03m20s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/watch?v=Pa1MW8tVAVw) | Jan. 25 2020 | First single segment run for category |
 | 9h55m00s | 9h16m15s | Thurler | (NG) Ame-no-Murakumo | [Link](https://www.youtube.com/playlist?list=PL3eHe2wxlYthwfDU034a04rrQhHcN_bQ5) | Jan. 24 2020 | Segmented run used as a proof of concept for the route |
